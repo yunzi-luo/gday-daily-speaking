@@ -1,0 +1,53 @@
+# Generate AI voice clips for any lesson that doesn't have them yet.
+# Runs whenever a lesson JSON is pushed to main (the daily routine pushes one each morning),
+# or by hand from the Actions tab.
+name: Voice clips
+
+on:
+  push:
+    branches: [main]
+    paths: ["lessons/*.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: voice-clips
+  cancel-in-progress: false
+
+jobs:
+  clips:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install edge-tts
+
+      - run: python tools/make_audio.py
+
+      - name: Commit new clips
+        id: commit
+        run: |
+          git add lessons/audio
+          if git diff --cached --quiet; then
+            echo "No new clips."
+            exit 0
+          fi
+          git -c user.name="G'day 每日口语" -c user.email="294491177+yunzi-luo@users.noreply.github.com" \
+            commit -m "Add voice clips"
+          git pull --rebase origin main
+          git push origin HEAD:main
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      # pushes made with GITHUB_TOKEN may not rebuild the Pages site on their own
+      - name: Rebuild Pages
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || echo "Pages rebuild request failed; the site will update on the next push."

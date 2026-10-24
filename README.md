@@ -11,7 +11,7 @@
 - `index.html`：网站页面
 - `lessons/index.json`：课程目录（新课在最前）
 - `lessons/YYYY-MM-DD.json`：每天一课的内容（`dialogue.other.voice` 填 `m`/`f`，决定对方用男声还是女声）
-- `lessons/audio/`：每课的 AI 配音，由 `python tools/make_audio.py YYYY-MM-DD` 生成；没有配音的课自动用浏览器朗读
+- `lessons/audio/`：每课的 AI 配音。新课推送到 main 后由 GitHub Actions（`.github/workflows/voice-clips.yml`）自动生成；也可以本地运行 `python tools/make_audio.py YYYY-MM-DD`。没有配音的课自动用浏览器朗读
 
 新课每天早上自动加入。
 
