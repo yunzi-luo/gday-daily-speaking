@@ -1,0 +1,322 @@
+{
+ "id": "2026-10-25",
+ "date": "2026-10-25",
+ "category": "房屋",
+ "title": "周日跳闸插座焦味，紧急电工回电约上门",
+ "titleEn": "Getting an after-hours sparky out for a tripping safety switch",
+ "scene": [
+  "周日早上你在厨房烧水，墙上的双孔插座突然“啪”一声，冒出一股焦味，整栋房子的灯和电器一起断电。你去电表箱把 safety switch（漏电保护开关）推回去，过几秒又跳了。你租的房子在 14 Wattle Street, Prospect，先给中介的 after-hours 紧急维修热线留了言，几分钟后中介常用的电工 Mick 打回来。他语速快、满口行话：switchboard、circuit、RCD、call-out fee，还会让你在电话里先做几件安全检查。",
+  "你的目标：① 清楚描述发生了什么（哪个插座、什么声音、焦味、开关跳几次）；② 听懂并照做他的安全指示，问清楚冰箱能不能先用；③ 确认上门时间、费用由谁付（房东还是你），并请他到之前发短信。"
+ ],
+ "facts": [
+  {
+   "k": "Problem",
+   "v": "厨房插座焦味 + safety switch 反复跳闸"
+  },
+  {
+   "k": "Address",
+   "v": "14 Wattle Street, Prospect（租房）"
+  },
+  {
+   "k": "ETA",
+   "v": "今天 11 点到 12 点之间，到前发短信"
+  },
+  {
+   "k": "Cost",
+   "v": "紧急维修走中介 work order，房东付；你弄坏的才由你付"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "safety switch / RCD",
+   "zh": "漏电保护开关（检测到漏电会自动断电）",
+   "ex": "The safety switch keeps tripping every time I flick it back on."
+  },
+  {
+   "en": "trip",
+   "zh": "（开关）跳闸",
+   "ex": "It tripped again after about five seconds."
+  },
+  {
+   "en": "switchboard / meter box",
+   "zh": "配电箱 / 电表箱",
+   "ex": "The switchboard's in the meter box on the side of the house."
+  },
+  {
+   "en": "power point",
+   "zh": "（墙上的）电源插座（澳洲说法）",
+   "ex": "The power point next to the kettle went bang."
+  },
+  {
+   "en": "circuit",
+   "zh": "电路（一组插座或灯共用一路）",
+   "ex": "I'll isolate that circuit so the rest of the house works."
+  },
+  {
+   "en": "scorch marks",
+   "zh": "烧焦的痕迹",
+   "ex": "There are little black scorch marks around the plug."
+  },
+  {
+   "en": "a burning smell",
+   "zh": "焦糊味",
+   "ex": "There was a strong burning smell for a minute."
+  },
+  {
+   "en": "unplug everything",
+   "zh": "把所有电器的插头拔掉",
+   "ex": "Can you unplug everything on that wall first?"
+  },
+  {
+   "en": "sparky",
+   "zh": "电工（electrician 的口语）",
+   "ex": "The agency's sending a sparky out this morning."
+  },
+  {
+   "en": "urgent repair",
+   "zh": "紧急维修（租房法规定要尽快处理的那类）",
+   "ex": "No power counts as an urgent repair."
+  },
+  {
+   "en": "call-out fee",
+   "zh": "上门费",
+   "ex": "There's an after-hours call-out fee on a Sunday."
+  },
+  {
+   "en": "work order",
+   "zh": "中介开给维修工的工单",
+   "ex": "The agent's already raised a work order for it."
+  }
+ ],
+ "listening": [
+  {
+   "en": "G'day, it's Mick, the sparky — got a message from your agent you've lost power?",
+   "sound": "G'day = 你好；the sparky = 电工；you've lost power 连读成 \"you-v-lost-power\"，=你家断电了",
+   "zh": "你好，我是电工 Mick——中介给我留言说你家没电了？",
+   "reply": "Hi Mick, yes, thanks for calling back so quickly."
+  },
+  {
+   "en": "Righto, so what's the go — is the whole house out or just a few points?",
+   "sound": "Righto = 好的；what's the go = 什么情况；points = power points 插座",
+   "zh": "好，什么情况——整个房子都没电，还是只有几个插座？",
+   "reply": "The whole house is out. It started when the power point in the kitchen went bang."
+  },
+  {
+   "en": "And when you flick the safety switch back up, does it hold, or does it trip straight away?",
+   "sound": "flick it back up = 把开关推回去；does it hold = 能不能保持住不跳",
+   "zh": "你把漏电开关推上去，它能保持住吗，还是马上又跳？",
+   "reply": "It holds for a few seconds, then it trips again."
+  },
+  {
+   "en": "Don't muck around with it — leave it off, and don't touch that point till I've had a look.",
+   "sound": "muck around = 瞎弄；till I've had a look = 等我看过之前",
+   "zh": "别乱弄了——让它关着，我看之前别碰那个插座。",
+   "reply": "Okay, I won't touch it. Should I unplug things in the kitchen?"
+  },
+  {
+   "en": "I can be there between eleven and twelve, I'll flick you a text when I'm ten minutes out.",
+   "sound": "between eleven and twelve 语速快；ten minutes out = 还有十分钟到",
+   "zh": "我 11 点到 12 点之间能到，快到前十分钟给你发短信。",
+   "reply": "That's great. Just to confirm, between eleven and twelve today?"
+  },
+  {
+   "en": "Don't stress about the bill — it goes through the agent, the landlord's up for it.",
+   "sound": "don't stress = 别担心；be up for it = 承担（费用）",
+   "zh": "费用你别担心——走中介，房东付。",
+   "reply": "Oh, that's a relief. Thanks for letting me know."
+  }
+ ],
+ "speech": {
+  "topic": "讲一次家里出状况、你打电话找人修的经历",
+  "paragraphs": [
+   "Last Sunday morning, something scary happened at home. I was making a cup of tea when the power point next to the kettle went bang. There was a strong burning smell, and all the lights in the house went off at once.",
+   "I went outside to the meter box and found the safety switch had tripped. I flicked it back on, but after a few seconds it tripped again. At that point I decided not to try anything else, because electricity is not something you should muck around with.",
+   "We rent our house, so I rang the agency's after-hours number and left a message. About ten minutes later, an electrician called me back. He spoke really fast, and he used a lot of words I didn't know, like circuit and RCD. I asked him to slow down a couple of times, and he was very patient about it.",
+   "He told me to leave the switch off, unplug everything in the kitchen and keep the kids away from that wall. He came out before lunch, found a burnt-out power point and replaced it. Because it was an urgent repair, the landlord paid for it, not us.",
+   "What I learned is simple. In an emergency, it's okay to speak slowly and ask questions. Describe what you saw, what you heard and what you smelled. And always ask who is paying before the work starts. Next time, I'll feel much more confident making that call."
+  ],
+  "zh": "上周日早上家里厨房插座“啪”一声冒焦味，全屋断电。我去电表箱推回漏电开关，又跳了，于是没再乱试。因为是租房，我打了中介的紧急维修电话，电工回电时说得很快、用了很多术语，我请他放慢了两次。他让我关着开关、拔掉厨房电器、让孩子离那面墙远点。中午前他来换了烧坏的插座，因为属于紧急维修，费用由房东出。我的体会：紧急情况下说慢一点、多提问没关系；描述你看到、听到、闻到的；动工前先问清楚谁付钱。",
+  "patterns": [
+   {
+    "en": "It started when ___.",
+    "zh": "描述问题从什么时候开始：It started when the power point went bang."
+   },
+   {
+    "en": "It holds for ___, then it ___ again.",
+    "zh": "描述反复出现的故障：It holds for a few seconds, then it trips again."
+   },
+   {
+    "en": "Is it okay to ___ in the meantime?",
+    "zh": "问等待期间能不能做某事：Is it okay to use the fridge in the meantime?"
+   },
+   {
+    "en": "Just to check, who's paying for ___?",
+    "zh": "动工前确认费用：Just to check, who's paying for the call-out?"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Mick",
+   "role": "中介合作的紧急电工",
+   "voice": "m"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "G'day, it's Mick, the sparky. Got a message from your agent saying you've lost power out at Prospect?",
+    "zh": "你好，我是电工 Mick。中介留言说你在 Prospect 的房子没电了？"
+   },
+   {
+    "s": "y",
+    "en": "Hi Mick, yes, that's right. Thanks for calling back so quickly on a Sunday.",
+    "zh": "你好 Mick，对。谢谢你周日这么快回电话。"
+   },
+   {
+    "s": "o",
+    "en": "No worries, that's the job. Righto, so what's the go? Is the whole house out, or just a few points?",
+    "zh": "没事，这就是我的活儿。好，什么情况？整栋房子都没电，还是只有几个插座？"
+   },
+   {
+    "s": "y",
+    "en": "The whole house is out. It started when the power point in the kitchen, next to the kettle, went bang. There was a burning smell, too.",
+    "zh": "整栋都没电。是从厨房水壶旁边的插座“啪”一声开始的，还有焦味。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, righto. And you've been out to the switchboard? When you flick the safety switch back up, does it hold, or does it trip straight away?",
+    "zh": "嗯，好。你去配电箱看过了吧？你把漏电开关推上去，它能保持住，还是马上又跳？"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say that again a bit slower? I'm not sure what you mean by \"hold\".",
+    "zh": "不好意思，能说慢一点再讲一遍吗？我不太明白 hold 是什么意思。"
+   },
+   {
+    "s": "o",
+    "en": "Sure, sorry, I talk a mile a minute. When you push the switch back up, does it stay up, or does it drop down again?",
+    "zh": "好，抱歉，我说话太快了。你把开关推上去后，它是一直在上面，还是又掉下来？"
+   },
+   {
+    "s": "y",
+    "en": "Oh, okay. It stays up for maybe five seconds, then it drops down again. I've tried it three times.",
+    "zh": "哦，明白了。它能保持大概五秒，然后又掉下来。我试了三次。"
+   },
+   {
+    "s": "o",
+    "en": "Okay, don't muck around with it any more. Leave it off. Can you see any scorch marks on that kitchen point, like little black marks around the holes?",
+    "zh": "好，别再弄它了，就关着。厨房那个插座上能看到烧焦的痕迹吗？就是插孔周围那种黑色小印子。"
+   },
+   {
+    "s": "y",
+    "en": "Yes, there are some black marks around the left side. The plug for the kettle is still in it.",
+    "zh": "有，左边有一些黑印子。水壶的插头还插在上面。"
+   },
+   {
+    "s": "o",
+    "en": "Right. With the power off at the switch, you're safe to pull that plug out, but grab it by the plug, not the cord, yeah? And unplug everything else on that wall while you're at it.",
+    "zh": "好。开关关着的情况下，你可以安全地把插头拔掉，但要捏插头，别拽线，好吗？顺便把那面墙上其他电器的插头也都拔了。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, I'll do that now. Is it okay to put the power back on for the fridge in the meantime? I've got a lot of food in there.",
+    "zh": "好，我现在就拔。在你来之前，可以先给冰箱通电吗？里面有很多吃的。"
+   },
+   {
+    "s": "o",
+    "en": "I'd hold off for now, to be honest. Keep the fridge door shut and it'll be right for a good four hours. When I get there, I'll isolate that kitchen circuit, so the rest of the house can go back on.",
+    "zh": "我建议先别。冰箱门关好，撑四个小时没问题。我到了会把厨房那一路电单独隔开，这样房子其他地方就能先来电。"
+   },
+   {
+    "s": "y",
+    "en": "Just to confirm, you mean you'll turn off only the kitchen, and the rest of the house will have power?",
+    "zh": "我确认一下，你的意思是只关掉厨房那一路，房子其他地方就有电了？"
+   },
+   {
+    "s": "o",
+    "en": "Spot on. Then I'll pull that point out, have a look behind it, and most likely just replace it. Shouldn't be a big job.",
+    "zh": "完全正确。然后我把那个插座拆下来看看后面，多半换一个新的就行。应该不是大活。"
+   },
+   {
+    "s": "y",
+    "en": "That's good to hear. What time do you think you can come?",
+    "zh": "那太好了。你大概几点能来？"
+   },
+   {
+    "s": "o",
+    "en": "I'm just finishing up a job in Enfield, so I can be there between eleven and twelve. I'll flick you a text when I'm about ten minutes out.",
+    "zh": "我在 Enfield 这边的活快干完了，11 点到 12 点之间能到。快到前十分钟左右给你发短信。"
+   },
+   {
+    "s": "y",
+    "en": "Great. Just to check, who's paying for this? Is there a call-out fee on a Sunday?",
+    "zh": "好。我确认一下，这个费用谁付？周日有上门费吗？"
+   },
+   {
+    "s": "o",
+    "en": "Don't stress about the bill. No power's an urgent repair, so it goes through the agent on a work order, and the landlord's up for it. The only time you'd cop it is if you'd damaged it yourself.",
+    "zh": "费用你别担心。断电算紧急维修，走中介工单，房东付。只有是你自己弄坏的情况下才要你出。"
+   },
+   {
+    "s": "y",
+    "en": "Oh, that's a relief. Could you send me a text with your name and the time, so I can let the agent know too?",
+    "zh": "哦，那就放心了。你能发个短信写上你的名字和时间吗？我也好告诉中介。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, no dramas. Is this the best number, oh-four-nine-one, five-seven-oh, two-two-six?",
+    "zh": "没问题。这个号码是最方便联系的吗，0491 570 226？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, that's the one. And the address is 14 Wattle Street, Prospect. There's a dog next door, but our gate's on the left.",
+    "zh": "对，就是这个。地址是 Prospect 区 Wattle Street 14 号。隔壁有只狗，我们家的门在左边。"
+   },
+   {
+    "s": "o",
+    "en": "Good stuff. Keep the kids away from that wall till I get there, and if you smell burning again or see smoke, ring triple zero, yeah?",
+    "zh": "好嘞。我到之前让孩子离那面墙远点，要是再闻到焦味或看到冒烟，就打 000，好吗？"
+   },
+   {
+    "s": "y",
+    "en": "Will do. Thanks so much, Mick. See you between eleven and twelve.",
+    "zh": "好的。太谢谢你了，Mick。11 点到 12 点之间见。"
+   },
+   {
+    "s": "o",
+    "en": "No worries. Hang in there, see you soon.",
+    "zh": "不客气。坚持一下，一会儿见。"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that again a bit slower?",
+   "zh": "不好意思，能说慢一点再讲一遍吗？"
+  },
+  {
+   "en": "I'm not sure what you mean by ___. Could you explain?",
+   "zh": "我不太明白 ___ 是什么意思，能解释一下吗？"
+  },
+  {
+   "en": "Just to confirm, you want me to ___?",
+   "zh": "我确认一下，你是要我 ___ 吗？"
+  },
+  {
+   "en": "Could you spell your name / the company name for me?",
+   "zh": "能拼一下你的名字/公司名吗？"
+  },
+  {
+   "en": "Could you text me the time and your details, please?",
+   "zh": "能把时间和你的信息发短信给我吗？"
+  }
+ ],
+ "checklist": [
+  "能用 It started when… 说清楚故障是怎么开始的（插座、声音、焦味）",
+  "听懂 does it hold / trip straight away，并说出开关保持几秒又跳",
+  "至少一次请对方放慢或解释一个听不懂的词（如 hold、isolate the circuit）",
+  "问出等待期间冰箱能不能用，并复述对方的安全指示",
+  "确认上门时间段和“到之前发短信”",
+  "问清楚费用谁付（urgent repair、work order、landlord's up for it）"
+ ]
+}
