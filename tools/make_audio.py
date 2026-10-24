@@ -3,6 +3,7 @@
 Usage:
   python tools/make_audio.py              # all lessons
   python tools/make_audio.py 2026-10-12   # one or more lessons
+  python tools/make_audio.py --shrink-all # re-encode existing clips at BITRATE (skips ones already that small)
 
 Output:
   lessons/audio/<id>/<hash>.mp3   one clip per line
@@ -15,13 +16,18 @@ Engine:
   ENGINE = "edge"   free, no account (edge-tts: pip install edge-tts). Unofficial, may stop working.
   ENGINE = "azure"  official Azure Speech; set env vars AZURE_SPEECH_KEY and AZURE_SPEECH_REGION.
   Both use the same Microsoft neural voices, so switching does not change how lessons sound.
+
+Size:
+  New clips are re-encoded to BITRATE with ffmpeg (on PATH, or pip install imageio-ffmpeg), about half
+  the size of the 48 kbps the voice service returns. Without ffmpeg they are kept as returned.
 """
-import asyncio, hashlib, json, os, pathlib, re, sys, urllib.request
+import asyncio, hashlib, json, os, pathlib, re, shutil, subprocess, sys, urllib.request
 from xml.sax.saxutils import escape
 
 ENGINE = "edge"
 VOICES = {"f": "en-AU-NatashaNeural", "m": "en-AU-WilliamMultilingualNeural"}
 NARRATOR = "f"  # vocab and examples
+BITRATE = 24  # kbps, mono 24 kHz; speech stays clear
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 LESSONS = ROOT / "lessons"
@@ -92,6 +98,77 @@ async def synth_azure(text, voice, path):
 SYNTH = {"edge": synth_edge, "azure": synth_azure}[ENGINE]
 
 
+def find_ffmpeg():
+    exe = shutil.which("ffmpeg")
+    if exe:
+        return exe
+    try:
+        import imageio_ffmpeg
+        return imageio_ffmpeg.get_ffmpeg_exe()
+    except ImportError:
+        return None
+
+
+FFMPEG = find_ffmpeg()
+
+# kbps by bitrate index, for MPEG-1 and MPEG-2/2.5 Layer III
+_KBPS = {3: [0, 32, 40, 48, 56, 64, 80, 96, 112, 128, 160, 192, 224, 256, 320],
+         2: [0, 8, 16, 24, 32, 40, 48, 56, 64, 80, 96, 112, 128, 144, 160]}
+
+
+_RATES = {3: [44100, 48000, 32000], 2: [22050, 24000, 16000], 0: [11025, 12000, 8000]}
+
+
+def bitrate(path):
+    """Bitrate of the first MP3 audio frame in kbps (skipping a Xing/Info tag frame), or None."""
+    b = path.read_bytes()[:16384]
+    i = 0
+    if b[:3] == b"ID3":
+        i = 10 + ((b[6] & 0x7F) << 21 | (b[7] & 0x7F) << 14 | (b[8] & 0x7F) << 7 | (b[9] & 0x7F))
+    while i + 3 < len(b):
+        version, idx, sr = (b[i + 1] >> 3) & 3, b[i + 2] >> 4, (b[i + 2] >> 2) & 3
+        if b[i] == 0xFF and b[i + 1] & 0xE0 == 0xE0 and version != 1 and 0 < idx < 15 and sr < 3:
+            kbps = _KBPS[3 if version == 3 else 2][idx]
+            if b"Xing" not in b[i:i + 64] and b"Info" not in b[i:i + 64]:
+                return kbps
+            rate = _RATES[version][sr]  # tag frame: step over it to the first audio frame
+            i += (144 if version == 3 else 72) * kbps * 1000 // rate + ((b[i + 2] >> 1) & 1)
+            continue
+        i += 1
+    return None
+
+
+def shrink(src, dst):
+    """Re-encode src to BITRATE at dst; without ffmpeg just move it. Returns True if re-encoded."""
+    if FFMPEG:
+        tmp = dst.with_suffix(".tmp")
+        r = subprocess.run([FFMPEG, "-hide_banner", "-loglevel", "error", "-y", "-i", str(src),
+                            "-ac", "1", "-ar", "24000", "-b:a", f"{BITRATE}k", "-f", "mp3", str(tmp)])
+        if r.returncode == 0:
+            tmp.replace(dst)
+            if src != dst:
+                src.unlink()
+            return True
+        tmp.unlink(missing_ok=True)
+    if src != dst:
+        src.replace(dst)
+    return False
+
+
+def shrink_all():
+    if not FFMPEG:
+        sys.exit("ffmpeg not found: install it or pip install imageio-ffmpeg")
+    clips = sorted(AUDIO.glob("*/*.mp3"))
+    before = sum(f.stat().st_size for f in clips)
+    done = 0
+    for f in clips:
+        kbps = bitrate(f)
+        if kbps is None or kbps > BITRATE:
+            done += shrink(f, f)
+    after = sum(f.stat().st_size for f in clips)
+    print(f"{done} of {len(clips)} clips re-encoded; {before / 1e6:.1f} MB -> {after / 1e6:.1f} MB")
+
+
 async def make(lesson_id):
     L = json.loads((LESSONS / f"{lesson_id}.json").read_text(encoding="utf-8"))
     out_dir = AUDIO / lesson_id
@@ -112,7 +189,7 @@ async def make(lesson_id):
                 try:
                     tmp = path.with_suffix(".part")
                     await SYNTH(text, voice, tmp)
-                    tmp.replace(path)
+                    await asyncio.to_thread(shrink, tmp, path)
                     return True
                 except Exception as e:
                     if attempt == 2:
@@ -131,6 +208,8 @@ async def make(lesson_id):
 
 
 def main():
+    if sys.argv[1:] == ["--shrink-all"]:
+        return shrink_all()
     ids = sys.argv[1:] or sorted(p.stem for p in LESSONS.glob("????-??-??.json"))
     for i in ids:
         asyncio.run(make(i))

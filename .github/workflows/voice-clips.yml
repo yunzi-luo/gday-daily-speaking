@@ -27,7 +27,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install edge-tts
+      # imageio-ffmpeg is a fallback in case the runner image ever drops ffmpeg (used to shrink clips)
+      - run: pip install edge-tts imageio-ffmpeg
 
       - run: python tools/make_audio.py
 
