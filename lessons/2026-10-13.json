@@ -1,0 +1,327 @@
+{
+ "id": "2026-10-13",
+ "date": "2026-10-13",
+ "category": "工作",
+ "title": "需求访谈中礼貌插话澄清审批流程",
+ "titleEn": "Jumping in to clarify during a requirements interview",
+ "scene": [
+  "周二上午，你作为 BA 在 Teams 上和财务部应付账款（Accounts Payable）组长 Trent 做需求访谈，了解公司现在的报销审批流程，为新系统做准备。Trent 人很好，但讲话飞快、一说就停不下来，满口内部缩写和澳洲口语，还经常一句话里塞好几个数字和例外情况。",
+  "你的目标：① 在他讲太快或信息太多时，礼貌地插话、请他放慢或重复；② 用自己的话复述，确认审批金额门槛、谁来批、有哪些例外；③ 在会议结束前约好后续：你发会议纪要，他补发相关表格和联系人。"
+ ],
+ "facts": [
+  {
+   "k": "When",
+   "v": "Tue 10:00–10:45 · Teams"
+  },
+  {
+   "k": "Who",
+   "v": "Trent · Accounts Payable 组长"
+  },
+  {
+   "k": "Topic",
+   "v": "现有报销审批流程（current state）"
+  },
+  {
+   "k": "Next",
+   "v": "你周四前发 summary；他发 approval matrix"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "walk me through",
+   "zh": "（一步步）带我过一遍、讲解",
+   "ex": "Could you walk me through what happens after someone submits a claim?"
+  },
+  {
+   "en": "jump in",
+   "zh": "插话、打断一下",
+   "ex": "Sorry, can I just jump in there for a sec?"
+  },
+  {
+   "en": "threshold",
+   "zh": "门槛、临界金额",
+   "ex": "What's the threshold for the second approval?"
+  },
+  {
+   "en": "sign off (on)",
+   "zh": "批准、签字同意",
+   "ex": "Anything over five grand, the GM has to sign off on it."
+  },
+  {
+   "en": "bounce back",
+   "zh": "被退回",
+   "ex": "If the receipt's missing, the claim just bounces back to them."
+  },
+  {
+   "en": "workaround",
+   "zh": "变通办法、临时绕开的做法",
+   "ex": "So the spreadsheet is basically a workaround?"
+  },
+  {
+   "en": "edge case",
+   "zh": "少见的特殊情况",
+   "ex": "Are there any edge cases I should know about?"
+  },
+  {
+   "en": "pain point",
+   "zh": "痛点、最让人头疼的地方",
+   "ex": "What's the biggest pain point for your team right now?"
+  },
+  {
+   "en": "chase (someone) up",
+   "zh": "催（某人）",
+   "ex": "We spend half the week chasing managers up."
+  },
+  {
+   "en": "off the top of my head",
+   "zh": "凭印象、不查资料随口说",
+   "ex": "Off the top of my head, it's about two hundred claims a month."
+  },
+  {
+   "en": "a grand / five grand",
+   "zh": "一千（澳元）/ 五千（澳元）",
+   "ex": "Anything under a grand goes straight through."
+  },
+  {
+   "en": "take that offline",
+   "zh": "会后再单独聊",
+   "ex": "That's a bigger question — can we take that offline?"
+  }
+ ],
+ "listening": [
+  {
+   "en": "Yeah, how're you going? Sorry, I'm a couple of minutes late — back-to-backs all morning.",
+   "sound": "how're you going → \"how-ya-goin\"（=How are you?）；back-to-backs = 连轴转的会议",
+   "zh": "你好吗？抱歉晚了几分钟——一上午会议连着开。",
+   "reply": "Good, thanks. No worries at all — thanks for making the time."
+  },
+  {
+   "en": "So basically it goes to their line manager, then if it's over a grand it goes up to the cost centre owner, unless it's IT, then it's a whole different kettle of fish.",
+   "sound": "一句话塞了三层信息；over a grand = 超过一千澳元；a whole different kettle of fish = 完全是另一回事",
+   "zh": "基本上先到直属经理，如果超过一千就再上报成本中心负责人，除非是 IT 的，那就完全是另一套了。",
+   "reply": "Sorry, can I just jump in there? So the second approval kicks in at a thousand dollars — have I got that right?"
+  },
+  {
+   "en": "To be fair, half the time they bounce back 'cause the receipt's dodgy or there's no GL code on it.",
+   "sound": "to be fair → \"t'be-fair\"；'cause = because；dodgy = 不靠谱、有问题；GL code = 总账科目代码",
+   "zh": "说实话，一半时候被退回，是因为收据有问题或者没写科目代码。",
+   "reply": "That's really useful. Roughly how many claims bounce back each month?"
+  },
+  {
+   "en": "I reckon we spend a good chunk of Monday just chasing managers up, it's a bit of a nightmare.",
+   "sound": "I reckon = 我觉得；a good chunk of → \"a-goo-chunk-of\" = 很大一部分",
+   "zh": "我觉得我们周一一大半时间都在催经理审批，挺头疼的。",
+   "reply": "So chasing up approvals is one of the main pain points?"
+  },
+  {
+   "en": "Off the top of my head, I wanna say around two-fifty a month, but don't quote me on that.",
+   "sound": "wanna = want to；two-fifty = 250；don't quote me on that = 别把我这话当准数",
+   "zh": "凭印象大概每个月两百五十单左右，不过别当准数。",
+   "reply": "No worries. Would you be able to send me the actual numbers later?"
+  },
+  {
+   "en": "Ah, look, that's probably one to take offline, there's a bit of history there.",
+   "sound": "look 开头只是语气词，不是让你看；take offline = 会后单聊；a bit of history = 有些来龙去脉",
+   "zh": "嗯，这个可能得会后单聊，里面有点历史原因。",
+   "reply": "Sure, happy to. I'll pop it in the summary as an open question."
+  }
+ ],
+ "speech": {
+  "topic": "说说我在工作中听不懂或没跟上时，是怎么处理的",
+  "paragraphs": [
+   "Today I want to talk about how I deal with meetings when people speak too fast. In my job, I often run interviews with people from other teams to understand how they work. Most of them are really friendly, but some of them talk very quickly and use a lot of short forms and local expressions.",
+   "When I first started, I was too shy to stop anyone. I just nodded and hoped I could work it out later. But after the meeting, I often found I had missed an important number or a step in the process. Then I had to send extra emails, and that took more time for everyone.",
+   "Now I do things differently. When someone gives me too much information at once, I say, \"Sorry, can I just jump in there?\" Then I repeat the main point in my own words, like, \"So anything over a thousand dollars needs a second approval. Is that right?\" People usually don't mind at all. In fact, they often say it helps them think more clearly too.",
+   "I also take short notes and write down questions I can't ask straight away. At the end of the meeting, I go through them quickly, and if there isn't enough time, I ask if we can take it offline.",
+   "What I learned is that asking for clarification doesn't make me look weak. It shows I'm listening carefully and I want to get it right. Now I feel much more confident in meetings."
+  ],
+  "zh": "我讲的是开会时别人语速太快我怎么处理。我的工作经常要和其他团队做访谈，大部分人很友好，但有人语速快、缩写和本地说法很多。刚开始我不好意思打断，只是点头，想着之后再弄明白，结果会后常常发现漏了关键数字或步骤，只好再发邮件，大家都更费时间。现在我会说 \"Sorry, can I just jump in there?\"，再用自己的话复述要点并确认，对方一般完全不介意，还说这样能帮他们理清思路。我也会简短记笔记，把当时没问的问题记下来，会议结束前快速过一遍，时间不够就约会后再聊。我的体会是：请对方澄清不代表能力差，而是说明我在认真听、想把事情做对。现在我开会自信多了。",
+  "patterns": [
+   {
+    "en": "Sorry, can I just jump in there? ___",
+    "zh": "不好意思，我插一句：___。（换成：I want to check the number / I missed the last part）"
+   },
+   {
+    "en": "So ___. Is that right?",
+    "zh": "所以是 ___，对吗？（用自己的话复述对方的要点）"
+   },
+   {
+    "en": "Could you walk me through ___?",
+    "zh": "能带我过一遍 ___ 吗？（换成：the approval steps / what happens next）"
+   },
+   {
+    "en": "What I learned is that ___.",
+    "zh": "我学到的是 ___。（用于总结演讲）"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Trent",
+   "role": "财务部应付账款组长",
+   "voice": "m"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Hey, how're you going? Sorry I'm a couple of minutes late, it's been back-to-backs all morning.",
+    "zh": "嘿，你好吗？抱歉晚了几分钟，一上午会议连着开。"
+   },
+   {
+    "s": "y",
+    "en": "Good, thanks, Trent. No worries at all. Thanks for making the time. Today I'd just like to understand how expense claims work at the moment.",
+    "zh": "挺好的，谢谢 Trent。完全没关系，谢谢你抽时间。今天我主要想了解一下现在报销是怎么走流程的。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, too easy. Where do you wanna start?",
+    "zh": "好，没问题。你想从哪儿开始？"
+   },
+   {
+    "s": "y",
+    "en": "Could you walk me through what happens after someone submits a claim?",
+    "zh": "能带我过一遍有人提交报销之后会发生什么吗？"
+   },
+   {
+    "s": "o",
+    "en": "Sure. So basically it goes to their line manager, then if it's over a grand it goes up to the cost centre owner, unless it's IT, then it's a whole different kettle of fish, 'cause they've got their own budget and Sandra signs off on everything.",
+    "zh": "好。基本上先到直属经理，如果超过一千就上报成本中心负责人，除非是 IT 的，那就完全是另一套，因为他们有自己的预算，所有单子都由 Sandra 批。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, can I just jump in there? That was a lot. Could you say the last part again a bit slower?",
+    "zh": "不好意思，我能插一句吗？信息有点多。最后那部分能再慢一点说一遍吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, sorry, I do go a bit fast. IT claims don't follow the normal path. They all go to Sandra, the IT finance manager, no matter how much.",
+    "zh": "哦抱歉，我是讲得有点快。IT 的报销不走正常流程，不管多少钱都交给 IT 财务经理 Sandra。"
+   },
+   {
+    "s": "y",
+    "en": "Got it. Just to confirm, for everyone else, anything over a thousand dollars needs a second approval from the cost centre owner. Is that right?",
+    "zh": "明白。确认一下，其他部门的话，超过一千澳元需要成本中心负责人二次审批，对吗？"
+   },
+   {
+    "s": "o",
+    "en": "Spot on. And anything over five grand, the GM has to sign off as well, but that's pretty rare.",
+    "zh": "完全正确。超过五千的话，总经理也得签字，不过那很少见。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, so three levels: line manager, cost centre owner over one thousand, and the GM over five thousand. What happens if something's missing?",
+    "zh": "好，那就是三级：直属经理、超过一千的成本中心负责人、超过五千的总经理。如果缺了什么材料会怎样？"
+   },
+   {
+    "s": "o",
+    "en": "To be fair, half the time they bounce back 'cause the receipt's dodgy or there's no GL code on it. Then my team has to chase people up, and I reckon we spend a good chunk of Monday doing just that.",
+    "zh": "说实话，一半时候都被退回，因为收据有问题或者没写科目代码。然后我们组就得去催人，我觉得周一一大半时间都花在这上面了。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, what's a GL code? I want to make sure I write it down correctly.",
+    "zh": "不好意思，GL code 是什么？我想确保记对。"
+   },
+   {
+    "s": "o",
+    "en": "General ledger code. It basically tells us which account the money comes out of.",
+    "zh": "总账科目代码。基本上就是告诉我们钱从哪个账户出。"
+   },
+   {
+    "s": "y",
+    "en": "Thanks. So chasing people up is one of the biggest pain points. Roughly how many claims do you get a month?",
+    "zh": "谢谢。所以催人是最大的痛点之一。你们每个月大概有多少报销单？"
+   },
+   {
+    "s": "o",
+    "en": "Off the top of my head, I wanna say around two-fifty, but don't quote me on that.",
+    "zh": "凭印象大概两百五十单左右，不过别当准数。"
+   },
+   {
+    "s": "y",
+    "en": "No worries. Would you be able to send me the actual numbers after the meeting?",
+    "zh": "没关系。会后能把准确数字发给我吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, I'll get Priya to pull a report. Oh, and there's also a spreadsheet we use to track the late ones, which is a bit of a workaround, honestly.",
+    "zh": "可以，我让 Priya 拉一份报表。哦对了，我们还用一个表格跟踪逾期的单子，说实话这算是个变通办法。"
+   },
+   {
+    "s": "y",
+    "en": "That's really helpful. Could you send me a copy of that too? Why did the team start using a spreadsheet?",
+    "zh": "这很有帮助。那个表格也能发我一份吗？当初组里为什么开始用表格？"
+   },
+   {
+    "s": "o",
+    "en": "Ah, look, that's probably one to take offline. There's a bit of history there with the old system.",
+    "zh": "嗯，这个可能得会后单聊，和旧系统有点历史渊源。"
+   },
+   {
+    "s": "y",
+    "en": "Sure, happy to. I'll pop it in the summary as an open question. We've got about five minutes left. Are there any edge cases I should know about?",
+    "zh": "好，没问题。我会把它写进纪要作为待定问题。我们还剩五分钟左右，有没有什么特殊情况我需要知道？"
+   },
+   {
+    "s": "o",
+    "en": "Corporate cards. They skip the line manager and come straight to us, but only under three hundred bucks.",
+    "zh": "公司信用卡。它们跳过直属经理直接到我们这儿，但仅限三百块以下。"
+   },
+   {
+    "s": "y",
+    "en": "Just to check, under three hundred dollars, corporate card spending comes straight to your team?",
+    "zh": "确认一下，公司卡消费三百澳元以下直接到你们组？"
+   },
+   {
+    "s": "o",
+    "en": "Yep, that's it.",
+    "zh": "对，就是这样。"
+   },
+   {
+    "s": "y",
+    "en": "Great. I'll send you a summary by Thursday. Could you check it and let me know if I've missed anything? And could you send the approval matrix as well?",
+    "zh": "好的。我周四前把纪要发给你。你能帮忙看一下有没有遗漏吗？另外能把审批权限表也发我吗？"
+   },
+   {
+    "s": "o",
+    "en": "Too easy. Cheers for that, this was actually really good. Catch you later!",
+    "zh": "没问题。谢谢，这次聊得挺好的。回头见！"
+   },
+   {
+    "s": "y",
+    "en": "Thanks so much, Trent. Have a good one.",
+    "zh": "非常感谢 Trent，祝你今天顺利。"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, can I just jump in there for a sec?",
+   "zh": "不好意思，我能插一句吗？"
+  },
+  {
+   "en": "That was a lot — could you go over that again a bit slower?",
+   "zh": "信息有点多，能再慢一点讲一遍吗？"
+  },
+  {
+   "en": "Sorry, what does that stand for?",
+   "zh": "不好意思，那个缩写是什么意思？"
+  },
+  {
+   "en": "Just so I've got it right, you're saying …?",
+   "zh": "确认我理解对了，你的意思是……？"
+  },
+  {
+   "en": "Would you mind sending that to me in an email after the meeting?",
+   "zh": "你介意会后把这个发邮件给我吗？"
+  }
+ ],
+ "checklist": [
+  "我能用 \"Sorry, can I just jump in there?\" 礼貌地打断对方，而不是一直点头",
+  "我听懂了 a grand / five grand 这类金额说法，并能复述三级审批门槛",
+  "遇到不懂的缩写（如 GL code），我敢直接问它是什么意思",
+  "我能用 \"Just to confirm … Is that right?\" 复述确认至少两次",
+  "对方说 take it offline 时，我知道怎么回应并记为待定问题",
+  "会议结束前，我说清楚了后续：谁发什么、什么时候发"
+ ]
+}

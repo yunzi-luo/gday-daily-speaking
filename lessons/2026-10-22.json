@@ -1,0 +1,327 @@
+{
+ "id": "2026-10-22",
+ "date": "2026-10-22",
+ "category": "工作",
+ "title": "客户来电要求系统提前两周上线",
+ "titleEn": "A client call asking to bring the go-live forward",
+ "scene": [
+  "周四上午，你是一家 IT 公司的 BA，正在给物流公司 Coastline Freight 做新的司机排班 app。客户方项目负责人、运营经理 Stuart 突然打电话来：他老板想把上线日期从 12 月 4 日提前到 11 月 20 日，赶在圣诞旺季前。他语速快，开门见山，还夹着不少澳洲口语。",
+  "你的目标：① 听懂他要提前多久、为什么要提前；② 不当场答应，礼貌追问哪些功能第一天必须有（must-have）、哪些可以放到第二期；③ 约好回复时间，确认收件人，并说会发邮件总结。"
+ ],
+ "facts": [
+  {
+   "k": "Current go-live",
+   "v": "Fri 4 Dec"
+  },
+  {
+   "k": "Requested",
+   "v": "Fri 20 Nov（提前 a fortnight）"
+  },
+  {
+   "k": "Must-haves",
+   "v": "排班 roster、depot 签到 check-in、换班推送通知"
+  },
+  {
+   "k": "Reply by",
+   "v": "COB tomorrow = 周五下午 5 点，邮件 cc Priya（IT）"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "bring something forward",
+   "zh": "把（日期、会议）提前",
+   "ex": "Is there any chance we could bring the go-live forward?"
+  },
+  {
+   "en": "go-live",
+   "zh": "（系统）正式上线",
+   "ex": "The go-live's locked in for Friday the fourth."
+  },
+  {
+   "en": "a fortnight",
+   "zh": "两个星期（澳洲很常用）",
+   "ex": "We'd need it a fortnight earlier."
+  },
+  {
+   "en": "a tight turnaround",
+   "zh": "时间很紧、周期很短",
+   "ex": "Two weeks earlier is a pretty tight turnaround."
+  },
+  {
+   "en": "must-have / nice-to-have",
+   "zh": "必须有的 / 有了更好的功能",
+   "ex": "Is reporting a must-have or a nice-to-have?"
+  },
+  {
+   "en": "move something to phase two",
+   "zh": "把某部分放到第二期做",
+   "ex": "We could move the reporting to phase two."
+  },
+  {
+   "en": "run it past someone",
+   "zh": "先跟某人商量/过一下",
+   "ex": "I'll need to run it past the team first."
+  },
+  {
+   "en": "get back to you",
+   "zh": "回复你、回头再联系你",
+   "ex": "I'll get back to you by five tomorrow."
+  },
+  {
+   "en": "COB (close of business)",
+   "zh": "下班前（通常指下午 5 点）",
+   "ex": "Can you get back to me by COB tomorrow?"
+  },
+  {
+   "en": "flat out",
+   "zh": "忙得不可开交",
+   "ex": "The developers are flat out at the moment."
+  },
+  {
+   "en": "breathing down my neck",
+   "zh": "（上司）盯得很紧、一直催",
+   "ex": "The board's breathing down my neck."
+  },
+  {
+   "en": "keep me posted",
+   "zh": "随时告诉我进展",
+   "ex": "Even if it's a maybe, just keep me posted."
+  }
+ ],
+ "listening": [
+  {
+   "en": "G'day, it's Stuart from Coastline. Got a sec?",
+   "sound": "\"Got a sec\" 连读成 \"go-da-sec\"，t 在元音间变成轻轻的 d。sec = second，意思是\"现在方便说两句吗\"。",
+   "zh": "你好，我是 Coastline 的 Stuart，有空吗？",
+   "reply": "Hi Stuart, yeah, I've got a few minutes. What's up?"
+  },
+  {
+   "en": "Look, I'll cut to the chase — the boss wants it live before the Christmas rush.",
+   "sound": "\"I'll\" 常吞成 \"Al\"；\"cut to the\" 连成 \"cut-tuh-thuh\"。cut to the chase = 开门见山直说；Christmas rush = 圣诞前的旺季。",
+   "zh": "我就直说了，老板想在圣诞旺季前上线。",
+   "reply": "Okay, so you'd like to go live earlier. How much earlier are we talking?"
+  },
+  {
+   "en": "We're talkin' a fortnight earlier, so twentieth-ish, if that's doable.",
+   "sound": "\"talking\" 吞掉 g 成 \"talkin'\"；\"twentieth-ish\" = 大概 20 号左右；doable = 做得到的。",
+   "zh": "大概要提前两周，20 号左右，如果做得到的话。",
+   "reply": "Two weeks earlier… that's a tight turnaround. Let me check a few things first."
+  },
+  {
+   "en": "To be fair, the reporting stuff's a nice-to-have.",
+   "sound": "\"To be fair\" 很快，像 \"tuh-bee-fair\"；\"stuff's\" = stuff is，听起来像 \"stuffs\"。",
+   "zh": "说实话，报表那部分是锦上添花。",
+   "reply": "That really helps. So could we move the reporting to phase two?"
+  },
+  {
+   "en": "Can you get back to me by COB tomorrow? The board's breathing down my neck.",
+   "sound": "COB 一个字母一个字母读：\"see-oh-bee\"；\"board's\" = board is。breathing down my neck = 一直盯着催。",
+   "zh": "你能明天下班前回复我吗？董事会一直在催我。",
+   "reply": "Sure. Just to confirm, you mean by five o'clock tomorrow?"
+  },
+  {
+   "en": "Legend. Flick it to me and cc Priya from IT, yeah?",
+   "sound": "Legend = 太好了/你真靠谱（澳洲常用的夸奖）；flick it to me = 发给我；cc 读 \"see-see\"；句尾 \"yeah?\" 是确认语气，不是真的提问。",
+   "zh": "太好了。发给我，抄送 IT 的 Priya，好吧？",
+   "reply": "Will do. Could you spell Priya's surname for me?"
+  }
+ ],
+ "speech": {
+  "topic": "说说你处理一次客户临时紧急要求的经历",
+  "paragraphs": [
+   "Today I want to talk about a time a client asked for something urgent at the last minute. I work as a business analyst for a small IT company. A few months ago, one of our clients called me on a Thursday morning. He wanted to bring the go-live date forward by two weeks, because his boss wanted the new system ready before the busy season.",
+   "My first feeling was panic. Our developers were already flat out, and two weeks is a lot in a software project. But I didn't say yes or no on the spot. Instead, I asked some questions. Why did they need it earlier? Which features did their staff really need on day one? Which ones were nice-to-haves?",
+   "It turned out that the client only needed three things for the first release: the roster, the check-in, and the notifications. The reports could wait. So I told him I would run it past my team and get back to him by the end of the next day.",
+   "That afternoon, I met with the developers. We agreed that we could deliver the must-haves earlier if we moved the reporting to phase two. I sent the client an email with the new plan, the risks, and the dates. He was happy, and the release went smoothly.",
+   "What I learned is simple. When a client asks for something big, don't promise too quickly. Ask questions, find out what really matters, and always put the agreement in writing. It saves a lot of stress later."
+  ],
+  "zh": "我想讲一次客户临时提出紧急要求的经历。我在一家小 IT 公司做 BA。几个月前，一位客户周四早上打电话来，说老板希望新系统在旺季前准备好，要把上线日期提前两周。我第一反应是慌，因为开发已经很忙了。但我没有当场答应或拒绝，而是先问问题：为什么要提前？第一天真正需要哪些功能？哪些可以晚点？结果发现客户首期只需要排班、签到和通知三项，报表可以等。我说先和团队商量，第二天下班前答复。当天下午我和开发讨论后，决定把报表放到第二期，按时交付核心功能，并把新计划、风险和日期写成邮件发给客户。客户很满意，上线也很顺利。我的体会是：面对大的要求不要急着答应，先问清楚什么最重要，并且把达成的共识写下来。",
+  "patterns": [
+   {
+    "en": "I'd love to help, but I'll need to run it past ___ first.",
+    "zh": "不当场答应、争取时间：先跟某人商量"
+   },
+   {
+    "en": "Just so I'm clear, is ___ a must-have or a nice-to-have?",
+    "zh": "澄清优先级"
+   },
+   {
+    "en": "If we move ___ to phase two, we could ___.",
+    "zh": "提出折中方案"
+   },
+   {
+    "en": "I'll get back to you by ___ with ___.",
+    "zh": "承诺回复时间和内容"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Stuart",
+   "role": "客户方运营经理",
+   "voice": "m"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "G'day, it's Stuart from Coastline Freight. Got a sec?",
+    "zh": "你好，我是 Coastline Freight 的 Stuart，有空吗？"
+   },
+   {
+    "s": "y",
+    "en": "Hi Stuart! Yeah, I've got a few minutes. How're you going?",
+    "zh": "嗨 Stuart！有的，我有几分钟。你最近怎么样？"
+   },
+   {
+    "s": "o",
+    "en": "Ah, not bad, not bad. Bit flat out. Look, I'll cut to the chase — the big boss had a meeting yesterday and he wants the new rostering app live before the Christmas rush. So, uh, we're talkin' bringing it forward a fortnight, twentieth-ish, if that's doable.",
+    "zh": "还行还行，就是有点忙。我直说吧——大老板昨天开了个会，想让新的排班 app 在圣诞旺季前上线。所以，呃，要提前两周左右，大概 20 号，如果做得到的话。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say that again a bit slower? You'd like to move the go-live date forward?",
+    "zh": "不好意思，能说慢一点再说一遍吗？你是想把上线日期提前？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, sorry, I'm talkin' a million miles an hour. So right now it's locked in for Friday the fourth of December. We'd love it on Friday the twentieth of November. Two weeks earlier.",
+    "zh": "对，抱歉，我说太快了。现在定的是 12 月 4 号周五，我们希望改到 11 月 20 号周五，提前两周。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, got it. Two weeks earlier. I'll be upfront with you — that's a pretty tight turnaround. Our developers are already working on the last few features. Can I ask why the date's changed?",
+    "zh": "好的，明白了，提前两周。我先坦白说，时间挺紧的，开发正在做最后几个功能。能问一下为什么日期变了吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, fair question. Basically, December's our busiest month. Heaps of new casual drivers start in the last week of November, and the boss doesn't wanna train them on the old spreadsheet and then switch 'em over a week later. Makes sense, I s'pose.",
+    "zh": "好问题。主要是十二月是我们最忙的月份，十一月最后一周会有一大批新的临时司机入职，老板不想先教他们用旧表格，一周后又换系统。我觉得也有道理。"
+   },
+   {
+    "s": "y",
+    "en": "That makes sense. So the main thing is that new drivers can use the app from day one. Just to confirm, which features do they really need on the first day?",
+    "zh": "有道理。所以关键是新司机第一天就能用 app。想确认一下，第一天他们真正需要哪些功能？"
+   },
+   {
+    "s": "o",
+    "en": "Um, good question. The roster, obviously — they need to see their shifts. The check-in at the depot. And the push notifications when a shift changes. That's the guts of it.",
+    "zh": "嗯，好问题。排班表肯定要，他们得看到自己的班次；还有在车场签到；以及换班时的推送通知。核心就这些。"
+   },
+   {
+    "s": "y",
+    "en": "Right. And what about the reporting dashboard for the managers? Is that a must-have for the twentieth, or a nice-to-have?",
+    "zh": "好。那给经理用的报表看板呢？20 号必须要有，还是有了更好？"
+   },
+   {
+    "s": "o",
+    "en": "To be fair, the reporting's a nice-to-have. The managers have been living without it for years — they'll survive another few weeks. As long as it lands before the end of January, no one's gonna lose sleep over it.",
+    "zh": "说实话，报表是锦上添花。经理们没有它也过了好几年了，再等几周没问题。只要一月底前能上，谁也不会为这个睡不着。"
+   },
+   {
+    "s": "y",
+    "en": "That really helps. So one option could be: we release the roster, check-in and notifications on the twentieth, and we move the reporting to phase two, in January.",
+    "zh": "这很有帮助。那一个方案是：20 号先上线排班、签到和通知，报表放到一月的第二期。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, I reckon the boss'd be happy with that. Can you lock that in now?",
+    "zh": "嗯，我觉得老板会满意的。你现在能定下来吗？"
+   },
+   {
+    "s": "y",
+    "en": "I'd love to, but I'll need to run it past the team first. I don't want to promise something and then let you down. Testing is the part I'm worried about.",
+    "zh": "我很想，但得先跟团队商量一下。我不想答应了又让你失望。我最担心的是测试时间。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, nah, fair enough. Last thing I want is the app falling over on day one with fifty drivers standing round the depot at five in the morning.",
+    "zh": "嗯，也对。我最不想看到的就是上线第一天系统崩了，早上五点五十个司机站在车场干等。"
+   },
+   {
+    "s": "y",
+    "en": "Exactly. Sorry, you said fifty drivers — is that the number of new drivers, or all the drivers on that first shift?",
+    "zh": "没错。不好意思，你说五十个司机——是新司机的人数，还是第一班的全部司机？"
+   },
+   {
+    "s": "o",
+    "en": "All up on the early shift. About fifteen of 'em are brand new. The rest are already using the beta.",
+    "zh": "早班加起来一共五十个，其中大概十五个是新人，其余的已经在用测试版了。"
+   },
+   {
+    "s": "y",
+    "en": "Got it, thanks. That's really useful for testing. When do you need an answer by?",
+    "zh": "明白了，谢谢，这对测试很有用。你最晚什么时候要答复？"
+   },
+   {
+    "s": "o",
+    "en": "Could you get back to me by COB tomorrow? The board's breathing down my neck and I've gotta give 'em something by Monday.",
+    "zh": "你能明天下班前回复我吗？董事会一直在催，我周一之前得给他们个交代。"
+   },
+   {
+    "s": "y",
+    "en": "Sure. Just to confirm, you mean by five o'clock tomorrow, Friday?",
+    "zh": "可以。确认一下，是明天周五下午五点前，对吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, five's perfect. Even if it's a maybe, just keep me posted.",
+    "zh": "对，五点很好。就算还不确定，也随时告诉我进展。"
+   },
+   {
+    "s": "y",
+    "en": "No worries. I'll talk to the developers this afternoon, and I'll send you an email with the plan, the risks and the new dates by five tomorrow.",
+    "zh": "没问题。我今天下午和开发谈，明天五点前把方案、风险和新日期发邮件给你。"
+   },
+   {
+    "s": "o",
+    "en": "Legend. Flick it to me and cc Priya from IT, yeah? She'll wanna know about the testing side.",
+    "zh": "太好了。发给我，抄送 IT 的 Priya，好吗？她会想了解测试那边的情况。"
+   },
+   {
+    "s": "y",
+    "en": "Sure. Could you spell Priya's surname for me, so I get the email address right?",
+    "zh": "好的。能拼一下 Priya 的姓吗？我好把邮箱写对。"
+   },
+   {
+    "s": "o",
+    "en": "Yep, it's Priya Nair — N-A-I-R. Same format as mine: first name dot last name at coastline dot com dot au.",
+    "zh": "好，Priya Nair，N-A-I-R。格式和我的一样：名.姓@coastline.com.au。"
+   },
+   {
+    "s": "y",
+    "en": "Perfect, thanks Stuart. I'll be in touch tomorrow.",
+    "zh": "好的，谢谢 Stuart，明天联系你。"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, I didn't quite catch that. Could you say it again a bit slower?",
+   "zh": "抱歉，没太听清，能慢一点再说一遍吗？"
+  },
+  {
+   "en": "Just to make sure I've got it right, you'd like to ___?",
+   "zh": "确认一下我理解得对不对，你是想……？"
+  },
+  {
+   "en": "Could you spell that for me, please?",
+   "zh": "能帮我拼一下吗？"
+  },
+  {
+   "en": "I'd rather not commit on the spot — can I get back to you by ___?",
+   "zh": "我不想当场拍板，我能在……之前回复你吗？"
+  },
+  {
+   "en": "Would you mind popping that in an email, so I have it in writing?",
+   "zh": "能麻烦你发个邮件吗？这样我有书面记录。"
+  }
+ ],
+ "checklist": [
+  "我能听懂 bring it forward、a fortnight、twentieth-ish 指的是哪天",
+  "我没有当场答应，而是用 \"I'll need to run it past the team\" 争取时间",
+  "我至少问了一次某个功能是 must-have 还是 nice-to-have",
+  "我用 \"Just to confirm…\" 复述了回复时间（COB tomorrow = 明天下午 5 点）",
+  "我能请对方拼写名字，并听懂邮箱格式 first name dot last name",
+  "挂电话前我说清楚了下一步：今天找开发商量、明天 5 点前发邮件（plan、risks、dates）"
+ ]
+}

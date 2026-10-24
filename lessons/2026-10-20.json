@@ -1,0 +1,307 @@
+{
+ "id": "2026-10-20",
+ "date": "2026-10-20",
+ "category": "孩子学校/幼儿园",
+ "title": "家长面谈：听老师讲孩子阅读进度",
+ "titleEn": "A parent-teacher interview about your child's reading",
+ "scene": [
+  "第四学期的家长面谈周。你在学校 app 上约了周二下午 3:40 的 10 分钟时段，和女儿 Chloe 的 Year 1 班主任 Ms Bianca Rossi 在教室里面谈。老师一天要见十几个家长，说话快、时间紧，会用很多学校里的说法：reading level、sight words、tracking、SSO、intervention group。",
+  "你的目标：① 听懂老师对孩子学习和交朋友情况的评价；② 问清楚阅读比年级目标落后多少、学校怎么帮、家里每天该怎么配合；③ 说出你的一个担心（孩子说课间常常一个人玩），并约好之后用什么方式继续沟通。"
+ ],
+ "facts": [
+  {
+   "k": "When",
+   "v": "周二 3:40pm · 10 分钟（后面还有家长排队）"
+  },
+  {
+   "k": "Where",
+   "v": "Room 6 教室"
+  },
+  {
+   "k": "Reading",
+   "v": "现在 level 12，年底目标 level 16"
+  },
+  {
+   "k": "Follow-up",
+   "v": "communication book 或 app 留言；第 9 周发学期报告"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "parent-teacher interview",
+   "zh": "家长面谈（一对一，通常 10–15 分钟）",
+   "ex": "I've booked a parent-teacher interview for Tuesday at 3:40."
+  },
+  {
+   "en": "settle in",
+   "zh": "适应、安顿下来",
+   "ex": "She's settled in really well this term."
+  },
+  {
+   "en": "be tracking well / tracking below",
+   "zh": "进度正常 / 低于预期",
+   "ex": "Her maths is tracking well, but her reading is tracking a little below."
+  },
+  {
+   "en": "reading level",
+   "zh": "分级阅读的级别（学校用数字表示）",
+   "ex": "She's on reading level 12 at the moment."
+  },
+  {
+   "en": "sight words",
+   "zh": "高频识记词（如 the, said, was，要一眼认出）",
+   "ex": "We practise ten sight words a week."
+  },
+  {
+   "en": "sound it out",
+   "zh": "按字母发音拼读出来",
+   "ex": "When she gets stuck, ask her to sound it out."
+  },
+  {
+   "en": "intervention group",
+   "zh": "小组辅导（给需要多一点帮助的孩子）",
+   "ex": "She'll join a small intervention group three mornings a week."
+  },
+  {
+   "en": "SSO (School Services Officer)",
+   "zh": "南澳学校的助教/支持人员",
+   "ex": "Our SSO, Mrs Grant, runs the reading group."
+  },
+  {
+   "en": "a bit of a chatterbox",
+   "zh": "有点话多（老师常用的温和说法）",
+   "ex": "He's a bit of a chatterbox during group work."
+  },
+  {
+   "en": "keep an eye on it",
+   "zh": "留意观察",
+   "ex": "It's nothing major, but we'll keep an eye on it."
+  },
+  {
+   "en": "touch base",
+   "zh": "再联系、碰个头",
+   "ex": "Let's touch base again in a few weeks."
+  },
+  {
+   "en": "put your mind at ease",
+   "zh": "让你放心",
+   "ex": "I just want to put your mind at ease — she's doing fine."
+  }
+ ],
+ "listening": [
+  {
+   "en": "Hi, come on in, grab a seat — sorry, they're tiny chairs, aren't they?",
+   "sound": "come on in → \"cum-o-nin\" 连成一串；grab a seat → \"gra-ba seat\"。老师先自嘲小学椅子太小，是寒暄，笑一笑就好",
+   "zh": "你好，请进，随便坐——不好意思，椅子好小是吧？",
+   "reply": "Ha, that's okay! Thanks for making the time."
+  },
+  {
+   "en": "So, overall, she's settled in beautifully — she's a lovely little girl, bit of a chatterbox at times, but nothing to worry about.",
+   "sound": "bit of a → \"bidda\"；at times 意思是“有时候”。老师先说好话，真正的问题通常在后面的 but",
+   "zh": "总体来说，她适应得非常好——很可爱的小姑娘，有时话有点多，但没什么好担心的。",
+   "reply": "That's good to hear. She does love a chat at home too."
+  },
+  {
+   "en": "Reading-wise, she's sitting at level twelve; we'd ideally like 'em at sixteen by the end of the year, so she's tracking just a touch below.",
+   "sound": "reading-wise = “阅读方面”；'em = them；a touch below = 稍微低一点。信息量大：12 → 16",
+   "zh": "阅读方面，她现在在 12 级；我们希望孩子年底能到 16 级，所以她稍微落后一点。",
+   "reply": "Just to confirm, she's on twelve now and the goal is sixteen by the end of the year?"
+  },
+  {
+   "en": "What we're gonna do is pop her into a small group with our SSO, three mornings a week, just to give her a bit of a boost.",
+   "sound": "gonna = going to；pop her into = 把她放进（pop 很口语）；a bit of a boost → \"a bidda boost\" 推一把",
+   "zh": "我们打算让她跟 SSO 上小组课，每周三个早上，给她加把劲。",
+   "reply": "That sounds great. What does the group actually work on?"
+  },
+  {
+   "en": "Honestly, ten minutes a night is heaps — don't stress if you miss the odd one, just jot it in the reading log.",
+   "sound": "heaps = 很多、足够；the odd one = 偶尔一次；jot it in → \"jo-dit-in\" 随手记一下",
+   "zh": "说真的，每晚十分钟就足够了——偶尔漏一次别紧张，在阅读记录本上记一下就行。",
+   "reply": "Okay, ten minutes a night. I can definitely do that."
+  },
+  {
+   "en": "I'm conscious of the time — there's a mum waiting — but flick me a message on the app and we'll touch base in a few weeks, yeah?",
+   "sound": "conscious of the time = 注意到时间到了（礼貌结束）；flick me a message = 给我发个消息；结尾 yeah? 是确认",
+   "zh": "我得注意一下时间——外面还有位妈妈在等——你在 app 上给我发消息，我们过几周再聊，好吗？",
+   "reply": "Of course. Thanks so much, I'll message you on the app."
+  }
+ ],
+ "speech": {
+  "topic": "说说我是怎么在家陪孩子读书的",
+  "paragraphs": [
+   "Today I want to talk about how I help my daughter with reading at home. She's in Year 1, and at our last parent-teacher interview, her teacher told me she was tracking a little below where she should be. To be honest, I felt a bit worried at first, because English isn't my first language.",
+   "But the teacher put my mind at ease. She said I don't need to be a perfect English speaker to help. What matters most is reading together every day, even for just ten minutes. So now we have a small routine. After dinner and before bath time, we sit on the couch and read her school book together.",
+   "First, she reads the book to me. When she gets stuck on a word, I don't tell her straight away. I ask her to sound it out, or look at the picture for a clue. Then we talk about the story. I ask simple questions, like \"What do you think will happen next?\" or \"How do you think he feels?\"",
+   "We also practise her sight words. I wrote them on little cards and stuck them on the fridge. Every morning she reads three cards while I make breakfast. It only takes a minute, but it really helps.",
+   "The best part is that I'm learning too. I've picked up lots of new words from her books, and my own pronunciation is getting better. Some nights we're both tired and we miss it, and that's okay. Little by little, her reading is improving, and she's much more confident than before."
+  ],
+  "zh": "我想讲讲我在家怎么陪读一年级的女儿。家长面谈时老师说她阅读稍微落后，我一开始很担心，因为英语不是我的母语。但老师让我放心：不需要英语完美，最重要的是每天一起读，哪怕十分钟。现在我们晚饭后、洗澡前一起读学校发的书：她读给我听，卡住时我不直接告诉她，而是让她拼读或看图找线索，读完再问些简单问题。我们还把高频词写成卡片贴在冰箱上，每天早上读三张。最好的是我自己也在学新词、改发音。偶尔太累漏掉也没关系，她的阅读一点点进步，也更自信了。",
+  "patterns": [
+   {
+    "en": "To be honest, I felt a bit ___ at first, because ___.",
+    "zh": "说实话，我一开始有点___，因为___。（先讲感受，再讲原因）"
+   },
+   {
+    "en": "What matters most is ___, even for just ___.",
+    "zh": "最重要的是___，哪怕只有___。"
+   },
+   {
+    "en": "When she gets stuck on ___, I ask her to ___.",
+    "zh": "她遇到___卡住时，我让她___。"
+   },
+   {
+    "en": "It only takes ___, but it really helps.",
+    "zh": "只需要___，但真的很有用。"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Ms Rossi",
+   "role": "孩子的 Year 1 班主任",
+   "voice": "f"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Hi, come on in, grab a seat. Sorry, they're tiny chairs, aren't they? You're Chloe's mum?",
+    "zh": "你好，请进，随便坐。不好意思，椅子好小是吧？你是 Chloe 的妈妈？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, that's me. Ha, the chairs are fine! Thanks for making the time, I know you've got a busy afternoon.",
+    "zh": "对，是我。哈，椅子没关系！谢谢你抽时间，我知道你下午很忙。"
+   },
+   {
+    "s": "o",
+    "en": "No worries at all. So, overall, she's settled in beautifully. She's a lovely little girl, bit of a chatterbox at times, but nothing to worry about. Her maths is tracking really well, actually.",
+    "zh": "完全没问题。总体来说，她适应得非常好。很可爱的小姑娘，有时话有点多，但不用担心。她的数学其实进度很好。"
+   },
+   {
+    "s": "y",
+    "en": "That's really good to hear. She does love a chat at home too. How's her reading going? I've been a bit worried about that.",
+    "zh": "听到这个真好。她在家也很爱聊天。她阅读怎么样？我对这个有点担心。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, so, reading-wise, she's sitting at level twelve at the moment. We'd ideally like 'em at sixteen by the end of the year, so she's tracking just a touch below.",
+    "zh": "嗯，阅读方面，她现在在 12 级。我们希望孩子年底能到 16 级，所以她稍微落后一点。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say that again a bit slower? Just to confirm, she's on level twelve now, and the goal is sixteen by the end of the year?",
+    "zh": "不好意思，能慢一点再说一遍吗？我确认一下，她现在是 12 级，年底的目标是 16 级？"
+   },
+   {
+    "s": "o",
+    "en": "Spot on. And look, it's not a big gap. She knows most of her sight words, she just loses confidence on longer words and tends to guess instead of sounding them out.",
+    "zh": "完全正确。其实差距不大。她大部分高频词都认识，只是遇到长一点的词没信心，常常靠猜，而不是拼读出来。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, I see. Is there anything the school can do to help her catch up?",
+    "zh": "好的，明白了。学校有什么办法帮她赶上吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yep, what we're gonna do is pop her into a small group with our SSO, Mrs Grant, three mornings a week, just to give her a bit of a boost. It's really low-key, the kids love it.",
+    "zh": "有的，我们打算让她跟我们的 SSO Grant 老师上小组课，每周三个早上，给她加把劲。很轻松的，孩子们都喜欢。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, what's an SSO? I haven't heard that one before.",
+    "zh": "不好意思，SSO 是什么？我以前没听过这个说法。"
+   },
+   {
+    "s": "o",
+    "en": "Oh, sorry, School Services Officer. She's like a support teacher. She works with four or five kids at a time on phonics and reading.",
+    "zh": "哦，抱歉，是 School Services Officer，相当于辅助老师。她一次带四五个孩子练拼读和阅读。"
+   },
+   {
+    "s": "y",
+    "en": "Got it, thank you. And what can I do at home? English isn't my first language, so I'm not sure I'm doing it right.",
+    "zh": "明白了，谢谢。那我在家能做什么？英语不是我的母语，我不确定我做得对不对。"
+   },
+   {
+    "s": "o",
+    "en": "Honestly, you're doing great. Ten minutes a night is heaps. Get her to read to you, and when she gets stuck, ask her to sound it out before you jump in. Don't stress if you miss the odd night, just jot it in the reading log.",
+    "zh": "说真的，你做得很好。每晚十分钟就足够了。让她读给你听，卡住时先让她自己拼读，你再帮忙。偶尔漏一晚别紧张，在阅读记录本上记一下就行。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, so ten minutes a night, let her sound it out first, and write it in the reading log. Is it okay if we sometimes read in Chinese as well?",
+    "zh": "好的，每晚十分钟，先让她自己拼读，然后写在阅读记录本上。我们有时也读中文书可以吗？"
+   },
+   {
+    "s": "o",
+    "en": "Absolutely, that's brilliant. Talking about stories in any language helps her understanding. Was there anything else on your mind?",
+    "zh": "当然可以，那太好了。用任何语言聊故事都能帮助理解。你还有别的想说的吗？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, one thing. A couple of times she's said she plays by herself at recess. I just wanted to check if that's something you've noticed.",
+    "zh": "有一件事。她有几次说课间自己一个人玩。我想问问你有没有注意到。"
+   },
+   {
+    "s": "o",
+    "en": "Mm, thanks for letting me know. In class she's really social, but the yard's a different story, isn't it? I'll have a word with the teachers on yard duty and keep an eye on it. I might buddy her up with a couple of the girls for a lunchtime club.",
+    "zh": "嗯，谢谢你告诉我。她在课堂上很合群，但操场上就不一样了，对吧？我会跟值班老师说一声，留意一下。我也许会安排她和几个女孩一起参加午间兴趣小组。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, just to confirm, you mean you'll ask the teachers outside to watch out for her, and maybe put her in a lunchtime club with some friends?",
+    "zh": "不好意思，我确认一下，你的意思是会请外面值班的老师留意她，还可能让她和几个朋友一起参加午间小组？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, exactly. Nothing formal, just a gentle nudge. Kids this age, friendships change week to week, so try not to worry too much.",
+    "zh": "对，就是这样。不是什么正式安排，只是轻轻推一把。这个年纪的孩子，朋友关系每周都在变，别太担心。"
+   },
+   {
+    "s": "y",
+    "en": "That really puts my mind at ease. Thank you.",
+    "zh": "这真让我放心了。谢谢你。"
+   },
+   {
+    "s": "o",
+    "en": "Pleasure. I'm conscious of the time, there's a mum waiting, but flick me a message on the app anytime, and we'll touch base again in a few weeks, yeah? Reports come home in week nine.",
+    "zh": "不客气。我得注意时间，外面有位妈妈在等，你随时在 app 上给我发消息，过几周我们再聊，好吗？学期报告第 9 周发回家。"
+   },
+   {
+    "s": "y",
+    "en": "Perfect. I'll message you on the app in a few weeks. Thanks so much, Ms Rossi. Have a good afternoon.",
+    "zh": "好的。我过几周在 app 上给你发消息。非常感谢，Rossi 老师。祝你下午愉快。"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that again a bit slower, please?",
+   "zh": "不好意思，能再慢一点说一遍吗？"
+  },
+  {
+   "en": "Sorry, what does that mean? I haven't heard that word before.",
+   "zh": "不好意思，这是什么意思？我以前没听过这个词。"
+  },
+  {
+   "en": "Just to confirm, you mean ___?",
+   "zh": "我确认一下，你的意思是___？"
+  },
+  {
+   "en": "Could you write that down for me, or send it through the app?",
+   "zh": "能帮我写下来，或者在 app 上发给我吗？"
+  },
+  {
+   "en": "I know you're short on time. Can I message you with my other questions?",
+   "zh": "我知道你时间紧。剩下的问题我可以发消息问你吗？"
+  }
+ ],
+ "checklist": [
+  "我听懂了 tracking well / a touch below，知道老师是在说进度正常还是落后",
+  "我能复述孩子现在的 reading level 和年底目标（12 → 16）",
+  "遇到 SSO、intervention group 这类学校缩写时，我敢直接问是什么意思",
+  "我能说出家里怎么配合：每晚十分钟、先让孩子 sound it out、写 reading log",
+  "我用两三句话说清楚了自己的担心（课间一个人玩），并确认了老师打算怎么做",
+  "老师说 I'm conscious of the time 时，我能礼貌收尾并约好用 app 继续沟通"
+ ]
+}

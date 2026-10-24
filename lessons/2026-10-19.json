@@ -1,0 +1,328 @@
+{
+ "id": "2026-10-19",
+ "date": "2026-10-19",
+ "category": "房屋",
+ "title": "租约快到期，中介来电谈续租和涨租",
+ "titleEn": "The property manager calls about renewing your lease",
+ "scene": [
+  "周一下午，你租的房子租约一月底到期。中介公司的物业经理 Hayley 打电话来：房东想继续租给你，但打算从二月起每周涨 35 刀房租。她语速很快，会顺口报一串数字（five-ninety-five、three-bedders），还会提到 periodic lease、DocuSign 这些你不一定熟的说法。",
+  "你的目标：① 听清新房租是多少、从哪天开始、续租多长；② 礼貌地还价（说出你按时交租、住了两年的理由），并顺便提出烤箱门和纱门要修；③ 弄清不续签会怎样、下一步怎么走，请她发邮件书面确认。"
+ ],
+ "facts": [
+  {
+   "k": "Lease ends",
+   "v": "31 January（固定租约到期）"
+  },
+  {
+   "k": "Rent now → offer",
+   "v": "$560 → $595 / week"
+  },
+  {
+   "k": "Your counter-offer",
+   "v": "$575 / week，签 12 个月"
+  },
+  {
+   "k": "Next step",
+   "v": "Hayley 周四前回复；新租约用 DocuSign 手机签"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "your lease is up",
+   "zh": "你的租约到期了",
+   "ex": "Your lease is up at the end of January."
+  },
+  {
+   "en": "renew the lease / re-sign",
+   "zh": "续租、重新签约",
+   "ex": "We'd like to renew the lease for another twelve months."
+  },
+  {
+   "en": "fixed-term lease",
+   "zh": "固定期限租约（如 6 个月、12 个月）",
+   "ex": "A fixed-term lease gives you a bit more security."
+  },
+  {
+   "en": "periodic lease",
+   "zh": "到期不续签后自动变成的\"按月滚动\"租约",
+   "ex": "If you don't re-sign, it rolls over onto a periodic lease."
+  },
+  {
+   "en": "put the rent up",
+   "zh": "涨房租",
+   "ex": "The owner's looking at putting the rent up a bit."
+  },
+  {
+   "en": "in line with the market",
+   "zh": "和市场行情差不多",
+   "ex": "Five-ninety-five is pretty much in line with the market."
+  },
+  {
+   "en": "comparable properties",
+   "zh": "同类房源（中介拿来对比租金）",
+   "ex": "I've pulled a few comparable properties in the area."
+  },
+  {
+   "en": "three-bedder",
+   "zh": "（口语）三居室",
+   "ex": "Three-bedders around here are going for about six hundred."
+  },
+  {
+   "en": "run it past (someone)",
+   "zh": "拿去问问（某人）的意见",
+   "ex": "I'll run your offer past the owner."
+  },
+  {
+   "en": "meet (you) halfway",
+   "zh": "各让一步、折中",
+   "ex": "He might not say yes to that, but he could meet you halfway."
+  },
+  {
+   "en": "notice in writing",
+   "zh": "书面通知",
+   "ex": "He has to give you sixty days' notice in writing."
+  },
+  {
+   "en": "e-sign",
+   "zh": "电子签名（常用 DocuSign）",
+   "ex": "I'll send it through on DocuSign so you can e-sign it on your phone."
+  }
+ ],
+ "listening": [
+  {
+   "en": "Hiya, it's Hayley from Parkside Property — have I caught you at a bad time?",
+   "sound": "Hiya → \"hai-ya\"，就是 hi；have I caught you → \"havai-cortcha\"，问你现在方不方便说话",
+   "zh": "你好，我是 Parkside 物业的 Hayley——现在打扰你吗？",
+   "reply": "Hi Hayley, no, it's fine. I've got a few minutes."
+  },
+  {
+   "en": "I'm just ringing 'cause your lease is up end of Jan, and the owner's keen to keep you on.",
+   "sound": "ringing 'cause → \"ringin-coz\"；end of Jan 省掉了 the，Jan = January；keep you on = 继续租给你",
+   "zh": "我打来是因为你的租约一月底到期，房东很想继续租给你。",
+   "reply": "That's good to hear. We'd like to stay too."
+  },
+  {
+   "en": "He's thinking five-ninety-five from the first of Feb, which is pretty much in line with what's out there.",
+   "sound": "澳洲人报租金常省掉 hundred 和 dollars：five-ninety-five = $595；first of Feb → \"firsta-feb\"；what's out there = 市面上的房源",
+   "zh": "他考虑从二月一号起涨到每周 595，这跟市面上的价格差不多。",
+   "reply": "Sorry, did you say five-ninety-five a week?"
+  },
+  {
+   "en": "Three-bedders round here are going for about five-ninety to six-twenty at the moment.",
+   "sound": "three-bedders = 三居室；round here 吞掉 a；going for = 租价是",
+   "zh": "这附近的三居室现在大概租 590 到 620 一周。",
+   "reply": "I understand. But it's still quite a big jump for us."
+  },
+  {
+   "en": "I reckon that might be a bit low for him, but he might meet you halfway — I'll put it to him.",
+   "sound": "reckon = 觉得；a bit low for him → \"a-bi-low-for-im\"，t 和 h 都吞掉；put it to him = 跟他提",
+   "zh": "我觉得这个价对他来说可能有点低，不过他也许会折中——我去跟他说。",
+   "reply": "Thanks, that would be great. We're happy to sign for twelve months."
+  },
+  {
+   "en": "If he's happy, I'll pop it through on DocuSign and flick you an email this arvo.",
+   "sound": "pop it through → \"popi-through\"，= 发过来；flick you an email = 给你发封邮件；arvo = afternoon",
+   "zh": "如果他同意，我就用 DocuSign 把合同发给你，今天下午也会给你发封邮件。",
+   "reply": "Great, could you put the new rent and the dates in the email, please?"
+  }
+ ],
+ "speech": {
+  "topic": "租房时我最在意的三件事",
+  "paragraphs": [
+   "Today I'd like to talk about renting a house in Australia, and the three things that matter most to me as a tenant.",
+   "The first thing is security. When you have kids, moving house is a big deal. They have to change schools, find new friends and get used to a new area. That's why I always try to sign a twelve-month lease instead of staying on a periodic lease. I want to know where we'll be living next year.",
+   "The second thing is a fair rent. I know rents are going up everywhere, and I understand that owners have costs too. But I think a good tenant is worth something. We pay on time, we look after the place and we report problems early. So when the agent calls about a rent increase, I don't just say yes straight away. I ask if there's any room to move, and I explain why we're good tenants. Sometimes the owner meets you halfway.",
+   "The third thing is repairs. Small problems, like a broken oven door or a ripped flyscreen, can make daily life annoying. I always put repair requests through the tenant portal with photos, so there's a record. And the best time to ask for repairs is when you're renewing the lease, because the owner wants to keep you.",
+   "Finally, I've learned to get everything in writing. Phone calls are quick and friendly, but it's easy to forget the details. After every call, I ask the agent to send me an email with the new rent and the dates.",
+   "So for me, a good rental means security, a fair price and a home that works. Thanks for listening."
+  ],
+  "zh": "我想谈谈在澳洲租房时我最在意的三件事。第一是稳定：有孩子的家庭搬家代价很大，所以我尽量签 12 个月的固定租约，而不是按月滚动。第二是租金公平：我理解房东也有成本，但好租客是有价值的——按时交租、爱护房子、及早报修——所以中介来谈涨租时，我会礼貌地问能不能少涨一点，有时房东会折中。第三是维修：小毛病很影响生活，我会通过租客平台带照片报修；续租时提修理要求最有效，因为房东想留住你。最后，凡事要书面确认，每次通话后都请中介发邮件写明新租金和日期。",
+  "patterns": [
+   {
+    "en": "That's quite a big jump for us. Is there any room to move on ___?",
+    "zh": "这对我们来说涨得挺多的，___ 方面能不能再商量？"
+   },
+   {
+    "en": "We've been here for ___, and we always ___.",
+    "zh": "摆出理由：我们住了 ___，而且一直 ___。"
+   },
+   {
+    "en": "Would the owner consider ___ if we ___?",
+    "zh": "提出条件式还价：如果我们 ___，房东能不能考虑 ___？"
+   },
+   {
+    "en": "Could you put ___ in an email, just so I have it in writing?",
+    "zh": "请对方把 ___ 发邮件，书面留底。"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Hayley",
+   "role": "中介公司物业经理",
+   "voice": "f"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Hiya, it's Hayley from Parkside Property. Have I caught you at a bad time?",
+    "zh": "你好，我是 Parkside 物业的 Hayley。现在打扰你吗？"
+   },
+   {
+    "s": "y",
+    "en": "Hi Hayley, no, it's fine. I've got a few minutes. What's up?",
+    "zh": "你好 Hayley，没事，我有几分钟。什么事？"
+   },
+   {
+    "s": "o",
+    "en": "Oh good, good. Look, it's nothing to worry about. I'm just ringing 'cause your lease is up end of Jan, and the owner's keen to keep you on. You've been great tenants, so, yeah, he's really happy.",
+    "zh": "好的好的。别担心，没什么大事。我打来是因为你的租约一月底到期，房东很想继续租给你。你们一直是很好的租客，他很满意。"
+   },
+   {
+    "s": "y",
+    "en": "That's good to hear. We'd like to stay too. The kids are settled at school, so we don't really want to move.",
+    "zh": "太好了。我们也想继续住。孩子在学校都适应了，我们不太想搬。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, totally. So he's offering another twelve-month lease, but, um, he is looking at putting the rent up a bit. At the moment you're on five-sixty a week, and he's thinking five-ninety-five from the first of Feb, which is still pretty much in line with what's out there.",
+    "zh": "完全理解。他愿意再签 12 个月，但是，嗯，他打算稍微涨点房租。你们现在每周 560，他考虑从二月一号起涨到 595，这跟市面上的价格还是差不多的。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say that again a bit slower? Did you say five-ninety-five?",
+    "zh": "不好意思，能说慢一点再说一遍吗？你是说 595 吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yep, sorry, I always talk too fast. Five, nine, five. So that's thirty-five dollars more a week.",
+    "zh": "对，抱歉，我老是说太快。5、9、5。也就是每周多 35 块。"
+   },
+   {
+    "s": "y",
+    "en": "Okay. That's quite a big jump for us. Is there any room to move on that?",
+    "zh": "好的。这对我们来说涨得挺多的。这个价格还有商量的余地吗？"
+   },
+   {
+    "s": "o",
+    "en": "Look, I can definitely run it past him. I've pulled a few comparable properties, and three-bedders round here are going for about five-ninety to six-twenty at the moment. So it's not over the top, but I get it, it all adds up.",
+    "zh": "嗯，我肯定可以去问问他。我查了几套同类房源，这附近三居室现在大概 590 到 620 一周。所以不算离谱，但我理解，加起来也是一笔钱。"
+   },
+   {
+    "s": "y",
+    "en": "I understand. We've been here for two years, we always pay on time, and we look after the place. Would the owner consider five-seventy-five if we sign for twelve months?",
+    "zh": "我理解。我们住了两年，一直按时交租，也很爱护房子。如果我们签 12 个月，房东能考虑 575 吗？"
+   },
+   {
+    "s": "o",
+    "en": "Hmm, five-seventy-five... I reckon that might be a bit low for him, but he might meet you halfway. I'll put it to him. Anything else you want me to raise while I'm at it?",
+    "zh": "嗯，575……我觉得对他来说可能有点低，但他也许会折中。我去跟他说。还有别的要我顺便提的吗？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, actually. The oven door doesn't close properly, and the flyscreen on the back door is ripped. Could those be fixed before we sign?",
+    "zh": "其实有。烤箱门关不严，后门的纱门也破了。签约前能修好吗？"
+   },
+   {
+    "s": "o",
+    "en": "Oh, yep, good on you for mentioning it. Pop those through the tenant portal with a couple of photos, and I'll chuck them in with the renewal, so he sees the whole picture.",
+    "zh": "哦，好，你提得好。你在租客平台上提交一下，附几张照片，我把它们和续租的事一起报给他，让他了解全部情况。"
+   },
+   {
+    "s": "y",
+    "en": "Sure, I'll do that tonight. Just to confirm, if we don't sign a new lease, what happens?",
+    "zh": "好，我今晚就弄。想确认一下：如果我们不签新租约，会怎么样？"
+   },
+   {
+    "s": "o",
+    "en": "Good question. It just rolls over onto a periodic lease, so month-to-month, basically. Same conditions, but there's a bit less security for both sides.",
+    "zh": "好问题。那就会自动变成 periodic lease，基本上就是按月滚动。条件不变，但对双方来说都没那么稳定。"
+   },
+   {
+    "s": "y",
+    "en": "Right, so a fixed lease is better for us. And when would the new rent start?",
+    "zh": "明白了，那固定租约对我们更好。新房租什么时候开始？"
+   },
+   {
+    "s": "o",
+    "en": "Not before the first of Feb. He has to give you at least sixty days' notice in writing anyway, so you'll get a formal letter by email as well. Nothing changes till then.",
+    "zh": "最早二月一号。反正他也得提前至少 60 天书面通知你，所以你还会收到一封正式的邮件通知。在那之前什么都不变。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, that's good. So what's the next step?",
+    "zh": "好的，那挺好。那下一步是什么？"
+   },
+   {
+    "s": "o",
+    "en": "So I'll run your offer past him today or tomorrow, he's pretty quick on email, and I'll get back to you by, say, Thursday-ish. If he's happy, I'll pop the new lease through on DocuSign and you can just e-sign it on your phone.",
+    "zh": "我今天或明天把你的报价拿去问他，他回邮件挺快的，我大概周四左右回复你。如果他同意，我就用 DocuSign 把新租约发给你，你在手机上电子签名就行。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, did you say Thursday? And it's all online, so I don't need to come into the office?",
+    "zh": "不好意思，你是说周四吗？而且全部在网上办，我不用去办公室？"
+   },
+   {
+    "s": "o",
+    "en": "Yep, Thursday. And nope, no need to come in. It's all done online these days. Easy as.",
+    "zh": "对，周四。不用来办公室。现在都是网上办的，很简单。"
+   },
+   {
+    "s": "y",
+    "en": "Great. Could you also send me an email with the new rent and the dates, just so I have it in writing?",
+    "zh": "太好了。你能不能再给我发封邮件，写明新租金和日期，这样我有个书面记录？"
+   },
+   {
+    "s": "o",
+    "en": "Absolutely. I'll flick you an email this arvo with everything we talked about.",
+    "zh": "没问题。我今天下午把我们聊的内容都发邮件给你。"
+   },
+   {
+    "s": "y",
+    "en": "Perfect. Thanks so much, Hayley. I really appreciate it.",
+    "zh": "太好了。非常感谢你，Hayley。"
+   },
+   {
+    "s": "o",
+    "en": "No worries at all. Thanks for being so easy to deal with. Chat Thursday, then. Bye!",
+    "zh": "不客气。谢谢你这么好沟通。那周四再聊，拜拜！"
+   },
+   {
+    "s": "y",
+    "en": "Bye, have a good afternoon.",
+    "zh": "拜拜，下午愉快。"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that number again? Was that five-ninety or five-ninety-five?",
+   "zh": "不好意思，那个数字能再说一遍吗？是 590 还是 595？"
+  },
+  {
+   "en": "Sorry, I'm not sure what a periodic lease means. Could you explain?",
+   "zh": "不好意思，我不太清楚 periodic lease 是什么意思，能解释一下吗？"
+  },
+  {
+   "en": "Could you slow down a little? I want to make sure I get the details right.",
+   "zh": "能说慢一点吗？我想把细节听准确。"
+  },
+  {
+   "en": "Can I have a think about it and get back to you by Friday?",
+   "zh": "我能考虑一下，周五前回复你吗？"
+  },
+  {
+   "en": "Could you email me all of that, so I can go through it properly?",
+   "zh": "能把这些都发邮件给我吗？我好仔细看一下。"
+  }
+ ],
+ "checklist": [
+  "我能听懂省略说法的租金：five-ninety-five = 每周 $595，并复述确认",
+  "我能听懂 your lease is up、keen to keep you on、in line with the market 的意思",
+  "我能用一个理由 + 一个条件礼貌地还价（We've been here… Would the owner consider…?）",
+  "我能顺便提出需要维修的地方，并知道要通过 tenant portal 带照片提交",
+  "我能问清楚不续签会变成 periodic lease，以及新租金从哪天开始",
+  "挂电话前，我请对方发邮件书面确认新租金和日期"
+ ]
+}

@@ -1,0 +1,327 @@
+{
+ "id": "2026-10-23",
+ "date": "2026-10-23",
+ "category": "保险/医疗",
+ "title": "致电保险公司问孩子正畸保障和等待期",
+ "titleEn": "Calling your health fund about braces cover",
+ "scene": [
+  "牙医说孩子明年大概要戴牙套，正畸诊所给了一份约 $7,500 的报价。你家买了私人医保的 extras（附加险），但不确定包不包正畸。你打给健康保险公司（health fund）的会员热线，接电话的是客服 Jason，他很友好，但说话快、数字多，还会用 bump up、mind you、give or take 这类口语。",
+  "你的目标：① 弄清楚现在的保障包不包正畸、要升级到哪一档；② 听懂等待期从哪天算、能报多少（年度上限还是终身上限）；③ 问清升级后每月多付多少，并请他把价格和等待期发邮件确认。"
+ ],
+ "facts": [
+  {
+   "k": "Quote",
+   "v": "正畸报价约 $7,500"
+  },
+  {
+   "k": "Current cover",
+   "v": "Family Mid Extras（不含正畸）"
+  },
+  {
+   "k": "Waiting period",
+   "v": "正畸 12 个月，按治疗日期算"
+  },
+  {
+   "k": "Top Extras",
+   "v": "每人终身上限 $2,200，每月约多 $55"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "health fund",
+   "zh": "（私人）健康保险公司",
+   "ex": "I rang my health fund to check what I'm covered for."
+  },
+  {
+   "en": "extras cover",
+   "zh": "附加险（牙科、配镜、理疗等，不含住院）",
+   "ex": "Does our extras cover include orthodontics?"
+  },
+  {
+   "en": "ortho / orthodontics",
+   "zh": "正畸",
+   "ex": "Ortho isn't included on your current level."
+  },
+  {
+   "en": "braces",
+   "zh": "牙套（矫正牙齿的）",
+   "ex": "She'll probably need braces next year."
+  },
+  {
+   "en": "waiting period",
+   "zh": "等待期（买保险后要等一段时间才能报销）",
+   "ex": "There's a twelve-month waiting period on ortho."
+  },
+  {
+   "en": "bump up (your cover)",
+   "zh": "把保险升一档",
+   "ex": "You'd have to bump up to Top Extras."
+  },
+  {
+   "en": "lifetime limit",
+   "zh": "终身报销上限",
+   "ex": "Ortho has a lifetime limit of $2,200 per person."
+  },
+  {
+   "en": "annual limit",
+   "zh": "每年报销上限",
+   "ex": "General dental has an annual limit of $800."
+  },
+  {
+   "en": "item number",
+   "zh": "项目编号（报价单上每项治疗的代码）",
+   "ex": "Can you send us the item numbers off the quote?"
+  },
+  {
+   "en": "run an estimate",
+   "zh": "帮你估算能报多少",
+   "ex": "We can run an estimate once we have the item numbers."
+  },
+  {
+   "en": "out of pocket",
+   "zh": "自己掏钱的部分",
+   "ex": "We'd still be out of pocket about five thousand."
+  },
+  {
+   "en": "on file",
+   "zh": "（系统里）登记在案的",
+   "ex": "I'll send it to the email we've got on file."
+  }
+ ],
+ "listening": [
+  {
+   "en": "Thanks for holding, you're through to Jason. How're you going today?",
+   "sound": "How're you going 连成 \"how-ya-GO-in\"，是澳洲版 How are you。you're through to = 你现在接通的是……",
+   "zh": "谢谢等候，我是 Jason。您今天好吗？",
+   "reply": "Good, thanks. How are you? I've got a few questions about my extras cover."
+  },
+  {
+   "en": "Just bear with me a sec while I pull up your policy.",
+   "sound": "bear with me 连成 \"bare-with-me\" = 请稍等；a sec = a second；pull up = 在电脑上调出来。",
+   "zh": "稍等一下，我调出您的保单。",
+   "reply": "Sure, no problem."
+  },
+  {
+   "en": "So ortho's not actually on Mid — you'd have to bump up to Top Extras.",
+   "sound": "ortho's not 很快带过；actually 常吞成 \"ak-shly\"；bump up = 升一档。",
+   "zh": "正畸其实不在中档里，您得升到最高档。",
+   "reply": "Sorry, could you say that again a bit slower? Which level covers ortho?"
+  },
+  {
+   "en": "If you switched over today, she'd be right to claim from late October next year.",
+   "sound": "switched over 连读 \"switch-to-ver\"；she'd be right = 她就可以了（澳洲常说 be right）。",
+   "zh": "如果您今天就换，她明年十月底起就可以报。",
+   "reply": "Just to confirm, the treatment has to start after that date?"
+  },
+  {
+   "en": "It's twenty-two hundred per person, lifetime, mind you — not per year.",
+   "sound": "twenty-two hundred = 2,200（澳洲人报钱常这样说）；mind you = 注意哦/提醒一下。",
+   "zh": "每人 2,200，注意是终身的，不是每年。",
+   "reply": "Oh, okay. So that's the total for the whole treatment?"
+  },
+  {
+   "en": "Flick us the item numbers off the quote and we'll run an estimate for you.",
+   "sound": "flick us 读成 \"flick-us\" = 发给我们（短信/邮件/App）；off the quote = 报价单上的。",
+   "zh": "把报价单上的项目编号发给我们，我们帮您估算。",
+   "reply": "Great. Where do I find the item numbers?"
+  }
+ ],
+ "speech": {
+  "topic": "讲讲你是怎么弄懂自家医保附加险的",
+  "paragraphs": [
+   "When we first moved to Adelaide, private health insurance was a total mystery to me. There was hospital cover, extras cover, waiting periods, limits… I just picked a middle option and hoped for the best.",
+   "Last month, my daughter's dentist told us she might need braces. The orthodontist's quote was about seventy-five hundred dollars, so I decided it was time to actually understand our policy. I rang our health fund, and to be honest, I was a bit nervous. The man on the phone spoke really fast and used lots of numbers.",
+   "I learned three important things. First, our current extras didn't cover orthodontics at all, so we would need to upgrade. Second, there is a twelve-month waiting period, and it depends on when the treatment happens, not when you pay. Third, there is a lifetime limit for each person, so the fund will only pay part of the cost.",
+   "What helped me most was asking simple questions. I said, \"Sorry, could you say that again a bit slower?\" and \"Just to confirm, you mean…?\" He didn't mind at all. At the end, I asked him to email me the details, so I could read them again later.",
+   "Now I check my cover once a year. My advice is: don't be shy about calling. Write your questions down first, and have your member number and the quote in front of you, so you're not searching for papers while they wait. And always ask them to put it in writing."
+  ],
+  "zh": "刚搬到阿德莱德时，私人医保对我来说完全是个谜，只能随便选了中档。上个月牙医说女儿可能要戴牙套，报价约 7,500 澳元，我决定好好弄懂保单。打电话时对方语速很快、数字很多，但我学到三点：现在的附加险不包正畸，需要升级；正畸有 12 个月等待期，按治疗时间算而不是付款时间；每人有终身上限，保险只报一部分。最有用的是大胆追问、请对方放慢、再复述确认，最后让对方发邮件。现在我每年检查一次保险，建议大家先写好问题，并且一定要书面确认。",
+  "patterns": [
+   {
+    "en": "Our current ___ doesn't cover ___, so we'd need to ___.",
+    "zh": "我们现在的___不包___，所以得___。"
+   },
+   {
+    "en": "It depends on when ___, not when ___.",
+    "zh": "关键看什么时候___，而不是什么时候___。"
+   },
+   {
+    "en": "What helped me most was ___.",
+    "zh": "对我最有帮助的是___。"
+   },
+   {
+    "en": "My advice is: don't be shy about ___.",
+    "zh": "我的建议是：别不好意思___。"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Jason",
+   "role": "健康保险公司会员热线客服",
+   "voice": "m"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Thanks for holding, you're through to Jason. How're you going today?",
+    "zh": "谢谢等候，我是 Jason。您今天好吗？"
+   },
+   {
+    "s": "y",
+    "en": "Good, thanks. How are you? I've got a few questions about my extras cover.",
+    "zh": "挺好，谢谢。你呢？我想问几个关于附加险的问题。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, not bad, thanks. Happy to help. Can I grab your member number, and then your full name and date of birth, just for security?",
+    "zh": "还不错，谢谢。很乐意帮忙。能告诉我会员号吗？然后为了安全核实，再说一下全名和生日。"
+   },
+   {
+    "s": "y",
+    "en": "Sure. The member number is 4471 2380. My name's Amy Zhang, and my date of birth is the 3rd of March, 1988.",
+    "zh": "好的。会员号 4471 2380。我叫 Amy Zhang，生日是 1988 年 3 月 3 日。"
+   },
+   {
+    "s": "o",
+    "en": "Lovely, thanks for that. Just bear with me a sec while I pull up your policy… Okay, got it. So you're on Family Mid Extras with us. What can I do for you?",
+    "zh": "好的，谢谢。稍等，我调出您的保单……好，找到了。您买的是家庭中档附加险。有什么可以帮您？"
+   },
+   {
+    "s": "y",
+    "en": "My daughter's dentist says she'll probably need braces next year. The orthodontist gave us a quote of about seventy-five hundred dollars. I'd like to know if we're covered.",
+    "zh": "牙医说我女儿明年大概要戴牙套。正畸诊所报价大约 7,500 澳元。我想知道我们能不能报。"
+   },
+   {
+    "s": "o",
+    "en": "Right, okay. So unfortunately ortho's not actually included on Mid. It only covers general and major dental. For ortho, you'd have to bump up to Top Extras.",
+    "zh": "好的。很遗憾，正畸其实不在中档里，中档只包普通和大型牙科。要包正畸，您得升到最高档。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say that again a bit slower? Which level covers orthodontics?",
+    "zh": "不好意思，能说慢一点再说一遍吗？哪一档包正畸？"
+   },
+   {
+    "s": "o",
+    "en": "Sure, no dramas. Top Extras. That's the only one of our extras levels that includes ortho.",
+    "zh": "当然，没问题。最高档 Top Extras，我们附加险里只有这一档包正畸。"
+   },
+   {
+    "s": "y",
+    "en": "I see. And if I upgrade, can we claim straight away?",
+    "zh": "明白了。如果我升级，可以马上报销吗？"
+   },
+   {
+    "s": "o",
+    "en": "Ah, not straight away, no. There's a twelve-month waiting period on ortho. So if you switched over today, she'd be right to claim from late October next year. Anything before that, you'd be paying yourself.",
+    "zh": "啊，不能马上。正畸有 12 个月等待期。如果您今天就换，她明年十月底起就可以报。在那之前的费用要自己付。"
+   },
+   {
+    "s": "y",
+    "en": "Just to confirm, you mean the treatment has to start after the waiting period, not just the payments?",
+    "zh": "确认一下，您的意思是治疗本身要在等待期之后开始，而不只是付款在那之后？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, good question. It's based on the date of service, so when the work's actually done. If the braces go on before the twelve months are up, that part won't be covered. A lot of people just ask the ortho to hold off a bit.",
+    "zh": "对，问得好。按治疗日期算，也就是真正做治疗的那天。如果 12 个月还没满就戴上牙套，那部分不能报。很多人会请正畸医生稍微推迟一点。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, that makes sense. How much would you pay back for the braces?",
+    "zh": "好的，明白了。牙套你们能报多少？"
+   },
+   {
+    "s": "o",
+    "en": "So on Top Extras, ortho's got a lifetime limit of twenty-two hundred per person. And that's lifetime, mind you, not per year. We pay sixty per cent of the fee until you hit that limit.",
+    "zh": "在最高档里，正畸每人有 2,200 的终身上限。注意是终身，不是每年。我们按费用的 60% 报，直到到达上限。"
+   },
+   {
+    "s": "y",
+    "en": "So for a seven-and-a-half-thousand-dollar treatment, we'd still be out of pocket about fifty-three hundred?",
+    "zh": "那 7,500 的治疗，我们自己还要付大约 5,300？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, roughly, give or take. If you flick us the item numbers off the orthodontist's quote, we can run a proper estimate, and you'll know exactly where you stand.",
+    "zh": "对，大概是这样，上下差一点。把正畸报价单上的项目编号发给我们，我们可以准确估算，您就清楚了。"
+   },
+   {
+    "s": "y",
+    "en": "Great. Where do I find the item numbers?",
+    "zh": "好的。项目编号在哪里看？"
+   },
+   {
+    "s": "o",
+    "en": "They're the three-digit codes next to each line on the quote, usually starting with an eight. Eight-eleven, eight-twenty-one, that sort of thing. Just send through a photo in the app, under 'Get a quote'.",
+    "zh": "就是报价单每一行旁边的三位数代码，通常以 8 开头，比如 811、821 这种。在 App 里的 Get a quote 拍照发过来就行。"
+   },
+   {
+    "s": "y",
+    "en": "Got it. And how much more would Top Extras cost us each month?",
+    "zh": "明白。那最高档每个月要多付多少？"
+   },
+   {
+    "s": "o",
+    "en": "Let me have a look… So you're paying about one-forty a month for Mid at the moment, and Top would be around one-ninety-five. So roughly fifty-five bucks more a month.",
+    "zh": "我看一下……您现在中档每月大约 140，最高档大约 195，所以每月大概多 55 块。"
+   },
+   {
+    "s": "y",
+    "en": "Hmm, that adds up over a year. Can I have a think about it and call back?",
+    "zh": "嗯，一年下来也不少。我能考虑一下再打回来吗？"
+   },
+   {
+    "s": "o",
+    "en": "Absolutely, no pressure at all. Just keep in mind the twelve months only starts ticking once you've upgraded. So the sooner you switch, the sooner she's covered.",
+    "zh": "当然，完全不用有压力。只是记住，12 个月要从升级那天才开始算。越早换，她越早能报。"
+   },
+   {
+    "s": "y",
+    "en": "That's a good point. Could you email me the prices and the waiting period, so I've got it in writing?",
+    "zh": "说得对。能把价格和等待期发邮件给我吗？这样我有书面记录。"
+   },
+   {
+    "s": "o",
+    "en": "Yep, no worries. I'll pop that through to the email we've got on file now. Anything else I can help with today?",
+    "zh": "好的，没问题。我现在就发到我们登记的邮箱。今天还有别的需要帮忙吗？"
+   },
+   {
+    "s": "y",
+    "en": "No, that's everything. Thanks so much for your help. Have a good arvo!",
+    "zh": "没有了，就这些。非常感谢你的帮助，下午愉快！"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that again a bit slower?",
+   "zh": "不好意思，能慢一点再说一遍吗？"
+  },
+  {
+   "en": "Sorry, was that fifteen or fifty?",
+   "zh": "不好意思，是 15 还是 50？（听数字时特别有用）"
+  },
+  {
+   "en": "Just to confirm, you mean ___?",
+   "zh": "确认一下，您的意思是___？"
+  },
+  {
+   "en": "Could you spell the name of that cover level for me?",
+   "zh": "能把那个保险档次的名字拼一下吗？"
+  },
+  {
+   "en": "Could you email me that, so I've got it in writing?",
+   "zh": "能发邮件给我吗？这样我有书面记录。"
+  }
+ ],
+ "checklist": [
+  "我能用一两句话说清楚为什么打电话（孩子要戴牙套 + 报价金额）",
+  "我听懂了 bump up、mind you、give or take、flick us 的意思",
+  "我能分清 waiting period、annual limit、lifetime limit",
+  "我听懂了 twenty-two hundred、one-ninety-five 这类澳洲式报价",
+  "我至少用了一次「说慢一点」和一次「Just to confirm, you mean…?」",
+  "结束前我请对方把价格和等待期发邮件确认"
+ ]
+}

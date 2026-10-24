@@ -1,0 +1,132 @@
+{
+  "id": "2026-10-24",
+  "date": "2026-10-24",
+  "category": "求职",
+  "title": "HR 来电口头 offer，谈入职日期和薪酬",
+  "titleEn": "Taking a verbal job offer and talking start date and pay",
+  "scene": [
+    "你上周面试了一家能源公司的 Business Analyst 长期岗。今天下午 HR（Talent Acquisition）的 Megan 打来电话，说团队很喜欢你，想先口头给你 offer。她语速很快，一口气讲薪资、super、试用期、hybrid 安排，还会问你什么时候能入职、现在公司的 notice period 多长。",
+    "你的目标：① 听懂 offer 的关键数字（base salary、super 是否另算、试用期）；② 礼貌地说要考虑一下，并试着谈一点薪资或入职日期，不要当场答应；③ 请她把书面合同和细节发邮件，确认回复期限。"
+  ],
+  "facts": [
+    {"k": "Role", "v": "Business Analyst · 长期全职"},
+    {"k": "Offer", "v": "$118,000 base + super（最后谈到 $122k）"},
+    {"k": "Start", "v": "希望 11 月 16 日；你需要 4 周 notice"},
+    {"k": "Reply by", "v": "下周三 COB 前给答复"}
+  ],
+  "vocab": [
+    {"en": "verbal offer", "zh": "口头 offer（正式合同之后才发）", "ex": "I'm ringing to make you a verbal offer."},
+    {"en": "base salary", "zh": "基本工资（不含 super）", "ex": "The base salary is a hundred and eighteen thousand."},
+    {"en": "plus super / inclusive of super", "zh": "super 另算 / 已包含 super", "ex": "Is that plus super, or inclusive of super?"},
+    {"en": "package", "zh": "整体薪酬待遇", "ex": "The total package comes to around one thirty-two."},
+    {"en": "probation (period)", "zh": "试用期", "ex": "There's a standard six-month probation period."},
+    {"en": "notice period", "zh": "离职提前通知期", "ex": "What's your notice period at your current job?"},
+    {"en": "hand in your notice / resign", "zh": "递交辞呈", "ex": "I can hand in my notice once I've signed."},
+    {"en": "a bit of movement / wiggle room", "zh": "（价格、薪资上的）可调整空间", "ex": "Is there any movement on the base?"},
+    {"en": "go back to the hiring manager", "zh": "回去问用人经理", "ex": "Let me go back to the hiring manager and see."},
+    {"en": "salary packaging / salary sacrifice", "zh": "税前工资打包（如多放 super、novated lease）", "ex": "We do offer salary packaging as well."},
+    {"en": "come through", "zh": "（文件、邮件）发过来、到达", "ex": "The contract should come through on Monday."},
+    {"en": "sleep on it", "zh": "考虑一晚再决定", "ex": "Do you mind if I sleep on it over the weekend?"}
+  ],
+  "listening": [
+    {
+      "en": "Hi, is that Amy? It's Megan from the talent team — got a sec? I've got some good news for ya.",
+      "sound": "got a sec 连读 \"go-da-sec\" = 有空吗；for ya = for you，ya 很轻",
+      "zh": "你好，是 Amy 吗？我是招聘团队的 Megan——有空吗？有好消息告诉你。",
+      "reply": "Hi Megan, yes, I've got a few minutes. Thanks for calling."
+    },
+    {
+      "en": "So the team were really impressed, and we'd love to offer you the role — I'm just ringing to make you a verbal offer.",
+      "sound": "were really impressed 连成一串；ringing = 打电话（澳洲常用 ring 不用 call）",
+      "zh": "团队对你印象很好，我们想把这个职位给你——我打电话是先口头给你 offer。",
+      "reply": "That's fantastic news, thank you! I'd love to hear the details."
+    },
+    {
+      "en": "We're looking at one-eighteen base, plus super on top, so all up it's sitting around one thirty-two.",
+      "sound": "one-eighteen = $118,000，澳洲人报薪资常省掉 thousand；all up = 加起来总共；sitting around = 大约在",
+      "zh": "基本工资是 11.8 万，super 另算，加起来大概 13.2 万。",
+      "reply": "Thanks. Just to confirm, that's one hundred and eighteen thousand base, plus super?"
+    },
+    {
+      "en": "It's a six-month probation, which is pretty standard, and you'd be in the office three days a week — Tuesdays to Thursdays, give or take.",
+      "sound": "probation 重音在 \"ba\"；give or take = 大概，不一定",
+      "zh": "试用期六个月，挺标准的；每周三天在办公室——大概周二到周四。",
+      "reply": "That sounds fine. Is there any flexibility on which days?"
+    },
+    {
+      "en": "I can't promise anything, but I'm happy to go back to the hiring manager and see if there's a bit of wriggle room.",
+      "sound": "wriggle room = wiggle room，可调整的空间；go back to 连读 \"go-back-ta\"",
+      "zh": "我不能保证，但我可以回去问问用人经理，看有没有调整空间。",
+      "reply": "Thank you, I really appreciate that."
+    },
+    {
+      "en": "No dramas — I'll pop the contract through on Monday, and if you could let me know by Wednesday COB, that'd be ace.",
+      "sound": "no dramas = 没问题；pop it through = 发过来；COB = close of business 下班前；ace = 太好了",
+      "zh": "没问题——周一我把合同发给你，你能在周三下班前告诉我就太好了。",
+      "reply": "Sounds good. I'll get back to you by Wednesday at the latest."
+    }
+  ],
+  "speech": {
+    "topic": "我怎么准备谈工作 offer",
+    "paragraphs": [
+      "Getting a job offer is exciting, but it can also be a bit stressful, especially when the call comes out of the blue. In Australia, the recruiter or HR person often rings you first with a verbal offer, and then the written contract comes through a few days later. I've learned that I don't have to say yes on the spot.",
+      "When I get the call, I try to stay calm and write down the key numbers. The most important question is whether the salary is plus super or inclusive of super, because that can make a difference of more than ten thousand dollars. I also ask about the probation period, the hybrid arrangement, and when they would like me to start.",
+      "Before I talk about money, I always thank them and say I'm really keen on the role. Then I politely ask if there is any movement on the base salary. I usually give a reason, like my experience with similar projects or the market rate for this kind of role. If they can't move on the salary, I sometimes ask for something else, like a later start date or an extra day working from home.",
+      "Finally, I ask them to send everything in writing, and I confirm when they need my answer. I like to sleep on it and talk it over with my family. A good employer will understand that. In my experience, being polite but clear is the best way to get a fair deal and start a new job on the right foot."
+    ],
+    "zh": "拿到 offer 很开心，但电话常常来得突然，会有点紧张。在澳洲通常先接到口头 offer，几天后才有书面合同，所以不用当场答应。接电话时我会冷静记下关键数字：最重要的是薪资含不含 super，差别可能超过一万；还要问试用期、hybrid 安排和入职时间。谈钱之前先感谢对方、表达对职位的兴趣，再礼貌地问基本工资有没有调整空间，并给出理由；如果工资谈不动，可以争取晚一点入职或多一天在家办公。最后请对方书面发过来，确认答复期限，自己考虑一晚、和家人商量。礼貌而清楚，是拿到公平待遇、好好开始新工作的最佳方式。",
+    "patterns": [
+      {"en": "Just to confirm, is that ___ plus super, or inclusive of super?", "zh": "确认薪资数字和 super 是否另算"},
+      {"en": "I'm really keen on the role. Is there any movement on ___?", "zh": "先表态感兴趣，再问某项能不能调整"},
+      {"en": "Based on my experience with ___, I was hoping for something closer to ___.", "zh": "给出理由，提出期望数字"},
+      {"en": "Would it be possible to ___ instead?", "zh": "工资谈不动时，争取别的条件（入职日期、在家办公）"}
+    ]
+  },
+  "dialogue": {
+    "other": {"name": "Megan", "role": "公司 HR 招聘专员",
+   "voice": "f"},
+    "lines": [
+      {"s": "o", "en": "Hi, is that Amy? It's Megan from the talent team at Southern Grid Energy. Got a sec?", "zh": "你好，是 Amy 吗？我是 Southern Grid Energy 招聘团队的 Megan。有空吗？"},
+      {"s": "y", "en": "Hi Megan, yes, I've got a few minutes. How are you?", "zh": "你好 Megan，有的，我有几分钟。你好吗？"},
+      {"s": "o", "en": "Yeah, good, thanks! Look, I won't keep you long. The team were really impressed with you on Tuesday, so I'm ringing to make you a verbal offer for the BA role.", "zh": "挺好，谢谢！我不耽误你太久。周二团队对你印象很好，所以我打电话来口头给你这个 BA 职位的 offer。"},
+      {"s": "y", "en": "Oh, that's fantastic news. Thank you so much! I'd love to hear the details.", "zh": "哇，太好了，非常感谢！我想听听具体细节。"},
+      {"s": "o", "en": "Course. So it's a permanent full-time role, we're looking at one-eighteen base, plus super on top, so all up it's sitting around one thirty-two, and there's a six-month probation, which is pretty standard.", "zh": "当然。这是长期全职岗，基本工资 11.8 万，super 另算，加起来大约 13.2 万，试用期六个月，挺标准的。"},
+      {"s": "y", "en": "Sorry, could you say that again a bit slower? I want to write it down.", "zh": "不好意思，能说慢一点再讲一遍吗？我想记下来。"},
+      {"s": "o", "en": "Ha, no worries. One hundred and eighteen thousand base. Super's on top of that. Six months' probation.", "zh": "哈，没事。基本工资十一万八千。super 另外加。试用期六个月。"},
+      {"s": "y", "en": "Got it, thanks. Just to confirm, the hundred and eighteen doesn't include super, right?", "zh": "记下了，谢谢。确认一下，十一万八不包含 super，对吧？"},
+      {"s": "o", "en": "That's right, super's separate. And it's hybrid — three days in the office, usually Tuesday to Thursday, give or take, depending on the project.", "zh": "对，super 单独算。工作是 hybrid 的——每周三天在办公室，一般周二到周四，大概这样，看项目而定。"},
+      {"s": "y", "en": "That sounds good. And when were you hoping I could start?", "zh": "听起来不错。你们希望我什么时候入职？"},
+      {"s": "o", "en": "Ideally the sixteenth of November — the project kicks off that week. What's your notice period looking like at the moment?", "zh": "最好是 11 月 16 日——项目那周启动。你现在的 notice period 是多长？"},
+      {"s": "y", "en": "It's four weeks, so if I sign next week and hand in my notice straight away, the earliest would be around the twenty-third.", "zh": "四周，所以如果我下周签、马上递辞呈，最早大概 23 号。"},
+      {"s": "o", "en": "Okay, yeah, that should be fine, I reckon. I'll just double-check with Paul, but a week either way's no biggie.", "zh": "好的，我觉得应该没问题。我跟 Paul 再确认一下，前后差一周不算大事。"},
+      {"s": "y", "en": "Thanks. Megan, I'm really keen on the role. I just wanted to ask — is there any movement on the base salary?", "zh": "谢谢。Megan，我真的很想要这个职位。我想问一下——基本工资有调整空间吗？"},
+      {"s": "o", "en": "Mm, what sort of number did you have in mind?", "zh": "嗯，你心里大概是多少？"},
+      {"s": "y", "en": "Based on my experience with billing and payments projects, I was hoping for something closer to one twenty-five.", "zh": "基于我做账单和支付类项目的经验，我希望更接近 12.5 万。"},
+      {"s": "o", "en": "Right. I can't promise anything — the band's fairly tight for this one — but I'm happy to go back to the hiring manager and see if there's a bit of wriggle room.", "zh": "明白。我不能保证——这个岗位的薪资区间挺紧的——但我可以回去问问用人经理，看有没有一点空间。"},
+      {"s": "y", "en": "Thank you, I really appreciate that.", "zh": "谢谢，非常感激。"},
+      {"s": "o", "en": "Actually, hang on, he's just walked past — give me two ticks.", "zh": "哎，等一下，他刚好从旁边走过——给我两分钟。"},
+      {"s": "o", "en": "Okay, sorry about that. So Paul reckons he can stretch to one twenty-two, plus super, but that's pretty much the top of the band. We also do salary packaging, if that's any help.", "zh": "好了，不好意思。Paul 说最多可以到 12.2 万加 super，基本就是区间顶了。我们也有 salary packaging，看对你有没有帮助。"},
+      {"s": "y", "en": "That's great, thank you. Just to check, by salary packaging, you mean I can put extra into super before tax?", "zh": "太好了，谢谢。确认一下，你说的 salary packaging 是指我可以税前多放钱进 super 吗？"},
+      {"s": "o", "en": "Yep, super, or a novated lease on a car — it's all in the policy. I'll pop it in the email.", "zh": "对，可以放 super，也可以做汽车的 novated lease——政策里都有。我会放在邮件里。"},
+      {"s": "y", "en": "Perfect. Would you mind sending the offer and the contract in writing? I'd like to sleep on it and talk it over with my family.", "zh": "好的。你能把 offer 和合同书面发给我吗？我想考虑一晚，和家人商量一下。"},
+      {"s": "o", "en": "No dramas at all. I'll pop the contract through on Monday morning, and if you could let me know by Wednesday COB, that'd be ace.", "zh": "完全没问题。我周一早上把合同发给你，你能在周三下班前给我答复就太好了。"},
+      {"s": "y", "en": "Sounds good. So, Wednesday close of business. Thanks again, Megan — have a lovely weekend.", "zh": "好的。那就周三下班前。再次感谢，Megan——周末愉快。"},
+      {"s": "o", "en": "You too, Amy. Congrats again — chat soon!", "zh": "你也是，Amy。再次恭喜——回头聊！"}
+    ]
+  },
+  "rescue": [
+    {"en": "Sorry, could you say that number again a bit slower?", "zh": "不好意思，那个数字能说慢一点再讲一遍吗？"},
+    {"en": "Just to confirm, is that plus super, or including super?", "zh": "确认一下，是 super 另算，还是已包含？"},
+    {"en": "Sorry, I'm not familiar with that term. What does it mean exactly?", "zh": "不好意思，这个词我不熟，具体是什么意思？"},
+    {"en": "Would you mind putting all of that in an email for me?", "zh": "能麻烦你把这些都写在邮件里发给我吗？"},
+    {"en": "Can I have a think about it and get back to you by ___?", "zh": "我能考虑一下，___ 之前回复你吗？"}
+  ],
+  "checklist": [
+    "我能听懂 \"one-eighteen base, plus super on top\" 这种省略 thousand 的报薪方式",
+    "我会问 plus super 还是 inclusive of super，并复述确认数字",
+    "我能说出自己的 notice period，并算出最早入职日期",
+    "我能先表态 \"I'm really keen on the role\"，再礼貌地问 \"Is there any movement on the base?\"",
+    "我能给出理由并提出一个具体期望数字",
+    "我不当场答应，会要求书面合同并确认回复期限（Wednesday COB）"
+  ]
+}

@@ -1,0 +1,322 @@
+{
+ "id": "2026-10-16",
+ "date": "2026-10-16",
+ "category": "日常",
+ "title": "银行反诈团队来电核实一笔可疑消费",
+ "titleEn": "Taking a call from your bank's fraud team about a suspicious charge",
+ "scene": [
+  "周五早上，你刚送完孩子准备上班，手机响了，是一个 1300 开头的号码。对方说自己是 Harbour Bank 反诈团队的 Josh，系统发现你的借记卡凌晨两点多有两笔奇怪的海外网购。他语速很快，一口气报出时间、商家和金额，还夹着 pending、lodge a dispute、reissue 这类银行用语。最近诈骗电话很多，你既要配合，又要保护好自己。",
+  "你的目标：① 先礼貌确认对方真的是银行（不说 PIN、密码、验证码）；② 听清可疑消费的金额和商家，告诉他不是你刷的；③ 弄明白卡怎么冻结、钱怎么退、新卡多久到、哪些自动扣款要改，并要到参考编号。"
+ ],
+ "facts": [
+  {
+   "k": "Card",
+   "v": "Visa 借记卡，尾号 4127"
+  },
+  {
+   "k": "Flagged",
+   "v": "凌晨约 2:15：$1 测试扣款 + $389.95（Sky-Tech Online，海外）"
+  },
+  {
+   "k": "New card",
+   "v": "5–7 个工作日寄到；挂电话后即可在 app 里加到手机钱包"
+  },
+  {
+   "k": "Reference",
+   "v": "F7261（app 内安全消息发送）"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "flag (a transaction)",
+   "zh": "（系统）标记为可疑",
+   "ex": "Our system's flagged a couple of transactions on your card."
+  },
+  {
+   "en": "fraud team",
+   "zh": "银行反诈团队",
+   "ex": "This is Josh from the fraud team at Harbour Bank."
+  },
+  {
+   "en": "ring a bell",
+   "zh": "有印象、想得起来",
+   "ex": "Does that purchase ring a bell at all?"
+  },
+  {
+   "en": "pending",
+   "zh": "（交易）处理中、还没真正扣款",
+   "ex": "The payment's still pending, so it hasn't come out yet."
+  },
+  {
+   "en": "drop off",
+   "zh": "（待处理交易）自动消失、被撤销",
+   "ex": "Once the card's cancelled, it should just drop off."
+  },
+  {
+   "en": "put a block on (the card)",
+   "zh": "冻结（卡）",
+   "ex": "I'll put a block on the card right now."
+  },
+  {
+   "en": "cancel and reissue",
+   "zh": "注销旧卡、补发新卡",
+   "ex": "We'll cancel the card and reissue you a new one."
+  },
+  {
+   "en": "lodge a dispute",
+   "zh": "提出交易争议（申请退款调查）",
+   "ex": "If it goes through, I'll lodge a dispute for you."
+  },
+  {
+   "en": "provisional credit",
+   "zh": "调查期间先退回的临时款项",
+   "ex": "You'd normally get a provisional credit while we investigate."
+  },
+  {
+   "en": "direct debit",
+   "zh": "自动扣款（账单、订阅等）",
+   "ex": "Update any direct debits linked to the old card."
+  },
+  {
+   "en": "digital wallet",
+   "zh": "手机钱包（Apple Pay / Google Pay）",
+   "ex": "Add the new card to your digital wallet and tap with your phone."
+  },
+  {
+   "en": "on file",
+   "zh": "（银行）存档里的、登记的",
+   "ex": "We'll post it to the address we've got on file."
+  }
+ ],
+ "listening": [
+  {
+   "en": "Look, nothing to panic about, I'm just ringing to check a couple of transactions on your card that our system's flagged as a bit unusual.",
+   "sound": "\"nothing to\" 连成 \"nuthin'da\"；system's = system has；flagged 重读。ringing = 打电话（澳洲常用 ring）",
+   "zh": "别紧张，我只是打电话核实一下你卡上几笔被系统标记为异常的交易。",
+   "reply": "Okay. Before we go on, how do I know this is really the bank?"
+  },
+  {
+   "en": "Righto, so round quarter past two this morning, Adelaide time, there was a one-dollar charge from Sky-Tech Online, then straight after, a purchase for three eighty-nine ninety-five, same merchant, overseas. Ring a bell?",
+   "sound": "信息量最大的一句。three eighty-nine ninety-five = $389.95（澳洲人报金额常省掉 dollars/cents）；Righto = 好的那么；round = around",
+   "zh": "好，今天凌晨两点一刻左右（阿德莱德时间），Sky-Tech Online 先扣了 1 块钱，紧接着同一个海外商家又扣了 389.95。你有印象吗？",
+   "reply": "Sorry, could you say that again a bit slower? How much was the second one?"
+  },
+  {
+   "en": "The good news is the three eighty-nine's still pending, so once the card's cancelled it should just drop off in the next few days.",
+   "sound": "eighty-nine's = eighty-nine is；card's = card is；drop off 连读 \"dro-poff\"",
+   "zh": "好消息是那 389 还在处理中，卡一注销，过几天它应该就自动消失了。",
+   "reply": "Just to confirm, you mean I don't need to do anything for now?"
+  },
+  {
+   "en": "It'll be in the post within five to seven business days, to the address we've got on file.",
+   "sound": "It'll → \"iddle\"；in the post = 在邮寄途中；business days = 工作日",
+   "zh": "新卡会在 5 到 7 个工作日内寄到我们登记的地址。",
+   "reply": "Great. Can I use my phone to pay in the meantime?"
+  },
+  {
+   "en": "Anything set up on the old card — Netflix, your phone bill, the gym — they'll start bouncing, so you'll wanna update those.",
+   "sound": "wanna = want to；bouncing = 扣款失败被退回（不是\"跳\"）",
+   "zh": "旧卡上绑定的东西——Netflix、话费、健身房——都会扣款失败，所以你要去更新卡信息。",
+   "reply": "Oh, right. I'll go through them tonight."
+  },
+  {
+   "en": "Just a heads-up — if anyone rings saying they're from the bank and asks you to read out a code we've texted you, hang up. That's a scam, every time.",
+   "sound": "heads-up = 提醒一下；read out = 念出来；every time = 一律都是",
+   "zh": "提醒一下：如果有人打电话说是银行，让你念出我们短信发的验证码，直接挂掉。那百分之百是诈骗。",
+   "reply": "Thanks, that's really good to know."
+  }
+ ],
+ "speech": {
+  "topic": "说说我遇到过的一次可疑电话或诈骗经历，以及我学到了什么",
+  "paragraphs": [
+   "Today I want to talk about a time I nearly got caught by a scam, and what I learned from it. Living in Australia, I get a lot of strange calls and text messages, and some of them look very real.",
+   "A few months ago, I received a text that said my parcel couldn't be delivered. It had a link and asked me to pay a small fee of two dollars to rebook the delivery. I was waiting for a parcel, so I almost clicked it. But then I noticed the website address looked a bit odd. I decided to check the tracking number in the real Australia Post app instead, and everything was fine. The text was fake.",
+   "Then last week, my bank's fraud team called me about a strange charge on my card. This time I was more careful. Before giving any details, I asked how I could know the call was real. The staff member was happy to explain. He said the bank will never ask for my PIN, my password or a code sent by text. He also sent a notification to my banking app, so I could see the call was really from them.",
+   "From these experiences, I learned three simple rules. First, slow down. Scammers want you to panic and act quickly. Second, never share codes or passwords, even if the caller sounds friendly. Third, if you're not sure, hang up and call back on the number on the back of your card.",
+   "I think it's a good idea to talk about this with family and friends, especially older parents. A short conversation can save someone a lot of money and stress."
+  ],
+  "zh": "我想讲讲差点被骗的一次经历和我学到的东西。几个月前收到一条\"包裹无法派送、付 2 块钱重新预约\"的短信，因为正好在等包裹差点点了链接，后来发现网址不对，去官方 app 查了才知道是假的。上周银行反诈团队真的打电话来问一笔可疑消费，这次我先问清楚怎么确认对方是银行，对方说银行绝不会要 PIN、密码或短信验证码，还往我的银行 app 发了通知。我总结了三条：先别慌；永远不说验证码和密码；不确定就挂掉，打卡背面的电话回拨。也建议多和家人朋友、尤其是父母聊聊这件事。",
+  "patterns": [
+   {
+    "en": "Before we go on, how do I know ___?",
+    "zh": "在继续之前，我怎么确认 ___？（礼貌地核实身份）"
+   },
+   {
+    "en": "That definitely wasn't me. I was ___ at the time.",
+    "zh": "那绝对不是我。当时我在 ___。（否认交易并给理由）"
+   },
+   {
+    "en": "Just to confirm, you mean ___?",
+    "zh": "确认一下，你的意思是 ___？"
+   },
+   {
+    "en": "I'll go through ___ tonight and update them.",
+    "zh": "我今晚把 ___ 过一遍并更新。"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Josh",
+   "role": "银行反诈团队工作人员",
+   "voice": "m"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Hi there, it's Josh calling from the fraud and security team at Harbour Bank. Am I speaking with the account holder?",
+    "zh": "你好，我是 Harbour Bank 反诈与安全团队的 Josh。请问是账户持有人吗？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, speaking. Sorry, which bank did you say?",
+    "zh": "是我。不好意思，你说是哪家银行？"
+   },
+   {
+    "s": "o",
+    "en": "Harbour Bank, the fraud team. Look, nothing to panic about, I'm just ringing to check a couple of transactions on your Visa debit card that our system's flagged as a bit unusual.",
+    "zh": "Harbour Bank 反诈团队。别紧张，我只是打来核实你 Visa 借记卡上几笔被系统标记为异常的交易。"
+   },
+   {
+    "s": "y",
+    "en": "Okay. Before we go on, how do I know this is really the bank? I've had a few scam calls lately.",
+    "zh": "好的。在继续之前，我怎么确认你真的是银行？我最近接到过几个诈骗电话。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, good on you for asking. We'll never ask for your PIN, your password or your full card number. I've just sent a notification to your banking app, so if you open it, you'll see this call's from us.",
+    "zh": "问得好。我们绝不会要你的 PIN、密码或完整卡号。我刚往你的银行 app 发了一条通知，打开就能看到这通电话是我们打的。"
+   },
+   {
+    "s": "y",
+    "en": "Let me check. Yes, I can see it. It says Harbour Bank is calling me now. Okay, go ahead.",
+    "zh": "我看一下。嗯，看到了，写着 Harbour Bank 正在给我打电话。好的，你说吧。"
+   },
+   {
+    "s": "o",
+    "en": "Beautiful. Just to verify, can you confirm your date of birth for me?",
+    "zh": "太好了。核实一下，请告诉我你的出生日期。"
+   },
+   {
+    "s": "y",
+    "en": "Sure, it's the 3rd of June, 1988.",
+    "zh": "好的，1988 年 6 月 3 日。"
+   },
+   {
+    "s": "o",
+    "en": "Lovely, thanks. Righto, so round quarter past two this morning, Adelaide time, there was a one-dollar charge from a website called Sky-Tech Online, and then straight after, a purchase for three eighty-nine ninety-five, same merchant, overseas. Does that ring a bell at all?",
+    "zh": "好的，谢谢。那么，今天凌晨两点一刻左右（阿德莱德时间），一个叫 Sky-Tech Online 的网站先扣了 1 块钱，紧接着同一个海外商家又扣了 389.95。你有印象吗？"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say that again a bit slower? How much was the second one?",
+    "zh": "不好意思，能再慢一点说一遍吗？第二笔是多少钱？"
+   },
+   {
+    "s": "o",
+    "en": "No worries. Three hundred and eighty-nine dollars, ninety-five cents, from Sky-Tech Online. That little one-dollar charge first is pretty typical. They test the card first.",
+    "zh": "没问题。三百八十九块九毛五，Sky-Tech Online。先扣 1 块钱是很典型的手法，他们先试试卡能不能用。"
+   },
+   {
+    "s": "y",
+    "en": "No, that definitely wasn't me. I was asleep at two in the morning, and I've never heard of that shop. My card's still in my wallet.",
+    "zh": "不是，那绝对不是我。凌晨两点我在睡觉，也从没听说过这家店。我的卡还在钱包里。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, I figured as much. So what I'll do is put a block on the card right now, so nothing else can go through, and then I'll cancel it and reissue you a new one with a different number.",
+    "zh": "嗯，我也这么猜。那我现在先把卡冻结，这样别的交易都过不去，然后注销这张卡，给你补发一张新号码的卡。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, thank you. What about the money? Will I get it back?",
+    "zh": "好的，谢谢。那钱呢？能拿回来吗？"
+   },
+   {
+    "s": "o",
+    "en": "So the good news is the three eighty-nine's still pending, it hasn't actually come out yet, so once the card's cancelled it should just drop off in the next few days. If for some reason it does go through, I'll lodge a dispute on your behalf and we'll chase it up with the merchant.",
+    "zh": "好消息是那 389 还在处理中，钱还没真正扣走，卡注销后过几天应该就自动消失了。万一真的扣了，我会替你提交争议，我们去找商家追讨。"
+   },
+   {
+    "s": "y",
+    "en": "Just to confirm, you mean I don't need to do anything for now, and if the money does come out, you'll sort it out?",
+    "zh": "确认一下，你的意思是我现在什么都不用做，如果钱真的被扣了，你们会处理？"
+   },
+   {
+    "s": "o",
+    "en": "Spot on. Just keep an eye on your account over the next week or so, and if it does come out, give us a buzz and mention your reference number.",
+    "zh": "完全正确。接下来一周左右留意一下账户，如果真扣了，给我们打个电话，报上参考编号就行。"
+   },
+   {
+    "s": "y",
+    "en": "Got it. And when will I get the new card?",
+    "zh": "明白了。那新卡什么时候到？"
+   },
+   {
+    "s": "o",
+    "en": "It'll be in the post within five to seven business days, to the address we've got on file, 14 Wattle Street, Prospect. Is that still current? But you don't have to wait. As soon as we hang up, the new card'll show up in your app, and you can add it to your digital wallet and tap with your phone straight away.",
+    "zh": "新卡会在 5 到 7 个工作日内寄到我们登记的地址：Prospect 区 Wattle Street 14 号。地址还对吗？不过你不用等。挂了电话新卡就会出现在 app 里，你可以马上加到手机钱包，用手机刷。"
+   },
+   {
+    "s": "y",
+    "en": "Yes, that address is right. That's handy, because I need to pick up some groceries tonight.",
+    "zh": "对，地址没错。那太方便了，我今晚还要买菜。"
+   },
+   {
+    "s": "o",
+    "en": "Too easy. Oh, one more thing. Anything that's set up on the old card, like Netflix or your phone bill, they'll start bouncing, so you'll wanna update those with the new card details.",
+    "zh": "没问题。哦，还有一件事。旧卡上绑定的东西，比如 Netflix、话费这些自动扣款，都会扣款失败，所以你要用新卡信息更新一下。"
+   },
+   {
+    "s": "y",
+    "en": "Oh, right. I've got a few of those. I'll go through them tonight. Could you send me the reference number in writing, please?",
+    "zh": "哦，对。我有好几个。今晚我一个个弄。能把参考编号用文字发给我吗？"
+   },
+   {
+    "s": "o",
+    "en": "Sure thing. I'll pop it in a secure message in your app. It's F-7-2-6-1. And just a heads-up: if anyone rings saying they're from the bank and asks you to read out a code we've texted you, hang up. That's a scam, every time.",
+    "zh": "没问题，我会通过 app 里的安全消息发给你。编号是 F7261。另外提醒一下：如果有人打电话说是银行，让你念出我们短信发的验证码，直接挂掉。那百分之百是诈骗。"
+   },
+   {
+    "s": "y",
+    "en": "Thanks, that's really good to know. F-7-2-6-1. Thanks so much for catching it, Josh.",
+    "zh": "谢谢，这个很有用。F7261，非常感谢你及时发现，Josh。"
+   },
+   {
+    "s": "o",
+    "en": "No dramas at all. Sorry for the hassle, and have a good one.",
+    "zh": "一点都不麻烦。给你添麻烦了，祝你今天顺利。"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that again a bit slower, please?",
+   "zh": "不好意思，能再慢一点说一遍吗？"
+  },
+  {
+   "en": "Sorry, how much did you say? Could you repeat the amount?",
+   "zh": "不好意思，你说多少钱？能再报一遍金额吗？"
+  },
+  {
+   "en": "Could you spell the name of the merchant for me?",
+   "zh": "能帮我拼一下商家的名字吗？"
+  },
+  {
+   "en": "Before we go on, how can I check this call is really from the bank?",
+   "zh": "在继续之前，我怎么确认这通电话真的是银行打的？"
+  },
+  {
+   "en": "Could you send me the reference number in a message, please?",
+   "zh": "能把参考编号发消息给我吗？"
+  }
+ ],
+ "checklist": [
+  "我能礼貌地先确认对方身份，并记住：银行不会要 PIN、密码和短信验证码",
+  "我听清了可疑消费的时间、商家和金额（$1 测试扣款 + $389.95）",
+  "我能用一两句话说明\"不是我刷的\"并给出理由",
+  "我听懂了 pending、drop off、lodge a dispute、chase it up 的意思",
+  "我知道新卡多久到、可以先加到手机钱包，也记得要更新 direct debits",
+  "对话中我至少礼貌追问了两次（请他慢一点 / Just to confirm…），并要到了参考编号"
+ ]
+}

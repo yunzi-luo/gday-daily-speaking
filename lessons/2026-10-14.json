@@ -1,0 +1,312 @@
+{
+ "id": "2026-10-14",
+ "date": "2026-10-14",
+ "category": "孩子学校/幼儿园",
+ "title": "学校前台来电：孩子发烧要你来接",
+ "titleEn": "The school office calls: your child is sick",
+ "scene": [
+  "周三上午十一点，你正在公司开会，手机响了，是孩子小学的前台 Donna 打来的。你上 Year 1 的女儿 Mia 说头疼，在 sick bay 躺着，量了体温有点烧。Donna 说话很快、很亲切，但一口气会说好几件事：体温多少、能不能给药、什么时候来接、明天能不能上学。",
+  "你的目标：① 听懂孩子现在什么情况、体温多少；② 回答能不能给退烧药，说清你大概几点能到、谁来接；③ 弄明白接孩子的流程（到前台签字）和回校规定（24 小时不发烧），最后请她短信确认。"
+ ],
+ "facts": [
+  {
+   "k": "Who",
+   "v": "Year 1 · Mia（在 sick bay）"
+  },
+  {
+   "k": "Temp",
+   "v": "38.2°C，头疼，没吐"
+  },
+  {
+   "k": "Pick-up",
+   "v": "12:00 左右 · 前台签字带走"
+  },
+  {
+   "k": "Back to school",
+   "v": "24 小时不发烧（不靠吃药退烧）"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "front office",
+   "zh": "学校前台/办公室",
+   "ex": "Hi, it's Donna from the front office at Prospect Primary."
+  },
+  {
+   "en": "sick bay",
+   "zh": "学校医务角/休息室",
+   "ex": "She's having a lie-down in the sick bay."
+  },
+  {
+   "en": "run a temperature / temp",
+   "zh": "发烧（temp 是 temperature 的口语缩写）",
+   "ex": "She's running a bit of a temp."
+  },
+  {
+   "en": "a bit off colour",
+   "zh": "脸色不好、看着不太舒服",
+   "ex": "She's been a bit off colour since recess."
+  },
+  {
+   "en": "under the weather",
+   "zh": "身体不太舒服",
+   "ex": "She's just a bit under the weather, nothing serious."
+  },
+  {
+   "en": "recess",
+   "zh": "上午课间休息（约 10:30–11:00）",
+   "ex": "Her teacher noticed it straight after recess."
+  },
+  {
+   "en": "come and grab her",
+   "zh": "来把她接走（grab 很口语）",
+   "ex": "Are you able to come and grab her?"
+  },
+  {
+   "en": "sign her out",
+   "zh": "（在前台）签字把孩子接走",
+   "ex": "You'll just need to sign her out at the front office."
+  },
+  {
+   "en": "consent",
+   "zh": "（家长）同意、授权",
+   "ex": "We can't give her Panadol without your consent."
+  },
+  {
+   "en": "symptom-free",
+   "zh": "没有症状",
+   "ex": "She needs to be 24 hours symptom-free before she comes back."
+  },
+  {
+   "en": "mark her absent / log the absence",
+   "zh": "登记缺勤",
+   "ex": "You can log the absence on the school app."
+  },
+  {
+   "en": "keep an eye on her",
+   "zh": "留意、看着她",
+   "ex": "We'll keep an eye on her till you get here."
+  }
+ ],
+ "listening": [
+  {
+   "en": "Hi, is that Mia's mum? It's Donna from the front office — nothing to panic about, she's okay.",
+   "sound": "is that → \"izzat\"；front office 连读成 \"fron-toffice\"。开头先说 nothing to panic about，是让你别紧张",
+   "zh": "你好，是 Mia 的妈妈吗？我是前台的 Donna——别紧张，她没事。",
+   "reply": "Hi Donna, yes, speaking. Is everything alright?"
+  },
+  {
+   "en": "She's been a bit off colour since recess, so we've popped her in the sick bay.",
+   "sound": "off colour → \"o-fculler\"；popped her in → \"pop-der-in\"，her 的 h 吞掉",
+   "zh": "她从课间开始就看着不太舒服，我们就让她在医务室躺着了。",
+   "reply": "Oh, poor thing. What's wrong with her?"
+  },
+  {
+   "en": "She's running a bit of a temp — thirty-eight point two — and she reckons her head's sore.",
+   "sound": "a bit of a → \"a bidda\"；thirty-eight point two 说得很快，就是 38.2；reckons = 说/觉得",
+   "zh": "她有点发烧——38.2 度——她说头疼。",
+   "reply": "Sorry, was that thirty-eight point two?"
+  },
+  {
+   "en": "We're not allowed to give her any Panadol unless we've got your consent, so would you like us to?",
+   "sound": "not allowed to → \"nod-a-lowd-a\"；Panadol 是澳洲最常见的扑热息痛品牌，相当于退烧药",
+   "zh": "没有你的同意我们不能给她吃 Panadol，你希望我们给吗？",
+   "reply": "Yes, that's fine. She's had it before with no problems."
+  },
+  {
+   "en": "Are you right to come and grab her, or is there someone else on the list who can?",
+   "sound": "are you right to → \"ya-right-a\"，意思是\"你方便…吗\"；on the list = 授权接孩子名单",
+   "zh": "你方便来接她吗？还是名单上有别人可以来？",
+   "reply": "I'm at work, but I can be there in about forty minutes."
+  },
+  {
+   "en": "Just pop into the front office and sign her out — no need to go down to the classroom.",
+   "sound": "pop into → \"po-pinto\"；sign her out → \"sign-er-out\"",
+   "zh": "直接到前台签字把她接走就行——不用去教室。",
+   "reply": "Got it. I'll come straight to the front office."
+  }
+ ],
+ "speech": {
+  "topic": "说说孩子在学校生病时，我是怎么一边上班一边处理的",
+  "paragraphs": [
+   "Today I want to talk about a day when my daughter got sick at school. It was a Wednesday morning and I was in a meeting at work. My phone rang, and it was the front office at her school. The lady on the phone told me my daughter was a bit off colour and had a temperature of thirty-eight point two. She was lying down in the sick bay.",
+   "At first I felt worried, but the lady was very calm and kind. She asked me if they could give her Panadol, and I said yes. Then she asked if I could come and pick her up. I told her I could be there in about forty minutes. I also asked her to say a few things again more slowly, because she was speaking very fast and I didn't want to miss anything.",
+   "After the call, I told my manager what was going on. In Australia, most managers are very understanding about this. I packed up my laptop, drove to the school and signed my daughter out at the front office. She looked tired, but she gave me a big smile.",
+   "I learned two useful things that day. First, the school has a rule: a child needs to be twenty-four hours without a fever before going back. Second, it's important to keep the school's list of emergency contacts up to date, in case I can't leave work.",
+   "Now I feel much more confident on the phone. If I don't catch something, I just ask, \"Sorry, could you say that again?\" Most people are happy to help."
+  ],
+  "zh": "我讲了一次孩子在学校生病的经历：周三上午我在开会，学校前台打电话说女儿不舒服、发烧 38.2 度，在医务室躺着。我一开始很担心，但前台很冷静友好。她问能不能给孩子吃 Panadol，我同意了；她问我能不能来接，我说四十分钟左右到。因为她说得快，我请她慢一点重复。挂电话后我跟经理说明情况，开车去学校在前台签字接走了孩子。我学到两点：孩子要 24 小时不发烧才能回校；要及时更新学校的紧急联系人名单。现在我打电话更有信心了，听不清就直接请对方再说一遍。",
+  "patterns": [
+   {
+    "en": "She's been a bit ___ since ___.",
+    "zh": "她从……开始就有点……（描述症状开始时间）如 a bit off colour since recess"
+   },
+   {
+    "en": "I can be there in about ___.",
+    "zh": "我大概……后能到（如 forty minutes / half an hour）"
+   },
+   {
+    "en": "Would it be okay if ___ picks her up instead?",
+    "zh": "可以换成……来接她吗？"
+   },
+   {
+    "en": "Just to confirm, she needs to ___ before she comes back?",
+    "zh": "确认一下，她回学校之前需要……对吗？"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Donna",
+   "role": "小学前台工作人员",
+   "voice": "f"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Hi, is that Mia's mum? It's Donna from the front office at Prospect Primary. Nothing to panic about, she's okay.",
+    "zh": "你好，是 Mia 的妈妈吗？我是 Prospect 小学前台的 Donna。别紧张，她没事。"
+   },
+   {
+    "s": "y",
+    "en": "Hi Donna, yes, speaking. I'm just stepping out of a meeting. Is everything alright?",
+    "zh": "你好 Donna，是我。我刚从会议里出来。一切还好吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, look, she's been a bit off colour since recess, so her teacher sent her up and we've popped her in the sick bay. She's running a bit of a temp, thirty-eight point two, and she reckons her head's pretty sore.",
+    "zh": "嗯，是这样，她从课间就看着不太舒服，老师让她来前台，我们让她在医务室躺着了。她有点发烧，38.2 度，她说头挺疼的。"
+   },
+   {
+    "s": "y",
+    "en": "Oh no, poor thing. Sorry, could you say the temperature again a bit slower?",
+    "zh": "哎呀，可怜的孩子。不好意思，体温能再慢一点说一遍吗？"
+   },
+   {
+    "s": "o",
+    "en": "Sure, no worries. Thirty-eight point two. So not super high, but high enough that we can't really keep her in class.",
+    "zh": "当然，没问题。38.2 度。不算特别高，但已经不能让她留在教室了。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, I understand. Has she been sick at all, like vomiting?",
+    "zh": "好的，明白。她有没有吐？"
+   },
+   {
+    "s": "o",
+    "en": "No, no vomiting, thank goodness. She's just lying down with a cold pack and a cup of water. She's a bit teary, but she's alright.",
+    "zh": "没有，没吐，还好。她就躺着敷着冰袋，喝了点水。有点想哭，但还好。"
+   },
+   {
+    "s": "o",
+    "en": "Now, we're not allowed to give her any Panadol unless we've got your consent. Would you like us to give her a dose while she's waiting?",
+    "zh": "另外，没有你的同意我们不能给她吃 Panadol。你希望我们在她等的时候给她吃一次吗？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, please, that's fine. She's had Panadol before with no problems. She hasn't had any today.",
+    "zh": "好的，可以。她以前吃过 Panadol，没问题。她今天还没吃过。"
+   },
+   {
+    "s": "o",
+    "en": "Lovely, I'll note that down. And are you right to come and grab her, or is there someone else on the list who can?",
+    "zh": "好的，我记下来。那你方便来接她吗？还是名单上有别人可以来？"
+   },
+   {
+    "s": "y",
+    "en": "I'm at work in the city, but I can leave now. I should be there in about forty minutes, so around twelve.",
+    "zh": "我在市区上班，不过我现在可以走。大概四十分钟能到，差不多十二点。"
+   },
+   {
+    "s": "o",
+    "en": "That's fine, no rush. Drive safe. We'll keep an eye on her till you get here.",
+    "zh": "可以，别着急。路上小心。你到之前我们会看着她。"
+   },
+   {
+    "s": "y",
+    "en": "Thank you. When I get there, do I need to go to her classroom?",
+    "zh": "谢谢。我到了以后需要去她教室吗？"
+   },
+   {
+    "s": "o",
+    "en": "Nah, just pop into the front office and sign her out on the iPad at the desk. She'll be right here with me, and her bag's already up here too.",
+    "zh": "不用，直接来前台，在桌上的 iPad 签字接走就行。她就在我这儿，书包也已经拿上来了。"
+   },
+   {
+    "s": "y",
+    "en": "Great. Just to confirm, I sign her out at the front office, not the classroom?",
+    "zh": "好的。确认一下，我是在前台签字，不是在教室，对吗？"
+   },
+   {
+    "s": "o",
+    "en": "That's it, spot on. Oh, and just a heads-up — with a temp, she'll need to be twenty-four hours symptom-free before she comes back, and that's without any Panadol bringing it down.",
+    "zh": "对，没错。哦，还要提醒你一下——发烧的话，她要 24 小时没症状才能回来，而且不能是吃药压下去的。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, I didn't quite catch the last part. Do you mean no fever for a full day without medicine?",
+    "zh": "不好意思，最后那部分我没太听清。你是说不吃药的情况下一整天不发烧吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yep, exactly. So realistically, she'll probably be home tomorrow. You can log the absence on the school app, and that'll go straight to her teacher.",
+    "zh": "对，就是这样。所以实际上她明天大概要在家。你可以在学校 app 上登记缺勤，会直接发给她老师。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, I'll do that tonight. Could you also send me a quick text with the pick-up details, just so I've got it in writing?",
+    "zh": "好的，我今晚登记。你能再给我发条短信写一下接孩子的安排吗？这样我有个书面记录。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, can do. Is it still 0491 570 156?",
+    "zh": "可以。号码还是 0491 570 156 吗？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, that's right. And can you tell Mia I'm on my way?",
+    "zh": "对，没错。你能告诉 Mia 我已经在路上了吗？"
+   },
+   {
+    "s": "o",
+    "en": "Will do. She'll be stoked. Alright, see you soon, love.",
+    "zh": "好的。她肯定会很开心。好，一会儿见。"
+   },
+   {
+    "s": "y",
+    "en": "Thanks so much, Donna. I really appreciate you looking after her. See you soon.",
+    "zh": "非常感谢你，Donna，谢谢你照顾她。一会儿见。"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that again a bit slower?",
+   "zh": "不好意思，能再慢一点说一遍吗？"
+  },
+  {
+   "en": "Sorry, was that thirty-eight point two?",
+   "zh": "不好意思，是 38.2 度吗？（重复数字确认）"
+  },
+  {
+   "en": "Just to confirm, you mean ___?",
+   "zh": "确认一下，你的意思是 ___？"
+  },
+  {
+   "en": "Sorry, I didn't quite catch the last part.",
+   "zh": "不好意思，最后那部分我没太听清。"
+  },
+  {
+   "en": "Could you send me a quick text with the details?",
+   "zh": "你能把细节发短信给我吗？"
+  }
+ ],
+ "checklist": [
+  "我听懂了 off colour、run a temp、sick bay，知道孩子现在什么情况",
+  "我听清并复述了体温 38.2（thirty-eight point two）",
+  "我能清楚回答能不能给 Panadol（consent）",
+  "我说出了大概几点到（I can be there in about forty minutes）",
+  "我弄明白了要在前台 sign her out，以及 24 hours symptom-free 才能回校",
+  "对话中我至少礼貌追问了两次，并请对方短信确认"
+ ]
+}

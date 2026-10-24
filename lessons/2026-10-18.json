@@ -1,0 +1,322 @@
+{
+ "id": "2026-10-18",
+ "date": "2026-10-18",
+ "category": "社交",
+ "title": "朋友来电约周末去酒庄一日游",
+ "titleEn": "A friend rings to plan a Barossa day trip and a carpool",
+ "scene": [
+  "周日上午，你在家收拾东西，朋友 Kate 打来电话。她和老公 Steve 想约你们一家下周六去 Barossa Valley 玩一天：上午去酒庄 cellar door，中午在草地上 picnic，下午去农夫市场。她语速很快，一边说一边笑，还夹着好几个澳洲口语词。",
+  "你的目标：① 听懂出发时间、谁开车、在哪儿接你；② 商量每家带什么吃的、要不要带小孩的东西；③ 问清楚如果天气不好有什么 plan B，最后确认细节、让她发短信。"
+ ],
+ "facts": [
+  {
+   "k": "When",
+   "v": "Saturday 24 Oct, pick-up 9:00 am"
+  },
+  {
+   "k": "Where",
+   "v": "Pick-up at 14 Wattle Street, Prospect → Barossa Valley (about 1 hr 15 min)"
+  },
+  {
+   "k": "Bring",
+   "v": "A salad + drinks for the kids, picnic rug, hats, sunscreen"
+  },
+  {
+   "k": "Plan B",
+   "v": "If it rains: lunch at the bakery café in Tanunda"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "day trip",
+   "zh": "一日游",
+   "ex": "We're thinking of doing a day trip to the Barossa next Saturday."
+  },
+  {
+   "en": "carpool / go in one car",
+   "zh": "拼车 / 坐一辆车去",
+   "ex": "It's easier if we all go in one car."
+  },
+  {
+   "en": "swing by",
+   "zh": "顺路过来（接人）",
+   "ex": "We can swing by your place at nine."
+  },
+  {
+   "en": "designated driver (des driver)",
+   "zh": "指定司机（当天不喝酒的人）",
+   "ex": "Steve's happy to be the des driver this time."
+  },
+  {
+   "en": "cellar door",
+   "zh": "酒庄品酒室（可以试酒、买酒）",
+   "ex": "There's a nice cellar door with a big lawn for the kids."
+  },
+  {
+   "en": "rug",
+   "zh": "野餐垫、毯子",
+   "ex": "Can you bring a picnic rug?"
+  },
+  {
+   "en": "esky",
+   "zh": "（澳）保温冰箱、冰桶",
+   "ex": "I'll pack the drinks in the esky."
+  },
+  {
+   "en": "dodgy (forecast)",
+   "zh": "不靠谱的、可能变坏的（天气预报）",
+   "ex": "The forecast's looking a bit dodgy for Saturday."
+  },
+  {
+   "en": "plan B",
+   "zh": "备用方案",
+   "ex": "If it rains, our plan B is the café in Tanunda."
+  },
+  {
+   "en": "chip in / split the petrol",
+   "zh": "凑钱 / 分摊油钱",
+   "ex": "Let us chip in for petrol, at least."
+  },
+  {
+   "en": "rain check",
+   "zh": "改天再约",
+   "ex": "If the weather's bad, we'll take a rain check."
+  },
+  {
+   "en": "keep it low-key",
+   "zh": "简单随意、不搞复杂",
+   "ex": "Let's keep it low-key — nothing fancy."
+  }
+ ],
+ "listening": [
+  {
+   "en": "Hey, how're you going? Not interrupting anything, am I?",
+   "sound": "how're you going → \"how-ya-goin\"，就是 How are you；Not interrupting anything, am I? 是客气地问\"没打扰你吧\"",
+   "zh": "嘿，你好吗？没打扰你吧？",
+   "reply": "Hi Kate! No, not at all. I'm just tidying up. How are you?"
+  },
+  {
+   "en": "We were thinkin' of doin' a day trip up to the Barossa next Satdee — you guys keen?",
+   "sound": "thinkin'/doin' 吞掉 g；Satdee = Saturday，澳洲人常这样读；keen = 想去、有兴趣",
+   "zh": "我们想下周六去 Barossa 一日游——你们想去吗？",
+   "reply": "Oh, that sounds great. We'd love to come. What's the plan?"
+  },
+  {
+   "en": "Steve reckons it's easier if we all just pile into the one car — we can swing by yours round nine.",
+   "sound": "reckons = 觉得；pile into = 一起挤进；swing by yours = 顺路到你家；round nine = 九点左右",
+   "zh": "Steve 觉得我们都坐一辆车更方便——我们九点左右顺路去接你们。",
+   "reply": "That works for us. Are you sure there's enough room for everyone?"
+  },
+  {
+   "en": "Don't stress, he's des driver, so you can have a cheeky tasting at the cellar door.",
+   "sound": "Don't stress = 别担心；des driver = designated driver；cheeky = 带点调皮的\"小小来一点\"",
+   "zh": "别担心，他当司机，所以你可以在酒庄小尝一下。",
+   "reply": "Ha, thanks! But let us chip in for petrol, at least."
+  },
+  {
+   "en": "Just bring a salad or somethin' and a rug — we'll chuck the drinks in the esky.",
+   "sound": "chuck = 扔、放（很随意的说法）；esky = 保温冰桶；somethin' 吞音",
+   "zh": "带个沙拉什么的和一张野餐垫就行——饮料我们放冰桶里。",
+   "reply": "No worries. I'll make a pasta salad. Should I bring anything for the kids?"
+  },
+  {
+   "en": "Forecast's lookin' a bit dodgy, mind you — if it buckets down we'll just duck into the bakery in Tanunda.",
+   "sound": "mind you = 不过（补充提醒）；buckets down = 下大雨；duck into = 赶紧躲进去",
+   "zh": "不过天气预报看着不太靠谱——要是下大雨，我们就去 Tanunda 的面包店躲雨。",
+   "reply": "Good idea. So the bakery is our plan B. Could you send me the name of it?"
+  }
+ ],
+ "speech": {
+  "topic": "我最喜欢的周末一日游",
+  "paragraphs": [
+   "My favourite way to spend a weekend is a simple day trip with my family and friends. We live in Adelaide, so we are lucky. In about an hour, we can drive to the hills, the beach, or a wine region like the Barossa Valley.",
+   "Last month, we went to the Barossa with another family. We all went in one car, which made it cheaper and more fun. My friend's husband was the designated driver, so the adults could try a little wine at a cellar door. The kids didn't care about the wine at all. They just ran around on the big lawn and chased each other until they were tired.",
+   "For lunch, we had a picnic. Everyone brought one or two things. I made a pasta salad, and my friend brought sandwiches, fruit and cold drinks in an esky. We sat on a rug under a big tree and talked for a long time. It was relaxed and low-key, and nobody looked at their phone.",
+   "In the afternoon, the weather changed and it started to rain. But we had a plan B. We went to a small bakery in Tanunda and had coffee and warm pies. The kids were very happy with that.",
+   "I think a good day trip doesn't need to be expensive or perfect. You just need good company, some food to share, and a backup plan for the weather. Next time, I'd like to try the Fleurieu Peninsula, because I've heard the beaches there are beautiful."
+  ],
+  "zh": "我最喜欢的周末方式是和家人朋友简单地出去玩一天。住在阿德莱德很幸运，开车一小时左右就能到山里、海边或 Barossa 这样的酒乡。上个月我们和另一家人去了 Barossa，大家坐一辆车，既省钱又热闹。朋友的老公当司机，大人们可以在酒庄尝一点酒，孩子们则在大草坪上跑来跑去。午饭是野餐，每家带一两样，我做了意面沙拉，朋友带了三明治、水果和冰桶里的饮料，大家坐在大树下的野餐垫上聊了很久。下午下起雨，我们按备用方案去了 Tanunda 的小面包店喝咖啡吃热馅饼。我觉得好的一日游不需要贵或完美，只要有好伙伴、可以分享的食物，再加一个应对天气的备用方案。下次我想去 Fleurieu 半岛看看海滩。",
+  "patterns": [
+   {
+    "en": "We were thinking of ___ next ___. Are you keen?",
+    "zh": "约人：我们打算下个___去___，你想去吗？"
+   },
+   {
+    "en": "Let us chip in for ___, at least.",
+    "zh": "主动分摊：至少让我们出___的钱吧。"
+   },
+   {
+    "en": "If it ___, our plan B is ___.",
+    "zh": "说备用方案：如果___，我们就___。"
+   },
+   {
+    "en": "Should I bring anything for ___?",
+    "zh": "问要带什么：要不要给___带点东西？"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Kate",
+   "role": "朋友（孩子同学的妈妈）",
+   "voice": "f"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Hey, how're you going? Not interrupting anything, am I?",
+    "zh": "嘿，你好吗？没打扰你吧？"
+   },
+   {
+    "s": "y",
+    "en": "Hi Kate! No, not at all. I'm just tidying up after breakfast. How are you?",
+    "zh": "嗨 Kate！没有没有。我刚吃完早饭在收拾。你好吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, good, good. Look, we were thinkin' of doin' a day trip up to the Barossa next Saturday. You guys keen?",
+    "zh": "挺好挺好。是这样，我们想下周六去 Barossa 一日游。你们想去吗？"
+   },
+   {
+    "s": "y",
+    "en": "Oh, that sounds lovely. We'd love to come. What's the plan?",
+    "zh": "哦，听起来很棒。我们很想去。怎么安排？"
+   },
+   {
+    "s": "o",
+    "en": "So, nothing fancy, keep it low-key. There's a cellar door near Tanunda with a massive lawn, so the kids can run amok while we have a little tasting, then a picnic, and maybe the farmers' market if everyone's still alive by then.",
+    "zh": "没什么复杂的，简单点。Tanunda 附近有个酒庄，草坪特别大，孩子们可以随便疯跑，我们小尝一下酒，然后野餐，要是大家到时候还有力气，也许再逛逛农夫市场。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say that again a bit slower? The kids can do what on the lawn?",
+    "zh": "不好意思，能稍微慢一点再说一遍吗？孩子们在草坪上干什么？"
+   },
+   {
+    "s": "o",
+    "en": "Ha, sorry! Run amok — just run around like crazy. Burn off some energy, you know.",
+    "zh": "哈，抱歉！Run amok——就是疯跑。消耗一下精力嘛。"
+   },
+   {
+    "s": "y",
+    "en": "Got it. That's perfect for my two. How are we getting there?",
+    "zh": "明白了。这对我家两个孩子太合适了。我们怎么去？"
+   },
+   {
+    "s": "o",
+    "en": "Steve reckons it's easier if we all just pile into the one car. We've got the seven-seater now. We can swing by yours round nine, if that suits?",
+    "zh": "Steve 觉得大家坐一辆车更方便。我们现在有七座车了。九点左右顺路去接你们，方便吗？"
+   },
+   {
+    "s": "y",
+    "en": "Nine works for us. Just to confirm, you mean you'll pick us up at our place, 14 Wattle Street?",
+    "zh": "九点可以。确认一下，你是说你们来我家接我们，Wattle 街 14 号？"
+   },
+   {
+    "s": "o",
+    "en": "Yep, that's the one. And don't stress about the driving — Steve's des driver, so you can have a cheeky glass at the cellar door.",
+    "zh": "对，就是那儿。开车的事别担心——Steve 当司机，所以你可以在酒庄小喝一杯。"
+   },
+   {
+    "s": "y",
+    "en": "That's really kind. But please let us chip in for petrol, at least.",
+    "zh": "你们太好了。不过至少让我们分摊一下油钱吧。"
+   },
+   {
+    "s": "o",
+    "en": "Oh, don't be silly. Tell you what, you can shout us a coffee on the way home and we'll call it even.",
+    "zh": "哎呀别客气。这样吧，回来路上你请我们喝杯咖啡，就扯平了。"
+   },
+   {
+    "s": "y",
+    "en": "Deal. What should we bring for the picnic?",
+    "zh": "成交。野餐我们带什么？"
+   },
+   {
+    "s": "o",
+    "en": "Just bring a salad or somethin' and a rug. We'll chuck the drinks in the esky, and I'll do some sandwiches and a bit of fruit.",
+    "zh": "带个沙拉什么的和一张野餐垫就行。饮料我们放冰桶里，我再做点三明治、带点水果。"
+   },
+   {
+    "s": "y",
+    "en": "No worries. I'll make a pasta salad. Should I bring anything for the kids, like hats or snacks?",
+    "zh": "没问题。我做个意面沙拉。要不要给孩子们带点东西，比如帽子或零食？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, definitely hats and sunscreen. It can get pretty warm up there, even this time of year. Oh, but the forecast's lookin' a bit dodgy, mind you. If it buckets down, we'll just duck into the bakery in Tanunda.",
+    "zh": "对，帽子和防晒霜一定要带。那边这个季节也可能挺热的。哦不过天气预报看着不太靠谱。要是下大雨，我们就去 Tanunda 的面包店躲一下。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, 'if it buckets down' — you mean if it rains really heavily?",
+    "zh": "不好意思，\"if it buckets down\"——你是说如果下大雨吗？"
+   },
+   {
+    "s": "o",
+    "en": "Exactly. Pouring. And if it's really bad, we'll just take a rain check and do it another weekend.",
+    "zh": "对，倾盆大雨。要是真的很糟糕，我们就改天，换个周末再去。"
+   },
+   {
+    "s": "y",
+    "en": "Sounds good. So the bakery is plan B, and if the weather's terrible, we'll do it another time.",
+    "zh": "好的。所以面包店是备用方案，如果天气特别差，我们就改天去。"
+   },
+   {
+    "s": "o",
+    "en": "You got it. I'll keep an eye on the forecast and let you know Friday arvo.",
+    "zh": "没错。我会盯着天气预报，周五下午告诉你。"
+   },
+   {
+    "s": "y",
+    "en": "Great. Could you text me the details too? Just the time and the name of the cellar door, so I don't forget.",
+    "zh": "太好了。你能也把细节发短信给我吗？就时间和酒庄名字，免得我忘了。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, no worries. I'll flick you a message in a sec. Right, I'd better go — the little one's just tipped her cereal on the floor.",
+    "zh": "好，没问题。我马上给你发条信息。好了，我得挂了——小的刚把麦片打翻在地上了。"
+   },
+   {
+    "s": "y",
+    "en": "Oh no! Good luck. Thanks so much for asking us, Kate. See you Saturday!",
+    "zh": "哦不！祝你好运。非常谢谢你约我们，Kate。周六见！"
+   },
+   {
+    "s": "o",
+    "en": "See ya! Bye, bye, bye.",
+    "zh": "回见！拜拜。"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that again a bit slower?",
+   "zh": "不好意思，能慢一点再说一遍吗？"
+  },
+  {
+   "en": "Sorry, what does 'run amok' mean? I haven't heard that one before.",
+   "zh": "不好意思，'run amok' 是什么意思？我没听过这个说法。"
+  },
+  {
+   "en": "Just to confirm, you'll pick us up at nine?",
+   "zh": "确认一下，你们九点来接我们？"
+  },
+  {
+   "en": "Could you spell the name of the cellar door for me?",
+   "zh": "能帮我拼一下那个酒庄的名字吗？"
+  },
+  {
+   "en": "Could you text me the details, so I don't forget?",
+   "zh": "你能把细节发短信给我吗？免得我忘了。"
+  }
+ ],
+ "checklist": [
+  "我能听懂 how're you going、keen、Satdee 这些开场口语，并自然回应",
+  "我听懂了谁开车（des driver）、几点在哪儿接（swing by yours round nine）",
+  "我能主动提出分摊油钱（chip in for petrol），也能接住对方客气的回绝",
+  "我知道 esky、rug、dodgy forecast、buckets down 是什么意思",
+  "我至少用了 2 次追问或确认（say that again / just to confirm / you mean…?）",
+  "结尾我请对方发短信确认时间和地点"
+ ]
+}

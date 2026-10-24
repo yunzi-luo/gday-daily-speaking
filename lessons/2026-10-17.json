@@ -1,0 +1,327 @@
+{
+ "id": "2026-10-17",
+ "date": "2026-10-17",
+ "category": "保险/医疗",
+ "title": "周六去药房凭电子处方给孩子取药",
+ "titleEn": "Picking up your child's eScript at the chemist",
+ "scene": [
+  "周六早上，孩子说耳朵疼、有点低烧。你带她看了周末的 GP，医生开了抗生素药水，处方是电子处方（eScript），以短信二维码（token）的形式发到你手机上。你第一次来这家社区药房（澳洲人常叫 chemist），药剂师 Tom 很友好，但说话快，会连珠炮似地问问题：要不要仿制药、孩子有没有过敏、要不要把 repeat 留在店里，最后还会很快地交代用法。",
+  "你的目标：① 出示电子处方，提供孩子的 Medicare 信息，确认用仿制药；② 听懂并记下用法：剂量、一天几次、吃几天、怎么保存；③ 问清楚有副作用怎么办、剩下的 repeat 怎么处理，并请他把用法写在标签上。"
+ ],
+ "facts": [
+  {
+   "k": "Script",
+   "v": "eScript 短信二维码（token），1 个 repeat"
+  },
+  {
+   "k": "Medicine",
+   "v": "Amoxicillin 药水 250mg/5mL（仿制药）"
+  },
+  {
+   "k": "Dose",
+   "v": "每次 5 mL，一天两次，连吃 7 天"
+  },
+  {
+   "k": "Storage",
+   "v": "放冰箱，每次用前摇匀，14 天后丢掉"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "chemist / pharmacy",
+   "zh": "药房（澳洲口语常说 chemist）",
+   "ex": "I'll just duck into the chemist on the way home."
+  },
+  {
+   "en": "eScript / token",
+   "zh": "电子处方 / 短信里的二维码",
+   "ex": "The doctor sent the eScript token straight to my phone."
+  },
+  {
+   "en": "script",
+   "zh": "处方（prescription 的口语）",
+   "ex": "Can I drop off a script and come back in ten minutes?"
+  },
+  {
+   "en": "generic (brand)",
+   "zh": "仿制药（同成分、更便宜的牌子）",
+   "ex": "Are you happy with the generic? It's a bit cheaper."
+  },
+  {
+   "en": "repeat",
+   "zh": "处方可重复取药的次数",
+   "ex": "There's one repeat left on this script."
+  },
+  {
+   "en": "keep it on file",
+   "zh": "（把处方/记录）留存在店里",
+   "ex": "We can keep the repeat on file for you."
+  },
+  {
+   "en": "finish the course",
+   "zh": "把整个疗程的药吃完",
+   "ex": "Make sure she finishes the course, even if she feels better."
+  },
+  {
+   "en": "give it a good shake",
+   "zh": "好好摇匀",
+   "ex": "Give the bottle a good shake before each dose."
+  },
+  {
+   "en": "oral syringe",
+   "zh": "口服用量筒/喂药针筒",
+   "ex": "I'll pop an oral syringe in the bag so you can measure it."
+  },
+  {
+   "en": "upset tummy",
+   "zh": "肠胃不舒服、拉肚子",
+   "ex": "Antibiotics can give kids a bit of an upset tummy."
+  },
+  {
+   "en": "come up in a rash",
+   "zh": "起疹子",
+   "ex": "If she comes up in a rash, stop it and give us a call."
+  },
+  {
+   "en": "have a wander",
+   "zh": "随便逛逛（等候时）",
+   "ex": "Feel free to have a wander while you wait."
+  }
+ ],
+ "listening": [
+  {
+   "en": "Morning! How're you going? What can I do for you?",
+   "sound": "How're you going 连读成 \"how-ya-goin'\"，-ing 的 g 基本不发音；澳洲人的 how are you，不需要认真回答身体状况。",
+   "zh": "早上好！你好吗？有什么可以帮你？",
+   "reply": "Good thanks. I've got an eScript for my daughter."
+  },
+  {
+   "en": "Have you got the token on your phone? I'll just scan the QR code for you.",
+   "sound": "Have you got 快读成 \"av-ya-got\"；token 指短信里的二维码，不是硬币。",
+   "zh": "二维码在手机上吗？我帮你扫一下。",
+   "reply": "Yep, here it is. It came through by text this morning."
+  },
+  {
+   "en": "Are you happy with the generic? Same active ingredient, just a few bucks cheaper.",
+   "sound": "Are you happy with 是礼貌地问“你同意…吗”；bucks = dollars；active ingredient 有效成分。",
+   "zh": "用仿制药可以吗？成分一样，便宜几块钱。",
+   "reply": "Yeah, the generic's fine, thanks."
+  },
+  {
+   "en": "Has she had amoxicillin before? Any allergies — penicillin, anything like that?",
+   "sound": "amoxicillin 读 \"a-MOX-i-sil-in\"；anything like that 连读成 \"anythin' lie' that\"，t 被吞掉。",
+   "zh": "她以前吃过阿莫西林吗？有没有过敏，比如青霉素之类的？",
+   "reply": "She's had it before and she was fine. No allergies that we know of."
+  },
+  {
+   "en": "It'll be about ten, fifteen minutes. Have a wander and I'll give you a yell when it's ready.",
+   "sound": "It'll be 读 \"id-l-be\"；give you a yell = 喊你一声，不是生气。",
+   "zh": "大概十到十五分钟。你随便逛逛，好了我叫你。",
+   "reply": "No worries, I'll just be over in the kids' section."
+  },
+  {
+   "en": "Pop it in the fridge, give it a good shake, five mils twice a day, and make sure she finishes the whole course.",
+   "sound": "信息量大、语速快；pop it in = 放进去；mils = millilitres（毫升）。",
+   "zh": "放冰箱，摇匀，每次 5 毫升，一天两次，一定要把整个疗程吃完。",
+   "reply": "Sorry, could you go through that again a bit slower? I want to write it down."
+  }
+ ],
+ "speech": {
+  "topic": "我在澳洲去药房取药的经验",
+  "paragraphs": [
+   "When I first moved to Australia, going to the chemist made me nervous. In my home country, I usually just bought medicine and left. Here, the pharmacist asks a lot of questions, and they ask them quickly. At first I thought something was wrong, but now I know they are just being careful.",
+   "Last weekend my daughter had a sore ear, so we saw a GP. The doctor sent an eScript to my phone. I didn't need any paper at all. At the chemist, I showed the QR code, and the pharmacist scanned it. He asked if I was happy with the generic brand. I said yes, because it has the same active ingredient and it is cheaper.",
+   "Then he asked about allergies, her Medicare card and our address. While I waited, I had a wander around the shop. When the medicine was ready, he explained everything very fast: the dose, how many times a day, and how to store it. I asked him to slow down and say it again. He didn't mind at all. He also wrote the instructions on the label.",
+   "I learned three things. First, it is completely normal to ask the pharmacist to repeat something. Second, always tell them about allergies, even if you are not sure. Third, finish the whole course of antibiotics, even if your child feels better after two days.",
+   "Now I feel much more confident at the chemist. I even ask my own questions, like what to do if there are side effects. My tip for you is simple: write down the key numbers, and never be shy to check."
+  ],
+  "zh": "刚来澳洲时去药房会紧张，因为药剂师问很多问题而且说得快，后来明白他们是出于谨慎。上周末孩子耳朵疼，医生把电子处方发到手机，在药房扫码即可，我选择了成分相同但更便宜的仿制药。药剂师问了过敏、Medicare 卡和地址，取药时快速讲了用法，我请他放慢再说一遍，他也把用法写在标签上。我学到三点：请对方重复很正常；一定要说清过敏情况；抗生素要吃完整个疗程。现在我在药房更自信了，建议大家记下关键数字，不懂就问。",
+  "patterns": [
+   {
+    "en": "At first I thought ___, but now I know ___.",
+    "zh": "一开始我以为…，现在我知道…（讲经历变化）"
+   },
+   {
+    "en": "I asked him to ___ and ___.",
+    "zh": "我请他…并且…（描述你提出的请求）"
+   },
+   {
+    "en": "It is completely normal to ___.",
+    "zh": "…是非常正常的（给别人建议、减轻紧张）"
+   },
+   {
+    "en": "My tip for you is simple: ___.",
+    "zh": "我给你的建议很简单：…（演讲收尾）"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Tom",
+   "role": "社区药房药剂师",
+   "voice": "m"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Morning! How're you going? What can I do for you?",
+    "zh": "早上好！你好吗？有什么可以帮你？"
+   },
+   {
+    "s": "y",
+    "en": "Good, thanks. I've got an eScript for my daughter. The doctor sent it to my phone about half an hour ago.",
+    "zh": "挺好，谢谢。我有一张给女儿的电子处方，医生半小时前发到我手机上了。"
+   },
+   {
+    "s": "o",
+    "en": "Lovely. Have you got the token handy? I'll just scan the QR code for you... yep, that's come up. Amoxicillin liquid. Ear infection, is it?",
+    "zh": "好的。二维码在手边吗？我扫一下……嗯，出来了。阿莫西林药水。是耳朵感染吧？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, her left ear. She's been a bit miserable since last night.",
+    "zh": "对，左耳。她从昨晚开始就挺难受的。"
+   },
+   {
+    "s": "o",
+    "en": "Oh, poor thing. Have we got her on our system? Have you been in with us before?",
+    "zh": "哎，可怜的小家伙。我们系统里有她吗？你以前来过我们店吗？"
+   },
+   {
+    "s": "y",
+    "en": "No, it's our first time here.",
+    "zh": "没有，我们第一次来。"
+   },
+   {
+    "s": "o",
+    "en": "No worries, I'll set her up. Can I grab her Medicare card, her date of birth and your address and a contact number?",
+    "zh": "没关系，我给她建个档。能给我她的 Medicare 卡、出生日期，还有你的地址和联系电话吗？"
+   },
+   {
+    "s": "y",
+    "en": "Sure. Here's the Medicare card — she's number three on it. Her birthday is the fourteenth of March, 2020. We're at 14 Wattle Street, Prospect, and my mobile is 0491 570 156.",
+    "zh": "好的。这是 Medicare 卡，她是卡上第三个。她生日是 2020 年 3 月 14 日。我们住 14 Wattle Street, Prospect，我手机是 0491 570 156。"
+   },
+   {
+    "s": "o",
+    "en": "Beautiful, thanks. Now, are you happy with the generic? Same active ingredient, just a few bucks cheaper than the brand.",
+    "zh": "好，谢谢。那用仿制药可以吗？成分一样，比原研牌子便宜几块钱。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say that again a bit slower? The generic is the cheaper one?",
+    "zh": "不好意思，能说慢一点再说一遍吗？仿制药是便宜的那个吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, sorry, I was rattling on there. The generic's the cheaper version. Works exactly the same. Most people go with that.",
+    "zh": "对，抱歉我说太快了。仿制药就是便宜的版本，效果完全一样，大部分人都选这个。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, the generic's fine then.",
+    "zh": "好的，那就用仿制药。"
+   },
+   {
+    "s": "o",
+    "en": "Easy. Has she had amoxicillin before? Any allergies — penicillin, anything like that?",
+    "zh": "好。她以前吃过阿莫西林吗？有没有过敏，比如青霉素之类的？"
+   },
+   {
+    "s": "y",
+    "en": "She had it last year and she was fine. No allergies that we know of.",
+    "zh": "她去年吃过，没问题。目前没发现过敏。"
+   },
+   {
+    "s": "o",
+    "en": "Great. There's one repeat on the script. Do you want me to keep it on file here, or send the token back to your phone?",
+    "zh": "好。这个处方还有一次 repeat。要我把它留在店里存档，还是把二维码发回你手机？"
+   },
+   {
+    "s": "y",
+    "en": "Just to confirm, you mean she might need a second bottle later?",
+    "zh": "我确认一下，你是说她之后可能还需要第二瓶？"
+   },
+   {
+    "s": "o",
+    "en": "Only if the doctor says so. If the ear's not clearing up after the week, the GP might want her to keep going. Keeping it on file just saves you a bit of hassle.",
+    "zh": "只有医生说要才需要。如果一周后耳朵还没好，医生可能让她继续吃。存在店里只是省你点麻烦。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, please keep it on file. Thanks.",
+    "zh": "好的，请帮我存在店里。谢谢。"
+   },
+   {
+    "s": "o",
+    "en": "No dramas. It'll be about ten, fifteen minutes. Have a wander and I'll give you a yell when it's ready.",
+    "zh": "没问题。大概十到十五分钟。你随便逛逛，好了我叫你。"
+   },
+   {
+    "s": "o",
+    "en": "Okay, all done! So, pop it in the fridge, give it a good shake, five mils twice a day for seven days, with or without food, and chuck out whatever's left after fourteen days.",
+    "zh": "好了！放冰箱，摇匀，每次 5 毫升，一天两次，吃七天，饭前饭后都行，14 天后剩下的就扔掉。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, that was a lot. Could you go through the dose again? Five mils, twice a day, for seven days?",
+    "zh": "不好意思，信息有点多。能再说一下剂量吗？5 毫升，一天两次，吃七天？"
+   },
+   {
+    "s": "o",
+    "en": "Spot on. I've written it on the label too, and there's an oral syringe in the bag so you can measure it properly. And make sure she finishes the whole course, even if she's feeling heaps better.",
+    "zh": "完全正确。我也写在标签上了，袋子里有个喂药针筒，方便你量准。还有，一定要把整个疗程吃完，就算她感觉好多了也要吃完。"
+   },
+   {
+    "s": "y",
+    "en": "Got it. What should I do if she gets any side effects?",
+    "zh": "明白。如果她有副作用该怎么办？"
+   },
+   {
+    "s": "o",
+    "en": "A bit of an upset tummy is pretty common — that's nothing to worry about. But if she comes up in a rash or has trouble breathing, stop it and see a doctor straight away.",
+    "zh": "有点肠胃不舒服很常见，不用担心。但如果她起疹子或呼吸困难，就停药并马上去看医生。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, thank you so much. That's really helpful.",
+    "zh": "好的，非常感谢，这很有帮助。"
+   },
+   {
+    "s": "o",
+    "en": "Pleasure. That's eight ninety-five, thanks. Hope she's feeling better soon!",
+    "zh": "不客气。一共 8 块 95，谢谢。希望她早日好起来！"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that a bit slower? I want to write it down.",
+   "zh": "不好意思，能说慢一点吗？我想记下来。"
+  },
+  {
+   "en": "Could you go through the dose one more time?",
+   "zh": "能再讲一遍剂量吗？"
+  },
+  {
+   "en": "Could you write the instructions on the label, please?",
+   "zh": "能请你把用法写在标签上吗？"
+  },
+  {
+   "en": "How do you spell the name of the medicine?",
+   "zh": "这个药名怎么拼？"
+  },
+  {
+   "en": "Could you text me the details, or is it all on the label?",
+   "zh": "能把细节短信发我吗？还是都写在标签上了？"
+  }
+ ],
+ "checklist": [
+  "我能说清楚有电子处方（eScript/token），并报出孩子的 Medicare 信息、生日和地址",
+  "我听懂了 \"Are you happy with the generic?\" 并能回答要不要仿制药",
+  "我能回答过敏问题：No allergies that we know of",
+  "我听懂了 repeat 和 keep it on file 的意思，并做出选择",
+  "我能复述用法：剂量（mils）、一天几次、吃几天、放冰箱、摇匀、吃完疗程",
+  "我至少用了一次礼貌追问，请对方放慢或再说一遍"
+ ]
+}

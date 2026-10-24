@@ -1,0 +1,326 @@
+{
+ "id": "2026-10-21",
+ "date": "2026-10-21",
+ "category": "日常",
+ "title": "包裹显示已送达却没收到，致电邮局客服",
+ "titleEn": "Calling the post about a 'delivered' parcel that never turned up",
+ "scene": [
+  "你在网上给孩子买了一双新球鞋，追踪信息昨天下午显示 \"Delivered – left in a safe place\"，可你下班回家门口、信箱、后院都找过了，什么也没有。你打邮政客服热线，接电话的是客服 Leanne。她很友好，但说话快、术语多，还会先问一堆核实信息，中途会把你 pop on hold 去查投递记录。",
+  "你的目标：① 报出追踪号码，说清楚\"显示已送达但没收到\"；② 听懂她说的投递照片、GPS 扫描位置、调查要几个工作日、谁来提出索赔（通常是卖家）；③ 拿到 enquiry 参考号，并请她用短信或邮件确认，顺便问以后能不能改送到 Parcel Locker。"
+ ],
+ "facts": [
+  {
+   "k": "Tracking",
+   "v": "以 33 开头的追踪号（短信里有）"
+  },
+  {
+   "k": "Status",
+   "v": "Delivered – left in a safe place · 昨天 2:47pm"
+  },
+  {
+   "k": "Address",
+   "v": "14 Wattle Street, Prospect"
+  },
+  {
+   "k": "Outcome",
+   "v": "开 enquiry，最多 10 个工作日；同时联系卖家"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "tracking number",
+   "zh": "追踪号码、运单号",
+   "ex": "Have you got the tracking number handy?"
+  },
+  {
+   "en": "left in a safe place",
+   "zh": "（无人签收）放在安全的地方",
+   "ex": "It says it was left in a safe place at 2:47."
+  },
+  {
+   "en": "turn up",
+   "zh": "出现、送到",
+   "ex": "It still hasn't turned up."
+  },
+  {
+   "en": "have a look around",
+   "zh": "四处找找",
+   "ex": "Have you had a look around the side of the house?"
+  },
+  {
+   "en": "proof of delivery",
+   "zh": "投递凭证（照片/签名/扫描记录）",
+   "ex": "The driver usually takes a photo as proof of delivery."
+  },
+  {
+   "en": "scan / scanned",
+   "zh": "（快递员）扫描记录",
+   "ex": "It was scanned about two streets away from you."
+  },
+  {
+   "en": "lodge an enquiry",
+   "zh": "正式提交查询/调查申请",
+   "ex": "I can lodge an enquiry for you now."
+  },
+  {
+   "en": "business days",
+   "zh": "工作日",
+   "ex": "It can take up to ten business days."
+  },
+  {
+   "en": "the sender",
+   "zh": "寄件方（网购时通常是卖家）",
+   "ex": "The sender is the one who'd lodge a claim."
+  },
+  {
+   "en": "misdelivered",
+   "zh": "送错地址了",
+   "ex": "It might've been misdelivered to a neighbour."
+  },
+  {
+   "en": "Parcel Locker",
+   "zh": "自助取件柜",
+   "ex": "You can have future parcels sent to a Parcel Locker."
+  },
+  {
+   "en": "reference number",
+   "zh": "参考号、受理编号",
+   "ex": "Your reference number's coming through by text."
+  }
+ ],
+ "listening": [
+  {
+   "en": "Thanks for holding, you're speaking with Leanne, how're you going today?",
+   "sound": "how're you going → \"howya goin\"，只是寒暄，不是问你去哪；Thanks for holding = 谢谢你等待",
+   "zh": "谢谢您的等待，我是 Leanne，今天怎么样？",
+   "reply": "Good, thanks. I'm calling about a parcel that says delivered, but I haven't got it."
+  },
+  {
+   "en": "Righto, have you got the tracking number handy? It'll start with three-three.",
+   "sound": "Righto → \"rye-toh\" = 好的；handy = 就在手边；three-three 要听清是 33",
+   "zh": "好的，追踪号码在手边吗？是 33 开头的。",
+   "reply": "Yes, I've got it here. It's 3-3-L-K-..."
+  },
+  {
+   "en": "Okay, so it's showing it was left in a safe place yesterday, two forty-seven in the arvo.",
+   "sound": "showing it was → \"showin-i-twuz\"；arvo = afternoon；two forty-seven = 2:47",
+   "zh": "好，系统显示昨天下午 2:47 放在了安全的地方。",
+   "reply": "That's the thing — I've checked the front, the letterbox and out the back. It's not there."
+  },
+  {
+   "en": "I'll just pop you on hold for a sec while I pull up the delivery details, that alright?",
+   "sound": "pop you on hold = 让你等一下（会放音乐）；pull up = 调出（记录）",
+   "zh": "我先让您稍等一下，我调一下投递详情，可以吗？",
+   "reply": "Sure, no worries."
+  },
+  {
+   "en": "So the GPS scan's come up a couple of streets over, so it may've been misdelivered — I'd have a quick chat to your neighbours first.",
+   "sound": "couple of → \"cupla\"；may've → \"may-uv\"；a couple of streets over = 隔几条街那边",
+   "zh": "GPS 扫描位置显示在隔了几条街的地方，可能送错了——建议你先问问邻居。",
+   "reply": "Oh, okay. Is there a photo, by any chance?"
+  },
+  {
+   "en": "If it doesn't turn up, your best bet's to get onto the seller, 'cause technically they're the sender, so they'd lodge the claim.",
+   "sound": "your best bet's → \"yer-bes-bets\" = 最好的办法；get onto = 联系；'cause = because",
+   "zh": "如果还是没出现，最好联系卖家，因为严格来说他们是寄件方，索赔要由他们提。",
+   "reply": "Just to confirm, you mean I should contact the online store, not you?"
+  }
+ ],
+ "speech": {
+  "topic": "我在澳洲遇到过的一次快递问题，以及我学到了什么",
+  "paragraphs": [
+   "Today I want to talk about a small problem I had with a parcel, and what I learned from it. A few weeks ago, I ordered a pair of school shoes for my son online. The next day, I got a text saying the parcel had been delivered and left in a safe place. But when I got home from work, there was nothing at my front door.",
+   "At first I was a bit stressed, because I needed the shoes for Monday. I checked the letterbox, the side of the house and the backyard. Then I decided to call customer service. To be honest, I was nervous about the phone call, because the staff speak quite fast and use a lot of words I don't hear every day.",
+   "The person on the phone was really friendly. She asked for my tracking number, my name and my address. Then she put me on hold while she checked the delivery details. She told me the driver had scanned the parcel a couple of streets away, so it was probably delivered to the wrong house. She lodged an enquiry for me and gave me a reference number. She also told me to contact the seller, because the seller is the sender, so they make the claim.",
+   "In the end, a neighbour two streets away found the parcel and dropped it off that evening. I learned three things. First, always keep the tracking number handy. Second, it's okay to ask people to slow down or repeat things. And third, I now send my parcels to a Parcel Locker, so I don't have to worry."
+  ],
+  "zh": "我讲了一次网购包裹显示\"已送达\"却没收到的经历：我先在家附近找了一遍，然后打客服电话。客服核对了追踪号码和地址，让我稍等去查记录，发现快递员在隔两条街的地方扫描，可能送错了门。她帮我提交了查询，给了参考号，并提醒我联系卖家，因为卖家才是寄件人。最后是两条街外的邻居把包裹送了过来。我学到三点：追踪号随手备好；可以请对方说慢一点或重复；以后改寄到自助取件柜。",
+  "patterns": [
+   {
+    "en": "It says it was ___, but I haven't ___.",
+    "zh": "系统显示……，但我还没有……（说明信息不符）"
+   },
+   {
+    "en": "I've checked ___, ___ and ___, and it's not there.",
+    "zh": "我已经找过……（列出你找过的地方）"
+   },
+   {
+    "en": "Just to confirm, you mean ___?",
+    "zh": "确认一下，您的意思是……？"
+   },
+   {
+    "en": "Could you send me the ___ by text or email, please?",
+    "zh": "能用短信或邮件把……发给我吗？"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Leanne",
+   "role": "邮政客服热线客服",
+   "voice": "f"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Thanks for holding, you're speaking with Leanne. How're you going today?",
+    "zh": "谢谢您的等待，我是 Leanne。今天怎么样？"
+   },
+   {
+    "s": "y",
+    "en": "Good, thanks, Leanne. I'm calling about a parcel. The tracking says it was delivered yesterday, but I haven't received it.",
+    "zh": "挺好的，谢谢。我打电话是关于一个包裹。追踪显示昨天已经送达，但我没收到。"
+   },
+   {
+    "s": "o",
+    "en": "Oh, that's no good. Righto, have you got the tracking number handy? It'll start with three-three.",
+    "zh": "哎呀，那可不好。好的，追踪号码在手边吗？是 33 开头的。"
+   },
+   {
+    "s": "y",
+    "en": "Yes, it's 3-3-L-K-J-7-0-4-2-9-1.",
+    "zh": "在，是 33LKJ704291。"
+   },
+   {
+    "s": "o",
+    "en": "Lovely. And can I just grab the name and the delivery address, just to verify?",
+    "zh": "好的。方便说一下收件人姓名和投递地址吗？核实一下。"
+   },
+   {
+    "s": "y",
+    "en": "It's under Amy, and the address is 14 Wattle Street, Prospect.",
+    "zh": "收件人是 Amy，地址是 Prospect 区 Wattle Street 14 号。"
+   },
+   {
+    "s": "o",
+    "en": "Perfect, thanks Amy. Okay, so it's showing it was left in a safe place yesterday, two forty-seven in the arvo. You've had a look around the property, I take it — side gate, behind the bins, that sort of thing?",
+    "zh": "好的，谢谢 Amy。系统显示昨天下午 2:47 放在安全的地方了。我猜您已经在房子周围找过了吧——侧门、垃圾桶后面之类的？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, I've checked the front door, the letterbox and out the back. It's definitely not there.",
+    "zh": "是的，我找过前门、信箱和后院，肯定没有。"
+   },
+   {
+    "s": "o",
+    "en": "Okay, no worries. I'll just pop you on hold for a sec while I pull up the delivery details, that alright?",
+    "zh": "好的，没问题。我让您稍等一下，我调一下投递详情，可以吗？"
+   },
+   {
+    "s": "y",
+    "en": "Sure, that's fine.",
+    "zh": "好的，可以。"
+   },
+   {
+    "s": "o",
+    "en": "Thanks for waiting. So, um, I've had a look, and the driver's GPS scan has actually come up a couple of streets over from yours, so there's a fair chance it's been misdelivered. Happens more than you'd think, unfortunately.",
+    "zh": "谢谢等待。嗯，我看了一下，快递员的 GPS 扫描位置其实是在离您家隔几条街的地方，所以很有可能送错了。说实话，这种情况比您想的要多。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say that again a bit slower? The scan was where?",
+    "zh": "不好意思，能再说慢一点吗？扫描是在哪里？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, of course. The scan — where the driver marked it as delivered — was about two streets away from your address. So it's probably sitting on someone else's doorstep.",
+    "zh": "当然。扫描——也就是快递员标记已送达的地方——离您的地址大概两条街远。所以包裹很可能放在别人家门口了。"
+   },
+   {
+    "s": "y",
+    "en": "Oh, I see. Is there a photo of where it was left?",
+    "zh": "哦，明白了。有没有放包裹位置的照片？"
+   },
+   {
+    "s": "o",
+    "en": "There is, but it's just a close-up of the box on a doormat, so it's not super helpful, sorry. What I'll do is lodge an enquiry, and we'll get the local delivery centre to follow up with the driver. That can take up to ten business days, though.",
+    "zh": "有，但只是门垫上箱子的特写，没什么用，抱歉。我会帮您提交查询，让当地投递中心去跟快递员核实。不过这最多可能要十个工作日。"
+   },
+   {
+    "s": "y",
+    "en": "Ten business days? Okay. It's a pair of school shoes for my son, so I was hoping to get them before Monday.",
+    "zh": "十个工作日？好吧。是给我儿子的校鞋，我本来希望周一前能拿到。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, I totally get it. Honestly, your quickest option's probably to knock on a few doors, or post in the local community group. And if it doesn't turn up, your best bet's to get onto the seller, 'cause technically they're the sender, so they'd lodge the claim with us.",
+    "zh": "嗯，完全理解。说实话，最快的办法可能是去敲几家门，或者在本地社区群里发个帖。如果还是没找到，最好联系卖家，因为严格来说他们是寄件方，要由他们向我们索赔。"
+   },
+   {
+    "s": "y",
+    "en": "Just to confirm, you mean I should contact the online store, and they'll make the claim?",
+    "zh": "确认一下，您的意思是我应该联系网店，然后由他们去索赔？"
+   },
+   {
+    "s": "o",
+    "en": "Spot on. Most of them will just send out a replacement or refund you once the enquiry's been lodged. I'll give you a reference number so you can pass it on to them.",
+    "zh": "完全正确。大多数网店在查询提交之后就会补寄或者退款。我给您一个参考号，您可以转给他们。"
+   },
+   {
+    "s": "y",
+    "en": "Great. Could you send the reference number to me by text, please? My mobile is 0491 570 156.",
+    "zh": "好的。能用短信把参考号发给我吗？我的手机是 0491 570 156。"
+   },
+   {
+    "s": "o",
+    "en": "No dramas, it'll come through in the next few minutes. And just so you know, if you'd rather not have stuff left at the door, you can set up a free Parcel Locker in the app and have everything redirected there.",
+    "zh": "没问题，几分钟内就会发过去。另外跟您说一下，如果您不想包裹放门口，可以在 app 里免费设置一个自助取件柜，把包裹都改送到那里。"
+   },
+   {
+    "s": "y",
+    "en": "That's a good idea. Is there one near Prospect?",
+    "zh": "这个主意不错。Prospect 附近有吗？"
+   },
+   {
+    "s": "o",
+    "en": "There should be a couple — one at the shopping centre on Prospect Road, I think. The app'll show you the closest ones.",
+    "zh": "应该有几个——我记得 Prospect Road 的购物中心就有一个。App 里会显示最近的。"
+   },
+   {
+    "s": "y",
+    "en": "Thanks so much for your help, Leanne.",
+    "zh": "非常感谢你的帮助，Leanne。"
+   },
+   {
+    "s": "o",
+    "en": "You're welcome. Fingers crossed it turns up at a neighbour's. Anything else I can help with today?",
+    "zh": "不客气。希望它就在哪个邻居家。今天还有其他需要帮忙的吗？"
+   },
+   {
+    "s": "y",
+    "en": "No, that's everything. Have a good day.",
+    "zh": "没有了，就这些。祝你今天愉快。"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that again a bit slower?",
+   "zh": "不好意思，能再慢一点说一遍吗？"
+  },
+  {
+   "en": "Sorry, I didn't catch that. Could you repeat the last part?",
+   "zh": "抱歉没听清，能重复一下最后那部分吗？"
+  },
+  {
+   "en": "Could you spell that for me, please?",
+   "zh": "能帮我拼一下吗？"
+  },
+  {
+   "en": "Just to confirm, you mean ___?",
+   "zh": "确认一下，您的意思是……？"
+  },
+  {
+   "en": "Could you send that to me by text or email, please?",
+   "zh": "能用短信或邮件发给我吗？"
+  }
+ ],
+ "checklist": [
+  "我能一口气清楚地报出追踪号码、收件人和地址",
+  "我能说清楚\"系统显示已送达，但我找过了没有\"",
+  "我听懂了 pop you on hold、pull up、a couple of streets over、misdelivered",
+  "我听懂了要联系卖家的原因（seller = sender，由他们提出索赔）",
+  "我至少用了一次追问：请对方说慢一点或\"Just to confirm, you mean…?\"",
+  "我拿到了参考号，并请对方用短信发给我"
+ ]
+}

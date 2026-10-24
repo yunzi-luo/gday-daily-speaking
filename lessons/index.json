@@ -1,6 +1,90 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-24",
  "lessons": [
+  {
+   "id": "2026-10-24",
+   "date": "2026-10-24",
+   "category": "求职",
+   "title": "HR 来电口头 offer，谈入职日期和薪酬",
+   "titleEn": "Taking a verbal job offer and talking start date and pay"
+  },
+  {
+   "id": "2026-10-23",
+   "date": "2026-10-23",
+   "category": "保险/医疗",
+   "title": "致电保险公司问孩子正畸保障和等待期",
+   "titleEn": "Calling your health fund about braces cover"
+  },
+  {
+   "id": "2026-10-22",
+   "date": "2026-10-22",
+   "category": "工作",
+   "title": "客户来电要求系统提前两周上线",
+   "titleEn": "A client call asking to bring the go-live forward"
+  },
+  {
+   "id": "2026-10-21",
+   "date": "2026-10-21",
+   "category": "日常",
+   "title": "包裹显示已送达却没收到，致电邮局客服",
+   "titleEn": "Calling the post about a 'delivered' parcel that never turned up"
+  },
+  {
+   "id": "2026-10-20",
+   "date": "2026-10-20",
+   "category": "孩子学校/幼儿园",
+   "title": "家长面谈：听老师讲孩子阅读进度",
+   "titleEn": "A parent-teacher interview about your child's reading"
+  },
+  {
+   "id": "2026-10-19",
+   "date": "2026-10-19",
+   "category": "房屋",
+   "title": "租约快到期，中介来电谈续租和涨租",
+   "titleEn": "The property manager calls about renewing your lease"
+  },
+  {
+   "id": "2026-10-18",
+   "date": "2026-10-18",
+   "category": "社交",
+   "title": "朋友来电约周末去酒庄一日游",
+   "titleEn": "A friend rings to plan a Barossa day trip and a carpool"
+  },
+  {
+   "id": "2026-10-17",
+   "date": "2026-10-17",
+   "category": "保险/医疗",
+   "title": "周六去药房凭电子处方给孩子取药",
+   "titleEn": "Picking up your child's eScript at the chemist"
+  },
+  {
+   "id": "2026-10-16",
+   "date": "2026-10-16",
+   "category": "日常",
+   "title": "银行反诈团队来电核实一笔可疑消费",
+   "titleEn": "Taking a call from your bank's fraud team about a suspicious charge"
+  },
+  {
+   "id": "2026-10-15",
+   "date": "2026-10-15",
+   "category": "求职",
+   "title": "面试被问：讲一次和同事意见不合的经历",
+   "titleEn": "Answering a 'tell me about a time' question in a BA interview"
+  },
+  {
+   "id": "2026-10-14",
+   "date": "2026-10-14",
+   "category": "孩子学校/幼儿园",
+   "title": "学校前台来电：孩子发烧要你来接",
+   "titleEn": "The school office calls: your child is sick"
+  },
+  {
+   "id": "2026-10-13",
+   "date": "2026-10-13",
+   "category": "工作",
+   "title": "需求访谈中礼貌插话澄清审批流程",
+   "titleEn": "Jumping in to clarify during a requirements interview"
+  },
   {
    "id": "2026-10-12",
    "date": "2026-10-12",

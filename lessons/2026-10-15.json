@@ -1,0 +1,322 @@
+{
+ "id": "2026-10-15",
+ "date": "2026-10-15",
+ "category": "求职",
+ "title": "面试被问：讲一次和同事意见不合的经历",
+ "titleEn": "Answering a 'tell me about a time' question in a BA interview",
+ "scene": [
+  "你在面试一家阿德莱德 CBD 保险公司的 Business Analyst 岗位，这是二面，面试官是 BA 团队负责人 Rachel，旁边还有一位做记录的 HR。前面的自我介绍很顺利，接着 Rachel 开始问行为面试题（behavioural questions）：“Tell me about a time when…”。她说话很友好，但语速快，问题里常夹着好几个小问题，还会追问细节。",
+  "你的目标：① 听懂问题到底问什么，不确定时先确认再回答；② 用 STAR（情境 Situation、任务 Task、行动 Action、结果 Result）讲一个和利益相关方意见不合、最后解决的例子；③ 听懂追问和面试结尾的流程（下一步、什么时候有消息、背景调查），并礼貌地问一个自己的问题。"
+ ],
+ "facts": [
+  {
+   "k": "Role",
+   "v": "Business Analyst · 12 个月合同，可能续签"
+  },
+  {
+   "k": "Panel",
+   "v": "Rachel（BA Lead）+ HR 记录"
+  },
+  {
+   "k": "Format",
+   "v": "行为面试题 · 每题约 2–3 分钟"
+  },
+  {
+   "k": "Next step",
+   "v": "下周初出结果，之后做 reference check"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "Tell me about a time when…",
+   "zh": "讲一次你……的经历（行为面试题的标准开头）",
+   "ex": "Tell me about a time when you had to push back on a stakeholder."
+  },
+  {
+   "en": "stakeholder",
+   "zh": "利益相关方（提需求、受影响或要拍板的人）",
+   "ex": "The main stakeholder was the claims team manager."
+  },
+  {
+   "en": "push back (on)",
+   "zh": "（有理有据地）反对、顶回去",
+   "ex": "I had to push back on the deadline because the testing wasn't done."
+  },
+  {
+   "en": "see eye to eye",
+   "zh": "看法一致",
+   "ex": "We didn't see eye to eye on what should be in the first release."
+  },
+  {
+   "en": "get buy-in",
+   "zh": "争取到（对方的）认同和支持",
+   "ex": "I needed to get buy-in from the operations team before we changed the process."
+  },
+  {
+   "en": "walk someone through",
+   "zh": "一步步给某人讲解",
+   "ex": "I walked her through the data from the last three months."
+  },
+  {
+   "en": "compromise / meet halfway",
+   "zh": "妥协、各让一步",
+   "ex": "In the end we met halfway and split it into two releases."
+  },
+  {
+   "en": "in hindsight",
+   "zh": "事后回想起来",
+   "ex": "In hindsight, I should have involved her earlier."
+  },
+  {
+   "en": "outcome",
+   "zh": "结果",
+   "ex": "The outcome was that we went live on time."
+  },
+  {
+   "en": "go live",
+   "zh": "（系统）上线",
+   "ex": "The new claims form went live in March."
+  },
+  {
+   "en": "reference check",
+   "zh": "背景调查（联系你的推荐人）",
+   "ex": "If you're successful, we'll do a couple of reference checks."
+  },
+  {
+   "en": "touch base",
+   "zh": "联系一下、碰个头",
+   "ex": "I'll touch base with you early next week either way."
+  }
+ ],
+ "listening": [
+  {
+   "en": "So, how're you going? Did you find us alright? Parking in the city's a nightmare, isn't it?",
+   "sound": "how're you going → \"how-ya-goin\"（就是 how are you，不是问你怎么来的）；find us alright = 找得到地方吗；nightmare = 很头疼",
+   "zh": "你好吗？找得到这儿吧？城里停车太难了，是吧？",
+   "reply": "I'm good, thanks. Yeah, I caught the tram in, so it was pretty easy."
+  },
+  {
+   "en": "Righto, let's jump into some behavioural ones. Tell me about a time you didn't see eye to eye with a stakeholder, and how you handled it.",
+   "sound": "righto = 好的；jump into → \"jum-pin-to\"；behavioural ones = 行为面试题；didn't see eye to eye = 意见不合",
+   "zh": "好，我们开始问几道行为题。讲一次你和利益相关方意见不合的经历，以及你是怎么处理的。",
+   "reply": "Sure. Can I take a second to think of a good example?"
+  },
+  {
+   "en": "And what was the actual outcome? Like, did the business end up going with your recommendation or not?",
+   "sound": "what was the → \"wot-wuz-the\"；end up going with = 最后采用了；问的是结果（R），要说清楚最后怎么样",
+   "zh": "那最后的结果是什么？公司最后有没有采纳你的建议？",
+   "reply": "Partly. We agreed to split it into two releases, so the core part went live on time."
+  },
+  {
+   "en": "Looking back, is there anything you'd do differently?",
+   "sound": "looking back = 回头看；you'd → \"yood\"（you would）。这是常见追问，问你学到了什么",
+   "zh": "回头看，有没有什么你会换个做法的？",
+   "reply": "Yes. In hindsight, I'd bring her in much earlier, at the requirements stage."
+  },
+  {
+   "en": "No dramas, take your time. I know it's a bit of a curly one.",
+   "sound": "no dramas = 没关系（同 no worries）；a curly one = 一个刁钻/难答的问题",
+   "zh": "没关系，慢慢想。我知道这题有点难。",
+   "reply": "Thanks. Just to confirm, are you after an example from a project, or from day-to-day work?"
+  },
+  {
+   "en": "We're hoping to wrap up interviews by Friday, so we'll touch base early next week, and if it's a yes we'll do a couple of reference checks.",
+   "sound": "wrap up = 结束；touch base = 联系你；a couple of → \"a-cupla\"；信息量大：周五面完、下周初联系、通过后查推荐人",
+   "zh": "我们希望周五前面完所有人，下周初会联系你；如果通过，会做两个背景调查。",
+   "reply": "That sounds good. Would you like me to send through my referees' details now?"
+  }
+ ],
+ "speech": {
+  "topic": "讲一次我和同事/客户意见不合，最后怎么解决的（用 STAR 结构）",
+  "paragraphs": [
+   "I'd like to talk about a time when I didn't see eye to eye with a stakeholder. Last year, I was the business analyst on a project to move our customer claims form online. The main stakeholder was the manager of the claims team.",
+   "My task was to agree on what should be in the first release. The project had a fixed go-live date, but the manager wanted twelve new features at once. The developers told me we could only finish about half of them in time.",
+   "First, I set up a meeting with her and listened to why each feature mattered to her team. Then I walked her through the data. Most customer complaints came from just three problems. I suggested we fix those three first and put the rest in a second release. At the start she wasn't happy, because her team had waited a long time for these changes. So I offered to share a clear plan for the second release, with dates, so she could see it was really going to happen.",
+   "In the end, we met halfway. The first release went live on time, and complaints about the claims form dropped by about thirty percent in two months. The second release came out three months later.",
+   "In hindsight, I would bring her in earlier, at the requirements stage, not after the plan was already made. What I learned is that people push back when they feel left out. If I listen first and show the facts, it is much easier to get buy-in."
+  ],
+  "zh": "我讲一次和利益相关方意见不合的经历。去年我在一个把客户理赔表格搬到网上的项目里做 BA，主要利益相关方是理赔组经理。我的任务是和她商定第一期做哪些内容：上线日期是定死的，但她想一次做十二个新功能，开发说只能按时做完一半左右。我先约她开会，听她讲每个功能为什么重要，然后带她看数据：大部分客户投诉来自三个问题，所以建议先修这三个，其余放第二期。她一开始不高兴，因为团队等了很久，我就主动给出第二期的清晰计划和日期。最后双方各让一步：第一期按时上线，两个月内相关投诉下降约三成，第二期三个月后上线。事后回想，我应该在需求阶段就让她参与。我学到的是：人们觉得被排除在外时才会反对，先倾听、再摆事实，就更容易获得支持。",
+  "patterns": [
+   {
+    "en": "I'd like to talk about a time when ___.",
+    "zh": "开头点题：我想讲一次……的经历（直接回应问题）"
+   },
+   {
+    "en": "My task was to ___, but ___.",
+    "zh": "T（任务）：我的任务是……，但难点是……"
+   },
+   {
+    "en": "First, I ___. Then I ___. So I ___.",
+    "zh": "A（行动）：用 First / Then / So 把步骤串起来，主语多用 I"
+   },
+   {
+    "en": "In the end, ___. In hindsight, I would ___.",
+    "zh": "R（结果）+ 反思：最后……；事后看，我会……"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Rachel",
+   "role": "BA 团队负责人（面试官）",
+   "voice": "f"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Okay, thanks for that intro, that was great. So, um, now I'm gonna jump into a few behavioural questions, if that's alright. There's no right or wrong answer, we just wanna hear about real situations.",
+    "zh": "好，谢谢你的自我介绍，很好。那，嗯，接下来我问几道行为题，可以吧？没有标准答案，我们就想听真实的情况。"
+   },
+   {
+    "s": "y",
+    "en": "Sure, that sounds good.",
+    "zh": "好的，没问题。"
+   },
+   {
+    "s": "o",
+    "en": "Great. So, tell me about a time you didn't see eye to eye with a stakeholder, what the situation was, what you actually did, and, yeah, how it all panned out.",
+    "zh": "好。讲一次你和利益相关方意见不合的经历：当时是什么情况，你具体做了什么，还有，嗯，最后结果怎么样。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say the last part again a bit slower? I didn't quite catch it.",
+    "zh": "不好意思，最后一部分能说慢一点再说一遍吗？我没太听清。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, of course. Just, how did it pan out? How did it end up, basically.",
+    "zh": "当然。就是，结果怎么样？基本上就是最后怎么收场的。"
+   },
+   {
+    "s": "y",
+    "en": "Got it, thanks. Can I take a few seconds to think of a good example?",
+    "zh": "明白了，谢谢。我能花几秒想一个好例子吗？"
+   },
+   {
+    "s": "o",
+    "en": "No dramas, take your time. I know it's a bit of a curly one.",
+    "zh": "没关系，慢慢想。我知道这题有点难。"
+   },
+   {
+    "s": "y",
+    "en": "Okay. Last year I was the BA on a project to move our claims form online. The claims manager wanted twelve new features in the first release, but the developers said we could only finish about half by the go-live date.",
+    "zh": "好。去年我在一个把理赔表格搬到网上的项目里做 BA。理赔经理想在第一期加十二个新功能，但开发说在上线日期前只能完成一半左右。"
+   },
+   {
+    "s": "o",
+    "en": "Mm-hm. And was the date locked in, or was there a bit of wiggle room?",
+    "zh": "嗯。那个日期是定死的，还是有一点回旋余地？"
+   },
+   {
+    "s": "y",
+    "en": "It was locked in, because it was linked to a new product launch. So I set up a meeting with her and asked her to explain why each feature mattered to her team.",
+    "zh": "定死的，因为和一个新产品发布绑在一起。所以我约她开会，请她讲每个功能对她团队为什么重要。"
+   },
+   {
+    "s": "o",
+    "en": "Right. And how'd she take it? I'm guessing she wasn't over the moon.",
+    "zh": "嗯。她什么反应？我猜她不太高兴吧。"
+   },
+   {
+    "s": "y",
+    "en": "Not at first. Her team had waited a long time. So I walked her through the complaint data. Most complaints came from just three problems, so I suggested we fix those three first and put the rest in a second release.",
+    "zh": "一开始不高兴。她的团队等了很久。于是我带她看投诉数据：大部分投诉来自三个问题，所以我建议先修这三个，其余放到第二期。"
+   },
+   {
+    "s": "o",
+    "en": "Okay, and did you get buy-in straight away, or did you have to, like, go back and forth a bit?",
+    "zh": "那她马上就同意了，还是你们来回拉锯了一阵？"
+   },
+   {
+    "s": "y",
+    "en": "Just to confirm, you mean did she agree in that first meeting?",
+    "zh": "确认一下，您是问她在第一次会上就同意了吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, exactly.",
+    "zh": "对，就是这个意思。"
+   },
+   {
+    "s": "y",
+    "en": "No, it took two meetings. The second time, I brought a clear plan for the second release with dates, so she could see it was really going to happen. Then she was happy to go ahead.",
+    "zh": "没有，开了两次会。第二次我带了第二期的清晰计划和日期，让她看到这真的会做。然后她就同意了。"
+   },
+   {
+    "s": "o",
+    "en": "Nice. And the outcome?",
+    "zh": "不错。那结果呢？"
+   },
+   {
+    "s": "y",
+    "en": "The first release went live on time, and complaints about the form dropped by about thirty percent in two months. The second release came out three months later.",
+    "zh": "第一期按时上线，两个月内关于表格的投诉下降了大约三成。第二期三个月后上线。"
+   },
+   {
+    "s": "o",
+    "en": "Good stuff. And looking back, is there anything you'd do differently?",
+    "zh": "很好。回头看，有没有什么你会换个做法的？"
+   },
+   {
+    "s": "y",
+    "en": "Yes. In hindsight, I'd bring her in at the requirements stage, not after the plan was made. People push back more when they feel left out.",
+    "zh": "有。事后想想，我会在需求阶段就让她参与，而不是计划定了才找她。人觉得被排除在外时会更容易反对。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, that's a really good point. Okay, that's actually all my questions. So, we're hoping to wrap up interviews by Friday, we'll touch base early next week either way, and if it's a yes, we'll do a couple of reference checks. Have you got any questions for us?",
+    "zh": "对，说得很好。好，我的问题就这些。我们希望周五前面完所有人，不管结果如何下周初都会联系你；如果通过，会做两个背景调查。你有什么问题想问我们吗？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, just one. What would a typical week look like for this role, and how big is the BA team?",
+    "zh": "有，就一个。这个岗位一周的工作大概是什么样？BA 团队有多大？"
+   },
+   {
+    "s": "o",
+    "en": "Good question. There's five of us at the moment. Most weeks you'd be running a couple of workshops, writing user stories, and working pretty closely with the testers. We're in the office Tuesdays and Thursdays, the rest is up to you.",
+    "zh": "好问题。目前我们有五个人。大多数周你会主持几场工作坊、写用户故事，和测试人员密切合作。周二和周四要来办公室，其他时间你自己定。"
+   },
+   {
+    "s": "y",
+    "en": "That sounds great. Thanks so much for your time, Rachel. I'll keep an eye out for your call next week.",
+    "zh": "听起来很好。非常感谢你的时间，Rachel。我下周等你的电话。"
+   },
+   {
+    "s": "o",
+    "en": "Thanks for coming in. Have a good arvo, and good luck getting out of that car park!",
+    "zh": "谢谢你过来。下午愉快，祝你顺利开出停车场！"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you repeat the question? I want to make sure I answer the right thing.",
+   "zh": "不好意思，能再说一遍问题吗？我想确保答对点。"
+  },
+  {
+   "en": "Just to confirm, are you asking about ___ or ___?",
+   "zh": "确认一下，您问的是……还是……？"
+  },
+  {
+   "en": "Could I take a moment to think of a good example?",
+   "zh": "我能想一下，找个好例子吗？"
+  },
+  {
+   "en": "Sorry, I missed the last part. Could you say it a bit slower?",
+   "zh": "抱歉，最后一部分没听清，能说慢一点吗？"
+  },
+  {
+   "en": "Would you mind emailing me the next steps, so I've got them in writing?",
+   "zh": "您介意把下一步安排发邮件给我吗？我想有个书面记录。"
+  }
+ ],
+ "checklist": [
+  "听到多部分问题（situation / what you did / how it panned out）时，我能分清要回答哪几块，没听清就请对方再说",
+  "我用 STAR 讲完一个例子，大约 2 分钟，没有中途卡住",
+  "讲 Action 时主语多用 I，而不是一直说 we",
+  "我能听懂 curly one、no dramas、wiggle room、how'd she take it 这些说法",
+  "被问 \"anything you'd do differently?\" 时，我能用 In hindsight… 说出一个具体反思",
+  "面试结尾我听懂了下一步（wrap up / touch base / reference checks），并问了一个自己的问题"
+ ]
+}
