@@ -1,0 +1,327 @@
+{
+ "id": "2026-10-26",
+ "date": "2026-10-26",
+ "category": "社交",
+ "title": "朋友来电邀你参加墨尔本杯午餐聚会",
+ "titleEn": "Getting invited to a Melbourne Cup lunch and sweep",
+ "scene": [
+  "下周二（11 月第一个周二）是墨尔本杯赛马日，被叫作 \"the race that stops a nation\"——比赛那几分钟全国很多办公室、酒吧都停下来看。阿德莱德这天不放假，但很多人会请半天假聚会。你的朋友 Jodie 打电话来，邀请你去她家参加 Cup lunch：大家打扮一下（frocks and fascinators）、每人带一道菜、玩 sweep（抽签赌马的小游戏），一起看比赛。她语速很快，还夹着一堆赛马相关的说法。",
+  "你的目标：① 听懂聚会的时间、地点、着装和要带什么；② 问清楚 sweep 怎么玩、要不要钱、你不懂赛马也没关系吗；③ 说明你 3 点多要去学校接孩子，问能不能提前走，并请她把地址和细节发短信。"
+ ],
+ "facts": [
+  {
+   "k": "When",
+   "v": "下周二 11 月 3 日，12 点半开始；比赛阿德莱德时间下午 2:30 左右"
+  },
+  {
+   "k": "Where",
+   "v": "Jodie 家（地址她会短信发来）"
+  },
+  {
+   "k": "Bring",
+   "v": "一道菜（bring a plate）+ 自己想喝的；sweep 每张 $5"
+  },
+  {
+   "k": "Dress",
+   "v": "可以打扮（frock / fascinator），不强求"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "the Cup / Melbourne Cup",
+   "zh": "墨尔本杯（澳洲最有名的赛马比赛）",
+   "ex": "Are you doing anything for the Cup next Tuesday?"
+  },
+  {
+   "en": "sweep / sweepstake",
+   "zh": "抽签赌马小游戏：交钱抽一匹马，按名次分奖金",
+   "ex": "We're running a sweep — it's five bucks a ticket."
+  },
+  {
+   "en": "draw a horse",
+   "zh": "抽到一匹马",
+   "ex": "Whoever draws the winner takes home the main prize."
+  },
+  {
+   "en": "have a flutter",
+   "zh": "小赌一把（金额很小，图个乐）",
+   "ex": "I don't really bet, but I might have a flutter on the Cup."
+  },
+  {
+   "en": "the favourite / a roughie",
+   "zh": "热门马 / 冷门马",
+   "ex": "I drew a roughie, so I've got no chance."
+  },
+  {
+   "en": "each way",
+   "zh": "（下注）前三名都算赢",
+   "ex": "If you're not sure, just put a couple of bucks on each way."
+  },
+  {
+   "en": "frock up / frocks and fascinators",
+   "zh": "盛装打扮 / 连衣裙配头饰（赛马日典型打扮）",
+   "ex": "It's frocks and fascinators, but don't stress if you'd rather keep it casual."
+  },
+  {
+   "en": "bring a plate",
+   "zh": "每人带一道菜（不是带空盘子）",
+   "ex": "Just bring a plate — a salad or some nibbles is perfect."
+  },
+  {
+   "en": "take the arvo off",
+   "zh": "下午请假",
+   "ex": "I'm taking the arvo off work for the Cup."
+  },
+  {
+   "en": "duck off early",
+   "zh": "（礼貌地）提前溜走",
+   "ex": "Would it be okay if I ducked off a bit early for school pick-up?"
+  },
+  {
+   "en": "bubbles",
+   "zh": "起泡酒、香槟（口语）",
+   "ex": "There'll be bubbles, but I'll have soft drink for the non-drinkers."
+  },
+  {
+   "en": "jump off",
+   "zh": "（比赛）开跑",
+   "ex": "The race jumps off at about half two our time."
+  }
+ ],
+ "listening": [
+  {
+   "en": "Hey, how're you going? Listen, what're you up to Tuesdee arvo?",
+   "sound": "how're you going 连成 \"how-ya-goin\"；what're you up to 读成 \"wotcha-up-to\"；Tuesdee = Tuesday（澳洲人常把 -day 读成 -dee）；arvo = 下午",
+   "zh": "嘿，最近好吗？我问你，下周二下午你干嘛？",
+   "reply": "Hi Jodie, I'm good, thanks! Nothing much, I think. Why?"
+  },
+  {
+   "en": "We're doing a bit of a Cup thing at ours — nothing flash, just a few of the girls and their other halves.",
+   "sound": "at ours = 在我们家；nothing flash = 不搞得很隆重；other halves = 另一半、伴侣；a bit of a 吞成 \"a-bid-of-a\"",
+   "zh": "我们家搞个小小的墨尔本杯聚会——不隆重，就几个姐妹和她们的另一半。",
+   "reply": "Oh, that sounds like fun. What time are you thinking?"
+  },
+  {
+   "en": "Kick off round half twelve, race jumps at half two our time, so you're right for pick-up.",
+   "sound": "kick off = 开始；half twelve = 12:30；jumps = 开跑；you're right for… = 不耽误你……；句子很快，抓关键数字 half twelve、half two",
+   "zh": "大概 12 点半开始，比赛我们这边 2 点半开跑，所以不耽误你接孩子。",
+   "reply": "Sorry, half two is the race, and we start at half twelve, right?"
+  },
+  {
+   "en": "Sweep's a fiver a ticket, chuck it in the hat and whoever pulls out the winner cleans up.",
+   "sound": "a fiver = 5 块钱；chuck it in the hat = 扔进帽子里；pulls out = 抽出；cleans up = 赢走大头、大赚",
+   "zh": "sweep 一张 5 块，钱扔进帽子里，谁抽到冠军马谁就拿大奖。",
+   "reply": "Just to confirm, I pay five dollars and I get one horse?"
+  },
+  {
+   "en": "Don't stress about the dress code — frock up if you feel like it, but jeans are fine too.",
+   "sound": "don't stress = 别担心；frock up = 穿裙子盛装打扮；feel like it 连成 \"feel-like-it\"",
+   "zh": "着装别有压力——想打扮就打扮，牛仔裤也行。",
+   "reply": "Great, I might wear a dress. Should I bring anything?"
+  },
+  {
+   "en": "Too easy — just bring a plate, and BYO if you want something particular.",
+   "sound": "Too easy = 没问题、太好了；bring a plate = 带一道菜；BYO = 想喝什么自带",
+   "zh": "没问题——带一道菜就行，想喝什么特别的就自己带。",
+   "reply": "No worries, I'll make a salad. Could you text me your address?"
+  }
+ ],
+ "speech": {
+  "topic": "讲一个你在澳洲第一次参加的本地节日或活动",
+  "paragraphs": [
+   "Today I'd like to talk about the first time I went to a Melbourne Cup party in Australia. Before I came here, I had no idea that a horse race could be such a big deal. People call it the race that stops a nation, and now I understand why.",
+   "A friend invited me to her place for lunch. She told me to bring a plate, and at first I didn't know what that meant. I thought I had to bring an empty plate! Luckily, I asked her, and she laughed and explained that everyone brings some food to share. So I made a big salad.",
+   "When I arrived, a lot of the women were wearing dresses and fascinators. I didn't have a fascinator, but I wore a nice dress, and nobody cared. Everyone was friendly and relaxed. Before the race, we did a sweep. Each person paid five dollars and drew a horse out of a hat. I drew a roughie, which means a horse that probably won't win.",
+   "At half past two, everyone stopped talking and watched the TV. The race only took about three minutes, but it was really exciting. People were yelling and cheering. My horse came last, but I still had a great time.",
+   "What I learned that day is that it's okay to ask questions. Australians are usually happy to explain their traditions. Next year, I want to buy a fascinator and maybe have a small flutter. It was a fun way to make new friends and feel more at home here."
+  ],
+  "zh": "我想讲讲在澳洲第一次参加墨尔本杯聚会的经历。来之前我不知道一场赛马会这么受重视。朋友邀请我去她家吃午饭，让我 bring a plate，我一开始以为要带个空盘子，问了才知道是每人带一道菜分享，于是我做了一大份沙拉。很多女士穿裙子戴头饰，我没有头饰，只穿了条好看的裙子，也没人在意。赛前我们玩 sweep，每人交 5 块抽一匹马，我抽到一匹冷门马。两点半大家安静下来看比赛，只有三分钟左右，但非常刺激。我的马跑了最后一名，但我玩得很开心。我学到的是：不懂就问没关系，澳洲人通常很乐意解释他们的传统。明年我想买个头饰，也许小赌一把。",
+  "patterns": [
+   {
+    "en": "Before I came here, I had no idea that ___.",
+    "zh": "来之前，我完全不知道 ___。"
+   },
+   {
+    "en": "At first I didn't know what ___ meant, so I asked.",
+    "zh": "一开始我不知道 ___ 是什么意思，所以我问了。"
+   },
+   {
+    "en": "___, but I still had a great time.",
+    "zh": "虽然 ___，但我还是玩得很开心。"
+   },
+   {
+    "en": "What I learned that day is that ___.",
+    "zh": "那天我学到的是 ___。"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Jodie",
+   "role": "朋友（孩子同学的妈妈）",
+   "voice": "f"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Hey, it's Jodie! How're you going? Not catching you at a bad time, am I?",
+    "zh": "嘿，我是 Jodie！最近好吗？没打扰你吧？"
+   },
+   {
+    "s": "y",
+    "en": "Hi Jodie! No, not at all. I'm just making dinner. How are you?",
+    "zh": "嗨 Jodie！没有没有，我在做晚饭。你好吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, good, good. Listen, what're you up to Tuesdee arvo? Next Tuesday, I mean — Cup Day.",
+    "zh": "挺好挺好。我问你，下周二下午你干嘛？就是墨尔本杯那天。"
+   },
+   {
+    "s": "y",
+    "en": "Cup Day? Oh, the Melbourne Cup. I don't think I've got anything on. Why?",
+    "zh": "Cup Day？哦，墨尔本杯。我应该没什么安排。怎么了？"
+   },
+   {
+    "s": "o",
+    "en": "We're doing a bit of a Cup thing at ours. Nothing flash, just a few of the girls from school and their other halves. Kick off round half twelve, have some lunch, a few bubbles, and the race jumps at half two our time, so you'd be right for pick-up.",
+    "zh": "我们家搞个小聚会，不隆重，就几个学校认识的妈妈和她们的另一半。大概 12 点半开始，吃午饭、喝点起泡酒，比赛我们这边 2 点半开跑，所以不耽误你接孩子。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, that was a lot of information! Could you say the times again a bit slower?",
+    "zh": "不好意思，信息有点多！能把时间再慢一点说一遍吗？"
+   },
+   {
+    "s": "o",
+    "en": "Ha, sorry, I always talk a hundred miles an hour. Lunch from half past twelve. The race is at half past two. It only goes for about three minutes.",
+    "zh": "哈，抱歉，我说话总是特别快。12 点半开始吃午饭，比赛 2 点半，只有大概三分钟。"
+   },
+   {
+    "s": "y",
+    "en": "Got it, thanks. That sounds lovely. I'll have to take the afternoon off work, but I reckon my manager won't mind.",
+    "zh": "明白了，谢谢。听起来很不错。我得请半天假，不过我觉得经理不会介意。"
+   },
+   {
+    "s": "o",
+    "en": "Oh, half the office takes the arvo off anyway. Nobody gets any work done once the Cup's on.",
+    "zh": "哦，反正一半的同事都会请下午假。比赛一开始谁也干不了活。"
+   },
+   {
+    "s": "y",
+    "en": "Should I bring anything?",
+    "zh": "我要带什么吗？"
+   },
+   {
+    "s": "o",
+    "en": "Just bring a plate, if that's alright. A salad or some nibbles would be perfect. And BYO if you want something in particular to drink.",
+    "zh": "带一道菜就行，可以吗？沙拉或者小零食都很好。想喝什么特别的就自己带。"
+   },
+   {
+    "s": "y",
+    "en": "No worries, I'll make a salad. Is there a dress code? I've heard people dress up for the Cup.",
+    "zh": "没问题，我做个沙拉。有着装要求吗？我听说大家看墨尔本杯会打扮。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, it's meant to be frocks and fascinators, but don't stress. Frock up if you feel like it, but jeans are totally fine. Gaz'll probably rock up in thongs.",
+    "zh": "对，按理是连衣裙配头饰，但别有压力。想打扮就打扮，穿牛仔裤完全没问题。Gaz 大概会穿人字拖就来了。"
+   },
+   {
+    "s": "y",
+    "en": "Ha! Okay, I might wear a dress. I don't have a fascinator, though.",
+    "zh": "哈！好，我可能穿条裙子。不过我没有头饰。"
+   },
+   {
+    "s": "o",
+    "en": "I've got a couple spare, you can borrow one. Oh, and we're running a sweep. It's a fiver a ticket, you chuck it in the hat, and whoever pulls out the winner cleans up.",
+    "zh": "我有几个多的，可以借你一个。哦对，我们还玩 sweep。一张 5 块，钱扔进帽子，谁抽到冠军马谁拿大奖。"
+   },
+   {
+    "s": "y",
+    "en": "Just to confirm, I pay five dollars and I get one horse, and if my horse wins, I get the money?",
+    "zh": "我确认一下，我交 5 块钱抽一匹马，如果我的马赢了，钱就归我？"
+   },
+   {
+    "s": "o",
+    "en": "Pretty much. Winner gets most of it, second and third get a bit, and whoever comes last gets their fiver back. So you can't really lose.",
+    "zh": "差不多。冠军拿大部分，第二第三拿一点，最后一名退回 5 块。所以基本不会亏。"
+   },
+   {
+    "s": "y",
+    "en": "That's good, because I know nothing about horses! Is that okay?",
+    "zh": "那挺好，因为我对赛马一窍不通！这样没关系吧？"
+   },
+   {
+    "s": "o",
+    "en": "Oh, none of us do! It's all luck. Some people have a flutter on the TAB as well, but that's totally up to you.",
+    "zh": "哦，我们谁都不懂！全靠运气。有些人还会在 TAB 上小赌一把，不过完全看你自己。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, what's the TAB?",
+    "zh": "不好意思，TAB 是什么？"
+   },
+   {
+    "s": "o",
+    "en": "Oh, it's the betting mob, you know, the app or the shop where you put a bet on. Honestly, the sweep's enough fun.",
+    "zh": "哦，就是投注公司，你知道的，就是下注的那个 app 或者门店。说真的，玩 sweep 就够好玩了。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, I'll just do the sweep. One more thing: is it okay if I duck off a bit early? School finishes at ten past three.",
+    "zh": "好，我就只玩 sweep。还有一件事：我可以早点走吗？学校三点十分放学。"
+   },
+   {
+    "s": "o",
+    "en": "Course! I'll be doing the same, mine are at the same school. We can walk up together if you like.",
+    "zh": "当然！我也一样，我家孩子也在那所学校。你愿意的话我们一起走过去。"
+   },
+   {
+    "s": "y",
+    "en": "Perfect. Could you text me your address and the details, just so I don't forget?",
+    "zh": "太好了。你能把地址和细节发短信给我吗？免得我忘了。"
+   },
+   {
+    "s": "o",
+    "en": "Yep, I'll flick you a message tonight. Too easy. See you Tuesday!",
+    "zh": "好，我今晚发消息给你。没问题。周二见！"
+   },
+   {
+    "s": "y",
+    "en": "Thanks so much for inviting me, Jodie. See you then!",
+    "zh": "非常谢谢你邀请我，Jodie。到时见！"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that again a bit slower?",
+   "zh": "不好意思，能说慢一点再讲一遍吗？"
+  },
+  {
+   "en": "Sorry, what does ___ mean? I haven't heard that before.",
+   "zh": "不好意思，___ 是什么意思？我没听过这个说法。"
+  },
+  {
+   "en": "Just to confirm, you mean ___?",
+   "zh": "我确认一下，你的意思是 ___？"
+  },
+  {
+   "en": "Could you spell the street name for me?",
+   "zh": "能帮我拼一下街名吗？"
+  },
+  {
+   "en": "Could you text me the time and address, just so I don't forget?",
+   "zh": "能把时间和地址发短信给我吗？免得我忘了。"
+  }
+ ],
+ "checklist": [
+  "听懂 half twelve / half two / jumps，并复述聚会开始和比赛开跑时间",
+  "至少一次请对方放慢或重复（信息量大的那一句）",
+  "能问出要带什么，并听懂 bring a plate、BYO",
+  "用 Just to confirm… 复述 sweep 的玩法（a fiver a ticket、draw a horse、cleans up）",
+  "礼貌说明要提前走去接孩子（duck off a bit early）",
+  "请对方把地址和细节短信发来，并用一句话道谢收尾"
+ ]
+}

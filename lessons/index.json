@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "lessons": [
+  {
+   "id": "2026-10-26",
+   "date": "2026-10-26",
+   "category": "社交",
+   "title": "朋友来电邀你参加墨尔本杯午餐聚会",
+   "titleEn": "Getting invited to a Melbourne Cup lunch and sweep"
+  },
   {
    "id": "2026-10-25",
    "date": "2026-10-25",
