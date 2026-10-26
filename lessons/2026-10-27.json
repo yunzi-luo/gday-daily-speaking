@@ -1,0 +1,322 @@
+{
+ "id": "2026-10-27",
+ "date": "2026-10-27",
+ "category": "孩子学校/幼儿园",
+ "title": "放学校门口和家长闲聊运动会安排",
+ "titleEn": "School gate chat about Sports Day and a play date",
+ "scene": [
+  "周二下午 3:10，你在学校门口等女儿 Chloe 放学。同班同学 Lachie 的妈妈 Belinda 走过来跟你打招呼。她是班里的热心家长，消息灵通、说话很快，一聊就是一连串：下周五的 Sports Day（运动会）、穿 house colour、家长要不要帮忙烤香肠、班级群里的事，还顺口想约周末带孩子一起玩。",
+  "你的目标：① 听懂运动会的时间、地点、孩子要穿什么颜色、要带什么；② 问清楚家长志愿者要做什么、需要什么手续，量力答应帮忙一小时；③ 接住她的 play date 邀请，约好时间地点并交换电话。"
+ ],
+ "facts": [
+  {
+   "k": "When",
+   "v": "Sports Day：下周五 9:15 开始，大约 1:30 结束"
+  },
+  {
+   "k": "Where",
+   "v": "学校大操场（the oval），家长可以带折叠椅"
+  },
+  {
+   "k": "Wear",
+   "v": "Chloe 在 Blue（蓝队），穿蓝色 T 恤、校帽，带水壶、涂防晒"
+  },
+  {
+   "k": "Play date",
+   "v": "周六上午 10 点，Prospect 一个有大滑梯的公园"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "Sports Day",
+   "zh": "学校运动会",
+   "ex": "Sports Day is next Friday, if the weather holds."
+  },
+  {
+   "en": "house colours",
+   "zh": "学校分队的颜色（每个孩子属于一个 house）",
+   "ex": "The kids wear their house colours on Sports Day."
+  },
+  {
+   "en": "the oval",
+   "zh": "椭圆形大草地运动场",
+   "ex": "Parents can watch from the side of the oval."
+  },
+  {
+   "en": "sausage sizzle",
+   "zh": "烤香肠义卖（面包夹香肠，常为学校筹款）",
+   "ex": "The P&F is running a sausage sizzle at lunch."
+  },
+  {
+   "en": "the P&F / Governing Council",
+   "zh": "家长委员会 / 学校理事会",
+   "ex": "Belinda's on the P&F this year."
+  },
+  {
+   "en": "put your name down",
+   "zh": "报名、登记名字",
+   "ex": "I can put your name down for the eleven o'clock slot."
+  },
+  {
+   "en": "Working with Children Check",
+   "zh": "儿童工作资格审查（学校志愿者通常需要）",
+   "ex": "You need a Working with Children Check to volunteer."
+  },
+  {
+   "en": "be run off your feet / flat out",
+   "zh": "忙得团团转",
+   "ex": "I've been flat out at work this week."
+  },
+  {
+   "en": "if the weather holds",
+   "zh": "如果天气不变坏的话",
+   "ex": "We'll go to the park on Saturday, if the weather holds."
+  },
+  {
+   "en": "play date",
+   "zh": "约小朋友一起玩",
+   "ex": "Lachie's been asking for a play date with Chloe."
+  },
+  {
+   "en": "the class group chat",
+   "zh": "班级家长群",
+   "ex": "I'll chuck the details on the class group chat."
+  },
+  {
+   "en": "slip one's mind",
+   "zh": "一下子忘了",
+   "ex": "Sorry, it completely slipped my mind."
+  }
+ ],
+ "listening": [
+  {
+   "en": "Hiya! How're you going? Survived another Monday-Tuesday?",
+   "sound": "How're you going → \"how-ya-go-in\"，就是 How are you；Survived another… 是开玩笑地说“又熬过了一周开头？”",
+   "zh": "嗨！你好吗？又熬过一个周一周二啦？",
+   "reply": "Ha, just about! Good thanks, how are you?"
+  },
+  {
+   "en": "Did you see the note about Sports Day? It's next Friday — Chloe's in Blue, isn't she?",
+   "sound": "Did you → \"dij-ya\"；isn't she 句尾上扬是在确认，不是真提问。in Blue = 在蓝队",
+   "zh": "你看到运动会的通知了吗？下周五——Chloe 是蓝队的吧？",
+   "reply": "Yes, I think she's in Blue. What do they need to wear?"
+  },
+  {
+   "en": "Kicks off at quarter past nine, wraps up round half one, so bring a chair 'cause you'll be on the oval most of the day.",
+   "sound": "kicks off = 开始，wraps up = 结束；quarter past nine = 9:15，half one = 1:30；'cause = because",
+   "zh": "九点一刻开始，一点半左右结束，带把椅子，你大半天都会在操场上。",
+   "reply": "Nine-fifteen till about one-thirty. Good to know, I'll bring a chair."
+  },
+  {
+   "en": "The P&F's doing a sausage sizzle and we're a bit short on hands — any chance you could do an hour?",
+   "sound": "P&F 念 \"pee-n-eff\"（Parents and Friends）；short on hands = 人手不够；any chance you could… 是很客气的请求",
+   "zh": "家委会要搞烤香肠义卖，人手有点不够——你有没有可能帮一个小时？",
+   "reply": "Sure, I could do an hour. What would I need to do?"
+  },
+  {
+   "en": "You'll need your Working with Children Check sorted, but it's free for volunteers and it's all online.",
+   "sound": "Working with Children Check 很长，常说成 \"the check\" 或 \"WWCC\"；sorted = 办好了",
+   "zh": "你需要办好儿童工作资格审查，志愿者免费，全在网上办。",
+   "reply": "Okay, I haven't got one yet. Could you send me the link?"
+  },
+  {
+   "en": "Lachie's been on at me for ages about having Chloe over — you reckon she'd be keen?",
+   "sound": "be on at someone = 一直缠着某人说；have someone over = 请到家里/一起玩；reckon = think",
+   "zh": "Lachie 缠了我好久想和 Chloe 一起玩——你觉得她会愿意吗？",
+   "reply": "Oh, she'd love that! She talks about Lachie all the time."
+  }
+ ],
+ "speech": {
+  "topic": "说说我们学校的运动会和我当家长志愿者的经历",
+  "paragraphs": [
+   "Today I want to talk about Sports Day at my daughter's school. In Australia, every child belongs to a team called a house, and each house has its own colour. My daughter is in the blue house, so on Sports Day she wears a blue T-shirt, her school hat and lots of sunscreen.",
+   "When I first came here, I didn't know much about school life. The other parents seemed to know everything, and they spoke very fast. At the school gate, I usually just smiled and said hello. But this year, another mum asked me to help at the sausage sizzle, and I said yes.",
+   "I was a bit nervous, because I had to talk to many people. Before the day, I did my Working with Children Check online. It was free and quite easy. On the day, my job was simple. I put the sausages in bread, asked people if they wanted onions or sauce, and took the money.",
+   "Some parents spoke with a strong accent, and I didn't always understand them. When that happened, I just said, \"Sorry, what was that?\" and they repeated it. Nobody minded at all. Many people thanked me, and I even had a good laugh with one dad.",
+   "I'm really glad I helped. My daughter was so proud to see me there, and now I know more parents by name. My advice is this: if you get a chance to volunteer, just put your name down. You don't need perfect English. One hour can make you feel part of the community."
+  ],
+  "zh": "我想讲讲女儿学校的运动会。在澳洲，每个孩子都属于一个叫 house 的队，每队有自己的颜色。女儿在蓝队，运动会那天要穿蓝 T 恤、戴校帽、涂很多防晒。刚来时我不太了解学校生活，其他家长好像什么都知道，说话又快，在校门口我通常只是笑着打招呼。今年有位妈妈请我帮忙烤香肠义卖，我答应了。我有点紧张，因为要和很多人说话。之前我在网上办了儿童工作资格审查，免费也不难。那天我的工作很简单：把香肠夹进面包，问要不要洋葱或酱，收钱。有些家长口音很重，我听不懂时就说“Sorry, what was that?”，他们会再说一遍，没人介意。很多人谢谢我，我还和一位爸爸聊得很开心。女儿看到我在那儿特别骄傲，我现在也认识了更多家长。我的建议是：有机会当志愿者就报名，不需要完美的英语，一个小时就能让你觉得自己是社区的一份子。",
+  "patterns": [
+   {
+    "en": "When I first came here, I didn't know much about ___.",
+    "zh": "刚来的时候，我不太了解___。"
+   },
+   {
+    "en": "I was a bit nervous, because I had to ___.",
+    "zh": "我有点紧张，因为我得___。"
+   },
+   {
+    "en": "When that happened, I just said, \"___\", and ___.",
+    "zh": "遇到这种情况，我就说“___”，然后___。（讲应对方法）"
+   },
+   {
+    "en": "My advice is this: if you get a chance to ___, just ___.",
+    "zh": "我的建议是：如果有机会___，就___。"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Belinda",
+   "role": "同班同学 Lachie 的妈妈",
+   "voice": "f"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Hiya! How're you going? Survived another week so far?",
+    "zh": "嗨！你好吗？这周到现在还撑得住吧？"
+   },
+   {
+    "s": "y",
+    "en": "Ha, just about! I'm good, thanks. How are you, Belinda?",
+    "zh": "哈，差不多吧！我挺好的，谢谢。你呢，Belinda？"
+   },
+   {
+    "s": "o",
+    "en": "Oh, not bad, not bad. Bit run off my feet, to be honest — work's been flat out and Lachie's had swimming every night. Anyway, did you see the note about Sports Day? It's next Friday. Chloe's in Blue, isn't she?",
+    "zh": "哦，还行还行。说实话有点忙得团团转——工作特别忙，Lachie 每晚还要游泳。对了，你看到运动会的通知了吗？下周五。Chloe 是蓝队的吧？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, she's in Blue. I saw the note, but I didn't read all of it. What time does it start?",
+    "zh": "对，她是蓝队。我看到通知了，但没全看完。几点开始？"
+   },
+   {
+    "s": "o",
+    "en": "Kicks off at quarter past nine, wraps up round half one. Kids wear their house colour, school hat, drink bottle, and slap on heaps of sunscreen 'cause there's not much shade on the oval. Bring a chair, too, 'cause you'll be out there most of the day.",
+    "zh": "九点一刻开始，一点半左右结束。孩子穿自己队的颜色，戴校帽，带水壶，多涂防晒，因为操场上没什么阴凉。你也带把椅子，大半天都要在外面。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say that again a bit slower? Nine-fifteen till...?",
+    "zh": "不好意思，能再说慢一点吗？九点一刻到……？"
+   },
+   {
+    "s": "o",
+    "en": "Oh, sorry, I do rabbit on! Nine-fifteen till about one-thirty. Blue shirt, hat, water bottle, sunscreen. And a chair for you.",
+    "zh": "哎，抱歉，我话太多太快了！九点一刻到大概一点半。蓝色上衣、帽子、水壶、防晒。还有你自己的椅子。"
+   },
+   {
+    "s": "y",
+    "en": "Got it, thanks. Does she need to bring lunch, or is there something there?",
+    "zh": "明白了，谢谢。她要带午饭吗，还是那边有吃的？"
+   },
+   {
+    "s": "o",
+    "en": "Well, that's the other thing. The P&F's doing a sausage sizzle at lunch, two bucks a pop, so she can grab one of those. But we're a bit short on hands. Any chance you could do an hour?",
+    "zh": "嗯，这正是我要说的另一件事。家委会午饭时卖烤香肠，两块钱一个，她可以买一个。不过我们人手有点不够。你有没有可能帮一个小时？"
+   },
+   {
+    "s": "y",
+    "en": "Maybe. I'd have to take the morning off work. What would I need to do?",
+    "zh": "也许可以。我得请上午的假。我需要做什么？"
+   },
+   {
+    "s": "o",
+    "en": "Nothing fancy. Just pop the snags in bread, ask if they want onion or sauce, and take the money. Most people pay by tap now anyway. The eleven to twelve slot's still free if that suits.",
+    "zh": "没什么复杂的。就是把香肠夹进面包，问要不要洋葱或酱，然后收钱。现在大多数人反正都刷卡。十一点到十二点那一档还空着，如果合适的话。"
+   },
+   {
+    "s": "y",
+    "en": "Just to confirm, you mean eleven to twelve on Friday, at the sausage sizzle?",
+    "zh": "我确认一下，你是说周五十一点到十二点，在烤香肠摊？"
+   },
+   {
+    "s": "o",
+    "en": "Yep, spot on. Oh, but you'll need your Working with Children Check sorted first. Have you got one?",
+    "zh": "对，没错。哦，不过你得先办好儿童工作资格审查。你有吗？"
+   },
+   {
+    "s": "y",
+    "en": "No, I haven't. Is it hard to get?",
+    "zh": "没有。难办吗？"
+   },
+   {
+    "s": "o",
+    "en": "Nah, it's free for volunteers and it's all online. Takes a few days to come through, though, so I'd get onto it tonight if you can. And then just drop a copy into the front office.",
+    "zh": "不难，志愿者免费，全在网上办。不过要几天才能批下来，所以能的话今晚就去办。然后把复印件交到学校前台就行。"
+   },
+   {
+    "s": "y",
+    "en": "Okay. Could you send me the link? I don't want it to slip my mind.",
+    "zh": "好的。你能把链接发给我吗？我怕一转头就忘了。"
+   },
+   {
+    "s": "o",
+    "en": "Course. I'll chuck it on the class group chat — are you on that?",
+    "zh": "当然。我发到班级群里——你在群里吗？"
+   },
+   {
+    "s": "y",
+    "en": "I don't think so. I'm not sure who runs it.",
+    "zh": "好像不在。我不知道是谁管这个群。"
+   },
+   {
+    "s": "o",
+    "en": "Ah, that'd be me, actually! Give us your number and I'll add you. Oh, and while I've got you — Lachie's been on at me for ages about having Chloe over. You reckon she'd be keen?",
+    "zh": "啊，其实就是我管的！把你号码给我，我拉你进去。哦对了，趁现在碰到你——Lachie 缠了我好久，想和 Chloe 一起玩。你觉得她会愿意吗？"
+   },
+   {
+    "s": "y",
+    "en": "Oh, she'd love that! She talks about Lachie all the time. When were you thinking?",
+    "zh": "哦，她肯定喜欢！她老是说起 Lachie。你想约什么时候？"
+   },
+   {
+    "s": "o",
+    "en": "How about Saturday morning? There's that park in Prospect with the big slide — we could meet there round ten, if the weather holds, and grab a coffee while they run around.",
+    "zh": "周六上午怎么样？Prospect 那个有大滑梯的公园——如果天气不变坏，我们十点左右在那儿见，孩子们跑着玩，我们顺便喝杯咖啡。"
+   },
+   {
+    "s": "y",
+    "en": "Sounds great. Saturday at ten, at the park with the big slide. My number is 0491 570 316.",
+    "zh": "听起来很好。周六十点，在有大滑梯的公园。我的号码是 0491 570 316。"
+   },
+   {
+    "s": "o",
+    "en": "Hang on, let me get that down... oh-four-nine-one, five-seven-oh, three-one-six. I'll send you a text now so you've got mine.",
+    "zh": "等一下，我记下来……0491 570 316。我现在给你发个短信，这样你就有我的号码了。"
+   },
+   {
+    "s": "y",
+    "en": "Thanks, Belinda. And thanks for asking me to help. I'll do the check tonight.",
+    "zh": "谢谢你，Belinda。也谢谢你叫我帮忙。我今晚就办审查。"
+   },
+   {
+    "s": "o",
+    "en": "You're a legend. Oh, here they come — look at the state of them, covered in sand! See you Saturday, if not before!",
+    "zh": "你太好了。哦，孩子们出来了——看他们这模样，满身是沙子！周六见，说不定之前就碰面了！"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that again a bit slower?",
+   "zh": "不好意思，能再说慢一点吗？"
+  },
+  {
+   "en": "Sorry, what's the P&F? I haven't heard that before.",
+   "zh": "不好意思，P&F 是什么？我没听过。"
+  },
+  {
+   "en": "Just to confirm, you mean ___ on ___?",
+   "zh": "我确认一下，你是说___（时间）在___？"
+  },
+  {
+   "en": "Could you send me the details by text?",
+   "zh": "能把细节发短信给我吗？"
+  },
+  {
+   "en": "Could you add me to the group chat so I don't miss anything?",
+   "zh": "能把我拉进群吗？这样我就不会漏掉消息。"
+  }
+ ],
+ "checklist": [
+  "我听懂了 kicks off / wraps up、quarter past nine、half one，能说出运动会的起止时间",
+  "我能复述孩子要带什么：house colour 上衣、校帽、水壶、防晒，还有自己带椅子",
+  "听到 short on hands、any chance you could…，我知道对方在请我帮忙，并问清楚要做什么",
+  "我知道当学校志愿者要先办 Working with Children Check，并请对方把链接发给我",
+  "对方说得太快时，我至少用了一次 Could you say that again a bit slower? 或 Just to confirm…",
+  "我接住了 play date 邀请，确认了时间、地点并交换了电话"
+ ]
+}
