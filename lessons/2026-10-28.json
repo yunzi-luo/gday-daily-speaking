@@ -1,0 +1,321 @@
+{
+ "id": "2026-10-28",
+ "date": "2026-10-28",
+ "category": "日常",
+ "title": "空气炸锅用两周就坏，回店里要求退款",
+ "titleEn": "Returning a faulty air fryer for a refund",
+ "scene": [
+  "周三下班后，你带着两周前买的空气炸锅回到购物中心里那家电器店。它前几天突然不加热了：灯亮、风扇转，但就是不热，按复位也没用。小票你在邮箱里找到了电子版。客服台的店员 Ryan 很友好，但说话快、口语多，一开始会按惯例建议你“寄回厂家修”或者“换成店铺积分（store credit）”。",
+  "你的目标：① 清楚说明故障情况和购买时间，出示购买凭证；② 听懂店员给的几个选项（repair / replacement / refund / store credit）以及各自要等多久；③ 礼貌但坚定地表示“才用两周就坏，属于严重故障，希望退款到原卡”，并问清楚退款几天到账、要不要留旧货。"
+ ],
+ "facts": [
+  {
+   "k": "Item",
+   "v": "空气炸锅，$149，两周前买的（14 October）"
+  },
+  {
+   "k": "Fault",
+   "v": "不加热：灯亮、风扇转，但不热；复位、换插座都试过"
+  },
+  {
+   "k": "Proof",
+   "v": "手机里的电子小票（e-receipt），付款用的是借记卡"
+  },
+  {
+   "k": "Outcome",
+   "v": "退款到原卡，3–5 个工作日到账，旧机留在店里"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "faulty",
+   "zh": "有故障的",
+   "ex": "It's faulty – it stopped heating after two weeks."
+  },
+  {
+   "en": "proof of purchase",
+   "zh": "购买凭证（小票、银行记录等）",
+   "ex": "Have you got proof of purchase on you?"
+  },
+  {
+   "en": "e-receipt",
+   "zh": "电子小票",
+   "ex": "I've got the e-receipt on my phone."
+  },
+  {
+   "en": "store credit",
+   "zh": "店铺积分/购物额度（只能在本店消费）",
+   "ex": "We can do store credit if that suits."
+  },
+  {
+   "en": "change of mind",
+   "zh": "（不是质量问题）改主意退货",
+   "ex": "It's not a change of mind – it actually doesn't work."
+  },
+  {
+   "en": "send it away / send it off to the manufacturer",
+   "zh": "寄回厂家（检测/维修）",
+   "ex": "Normally we'd send it away to the manufacturer for assessment."
+  },
+  {
+   "en": "major failure",
+   "zh": "严重故障（消费者权益里常用的说法）",
+   "ex": "I'd say two weeks is a major failure."
+  },
+  {
+   "en": "refund it back to the card",
+   "zh": "退回原付款卡",
+   "ex": "Can you refund it back to the card I paid with?"
+  },
+  {
+   "en": "business days",
+   "zh": "工作日",
+   "ex": "It'll show up in three to five business days."
+  },
+  {
+   "en": "run it past my manager",
+   "zh": "跟经理确认一下",
+   "ex": "Let me just run it past my manager."
+  },
+  {
+   "en": "fair enough",
+   "zh": "有道理，可以理解",
+   "ex": "Fair enough, that's not great after two weeks."
+  },
+  {
+   "en": "a pain / a hassle",
+   "zh": "麻烦事",
+   "ex": "Sorry it's been such a hassle."
+  }
+ ],
+ "listening": [
+  {
+   "en": "G'day, how're we going? What can I do for ya?",
+   "sound": "how're we going → “how-a-wee-go-in”，店员常用 we 代替 you，就是“您好吗”；do for ya → “doo-fa-ya”",
+   "zh": "你好，怎么样？有什么可以帮你的？",
+   "reply": "Hi, good thanks. I'd like to return this air fryer – it's stopped working."
+  },
+  {
+   "en": "Oh no, righto – what's it doing, or not doing, I s'pose?",
+   "sound": "righto → “rye-toe”，= OK；I s'pose → “eye-spoze”，= I suppose，开玩笑地改口",
+   "zh": "哎呀，好的——它出什么毛病了？或者说，哪里不工作了？",
+   "reply": "The light comes on and the fan runs, but it doesn't heat up at all."
+  },
+  {
+   "en": "Have you got the receipt on ya, or proof of purchase of some sort?",
+   "sound": "got the → “gotta”；on ya → “on-ya”，= with you；of some sort = 任何一种",
+   "zh": "你带小票了吗？或者任何购买凭证？",
+   "reply": "Yep, I've got the e-receipt on my phone. Here you go."
+  },
+  {
+   "en": "Usually with these we'd send it off to the manufacturer, they'd assess it, and it's about two to three weeks turnaround.",
+   "sound": "send it off → “sen-di-toff”三个词连成一串；turnaround = 处理周期",
+   "zh": "这种情况我们通常寄回厂家检测，周期大概两到三周。",
+   "reply": "Hmm, I'd rather not wait three weeks – it's only two weeks old."
+  },
+  {
+   "en": "I can do you a straight swap, or store credit, no worries.",
+   "sound": "do you a … → “doo-ya-a”，= give you；straight swap = 直接换一台新的；no worries = 没问题",
+   "zh": "我可以直接给你换一台，或者给你店铺积分，没问题的。",
+   "reply": "Thanks, but I'd prefer a refund back to my card, if that's possible."
+  },
+  {
+   "en": "Bear with me a sec, I'll just grab the manager.",
+   "sound": "Bear with me → “bear-with-me”，请稍等；a sec = a second；grab = 叫过来",
+   "zh": "稍等一下，我去叫一下经理。",
+   "reply": "Sure, no worries."
+  }
+ ],
+ "speech": {
+  "topic": "说说我在澳洲的一次退换货经历",
+  "paragraphs": [
+   "When I first moved to Australia, I didn't know much about returning things. In China, I usually bought things online, and I almost never went back to a shop to complain. So the first time something broke here, I felt quite nervous and worried about my English.",
+   "A couple of weeks ago, I bought an air fryer from an electronics store. It worked well for about ten days. Then one evening, the light came on and the fan was running, but it didn't heat up at all. I tried another power point and reset it, but nothing changed.",
+   "I found the e-receipt in my email and took the air fryer back to the store. Before I went, I practised a few sentences, like \"It's faulty\" and \"I'd prefer a refund to my card.\" The staff member was friendly. At first, he offered to send it to the manufacturer, or to give me store credit. I said politely that it was only two weeks old, so I would prefer a refund. He checked with his manager, and in the end they refunded the money to my card.",
+   "I learned three things from this experience. First, always keep your receipt, even a digital one. Second, stay calm and polite, but be clear about what you want. Third, it's okay to ask people to slow down or repeat things. Now I feel much more confident when I need to deal with shops in Australia."
+  ],
+  "zh": "刚来澳洲时我不太懂退货，以前在国内多是网购，很少回店里投诉，所以第一次东西坏了很紧张。几周前我买了一台空气炸锅，用了十来天就不加热了，换插座、复位都没用。我在邮箱找到电子小票，回店里退货，去之前先练了几句话。店员一开始建议寄回厂家或给店铺积分，我礼貌地说才用两周，希望退款。他问了经理，最后退款到我的卡上。我学到三点：保留小票（电子的也行）；保持冷静礼貌但把诉求说清楚；听不懂时可以请对方放慢或重复。现在我在澳洲和商家打交道更有信心了。",
+  "patterns": [
+   {
+    "en": "It worked well for about ___, then ___.",
+    "zh": "它用了大约___都好好的，后来就___。"
+   },
+   {
+    "en": "I tried ___, but nothing changed.",
+    "zh": "我试过___，但没有任何变化。"
+   },
+   {
+    "en": "At first, he offered to ___, but I said ___.",
+    "zh": "一开始他提出___，但我说___。"
+   },
+   {
+    "en": "I learned three things: first, ___; second, ___; third, ___.",
+    "zh": "我学到三点：第一___；第二___；第三___。"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Ryan",
+   "role": "电器店客服台店员",
+   "voice": "m"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "G'day, how're we going? What can I do for ya?",
+    "zh": "你好，怎么样？有什么可以帮你的？"
+   },
+   {
+    "s": "y",
+    "en": "Hi, good thanks. I'd like to return this air fryer. I bought it here about two weeks ago, and it's stopped working.",
+    "zh": "你好，挺好的。我想退这台空气炸锅。大概两周前在这儿买的，现在坏了。"
+   },
+   {
+    "s": "o",
+    "en": "Oh no, righto. What's it doing – or not doing, I s'pose?",
+    "zh": "哎呀，好的。它出什么毛病了——或者说哪里不灵了？"
+   },
+   {
+    "s": "y",
+    "en": "The light comes on and the fan runs, but it doesn't heat up at all. I tried a different power point and I reset it, but it's the same.",
+    "zh": "灯会亮，风扇也转，但完全不加热。我换了插座，也复位过，还是一样。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, that doesn't sound flash. Have you got the receipt on ya, or proof of purchase of some sort?",
+    "zh": "嗯，听起来不太妙。你带小票了吗？或者任何购买凭证？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, I've got the e-receipt on my phone. Here you go – it was the fourteenth of October.",
+    "zh": "有，我手机里有电子小票。给你——是 10 月 14 号买的。"
+   },
+   {
+    "s": "o",
+    "en": "Lovely, ta. Okay so, usually with these, what we'd do is send it off to the manufacturer, they'd have a look and assess it, and it's about two to three weeks turnaround, give or take.",
+    "zh": "好，谢了。通常这种情况我们会寄回厂家，他们检测评估一下，周期大概两到三周，差不多吧。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say that again a bit slower? Two to three weeks for what, exactly?",
+    "zh": "不好意思，能说慢一点吗？两到三周具体是做什么？"
+   },
+   {
+    "s": "o",
+    "en": "Sorry, yeah – we'd send it to the company that makes it. They check what's wrong, then they either fix it or replace it. That whole process takes two to three weeks.",
+    "zh": "抱歉——我们把它寄给生产厂家，他们查哪里坏了，然后修或者换。整个流程要两到三周。"
+   },
+   {
+    "s": "y",
+    "en": "I see. To be honest, I'd rather not wait three weeks. It's only two weeks old, and it doesn't work at all. I'd say that's a major failure.",
+    "zh": "明白了。说实话我不太想等三周。它才用了两周，而且完全不能用。我觉得这算严重故障。"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, fair enough. In that case I can do you a straight swap for a new one, or store credit, no worries.",
+    "zh": "嗯，有道理。那我可以直接给你换一台新的，或者给你店铺积分，没问题。"
+   },
+   {
+    "s": "y",
+    "en": "Thanks. Just to confirm, store credit means I can only spend it here, right?",
+    "zh": "谢谢。我确认一下，店铺积分就是只能在你们店用，对吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yep, that's it. It goes on a card, and it's good for three years.",
+    "zh": "对，就是这样。存在一张卡上，三年内有效。"
+   },
+   {
+    "s": "y",
+    "en": "Okay. I appreciate that, but I don't really want the same model again. I'd prefer a refund back to my card, if that's possible.",
+    "zh": "好的，谢谢你，但我不太想再要同款了。如果可以的话，我更希望退款到我的卡上。"
+   },
+   {
+    "s": "o",
+    "en": "Right, I'll have to run that past my manager. Bear with me a sec, I'll just grab her.",
+    "zh": "好，这个我得跟经理确认一下。稍等一下，我去叫她。"
+   },
+   {
+    "s": "y",
+    "en": "Sure, no worries.",
+    "zh": "好的，没问题。"
+   },
+   {
+    "s": "o",
+    "en": "Okay, good news – she's happy for us to do a refund, seeing it's a fault and it's so new. Did you pay on card or cash?",
+    "zh": "好消息——经理同意退款，因为是质量问题而且这么新。你当时是刷卡还是现金？"
+   },
+   {
+    "s": "y",
+    "en": "On my debit card. This one here.",
+    "zh": "借记卡。就是这张。"
+   },
+   {
+    "s": "o",
+    "en": "Beautiful. If you just pop it in when it comes up… and that's gone through. It'll usually show up in three to five business days, depending on your bank.",
+    "zh": "好的。屏幕出来时把卡插进去……好，已经成功了。一般三到五个工作日到账，看你的银行。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, three to five business days – so not weekends, right?",
+    "zh": "不好意思，三到五个工作日——就是不算周末，对吧？"
+   },
+   {
+    "s": "o",
+    "en": "Yeah, weekdays only, so probably early next week. You'll get the refund receipt emailed to the same address as before.",
+    "zh": "对，只算工作日，所以大概下周初。退款收据会发到你之前的邮箱。"
+   },
+   {
+    "s": "y",
+    "en": "Great. And do you need to keep the air fryer, or should I take it home?",
+    "zh": "太好了。那空气炸锅你们要留下，还是我带回家？"
+   },
+   {
+    "s": "o",
+    "en": "Nah, leave it with us, we'll send it back to the supplier. Sorry it's been such a hassle.",
+    "zh": "不用，留在我们这儿，我们会退回给供应商。抱歉给你添麻烦了。"
+   },
+   {
+    "s": "y",
+    "en": "That's okay. Thanks so much for your help, Ryan. Have a good night.",
+    "zh": "没关系。非常感谢你的帮助，Ryan。晚上愉快。"
+   },
+   {
+    "s": "o",
+    "en": "No worries at all. You too – enjoy the rest of your week!",
+    "zh": "不客气。你也是——这周剩下的日子愉快！"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that again a bit slower?",
+   "zh": "不好意思，能再说慢一点吗？"
+  },
+  {
+   "en": "Sorry, what do you mean by \"store credit\"?",
+   "zh": "不好意思，你说的 store credit 是什么意思？"
+  },
+  {
+   "en": "Just to confirm, you mean ___, right?",
+   "zh": "我确认一下，你是说___，对吗？"
+  },
+  {
+   "en": "It's faulty, not a change of mind. I'd prefer a refund, please.",
+   "zh": "这是质量问题，不是改主意。我希望退款。"
+  },
+  {
+   "en": "Could you email me the refund receipt, please?",
+   "zh": "能把退款收据发到我邮箱吗？"
+  }
+ ],
+ "checklist": [
+  "我能用两三句话说清故障：灯亮、风扇转，但不加热，并说出试过哪些办法",
+  "我听懂了 proof of purchase、e-receipt，并能出示购买凭证、说出购买日期",
+  "我分得清 repair / straight swap / store credit / refund 四个选项，知道寄回厂家要等两三周",
+  "我礼貌但坚定地说出了 I'd prefer a refund back to my card",
+  "对方说得快时，我至少用了一次 Could you say that again a bit slower? 或 Just to confirm…",
+  "我问清了退款几个工作日到账、收据发到哪里、旧机要不要留下"
+ ]
+}
