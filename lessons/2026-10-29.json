@@ -1,0 +1,326 @@
+{
+ "id": "2026-10-29",
+ "date": "2026-10-29",
+ "category": "工作",
+ "title": "茶水间闲聊热天，被拉去帮办圣诞聚会",
+ "titleEn": "Kitchen small talk about the heat and the Christmas do",
+ "scene": [
+  "周四早上，你在办公室茶水间等咖啡机。这周阿德莱德突然热起来，今天预报 34 度，下午会有 cool change。隔壁组负责运营的同事 Tash 进来泡茶，她很爱聊天，说话快、俚语多。先聊天气、空调、周末，然后她说今年部门的年终圣诞聚会（the Christmas do / end-of-year do）是她在张罗，想拉你帮忙负责 Kris Kringle（抽签互送礼物）。",
+  "你的目标：① 自然地接住天气和周末的 small talk，不冷场；② 听懂聚会的时间、地点、谁出钱、礼物限价这些关键信息，没听清就礼貌追问；③ 答应帮忙但说清楚自己能做多少（发报名表、收名字），并约好怎么跟进（Teams 消息/邮件）。"
+ ],
+ "facts": [
+  {
+   "k": "When",
+   "v": "Friday 4 December，下午 3 点后（arvo），公司包到 6 点"
+  },
+  {
+   "k": "Where",
+   "v": "Glenelg 海边一家 pub 的露台（the deck）"
+  },
+  {
+   "k": "Kris Kringle",
+   "v": "每人一份礼物，限价 $20；报名截止 20 November"
+  },
+  {
+   "k": "Cost",
+   "v": "吃的公司出（the company's shouting），酒水自付（bar tab 用完后）"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "a scorcher",
+   "zh": "大热天",
+   "ex": "It's going to be a scorcher today – thirty-four, apparently."
+  },
+  {
+   "en": "a cool change",
+   "zh": "（热天后）冷空气过境、降温",
+   "ex": "There's a cool change coming through this arvo."
+  },
+  {
+   "en": "the Christmas do / end-of-year do",
+   "zh": "圣诞聚会/年终聚会（do = 聚会）",
+   "ex": "Are you coming to the Christmas do?"
+  },
+  {
+   "en": "Kris Kringle / Secret Santa",
+   "zh": "抽签互送礼物（不知道谁送给你）",
+   "ex": "We're doing Kris Kringle again, twenty-dollar limit."
+  },
+  {
+   "en": "rope someone in",
+   "zh": "拉某人来帮忙",
+   "ex": "Sorry, I'm roping you in – I need a hand with this."
+  },
+  {
+   "en": "give someone a hand",
+   "zh": "帮某人一把",
+   "ex": "Happy to give you a hand with the sign-ups."
+  },
+  {
+   "en": "shout (something)",
+   "zh": "请客、买单",
+   "ex": "The company's shouting the food this year."
+  },
+  {
+   "en": "a bar tab",
+   "zh": "预付的酒水额度",
+   "ex": "There's a bar tab till it runs out, then it's on you."
+  },
+  {
+   "en": "RSVP",
+   "zh": "回复是否参加",
+   "ex": "Can everyone RSVP by the twentieth?"
+  },
+  {
+   "en": "dietaries",
+   "zh": "饮食要求（素食、过敏等，dietary requirements 的口语）",
+   "ex": "Can you add a column for dietaries?"
+  },
+  {
+   "en": "chuck (something) in",
+   "zh": "随手加进去/放进去",
+   "ex": "Just chuck your name in the form."
+  },
+  {
+   "en": "keep it low-key",
+   "zh": "搞得简单低调些",
+   "ex": "We're keeping it pretty low-key this year."
+  }
+ ],
+ "listening": [
+  {
+   "en": "Morning! Bit of a scorcher on the way, eh? Thirty-four, they reckon.",
+   "sound": "on the way, eh → “on-tha-way-ay”，句末 eh 求认同；they reckon → “they-reck-n”，reckon = 说/认为，这里指天气预报说",
+   "zh": "早！今天要大热了吧？说是 34 度。",
+   "reply": "Yeah, I saw that. At least there's a cool change this arvo."
+  },
+  {
+   "en": "Did ya get up to much on the weekend, or was it a quiet one?",
+   "sound": "did ya → “jiddya”；get up to much → “ge-dup-ta-much”，= 做了什么特别的事吗",
+   "zh": "周末干啥了吗，还是在家歇着？",
+   "reply": "Pretty quiet – we just took the kids to the beach on Sunday."
+  },
+  {
+   "en": "Which one'd you go to? Henley's always chockers on a hot day.",
+   "sound": "one'd you → “wun-jew”；chockers → “chock-ers”，= 挤满了人（chock-a-block）",
+   "zh": "去的哪个海滩？热天 Henley 总是人挤人。",
+   "reply": "We went to Semaphore – it wasn't too bad, actually."
+  },
+  {
+   "en": "Listen, I'm gonna rope you in, if that's alright – I'm sorta running the Christmas do this year.",
+   "sound": "gonna rope you in → “gunna-roe-pew-in”；sorta → “sor-da”，= sort of，有点/算是",
+   "zh": "跟你说，我想拉你帮个忙，行吗——今年圣诞聚会算是我在张罗。",
+   "reply": "Sure, what do you need a hand with?"
+  },
+  {
+   "en": "So it's Friday the fourth, kicks off round three-ish, company's shouting the food and there's a bar tab till it runs out, then it's on ya.",
+   "sound": "信息量大、语速快：the fourth（12 月 4 日）、three-ish（三点左右）、shouting the food（公司请吃的）、it's on ya（之后自己付）",
+   "zh": "就是 4 号周五，三点左右开始，吃的公司请，酒水有预付额度，用完就自己付。",
+   "reply": "Sorry, just to confirm – is that Friday the fourth of December?"
+  },
+  {
+   "en": "No stress if you can't, but could you wrangle the Kris Kringle? Twenty-buck limit, nothing too fancy.",
+   "sound": "No stress → 别有压力；wrangle → “rang-gl”，原意赶牲口，口语 = 张罗、搞定；twenty-buck → “twen-ee-buck”，20 块",
+   "zh": "不行也没关系，你能帮忙张罗 Kris Kringle 吗？限价 20 块，不用太花哨。",
+   "reply": "Happy to. I can set up a form for the sign-ups."
+  }
+ ],
+ "speech": {
+  "topic": "聊聊我在阿德莱德怎么过夏天",
+  "paragraphs": [
+   "I'd like to talk about how I get through summer in Adelaide. When I first moved here, I wasn't ready for the heat. Some days in January it gets over forty degrees, and the hot wind feels like a hair dryer on your face. My first summer, I just stayed inside with the air con on and waited for it to end.",
+   "These days, I have a few habits that really help. On a scorcher, I try to do everything early. I go for a walk or do the shopping before nine, when it's still nice and cool. In the middle of the day, I keep the blinds down and stay inside. When the cool change comes through in the evening, we open all the windows and let the fresh air in. It's honestly one of the best feelings of summer.",
+   "My family's favourite thing is going to the beach after dinner. The sun doesn't go down until about eight thirty, so we have plenty of time. The kids play in the water, and I sit on the sand and relax. We always bring hats and sunscreen, because the sun here is much stronger than back home.",
+   "Summer is also the season for getting together. There are Christmas dos at work, barbecues with friends, and the cricket is always on TV somewhere. I don't really understand cricket yet, but I'm learning. Now I actually look forward to summer. If you're new to Adelaide, my advice is simple: get up early, find your favourite beach, and never forget the sunscreen."
+  ],
+  "zh": "我想聊聊我在阿德莱德怎么过夏天。刚搬来时我没准备好面对这么热的天，一月有时超过 40 度，热风像吹风机。第一个夏天我只会开着空调待在家里。现在我有了几个好习惯：大热天把事情都提早做，九点前散步买菜；中午拉下百叶窗待在室内；傍晚冷空气一到就打开所有窗户通风。我们家最爱晚饭后去海边，太阳八点半才下山，孩子玩水，我坐在沙滩上放松，帽子和防晒霜从不落下。夏天也是聚会的季节：公司圣诞聚会、朋友 BBQ、电视上总有板球。现在我反而期待夏天。给新来的人的建议：早起、找到喜欢的海滩、别忘防晒。",
+  "patterns": [
+   {
+    "en": "When I first moved here, I wasn't ready for ___.",
+    "zh": "刚搬来时，我没准备好面对___。"
+   },
+   {
+    "en": "On a scorcher, I try to ___ before ___.",
+    "zh": "大热天时，我尽量在___之前___。"
+   },
+   {
+    "en": "My family's favourite thing is ___ after ___.",
+    "zh": "我们家最喜欢在___之后___。"
+   },
+   {
+    "en": "If you're new to ___, my advice is simple: ___.",
+    "zh": "如果你刚来___，我的建议很简单：___。"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Tash",
+   "role": "隔壁组运营同事",
+   "voice": "f"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Morning! Bit of a scorcher on the way, eh? Thirty-four, they reckon.",
+    "zh": "早！今天要大热了吧？说是 34 度。"
+   },
+   {
+    "s": "y",
+    "en": "Morning, Tash. Yeah, I saw that. At least there's a cool change coming this arvo.",
+    "zh": "早，Tash。是啊，我看到了。好在今天下午会降温。"
+   },
+   {
+    "s": "o",
+    "en": "Thank God. The air con on our side's been playing up all week. It's like a sauna over there.",
+    "zh": "谢天谢地。我们那边的空调一整周都不太灵，跟桑拿房似的。"
+   },
+   {
+    "s": "y",
+    "en": "Oh no. You're welcome to come and sit near us. Ours is freezing, if anything.",
+    "zh": "哎呀。欢迎来我们这边坐，我们这边要说有啥问题，就是太冷了。"
+   },
+   {
+    "s": "o",
+    "en": "Ha, I might take you up on that. Did ya get up to much on the weekend, or was it a quiet one?",
+    "zh": "哈，我可能真会过去。周末干啥了吗，还是在家歇着？"
+   },
+   {
+    "s": "y",
+    "en": "Pretty quiet, actually. We took the kids to the beach on Sunday afternoon, because it was so warm.",
+    "zh": "挺安静的。周日下午天热，我们带孩子去了海边。"
+   },
+   {
+    "s": "o",
+    "en": "Nice. Which one'd you go to? Henley's always chockers on a hot day.",
+    "zh": "不错。去的哪个？热天 Henley 总是人挤人。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, Henley's always what?",
+    "zh": "不好意思，Henley 总是怎么样？"
+   },
+   {
+    "s": "o",
+    "en": "Chockers – like, packed. Chock-a-block. You can't find a park for love nor money.",
+    "zh": "Chockers，就是挤满人。车位怎么都找不到。"
+   },
+   {
+    "s": "y",
+    "en": "Ah, got it. We went to Semaphore, and it wasn't too bad. We found a park pretty easily.",
+    "zh": "哦，懂了。我们去的 Semaphore，还好，车位挺好找的。"
+   },
+   {
+    "s": "o",
+    "en": "Good call. Hey, listen, I'm gonna rope you in, if that's alright. I'm sorta running the Christmas do this year.",
+    "zh": "明智。对了，我想拉你帮个忙，行吗？今年圣诞聚会算是我在张罗。"
+   },
+   {
+    "s": "y",
+    "en": "Oh, sure. What do you need a hand with?",
+    "zh": "哦，好啊。需要我帮什么？"
+   },
+   {
+    "s": "o",
+    "en": "So it's Friday the fourth, down at that pub in Glenelg, on the deck. Kicks off round three-ish, company's shouting the food, and there's a bar tab till it runs out, then it's on ya.",
+    "zh": "就是 4 号周五，在 Glenelg 那家 pub 的露台。三点左右开始，吃的公司请，酒水有预付额度，用完就自己付。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, that was a lot. Could you say that again a bit slower? Is that Friday the fourth of December?",
+    "zh": "不好意思，信息有点多。能慢一点再说一遍吗？是 12 月 4 号周五吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yep, sorry, I talk a hundred miles an hour. Friday the fourth of December, from about three. We've got the deck till six, then people can kick on if they want.",
+    "zh": "对，抱歉，我说话太快了。12 月 4 号周五，三点左右开始。露台订到六点，之后想继续玩的可以接着玩。"
+   },
+   {
+    "s": "y",
+    "en": "Great, thanks. And what's the job for me?",
+    "zh": "好的，谢谢。那我要做什么？"
+   },
+   {
+    "s": "o",
+    "en": "No stress if you can't, but could you wrangle the Kris Kringle? Twenty-buck limit, nothing too fancy. Last year someone gave a bottle of hot sauce and it was a hit.",
+    "zh": "不行也没关系，你能张罗一下 Kris Kringle 吗？限价 20 块，不用太花哨。去年有人送了一瓶辣酱，大受欢迎。"
+   },
+   {
+    "s": "y",
+    "en": "Happy to. Just to confirm, you mean I collect everyone's names and then draw who buys for who?",
+    "zh": "没问题。我确认一下，你的意思是我收集大家的名字，然后抽签决定谁给谁买礼物？"
+   },
+   {
+    "s": "o",
+    "en": "Exactly. There's an app that does the draw for you, so you don't have to pull names out of a hat. Just get everyone to chuck their name in by the twentieth.",
+    "zh": "对。有个 app 能帮你抽签，不用真的从帽子里抽。只要让大家在 20 号前报上名就行。"
+   },
+   {
+    "s": "y",
+    "en": "OK. I can set up a form and send it around. Should I add a question about dietaries for the food as well?",
+    "zh": "好。我可以做个报名表发给大家。要不要顺便加一个饮食要求的问题，方便订餐？"
+   },
+   {
+    "s": "o",
+    "en": "Oh, legend! Yes, please, that'd save me a heap of chasing. And maybe ask if they're coming at all, so we've got numbers for the pub.",
+    "zh": "哎呀，太棒了！好的，能帮我省很多追人的功夫。也顺便问问来不来，好给 pub 报人数。"
+   },
+   {
+    "s": "y",
+    "en": "No worries. I'll put the RSVP, the Kris Kringle and dietaries all in one form. I'll flick it to you on Teams first, so you can check it before it goes out.",
+    "zh": "没问题。我把是否参加、Kris Kringle 和饮食要求都放进一个表里。我先在 Teams 上发给你看，你确认了再发出去。"
+   },
+   {
+    "s": "o",
+    "en": "Perfect. Today or tomorrow's fine, no rush. Oh, and keep it hush-hush who's got who – that's half the fun.",
+    "zh": "完美。今天或明天都行，不急。哦对，谁抽到谁要保密，那才好玩。"
+   },
+   {
+    "s": "y",
+    "en": "Of course. My lips are sealed. Should I send the form to the whole floor, or just our two teams?",
+    "zh": "当然，我保证不说。表格发给整层楼，还是只发我们两个组？"
+   },
+   {
+    "s": "o",
+    "en": "Just our two teams – about twenty-five people. I'll send you the list. Right, I'd better get back before I melt. Thanks heaps!",
+    "zh": "只发我们两个组，大概二十五个人。我把名单发你。好了，我得回去了，不然要化了。太感谢了！"
+   },
+   {
+    "s": "y",
+    "en": "No problem. Stay cool, and I'll message you this afternoon.",
+    "zh": "不客气。别热着，我下午给你发消息。"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that again a bit slower?",
+   "zh": "不好意思，能再说慢一点吗？"
+  },
+  {
+   "en": "Sorry, what does \"chockers\" mean?",
+   "zh": "不好意思，chockers 是什么意思？"
+  },
+  {
+   "en": "Just to confirm, you mean ___?",
+   "zh": "我确认一下，你的意思是___？"
+  },
+  {
+   "en": "Sorry, was that the fourth or the fourteenth?",
+   "zh": "不好意思，是 4 号还是 14 号？"
+  },
+  {
+   "en": "Could you send me the details on Teams, so I don't forget?",
+   "zh": "能在 Teams 上把细节发给我吗？免得我忘了。"
+  }
+ ],
+ "checklist": [
+  "我能自然接住天气话题：说出 scorcher、cool change，并顺势聊一两句",
+  "我能用两三句话回答“周末干什么了”，并反问对方",
+  "我听懂了聚会的日期、时间、地点、谁请客（shouting、bar tab、on ya）",
+  "我听懂了 rope you in、wrangle、chuck your name in，知道对方在请我帮忙",
+  "我至少用了 2 次礼貌追问（慢一点/确认日期/确认意思）",
+  "我说清楚自己会做什么、什么时候、用什么方式跟进"
+ ]
+}
