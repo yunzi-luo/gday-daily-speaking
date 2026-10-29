@@ -1,0 +1,322 @@
+{
+ "id": "2026-10-30",
+ "date": "2026-10-30",
+ "category": "保险/医疗",
+ "title": "致电 GP 诊所抢当天号看久咳",
+ "titleEn": "Calling the GP clinic for a same-day appointment",
+ "scene": [
+  "周五早上 8 点刚过，你已经咳了快两个星期，晚上咳得睡不好，想今天就看上家庭医生（GP）。你打给常去的 Prospect 那家家庭诊所（medical centre）。前台 Kerry 很热情，但一大早电话多，她语速快、缩略多，会说“今天号很满”、“只有 on-the-day 号”、“可以排 cancellation list 或者做 telehealth”，还会提到收费：是不是 bulk billing、自付多少、Medicare 退多少。",
+  "你的目标：① 说清楚自己是老病人、症状和持续时间，争取今天的号；② 听懂几个选项（当天号、候补名单、电话问诊、下周固定医生）并做出选择；③ 问清楚费用、要不要提前到、诊所会不会短信确认。"
+ ],
+ "facts": [
+  {
+   "k": "Who",
+   "v": "你是这家诊所的老病人（existing patient），上次来是今年五月"
+  },
+  {
+   "k": "Problem",
+   "v": "咳嗽快两周，晚上加重，没发烧"
+  },
+  {
+   "k": "Booked",
+   "v": "今天 11:40，Dr Patel，standard consult，提前 5–10 分钟到"
+  },
+  {
+   "k": "Fee",
+   "v": "$90 private fee，Medicare 当场退约 $43，自付约 $47"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "GP / medical centre",
+   "zh": "家庭医生 / 家庭诊所",
+   "ex": "I rang the medical centre to see a GP today."
+  },
+  {
+   "en": "on-the-day appointment",
+   "zh": "当天放出的号（早上开放预约）",
+   "ex": "We release our on-the-day appointments at eight."
+  },
+  {
+   "en": "chockers / booked out",
+   "zh": "满了、约满了",
+   "ex": "Sorry, Dr Patel's chockers today."
+  },
+  {
+   "en": "cancellation list",
+   "zh": "候补名单（有人取消就通知你）",
+   "ex": "I can pop you on the cancellation list."
+  },
+  {
+   "en": "telehealth",
+   "zh": "电话/视频问诊",
+   "ex": "Would a telehealth appointment suit you?"
+  },
+  {
+   "en": "existing patient",
+   "zh": "老病人（之前在这里看过）",
+   "ex": "Are you an existing patient with us?"
+  },
+  {
+   "en": "bulk bill",
+   "zh": "直接向 Medicare 收费、病人不用自付",
+   "ex": "Do you bulk bill adults?"
+  },
+  {
+   "en": "out of pocket",
+   "zh": "自己掏的钱（扣掉报销后）",
+   "ex": "So I'm about forty-seven out of pocket."
+  },
+  {
+   "en": "Medicare rebate",
+   "zh": "Medicare 报销的部分",
+   "ex": "The rebate goes straight back onto your card."
+  },
+  {
+   "en": "standard / long consult",
+   "zh": "普通 / 长时间问诊（约 15 / 30 分钟）",
+   "ex": "Is it just the one issue, so a standard consult?"
+  },
+  {
+   "en": "hacking cough",
+   "zh": "干咳得很厉害、一直咳",
+   "ex": "I've had a hacking cough for nearly two weeks."
+  },
+  {
+   "en": "keep you up at night",
+   "zh": "让你晚上睡不好",
+   "ex": "It keeps me up at night."
+  }
+ ],
+ "listening": [
+  {
+   "en": "Morning, Prospect Family Practice, Kerry speaking, how can I help?",
+   "sound": "Morning 前面的 Good 被吞掉；Kerry speaking 很快，要抓住名字和诊所名",
+   "zh": "早上好，Prospect 家庭诊所，我是 Kerry，有什么可以帮你？",
+   "reply": "Hi Kerry, I'm hoping to see a GP today if possible."
+  },
+  {
+   "en": "Are you an existing patient with us, love?",
+   "sound": "with us → “with-us”连读；love 是前台常用的亲切称呼，不用在意",
+   "zh": "你之前在我们这儿看过吗？",
+   "reply": "Yes, I am. I saw Dr Patel back in May."
+  },
+  {
+   "en": "She's pretty chockers today, to be honest – I've only got the one on-the-day left, at eleven-forty.",
+   "sound": "chockers → “chock-ers”，= 满满的；the one … left = 只剩一个；eleven-forty = 11:40",
+   "zh": "说实话她今天很满，当天号只剩一个，11:40。",
+   "reply": "Eleven-forty is perfect. I'll take it."
+  },
+  {
+   "en": "Otherwise I can pop you on the cancellation list, or she does telehealth after four.",
+   "sound": "pop you on → “pop-ya-on”，= 把你加到；after four = 四点以后",
+   "zh": "不然我可以把你放进候补名单，或者她四点后有电话问诊。",
+   "reply": "Thanks, but I'd rather come in so she can have a listen to my chest."
+  },
+  {
+   "en": "Just a heads-up, we don't bulk bill adults – it's ninety for a standard, and you'll get about forty-three back on the spot.",
+   "sound": "heads-up = 提前告诉你；bulk bill 要听懂；on the spot = 当场",
+   "zh": "先提醒你，成人不 bulk bill，普通问诊 $90，当场能退约 $43。",
+   "reply": "No worries. So I'm about forty-seven out of pocket?"
+  },
+  {
+   "en": "If you could rock up five, ten minutes early, that'd be great. You'll get a text confirmation shortly.",
+   "sound": "rock up = 到场；five, ten minutes = 五到十分钟；shortly = 一会儿",
+   "zh": "麻烦提前五到十分钟到。很快会收到确认短信。",
+   "reply": "Will do. Thanks so much for your help."
+  }
+ ],
+ "speech": {
+  "topic": "我在澳洲是怎么看家庭医生的",
+  "paragraphs": [
+   "When I first moved to Adelaide, I didn't really understand how the health system worked. Back home, if I felt sick, I would just go straight to a hospital. Here, the first step is almost always a GP, which is a family doctor. If you need a specialist, the GP writes you a referral.",
+   "Finding a good GP took me a while. I tried a few medical centres near my place. In the end, I chose one that is close to my kids' school and has online booking. Now I see the same doctor most of the time, so she knows my history and I don't have to explain everything again.",
+   "Booking an appointment can still be tricky. Popular doctors are often booked out for a week or two. So I've learnt a few tricks. If I need to see someone on the same day, I call right at eight o'clock, when the clinic releases its on-the-day appointments. If there's nothing left, I ask to go on the cancellation list, or I book a telehealth call.",
+   "I've also learnt to ask about the fee before I go. Some clinics bulk bill, so you don't pay anything. Others charge a private fee, and Medicare pays part of it back. The gap can be forty or fifty dollars, so it's good to know.",
+   "My biggest tip is this: don't be shy on the phone. If the receptionist talks too fast, just ask them to slow down. They are usually very friendly and happy to help."
+  ],
+  "zh": "刚来阿德莱德时我不懂这里的医疗体系，以前生病直接去医院，而这里第一步几乎都是看家庭医生 GP，需要专科时由 GP 开转诊。我试了几家诊所，最后选了离孩子学校近、能网上预约的一家，现在基本固定看同一位医生，她了解我的病史。约号仍然不容易：好医生常常一两周都约满了，所以我想当天看病就八点准时打电话抢当天号，没有的话就排候补或者约电话问诊。我也学会了事先问费用：有的诊所 bulk bill 不用付钱，有的收私人费用、Medicare 退一部分，差价可能四五十块。最重要的建议是：电话里别害羞，前台说太快就请她慢一点，他们通常都很乐意帮忙。",
+  "patterns": [
+   {
+    "en": "In the end, I chose ___ because ___.",
+    "zh": "最后我选了……，因为……（讲做决定的过程）"
+   },
+   {
+    "en": "If I need to ___, I ___ right at ___.",
+    "zh": "如果我需要……，我就在……准时……（分享小技巧）"
+   },
+   {
+    "en": "I've learnt to ___ before I ___.",
+    "zh": "我学会了在……之前先……"
+   },
+   {
+    "en": "My biggest tip is this: ___.",
+    "zh": "我最大的建议是：……（演讲收尾）"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Kerry",
+   "role": "家庭诊所前台",
+   "voice": "f"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Morning, Prospect Family Practice, Kerry speaking, how can I help?",
+    "zh": "早上好，Prospect 家庭诊所，我是 Kerry，有什么可以帮你？"
+   },
+   {
+    "s": "y",
+    "en": "Hi Kerry. I was hoping to get in to see a GP today, if possible.",
+    "zh": "你好 Kerry，如果可以的话，我想今天看一下家庭医生。"
+   },
+   {
+    "s": "o",
+    "en": "Sure, I'll see what I can do. Are you an existing patient with us, love?",
+    "zh": "好的，我看看能怎么安排。你之前在我们这儿看过吗？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, I am. I usually see Dr Patel. The last time was back in May, I think.",
+    "zh": "看过，我一般看 Dr Patel，上次大概是五月。"
+   },
+   {
+    "s": "o",
+    "en": "Lovely. Can I just grab your date of birth to bring up your file?",
+    "zh": "好的。能告诉我你的出生日期吗？我调一下你的档案。"
+   },
+   {
+    "s": "y",
+    "en": "Sure, it's the twelfth of March, nineteen eighty-seven.",
+    "zh": "好的，1987 年 3 月 12 日。"
+   },
+   {
+    "s": "o",
+    "en": "Yep, got you. Still at fourteen Wattle Street? And what's going on for you today?",
+    "zh": "嗯，找到了。还住在 Wattle Street 14 号吗？今天是哪里不舒服？"
+   },
+   {
+    "s": "y",
+    "en": "Yes, same address. I've had a hacking cough for nearly two weeks. It's worse at night and it keeps me up. No fever, though.",
+    "zh": "对，地址没变。我咳得很厉害快两个星期了，晚上更严重，睡不好。不过没发烧。"
+   },
+   {
+    "s": "o",
+    "en": "Oh, you poor thing, there's a lot of that going round at the moment. Look, Dr Patel's pretty chockers today, to be honest – I've only got the one on-the-day left, at eleven-forty. Otherwise I can pop you on the cancellation list, or she does telehealth after four.",
+    "zh": "哎呀，真难受，最近很多人都这样。说实话 Dr Patel 今天很满，当天号只剩一个，11:40。不然可以把你放进候补名单，或者她四点后有电话问诊。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say that again a bit slower? I caught eleven-forty, but not the rest.",
+    "zh": "不好意思，能再说慢一点吗？我听到了 11:40，后面没听清。"
+   },
+   {
+    "s": "o",
+    "en": "Course, sorry, I'm going a hundred miles an hour this morning! So: one spot at eleven-forty today. Or I put you on a waiting list in case someone cancels. Or she can ring you after four for a phone appointment.",
+    "zh": "当然，抱歉，我今天早上说话太快了！就是：今天 11:40 有一个号；或者把你放进候补名单，有人取消就通知你；或者她四点后给你打电话问诊。"
+   },
+   {
+    "s": "y",
+    "en": "Thanks. I'll take the eleven-forty, please. I'd rather come in so she can listen to my chest.",
+    "zh": "谢谢。我要 11:40 的号。我还是想当面看，让医生听听我的肺。"
+   },
+   {
+    "s": "o",
+    "en": "Good call. Is it just the one issue? If so, I'll book a standard consult.",
+    "zh": "好主意。就这一个问题吗？是的话我就约普通问诊。"
+   },
+   {
+    "s": "y",
+    "en": "Just the cough, yes. Can I ask how much it'll be? Do you bulk bill?",
+    "zh": "就是咳嗽。请问费用多少？你们 bulk bill 吗？"
+   },
+   {
+    "s": "o",
+    "en": "Just a heads-up, we only bulk bill under-sixteens and concession card holders. For adults it's ninety for a standard, and you'll get about forty-three back from Medicare on the spot, as long as we've got your card details.",
+    "zh": "先提醒一下，我们只给 16 岁以下和持优惠卡的人 bulk bill。成人普通问诊 $90，只要我们有你的卡信息，Medicare 当场退约 $43。"
+   },
+   {
+    "s": "y",
+    "en": "Just to confirm, you mean I pay ninety, and I get about forty-three back straight away? So I'm about forty-seven out of pocket?",
+    "zh": "确认一下，你是说我付 $90，马上能退回大约 $43？所以我自付大约 $47？"
+   },
+   {
+    "s": "o",
+    "en": "Spot on. The rebate goes straight back onto your debit card, usually within a minute or two.",
+    "zh": "完全正确。报销款会直接退回你的借记卡，一般一两分钟就到。"
+   },
+   {
+    "s": "y",
+    "en": "Great. Is there anything I need to bring?",
+    "zh": "好的。我需要带什么吗？"
+   },
+   {
+    "s": "o",
+    "en": "Just your Medicare card. And if you could rock up five, ten minutes early, that'd be great – we're running a bit behind already. Oh, and if you've got any cold symptoms, pop a mask on when you come in, there's some at the front desk.",
+    "zh": "带上 Medicare 卡就行。麻烦提前五到十分钟到，我们已经有点晚点了。哦对，如果有感冒症状，进来的时候戴个口罩，前台有。"
+   },
+   {
+    "s": "y",
+    "en": "No worries, I'll wear a mask. Is my mobile still on file? It's oh-four-nine-one, five-seven-oh, two-three-eight.",
+    "zh": "没问题，我会戴口罩。你们那里还是我的手机号吗？是 0491 570 238。"
+   },
+   {
+    "s": "o",
+    "en": "Yep, that's the one we've got. You'll get a text confirmation shortly. If you need to cancel, just reply C to the text.",
+    "zh": "对，就是这个号。你很快会收到确认短信。如果要取消，回复字母 C 就行。"
+   },
+   {
+    "s": "y",
+    "en": "Perfect. And if the cough gets a lot worse over the weekend, what should I do?",
+    "zh": "好的。如果周末咳嗽严重了很多，我该怎么办？"
+   },
+   {
+    "s": "o",
+    "en": "Good question. If it's after hours, there's a home-visit GP service – the number's on our website. But if you're struggling to breathe or you've got chest pain, don't muck around, call triple zero.",
+    "zh": "问得好。如果是下班时间，有上门看诊的 GP 服务，电话在我们网站上。但如果呼吸困难或者胸口痛，别拖，直接打 000。"
+   },
+   {
+    "s": "y",
+    "en": "Got it. Thanks so much for squeezing me in, Kerry.",
+    "zh": "明白了。非常感谢你帮我挤出一个号，Kerry。"
+   },
+   {
+    "s": "o",
+    "en": "No worries at all. Hope you feel better soon. See you at eleven-forty!",
+    "zh": "不客气。希望你早日好起来，11:40 见！"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that a bit slower? I didn't quite catch it.",
+   "zh": "不好意思，能说慢一点吗？我没完全听清。"
+  },
+  {
+   "en": "Sorry, was that eleven-forty or eleven-fourteen?",
+   "zh": "不好意思，是 11:40 还是 11:14？"
+  },
+  {
+   "en": "Could you spell the doctor's name for me, please?",
+   "zh": "能帮我拼一下医生的名字吗？"
+  },
+  {
+   "en": "Just to confirm, how much will I be out of pocket?",
+   "zh": "确认一下，我自己要付多少钱？"
+  },
+  {
+   "en": "Could you send me a text with the time and the fee, please?",
+   "zh": "能把时间和费用发短信给我吗？"
+  }
+ ],
+ "checklist": [
+  "我能用一两句话说清自己是老病人、症状是什么、持续多久",
+  "我听懂了 chockers、on-the-day、cancellation list、telehealth 这几个选项",
+  "我至少用了一次礼貌追问（说慢一点 / Just to confirm…）",
+  "我问清了是否 bulk bill、自付多少、Medicare 退多少",
+  "我确认了预约时间、要提前到、要带 Medicare 卡，以及短信确认",
+  "我知道周末加重该找谁、什么情况要打 000"
+ ]
+}
