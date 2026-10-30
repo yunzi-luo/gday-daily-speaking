@@ -1,0 +1,312 @@
+{
+ "id": "2026-10-31",
+ "date": "2026-10-31",
+ "category": "社交",
+ "title": "邻居上门约孩子晚上一起万圣节讨糖",
+ "titleEn": "A neighbour invites your kids trick-or-treating",
+ "scene": [
+  "周六下午，你在前院收衣服，住在斜对面的邻居 Linda 走过来打招呼。今天是万圣节（Halloween），她说街上几家有小孩的会在傍晚一起带孩子挨家挨户 trick-or-treat，问你家孩子要不要一起去。她语速快、很随意，会说 lollies、tag along、pop your porch light on、Kmart costume 这类说法，还会顺口提到哪些人家不欢迎敲门。",
+  "你的目标：① 听懂集合时间、地点和大概路线，决定要不要参加；② 问清楚规矩：哪些房子可以敲、要准备什么（服装、手电、装糖的袋子）、大人怎么分工；③ 说明自己家也会准备糖给来敲门的孩子，并交换电话方便联系。"
+ ],
+ "facts": [
+  {
+   "k": "When",
+   "v": "今晚 6 点左右集合，天黑前（约 7:30）结束"
+  },
+  {
+   "k": "Where",
+   "v": "Linda 家门口（14 Wattle Street 斜对面），只走 Wattle Street 和旁边的小 cul-de-sac"
+  },
+  {
+   "k": "Rule",
+   "v": "只敲门廊灯亮着或有南瓜/装饰的房子"
+  },
+  {
+   "k": "Contact",
+   "v": "Linda 手机 0491 570 156，晚点拉进街坊群聊"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "trick-or-treating",
+   "zh": "万圣节讨糖（挨家敲门要糖）",
+   "ex": "The kids are going trick-or-treating around the street tonight."
+  },
+  {
+   "en": "lollies",
+   "zh": "糖果（澳洲说法，相当于 candy/sweets）",
+   "ex": "I've grabbed a couple of bags of lollies just in case."
+  },
+  {
+   "en": "tag along",
+   "zh": "跟着一起去",
+   "ex": "Your two are welcome to tag along with us."
+  },
+  {
+   "en": "porch light",
+   "zh": "门廊灯（亮着=欢迎孩子来敲门）",
+   "ex": "If your porch light's on, the kids know it's okay to knock."
+  },
+  {
+   "en": "dress up / costume",
+   "zh": "装扮 / 服装",
+   "ex": "Do they have to dress up, or is a costume optional?"
+  },
+  {
+   "en": "keep an eye on",
+   "zh": "照看，盯着",
+   "ex": "I'll keep an eye on the little ones at the back."
+  },
+  {
+   "en": "cul-de-sac",
+   "zh": "死胡同小街（尽头可以掉头的小路）",
+   "ex": "We'll just do our street and the cul-de-sac round the corner."
+  },
+  {
+   "en": "it's caught on",
+   "zh": "流行起来了",
+   "ex": "Halloween wasn't a big thing here, but it's really caught on."
+  },
+  {
+   "en": "sugar high",
+   "zh": "吃糖太多后兴奋过头",
+   "ex": "They'll be on a sugar high till ten o'clock."
+  },
+  {
+   "en": "head off",
+   "zh": "出发；离开",
+   "ex": "We'll head off around six, before it gets dark."
+  },
+  {
+   "en": "give someone a heads-up",
+   "zh": "提前跟某人打个招呼",
+   "ex": "Can you give me a heads-up if you're running late?"
+  },
+  {
+   "en": "a group chat",
+   "zh": "群聊",
+   "ex": "I'll add you to the street group chat."
+  }
+ ],
+ "listening": [
+  {
+   "en": "G'day! How're you going? Bit warm for October, isn't it?",
+   "sound": "How're you going 连成 \"how-ya-goin\"，不是问你去哪，是问你好吗；Bit warm 前面省了 It's a",
+   "zh": "你好！最近怎么样？十月份这天气有点热啊？",
+   "reply": "Not bad, thanks! Yeah, it's lovely out, isn't it?"
+  },
+  {
+   "en": "A few of us with kids are taking them round the street tonight for Halloween — reckon yours'd be keen?",
+   "sound": "reckon 前省略 do you；yours'd = yours would，几乎听不出 'd；keen = 想去、有兴趣",
+   "zh": "我们几家有孩子的今晚要带他们在街上转一圈过万圣节，你觉得你家孩子想去吗？",
+   "reply": "Oh, they'd love that! What time are you thinking?"
+  },
+  {
+   "en": "We'll prob'ly head off sixish, before it gets dark, and be back by half seven.",
+   "sound": "prob'ly 吞掉中间的 ab；sixish = 六点左右；half seven = 七点半",
+   "zh": "我们大概六点左右出发，天黑前，七点半前回来。",
+   "reply": "Sixish works for us. Where should we meet?"
+  },
+  {
+   "en": "Only knock where the porch light's on or they've got a pumpkin out — otherwise just leave 'em be.",
+   "sound": "porch light's = porch light is；'em = them；leave them be = 别打扰他们",
+   "zh": "只敲门廊灯亮着或者门口摆了南瓜的人家，其他的就别去打扰。",
+   "reply": "Good to know. So no light, no knocking."
+  },
+  {
+   "en": "Don't stress about a costume, mate, half of 'em just chuck on a Kmart witch hat.",
+   "sound": "chuck on = 随便套上；half of 'em 连读成 \"haffa-em\"；mate 女性对女性也常用",
+   "zh": "别为服装发愁，一半孩子就随便戴个 Kmart 买的巫婆帽。",
+   "reply": "Ha, that's a relief. We've got a couple of hats somewhere."
+  },
+  {
+   "en": "If you pop your light on, be ready — you'll get a fair few knocking.",
+   "sound": "pop your light on = 把灯打开；a fair few = 相当多",
+   "zh": "如果你开着灯，就做好准备——会有不少孩子来敲门。",
+   "reply": "No worries, I've got a big bag of lollies ready."
+  }
+ ],
+ "speech": {
+  "topic": "我在澳洲第一次过万圣节",
+  "paragraphs": [
+   "The first time I celebrated Halloween in Australia, I was not really prepared. In China, we don't have this tradition, so I didn't know what to expect. On the afternoon of the thirty-first of October, my neighbour came over and asked if my kids wanted to go trick-or-treating with her family. I said yes, but to be honest, I had no idea what the rules were.",
+   "She explained everything to me. The kids dress up, walk around the street, and knock on doors. If a house has its porch light on or a pumpkin outside, it means the family is happy to give out lollies. If the light is off, you just walk past. I thought that was a really polite and simple system.",
+   "We didn't have proper costumes, so my kids wore black clothes and some cheap witch hats. Nobody cared at all. The neighbours were friendly, and some of them had decorated their front yards with spiders and skeletons. My kids came home with a huge bag of lollies and a big smile.",
+   "What I liked most was not the lollies. It was meeting people on my street. I had lived there for a year, but I only knew one or two neighbours. That night I talked to five or six families, and now we have a group chat. Halloween helped me feel more at home in my neighbourhood.",
+   "Next time, I will turn my porch light on and give out lollies too."
+  ],
+  "zh": "我第一次在澳洲过万圣节时完全没准备。邻居来问孩子要不要一起去讨糖，并告诉我规矩：门廊灯亮着或门口有南瓜的人家才敲门，灯关着就走过去。孩子们只穿了黑衣服、戴了便宜的巫婆帽，但没人在意，回家时拿了一大袋糖。我最喜欢的不是糖，而是认识了街上五六户邻居，还建了群聊，让我在这个社区更有归属感。下次我也会开灯给来敲门的孩子发糖。",
+  "patterns": [
+   {
+    "en": "The first time I ___ in Australia, I was not really prepared.",
+    "zh": "讲第一次经历的开头"
+   },
+   {
+    "en": "If ___, it means ___.",
+    "zh": "解释一个规矩或信号"
+   },
+   {
+    "en": "What I liked most was not ___. It was ___.",
+    "zh": "强调真正的收获"
+   },
+   {
+    "en": "___ helped me feel more at home in ___.",
+    "zh": "表达归属感"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Linda",
+   "role": "斜对面的邻居（两个孩子的妈妈）",
+   "voice": "f"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Hey there! G'day! How're you going? Bit warm for October, isn't it?",
+    "zh": "嘿！你好！最近怎么样？十月份有点热啊？"
+   },
+   {
+    "s": "y",
+    "en": "Hi Linda! I'm good, thanks. Yeah, it's lovely out. Perfect for drying the washing.",
+    "zh": "你好 Linda！我挺好，谢谢。是啊，天气很好，正适合晒衣服。"
+   },
+   {
+    "s": "o",
+    "en": "Too right. Hey, listen, I won't keep you long. You know it's Halloween tonight? A few of us with kids are taking them round the street, trick-or-treating. Reckon yours'd be keen to tag along?",
+    "zh": "可不是嘛。对了，我不耽误你太久。你知道今晚是万圣节吧？我们几家有孩子的要带他们在街上转转讨糖。你家孩子想一起去吗？"
+   },
+   {
+    "s": "y",
+    "en": "Oh, that's so kind of you. I think they'd love it. Sorry, could you say that again a bit slower? Who's going exactly?",
+    "zh": "哦，你太好了。我觉得他们会很喜欢。抱歉，你能说慢一点再讲一遍吗？具体有谁去？"
+   },
+   {
+    "s": "o",
+    "en": "Sure, sorry, I talk a mile a minute. So, it's me and my two, the Nguyens from number nine, and Tom and Sarah from up the end. Probably eight or nine kids all up.",
+    "zh": "好的，抱歉，我说话太快了。就是我和我两个孩子，9 号的 Nguyen 一家，还有街尾的 Tom 和 Sarah。加起来大概八九个孩子。"
+   },
+   {
+    "s": "y",
+    "en": "Great. And what time are you heading off?",
+    "zh": "太好了。你们几点出发？"
+   },
+   {
+    "s": "o",
+    "en": "We'll prob'ly head off sixish, before it gets dark, and aim to be back by half seven. Little ones get a bit cranky after that, and then there's the sugar high to deal with.",
+    "zh": "大概六点左右出发，天黑前，争取七点半回来。小孩子过了那个点就容易闹脾气，还要应付吃糖后的兴奋。"
+   },
+   {
+    "s": "y",
+    "en": "Ha, I can imagine. Where should we meet?",
+    "zh": "哈，我能想象。我们在哪里集合？"
+   },
+   {
+    "s": "o",
+    "en": "Just out the front of mine. We'll do Wattle Street and the little cul-de-sac round the corner, nothing too big. And the golden rule is, only knock where the porch light's on or they've got a pumpkin out. Otherwise, just leave 'em be.",
+    "zh": "就在我家门口。我们走 Wattle Street 和拐角那条小死胡同，不走太远。最重要的规矩是：只敲门廊灯亮着或门口摆了南瓜的人家，其他的就别打扰。"
+   },
+   {
+    "s": "y",
+    "en": "Just to confirm, you mean if the light's off, we don't knock at all?",
+    "zh": "我确认一下，你的意思是灯关着的话，就完全不要敲门？"
+   },
+   {
+    "s": "o",
+    "en": "Exactly. Some of the older folks aren't into it, which is fair enough. It's caught on heaps over the last few years, but it's not everyone's cup of tea.",
+    "zh": "没错。有些年纪大的邻居不喜欢，这也可以理解。这几年万圣节流行多了，但不是每个人都喜欢。"
+   },
+   {
+    "s": "y",
+    "en": "That makes sense. Do the kids need proper costumes? We haven't really got anything.",
+    "zh": "有道理。孩子们需要正式的服装吗？我们家其实没什么可穿的。"
+   },
+   {
+    "s": "o",
+    "en": "Oh, don't stress about a costume. Half of 'em just chuck on a Kmart witch hat or some face paint. Maybe grab a torch, though, and a bag or a bucket for the lollies.",
+    "zh": "哦，别为服装发愁。一半孩子就戴个 Kmart 的巫婆帽或者画个脸。不过最好带个手电筒，再带个袋子或小桶装糖。"
+   },
+   {
+    "s": "y",
+    "en": "Okay, a torch and a bag. Got it. Should I come along too, or do you just drop them off?",
+    "zh": "好的，手电筒和袋子，记住了。我也要跟着去吗，还是把孩子交给你们就行？"
+   },
+   {
+    "s": "o",
+    "en": "Nah, we all go, it's half the fun. A couple of us walk up the front and someone keeps an eye on the little ones at the back. If you're happy to be at the back with me, that'd be ace.",
+    "zh": "不不，大人都一起去，这本身就是乐趣之一。几个人走在前面，有人在后面照看小的。你要是愿意跟我一起走在后面，那就太好了。"
+   },
+   {
+    "s": "y",
+    "en": "Sure, I can do that. And I'll leave my porch light on too, so other kids can knock. Do people usually give out a lot?",
+    "zh": "没问题。我也会开着门廊灯，让别的孩子来敲门。大家一般给很多吗？"
+   },
+   {
+    "s": "o",
+    "en": "Just a handful each is plenty. Fair warning, though — if you pop your light on, you'll get a fair few knocking. Maybe leave a bowl out the front while you're with us.",
+    "zh": "每人一小把就够了。不过提醒你一下——你开灯的话会有不少人来敲门。我们出去的时候，你可以在门口放一碗糖。"
+   },
+   {
+    "s": "y",
+    "en": "Good idea. I'll grab some lollies this arvo. Can I get your number, just in case we're running late?",
+    "zh": "好主意。我今天下午去买点糖。能留个你的电话吗？以防我们晚到。"
+   },
+   {
+    "s": "o",
+    "en": "Course. It's oh-four-nine-one, five-seven-oh, one-five-six. Just give me a heads-up if you're running behind and we'll hang on for you.",
+    "zh": "当然。号码是 0491 570 156。要是你们晚了就提前说一声，我们会等你们。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, was that one-five-six at the end?",
+    "zh": "抱歉，最后是 156 吗？"
+   },
+   {
+    "s": "o",
+    "en": "Yep, one-five-six. I'll flick you a text so you've got mine, and I'll chuck you in the street group chat too.",
+    "zh": "对，156。我给你发个短信，这样你就有我号码了，我也把你拉进街坊群聊。"
+   },
+   {
+    "s": "y",
+    "en": "Perfect, thanks so much, Linda. We'll see you out the front at six.",
+    "zh": "太好了，非常感谢 Linda。六点在你家门口见。"
+   },
+   {
+    "s": "o",
+    "en": "No worries at all. See you tonight. Oh, and tell the kids to eat a proper dinner first!",
+    "zh": "不客气。晚上见。哦对了，让孩子们先好好吃顿晚饭！"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, I didn't quite catch that. Could you say it a bit slower?",
+   "zh": "抱歉我没听清，你能说慢一点吗？"
+  },
+  {
+   "en": "Sorry, what does 'tag along' mean?",
+   "zh": "抱歉，'tag along' 是什么意思？"
+  },
+  {
+   "en": "Just to confirm, we're meeting at six out the front of yours?",
+   "zh": "确认一下，我们六点在你家门口集合？"
+  },
+  {
+   "en": "Could you text me the details, just so I don't forget?",
+   "zh": "你能把细节发短信给我吗？免得我忘了。"
+  },
+  {
+   "en": "Sorry, could you repeat the number one more time?",
+   "zh": "抱歉，号码能再说一遍吗？"
+  }
+ ],
+ "checklist": [
+  "听懂 How're you going 是问候，并自然回应",
+  "听懂 sixish、half seven 并确认集合时间和地点",
+  "听懂 porch light 的规矩：灯亮才敲门",
+  "问清要准备什么（服装、手电、装糖的袋子）",
+  "用 Just to confirm… 至少确认一次关键信息",
+  "要到对方电话并复述确认最后几位"
+ ]
+}
