@@ -1,0 +1,322 @@
+{
+ "id": "2026-11-01",
+ "date": "2026-11-01",
+ "category": "房屋",
+ "title": "中介来电通知房东卖房，商量看房安排",
+ "titleEn": "The owner's selling — sorting out open inspections",
+ "scene": [
+  "周日上午，你租住的 14 Wattle Street, Prospect 的物业经理 Chloe 打来电话。她说房东决定把房子挂牌出售，接下来几周会有拍照、销售中介带人看房（open inspection），想和你商量时间。她说话很快，一句话里塞好几个信息：日期、时间段、通知方式、你的租约还算不算数。",
+  "你的目标：① 听懂房东卖房对你的租约意味着什么（租约继续有效吗？）；② 商量拍照和看房的时间，提出你的条件（孩子、宠物、贵重物品、提前书面通知）；③ 确认谁来开门、看房时你要不要在家，并请她把安排发邮件确认。"
+ ],
+ "facts": [
+  {
+   "k": "News",
+   "v": "房东要卖房，房子 next month 开始挂牌"
+  },
+  {
+   "k": "Photos",
+   "v": "下周四上午 10 点，摄影师约 45 分钟"
+  },
+  {
+   "k": "Opens",
+   "v": "周六 11:00–11:30，大概连续三到四周"
+  },
+  {
+   "k": "Lease",
+   "v": "现有租约继续有效到一月底，卖了也照常"
+  }
+ ],
+ "vocab": [
+  {
+   "en": "put it on the market",
+   "zh": "（房子）挂牌出售",
+   "ex": "The owner's decided to put the place on the market."
+  },
+  {
+   "en": "open inspection / an open",
+   "zh": "公开看房时段",
+   "ex": "We'd like to run the opens on Saturday mornings."
+  },
+  {
+   "en": "sales agent",
+   "zh": "负责卖房的中介（和管租房的 property manager 不是同一人）",
+   "ex": "The sales agent will be there for every open."
+  },
+  {
+   "en": "property manager",
+   "zh": "物业经理（管租房的中介）",
+   "ex": "Your property manager is still your main contact."
+  },
+  {
+   "en": "your lease still stands",
+   "zh": "你的租约依然有效",
+   "ex": "Don't stress — your lease still stands until the end of January."
+  },
+  {
+   "en": "written notice",
+   "zh": "书面通知",
+   "ex": "We'll always give you written notice before an open."
+  },
+  {
+   "en": "presentable",
+   "zh": "（房子）收拾得体面、整洁",
+   "ex": "If you could keep it fairly presentable, that'd be great."
+  },
+  {
+   "en": "declutter",
+   "zh": "清理杂物、减少摆放的东西",
+   "ex": "You don't have to declutter, but it helps."
+  },
+  {
+   "en": "valuables",
+   "zh": "贵重物品",
+   "ex": "Please lock away any valuables before the open."
+  },
+  {
+   "en": "turn up / rock up",
+   "zh": "出现、到场（口语）",
+   "ex": "Usually only five or six people rock up."
+  },
+  {
+   "en": "a heads-up",
+   "zh": "提前打个招呼",
+   "ex": "Thanks for the heads-up about the photos."
+  },
+  {
+   "en": "in writing",
+   "zh": "以书面形式",
+   "ex": "Could you put the times in writing for me?"
+  }
+ ],
+ "listening": [
+  {
+   "en": "Hiya, it's Chloe from the agency — have you got a sec? Nothing to worry about, promise.",
+   "sound": "Hiya = hi；have you got a sec 连读成 \"ya-got-a-sec\"，= 有空吗（second 的缩写）",
+   "zh": "嗨，我是中介的 Chloe——你有空吗？没什么坏事，放心。",
+   "reply": "Hi Chloe, yes, I've got a few minutes. What's up?"
+  },
+  {
+   "en": "So the owners have decided to sell, so they'll be putting it on the market sometime next month.",
+   "sound": "putting it on 连读成 \"pudding-on\"；put it on the market = 挂牌出售",
+   "zh": "房东决定卖房了，下个月会挂牌。",
+   "reply": "Oh, okay. Does that change anything for my lease?"
+  },
+  {
+   "en": "Nah, nah, your lease still stands — if it sells, the new owner just takes it over.",
+   "sound": "Nah, nah 不是拒绝你，是\"不会不会\"的安慰语气；takes it over = 接手",
+   "zh": "不会不会，你的租约照样有效——卖掉了新房东直接接手。",
+   "reply": "That's good to hear. So I can stay until the end of January?"
+  },
+  {
+   "en": "We'd wanna get the photographer through first — reckon Thursday arvo'd work?",
+   "sound": "wanna = want to；reckon = 你觉得；arvo'd = afternoon would",
+   "zh": "我们想先让摄影师来拍照——你觉得周四下午行吗？",
+   "reply": "Thursday afternoon's tricky. Could we do Thursday morning instead?"
+  },
+  {
+   "en": "Opens'd be Saturdays, eleven till half eleven, probably three or four weeks, depending how it goes.",
+   "sound": "Opens'd = opens would；eleven till half eleven = 11:00 到 11:30；depending how it goes = 看情况",
+   "zh": "看房会在周六 11 点到 11 点半，大概三四周，看情况。",
+   "reply": "Okay. Do I need to be home during the opens?"
+  },
+  {
+   "en": "Totally up to you — heaps of tenants just duck out for a coffee.",
+   "sound": "up to you = 你决定；heaps of = 很多；duck out = 出去一下",
+   "zh": "完全随你——很多租客就出去喝杯咖啡。",
+   "reply": "Good idea. I'll probably take the kids to the park."
+  }
+ ],
+ "speech": {
+  "topic": "如果我租的房子要被卖掉，我会怎么做",
+  "paragraphs": [
+   "Today I want to talk about what I would do if the owner of my rental decided to sell. In Australia this happens quite often, and the first time it happens, it can feel a bit scary and stressful. You start to worry: will I have to move? Will strangers walk through my home every weekend?",
+   "The first thing I would do is stay calm and ask the right questions. I would ask my property manager whether my lease still stands. Usually it does, and the new owner simply takes over the lease. I would also ask how long the house will be on the market and how many open inspections there will be.",
+   "Next, I would set some clear boundaries. I have kids, so I would ask for the opens to be at the same time each week, and I would ask for written notice every time. I would also lock away my valuables and take some photos of my things, just in case something gets damaged.",
+   "Finally, I would try to make it easy for everyone. I would keep the house fairly tidy, but I wouldn't stress about making it perfect. During the opens, I would take the kids to the park or grab a coffee somewhere nearby.",
+   "I think the key is to be polite but clear. If you understand your rights and say what you need early, selling the house doesn't have to turn your life upside down."
+  ],
+  "zh": "如果房东决定卖掉我租的房子，第一次遇到会有点慌：要搬家吗？每周末都有陌生人进家门？我会先冷静，问清楚租约是否继续有效（通常有效，新房东接手）、挂牌多久、看房几次。然后提出明确的边界：孩子在家，希望每周固定时间，每次书面通知；锁好贵重物品，拍照留底。最后尽量配合：保持大致整洁但不追求完美，看房时带孩子去公园或喝咖啡。关键是礼貌但清楚，早点说出需求。",
+  "patterns": [
+   {
+    "en": "The first thing I would do is ___.",
+    "zh": "我会先做的第一件事是……"
+   },
+   {
+    "en": "I would ask whether ___.",
+    "zh": "我会问一下是否……"
+   },
+   {
+    "en": "I have kids, so I would ask for ___.",
+    "zh": "我有孩子，所以我会要求……"
+   },
+   {
+    "en": "___ doesn't have to turn your life upside down.",
+    "zh": "……不一定会把你的生活搞得一团糟。"
+   }
+  ]
+ },
+ "dialogue": {
+  "other": {
+   "name": "Chloe",
+   "role": "物业经理（管你租房的中介）",
+   "voice": "f"
+  },
+  "lines": [
+   {
+    "s": "o",
+    "en": "Hiya, it's Chloe from the agency — sorry to ring on a Sunday. Have you got a sec? Nothing to worry about, promise.",
+    "zh": "嗨，我是中介的 Chloe——不好意思周日打给你。有空吗？没什么坏事，放心。"
+   },
+   {
+    "s": "y",
+    "en": "Hi Chloe, yes, that's fine. What's up?",
+    "zh": "嗨 Chloe，没关系。什么事？"
+   },
+   {
+    "s": "o",
+    "en": "So, just a heads-up — the owners have decided to sell, so they'll be putting the place on the market sometime next month.",
+    "zh": "先跟你打个招呼——房东决定卖房了，下个月会把房子挂牌。"
+   },
+   {
+    "s": "y",
+    "en": "Oh, okay. That's a bit of a surprise. Does that mean we have to move out?",
+    "zh": "哦，好的，有点意外。那我们要搬走吗？"
+   },
+   {
+    "s": "o",
+    "en": "Nah, nah, not at all. Your lease still stands till the end of January. If it sells, the new owner just takes the lease over, so nothing changes on your end.",
+    "zh": "不会不会。你的租约到一月底照样有效。如果卖掉了，新房东直接接手租约，你这边什么都不变。"
+   },
+   {
+    "s": "y",
+    "en": "Just to confirm, you mean we can stay until the end of January no matter what?",
+    "zh": "确认一下，你是说不管怎样我们都能住到一月底？"
+   },
+   {
+    "s": "o",
+    "en": "Yep, that's right. Anything after that, we'd have a chat closer to the time. Now, first cab off the rank is photos — we'd wanna get the photographer through. Reckon Thursday arvo'd work?",
+    "zh": "对。之后的事到时候再聊。第一件事是拍照——想让摄影师来一趟。你觉得周四下午行吗？"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, could you say that again a bit slower? I didn't catch the first part.",
+    "zh": "不好意思，能再说慢一点吗？前半句我没听清。"
+   },
+   {
+    "s": "o",
+    "en": "Sure, sorry, I talk a mile a minute. The first thing is photos. Could the photographer come on Thursday afternoon?",
+    "zh": "好，抱歉，我说话太快了。第一件事是拍照。摄影师周四下午能来吗？"
+   },
+   {
+    "s": "y",
+    "en": "Thursday afternoon's tricky — I pick the kids up from school. Could we do Thursday morning instead, around ten?",
+    "zh": "周四下午不太方便——我要接孩子放学。能改成周四上午十点左右吗？"
+   },
+   {
+    "s": "o",
+    "en": "Ten works. She's usually in and out in about forty-five minutes. If you could have it fairly presentable, that'd be great — no need to go overboard.",
+    "zh": "十点可以。她一般四十五分钟左右就拍完走了。如果能收拾得整洁点就太好了——不用太刻意。"
+   },
+   {
+    "s": "y",
+    "en": "No worries. Will the photos show our family pictures or anything personal?",
+    "zh": "没问题。照片会拍到我们的家庭照或私人物品吗？"
+   },
+   {
+    "s": "o",
+    "en": "Good question. Pop any family photos and personal stuff away and we'll steer clear of the kids' rooms if you'd rather.",
+    "zh": "好问题。把家庭照和私人物品收起来就行，你愿意的话我们可以不拍孩子的房间。"
+   },
+   {
+    "s": "y",
+    "en": "Yes, I'd rather you didn't photograph the kids' rooms, thanks. And what about the inspections?",
+    "zh": "是的，最好别拍孩子房间，谢谢。那看房怎么安排？"
+   },
+   {
+    "s": "o",
+    "en": "Opens'd be Saturdays, eleven till half eleven, probably three or four weeks, depending how it goes. The sales agent, Ben, runs those, not me.",
+    "zh": "看房在周六 11 点到 11 点半，大概三四周，看情况。由销售中介 Ben 负责，不是我。"
+   },
+   {
+    "s": "y",
+    "en": "So that's Saturdays from eleven to eleven thirty, with Ben? Will I get notice before each one?",
+    "zh": "所以是每周六 11 点到 11 点半，Ben 来带？每次之前会通知我吗？"
+   },
+   {
+    "s": "o",
+    "en": "Absolutely. We'll always give you written notice, and Ben'll flick you a text the day before. If a Saturday doesn't suit, just let us know and we'll work around it.",
+    "zh": "当然。我们每次都会书面通知，Ben 前一天还会给你发短信。哪个周六不方便就告诉我们，我们会调整。"
+   },
+   {
+    "s": "y",
+    "en": "Thanks. Do I need to be home during the opens?",
+    "zh": "谢谢。看房时我需要在家吗？"
+   },
+   {
+    "s": "o",
+    "en": "Totally up to you. Heaps of tenants just duck out for a coffee. Ben has his own key, and everyone signs in at the door.",
+    "zh": "完全随你。很多租客就出去喝杯咖啡。Ben 有自己的钥匙，来的人都会在门口登记。"
+   },
+   {
+    "s": "y",
+    "en": "Okay. I'll lock away our valuables and take the kids to the park. Could you email me all of this, just so I have it in writing?",
+    "zh": "好的。我会把贵重物品锁好，带孩子去公园。能把这些都发邮件给我吗？这样我有书面记录。"
+   },
+   {
+    "s": "o",
+    "en": "Course. I'll pop it all in an email this arvo — photos Thursday at ten, opens from the fourteenth. Any dramas, give me a buzz on 0491 570 312.",
+    "zh": "当然。今天下午我把所有安排写邮件发你——周四十点拍照，十四号开始看房。有任何问题打 0491 570 312 找我。"
+   },
+   {
+    "s": "y",
+    "en": "Sorry, was that the fourteenth or the fourth?",
+    "zh": "不好意思，是十四号还是四号？"
+   },
+   {
+    "s": "o",
+    "en": "The fourteenth — one-four. Saturday the fourteenth of November.",
+    "zh": "十四号——一四。十一月十四号周六。"
+   },
+   {
+    "s": "y",
+    "en": "Great, thanks Chloe. I appreciate the heads-up.",
+    "zh": "好的，谢谢 Chloe。谢谢你提前告诉我。"
+   },
+   {
+    "s": "o",
+    "en": "No worries at all. Enjoy the rest of your Sunday!",
+    "zh": "不客气。周日剩下的时间玩得开心！"
+   }
+  ]
+ },
+ "rescue": [
+  {
+   "en": "Sorry, could you say that again a bit slower?",
+   "zh": "不好意思，能再说慢一点吗？"
+  },
+  {
+   "en": "Was that the fourteenth or the fourth?",
+   "zh": "是十四号还是四号？（确认容易混的数字）"
+  },
+  {
+   "en": "Just to confirm, my lease still stands until the end of January?",
+   "zh": "确认一下，我的租约到一月底依然有效？"
+  },
+  {
+   "en": "Could you email me the dates so I have them in writing?",
+   "zh": "能把日期发邮件给我吗？我想要书面记录。"
+  },
+  {
+   "en": "Sorry, who's running the opens — you or the sales agent?",
+   "zh": "不好意思，看房是你负责还是销售中介负责？"
+  }
+ ],
+ "checklist": [
+  "我能听懂 put it on the market 和 your lease still stands 的意思",
+  "我能问清楚房子卖了以后租约是否继续有效",
+  "我能礼貌地拒绝不方便的时间并提出替代时间（Could we do … instead?）",
+  "我能提出自己的条件：不拍孩子房间、每次书面通知",
+  "我能分清 fourteenth 和 fourth，并主动确认数字",
+  "我能请对方把安排发邮件确认（so I have it in writing）"
+ ]
+}
