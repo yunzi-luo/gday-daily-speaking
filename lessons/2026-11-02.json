@@ -1,0 +1,132 @@
+{
+  "id": "2026-11-02",
+  "date": "2026-11-02",
+  "category": "求职",
+  "title": "视频面试开场：两分钟自我介绍",
+  "titleEn": "Handling 'tell me about yourself' in a video interview",
+  "scene": [
+    "你申请了一家物流公司的 Business Analyst 合同岗，今天上午 10 点是第一轮 Teams 视频面试。面试官 Simon 是部门负责人，人很随和，开场先测声音、聊周末，然后突然说一句 \"Tell me a bit about yourself\"。他语速快，爱用比喻，网络中途还会卡一下。",
+    "你的目标：① 听懂开场寒暄和面试流程，自然接话；② 用两分钟讲清楚你是谁、做过什么、为什么来这里，不要从头背简历；③ 听不懂时礼貌追问，问好自己的问题，并弄清楚下一步什么时候有消息。"
+  ],
+  "facts": [
+    {"k": "Role", "v": "Business Analyst · 物流公司 12 个月合同岗"},
+    {"k": "Format", "v": "Teams 视频面试，约 30 分钟"},
+    {"k": "Hybrid", "v": "周二到周四到办公室，其中偶尔去 Wingfield 仓库"},
+    {"k": "Next step", "v": "周五前 HR 来电告知是否进第二轮 panel 面试"}
+  ],
+  "vocab": [
+    {"en": "jump on (a call)", "zh": "上线、加入（会议或通话）", "ex": "Thanks for jumping on this morning."},
+    {"en": "a quick rundown", "zh": "简要介绍一遍", "ex": "I'll give you a quick rundown of the role first."},
+    {"en": "walk me through", "zh": "带我过一遍、一步步讲讲", "ex": "Can you walk me through your background?"},
+    {"en": "in a nutshell", "zh": "简单来说、一句话概括", "ex": "In a nutshell, I help people and tech teams understand each other."},
+    {"en": "put my hand up", "zh": "主动报名、主动争取", "ex": "When a BA job came up, I put my hand up."},
+    {"en": "a left turn", "zh": "（比喻）大转向、换了个方向", "ex": "Logistics is a bit of a left turn from insurance."},
+    {"en": "get up to speed", "zh": "尽快熟悉、跟上进度", "ex": "It'd take me a few weeks to get up to speed on freight."},
+    {"en": "hit the ground running", "zh": "一上手就能干活", "ex": "We need someone who can hit the ground running."},
+    {"en": "wrap up", "zh": "结束、收尾", "ex": "My contract wraps up on the eighteenth of December."},
+    {"en": "drop out / cut out", "zh": "（网络、声音）断了、卡了", "ex": "Sorry, you just dropped out for a sec there."},
+    {"en": "shortlist", "zh": "筛选入围名单", "ex": "We'll shortlist a few people for the second round."},
+    {"en": "give you a buzz", "zh": "给你打个电话", "ex": "Priya will give you a buzz by Friday."}
+  ],
+  "listening": [
+    {
+      "en": "Morning! Can ya hear me okay? I've got a bit of an echo on my end.",
+      "sound": "Can ya = Can you，很轻；bit of an 连读 \"bid-uv-an\"；on my end = 我这边",
+      "zh": "早上好！你能听清我吗？我这边有点回音。",
+      "reply": "Good morning. Yes, I can hear you fine. Can you hear me?"
+    },
+    {
+      "en": "Righto, I'll give ya a quick rundown of the role, then hand over to you, and we'll leave some time at the end for your questions.",
+      "sound": "Righto = 好的，开始吧；hand over to you 连成 \"han-dover-to-ya\"，意思是轮到你说",
+      "zh": "好，我先简单介绍一下这个职位，然后交给你，最后留点时间让你提问。",
+      "reply": "Sounds great, thank you."
+    },
+    {
+      "en": "Why don't ya start by telling me a bit about yourself? Just walk me through your background.",
+      "sound": "Why don't ya 听起来像 \"why-doncha\"；bit about 连成 \"bid-about\"。这不是建议，而是正式开始面试了",
+      "zh": "你先介绍一下自己吧，大概讲讲你的背景。",
+      "reply": "Sure. How long would you like me to speak for?"
+    },
+    {
+      "en": "Sorry, you just dropped out for a sec there. Did ya say claims system?",
+      "sound": "dropped out = 网络断了；for a sec = 一小会儿，sec 是 second 的缩写；Did ya 像 \"didja\"",
+      "zh": "不好意思，你刚才断了一下。你说的是理赔系统吗？",
+      "reply": "Yes, that's right. The new online claims system."
+    },
+    {
+      "en": "Logistics is a bit of a left turn from insurance, isn't it? What's drawn you to us?",
+      "sound": "left turn 这里是比喻，不是真的转弯；What's drawn you = 什么吸引了你，drawn 读 \"drorn\"",
+      "zh": "物流和保险差别挺大的吧？是什么吸引你来我们这儿？",
+      "reply": "That's true, but the problem looks familiar: an old system and lots of workarounds."
+    },
+    {
+      "en": "Anyway, I've been rabbiting on. We've got a few more people to chat to, and Priya'll give ya a buzz by Friday, I'd say.",
+      "sound": "rabbiting on = 说个没完（自嘲）；Priya'll = Priya will，will 几乎听不见；I'd say = 我估计",
+      "zh": "好了，我说太多了。我们还要和几个人聊聊，我估计 Priya 周五前会给你打电话。",
+      "reply": "That's great. Thank you for your time today."
+    }
+  ],
+  "speech": {
+    "topic": "我的两分钟面试自我介绍",
+    "paragraphs": [
+      "Hi, thanks for having me today. I'm a business analyst with about five years' experience, mostly working on insurance and finance software. In a nutshell, my job is to sit down with people, work out what they really need, and help the technical team build the right thing.",
+      "I started out as a software tester before I moved to Australia. Testing taught me how systems are built and where they usually go wrong. But the part I enjoyed most was talking to the users. So when a BA job came up, I put my hand up, and I've never looked back.",
+      "For the past two years, I've been on a contract at an insurance company here in Adelaide. I ran workshops with the claims team, wrote the requirements and worked closely with the developers. Together we built a new online claims system. It cut our processing time by about a third, and the staff were really happy because they could finally get rid of their spreadsheets.",
+      "I'm looking for my next role because my contract wraps up in December. I was drawn to this job because the problem looks familiar: an old system, busy staff and lots of workarounds. I know freight is new to me, but I learn quickly, I ask lots of questions, and I'm good at getting people on the same page.",
+      "Outside work, I've got two young kids, so I'm pretty good at staying calm when things get messy! I'd love to hear more about the team and what you need most in the first few months. Thanks for listening."
+    ],
+    "zh": "我是有五年左右经验的业务分析师，主要做保险和金融软件，工作就是弄清大家真正需要什么，再帮技术团队做对东西。我来澳洲之前做软件测试，发现自己最喜欢和用户沟通，于是主动转做 BA。过去两年我在阿德莱德一家保险公司做合同工，组织理赔团队的工作坊、写需求，和开发一起做出新的在线理赔系统，处理时间缩短了约三分之一。现在合同十二月结束，这份工作的问题我很熟悉：旧系统、忙碌的员工和各种变通做法。物流是新领域，但我学得快、爱提问，也擅长让大家达成一致。工作之外我有两个小孩，所以遇到混乱也能保持冷静。我很想多了解团队，以及前几个月最需要做什么。",
+    "patterns": [
+      {"en": "I'm a ___ with about ___ years' experience, mostly in ___.", "zh": "开场一句话说清你是谁（现在）"},
+      {"en": "For the past ___ years, I've been ___. It ___ by about ___.", "zh": "讲最近的工作，并带一个具体成果（过去）"},
+      {"en": "I was drawn to this job because ___.", "zh": "说明为什么申请这个职位（将来）"},
+      {"en": "I know ___ is new to me, but I ___.", "zh": "主动承认不足，再说你的优势"}
+    ]
+  },
+  "dialogue": {
+    "other": {"name": "Simon", "role": "物流公司部门负责人、面试官", "voice": "m"},
+    "lines": [
+      {"s": "o", "en": "Morning! Can you hear me okay? I've got a bit of an echo on my end.", "zh": "早上好！你能听清我吗？我这边有点回音。"},
+      {"s": "y", "en": "Good morning, Simon. Yes, I can hear you fine. Can you hear me?", "zh": "早上好，Simon。能听清。你能听到我吗？"},
+      {"s": "o", "en": "Yep, loud and clear. Thanks for jumping on. Did you have a good weekend?", "zh": "嗯，非常清楚。谢谢你上线。周末过得好吗？"},
+      {"s": "y", "en": "Yes, thanks. It was pretty quiet. We took the kids to the beach yesterday. How about you?", "zh": "挺好，谢谢。比较安静，昨天带孩子去了海边。你呢？"},
+      {"s": "o", "en": "Oh, lovely. I spent most of mine pulling out weeds, so not very exciting! Righto, I'm Simon, and I look after digital delivery here at Greenfield Logistics. We've got about half an hour, and it's pretty relaxed. I'll give you a quick rundown of the role, then hand over to you, and we'll leave some time at the end for your questions. Sound alright?", "zh": "真好。我周末基本都在拔草，一点也不精彩！好，我是 Simon，负责 Greenfield Logistics 的数字交付。我们有大约半小时，气氛比较轻松。我先简单介绍职位，然后交给你，最后留时间给你提问。可以吗？"},
+      {"s": "y", "en": "Sounds great, thank you.", "zh": "好的，谢谢。"},
+      {"s": "o", "en": "Beauty. So we're replacing our old freight booking system, and it's a bit of a beast. We need a BA who can hit the ground running, sit down with the warehouse crew and the customer team, work out what they actually need and get it down on paper. Anyway, that's the short version. Why don't you start by telling me a bit about yourself? Just walk me through your background.", "zh": "太好了。我们要替换旧的货运预订系统，这个系统挺难搞的。我们需要一位上手就能干活的 BA，和仓库、客服团队坐下来，弄清他们真正需要什么，再写成文档。这是简短版。你先介绍一下自己吧，大概讲讲你的背景。"},
+      {"s": "y", "en": "Sure. Before I start, how long would you like me to speak for?", "zh": "好的。开始之前想问一下，你希望我讲多长时间？"},
+      {"s": "o", "en": "Oh, a couple of minutes'd be plenty. Just the highlights. No need to go through your whole resume.", "zh": "哦，两分钟左右就够了，讲重点就行，不用把简历从头讲一遍。"},
+      {"s": "y", "en": "No problem. I'm a business analyst with about five years' experience, mostly in insurance and finance software. Before I moved to Australia, I worked as a software tester. For the past two years, I've been on a contract at an insurance company here in Adelaide. I ran workshops with the claims team and wrote the requirements for a new online claims system.", "zh": "没问题。我是业务分析师，有约五年经验，主要做保险和金融软件。来澳洲之前我做软件测试。过去两年我在阿德莱德一家保险公司做合同工，组织理赔团队的工作坊，并为新的在线理赔系统写需求。"},
+      {"s": "o", "en": "Sorry, you just dropped out for a sec there. Did you say claims system?", "zh": "不好意思，你刚才断了一下。你说的是理赔系统吗？"},
+      {"s": "y", "en": "Yes, that's right. The new online claims system. It cut our processing time by about a third.", "zh": "对，是新的在线理赔系统。它把处理时间缩短了约三分之一。"},
+      {"s": "o", "en": "Nice one, that's a fair chunk. And how'd you end up in BA work, coming from testing?", "zh": "不错，缩短了不少。你原来做测试，后来怎么转做 BA 的？"},
+      {"s": "y", "en": "I found the part I enjoyed most was talking to the users. So when a BA job came up, I put my hand up.", "zh": "我发现自己最喜欢的部分是和用户沟通，所以有 BA 职位时我就主动争取了。"},
+      {"s": "o", "en": "Ha, good on you. Logistics is a bit of a left turn from insurance, though, isn't it? What's drawn you to us?", "zh": "哈，真不错。不过物流和保险差别挺大的吧？是什么吸引你来我们这儿？"},
+      {"s": "y", "en": "Sorry, could you say that again a bit slower? A left turn?", "zh": "不好意思，能说慢一点再讲一遍吗？left turn 是什么意思？"},
+      {"s": "o", "en": "Oh, sorry, yeah. I just mean it's a change of direction. Logistics is pretty different to insurance. So what made you apply?", "zh": "哦，抱歉。我就是说换了个方向，物流和保险很不一样。所以你为什么申请呢？"},
+      {"s": "y", "en": "I see. I was drawn to this job because the problem looks familiar: an old system, busy staff and lots of workarounds. I know freight is new to me, but I learn quickly, and I'd get up to speed as fast as I can.", "zh": "明白了。这份工作吸引我，是因为问题我很熟悉：旧系统、忙碌的员工和各种变通做法。我知道货运对我是新领域，但我学得快，会尽快熟悉起来。"},
+      {"s": "o", "en": "Fair enough. I reckon you'd pick it up pretty quick. So where are you at with your current contract? When could you start?", "zh": "有道理。我觉得你很快就能上手。你现在的合同什么情况？什么时候能入职？"},
+      {"s": "y", "en": "My contract wraps up on the eighteenth of December, so I could start in January.", "zh": "我的合同 12 月 18 日结束，所以一月可以入职。"},
+      {"s": "o", "en": "Yeah, mid-Jan'd suit us fine. Everything's dead around Christmas anyway. Now, I've been rabbiting on. Did you have any questions for me?", "zh": "嗯，一月中旬对我们正合适，反正圣诞前后什么事也没有。好了，我说太多了。你有什么问题要问我吗？"},
+      {"s": "y", "en": "Yes, thanks. What would a typical week look like in this role?", "zh": "有的，谢谢。这个职位一周的工作大概是什么样的？"},
+      {"s": "o", "en": "Good question. You'd be in the office Tuesday to Thursday, but one of those days you'd probably be down at the warehouse at Wingfield. It's a small team: two devs, a tester and a PM.", "zh": "问得好。周二到周四在办公室，但其中一天可能要去 Wingfield 的仓库。团队不大：两名开发、一名测试和一名项目经理。"},
+      {"s": "y", "en": "Just to confirm, you mean three days on site, and sometimes one of them at the warehouse?", "zh": "确认一下，你的意思是三天到现场，其中有时一天在仓库，对吗？"},
+      {"s": "o", "en": "Yep, spot on. Righto, we're about out of time. We've got a few more people to chat to, then we'll shortlist for a second round with the panel. Priya from HR'll give you a buzz by Friday, I'd say.", "zh": "对，完全正确。好，时间差不多了。我们还要和几个人聊聊，然后筛选进入第二轮 panel 面试的人。我估计 HR 的 Priya 周五前会给你打电话。"},
+      {"s": "y", "en": "That's great. Thanks so much for your time, Simon. It was really nice to meet you.", "zh": "太好了。非常感谢你抽时间，Simon。很高兴认识你。"}
+    ]
+  },
+  "rescue": [
+    {"en": "Sorry, you cut out for a moment. Could you say that again?", "zh": "不好意思，刚才断了一下，能再说一遍吗？"},
+    {"en": "Sorry, could you say that a bit slower? I want to make sure I understand the question.", "zh": "不好意思，能说慢一点吗？我想确认听懂了问题。"},
+    {"en": "Just to confirm, are you asking about ___?", "zh": "确认一下，你问的是 ___ 吗？"},
+    {"en": "Could I have a moment to think about that?", "zh": "我可以想一下吗？"},
+    {"en": "Could you please spell that name, or send me the details by email?", "zh": "能拼一下那个名字，或者把细节发邮件给我吗？"}
+  ],
+  "checklist": [
+    "我能在两分钟内按「现在—过去—将来」讲完自我介绍，不背简历",
+    "我听到 \"walk me through your background\" 时，知道该开始讲重点经历",
+    "我能带上一个具体成果，比如 \"cut our processing time by about a third\"",
+    "网络卡顿时，我会说 \"Sorry, you cut out for a moment\"，请对方重复",
+    "遇到 \"a left turn\" 这类比喻听不懂时，我能礼貌追问",
+    "我准备好至少一个问题，并听懂了下一步和回复时间"
+  ]
+}

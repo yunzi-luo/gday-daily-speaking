@@ -1,222 +1,229 @@
 {
- "updated": "2026-11-01",
- "lessons": [
-  {
-   "id": "2026-11-01",
-   "date": "2026-11-01",
-   "category": "房屋",
-   "title": "中介来电通知房东卖房，商量看房安排",
-   "titleEn": "The owner's selling — sorting out open inspections"
-  },
-  {
-   "id": "2026-10-31",
-   "date": "2026-10-31",
-   "category": "社交",
-   "title": "邻居上门约孩子晚上一起万圣节讨糖",
-   "titleEn": "A neighbour invites your kids trick-or-treating"
-  },
-  {
-   "id": "2026-10-30",
-   "date": "2026-10-30",
-   "category": "保险/医疗",
-   "title": "致电 GP 诊所抢当天号看久咳",
-   "titleEn": "Calling the GP clinic for a same-day appointment"
-  },
-  {
-   "id": "2026-10-29",
-   "date": "2026-10-29",
-   "category": "工作",
-   "title": "茶水间闲聊热天，被拉去帮办圣诞聚会",
-   "titleEn": "Kitchen small talk about the heat and the Christmas do"
-  },
-  {
-   "id": "2026-10-28",
-   "date": "2026-10-28",
-   "category": "日常",
-   "title": "空气炸锅用两周就坏，回店里要求退款",
-   "titleEn": "Returning a faulty air fryer for a refund"
-  },
-  {
-   "id": "2026-10-27",
-   "date": "2026-10-27",
-   "category": "孩子学校/幼儿园",
-   "title": "放学校门口和家长闲聊运动会安排",
-   "titleEn": "School gate chat about Sports Day and a play date"
-  },
-  {
-   "id": "2026-10-26",
-   "date": "2026-10-26",
-   "category": "社交",
-   "title": "朋友来电邀你参加墨尔本杯午餐聚会",
-   "titleEn": "Getting invited to a Melbourne Cup lunch and sweep"
-  },
-  {
-   "id": "2026-10-25",
-   "date": "2026-10-25",
-   "category": "房屋",
-   "title": "周日跳闸插座焦味，紧急电工回电约上门",
-   "titleEn": "Getting an after-hours sparky out for a tripping safety switch"
-  },
-  {
-   "id": "2026-10-24",
-   "date": "2026-10-24",
-   "category": "求职",
-   "title": "HR 来电口头 offer，谈入职日期和薪酬",
-   "titleEn": "Taking a verbal job offer and talking start date and pay"
-  },
-  {
-   "id": "2026-10-23",
-   "date": "2026-10-23",
-   "category": "保险/医疗",
-   "title": "致电保险公司问孩子正畸保障和等待期",
-   "titleEn": "Calling your health fund about braces cover"
-  },
-  {
-   "id": "2026-10-22",
-   "date": "2026-10-22",
-   "category": "工作",
-   "title": "客户来电要求系统提前两周上线",
-   "titleEn": "A client call asking to bring the go-live forward"
-  },
-  {
-   "id": "2026-10-21",
-   "date": "2026-10-21",
-   "category": "日常",
-   "title": "包裹显示已送达却没收到，致电邮局客服",
-   "titleEn": "Calling the post about a 'delivered' parcel that never turned up"
-  },
-  {
-   "id": "2026-10-20",
-   "date": "2026-10-20",
-   "category": "孩子学校/幼儿园",
-   "title": "家长面谈：听老师讲孩子阅读进度",
-   "titleEn": "A parent-teacher interview about your child's reading"
-  },
-  {
-   "id": "2026-10-19",
-   "date": "2026-10-19",
-   "category": "房屋",
-   "title": "租约快到期，中介来电谈续租和涨租",
-   "titleEn": "The property manager calls about renewing your lease"
-  },
-  {
-   "id": "2026-10-18",
-   "date": "2026-10-18",
-   "category": "社交",
-   "title": "朋友来电约周末去酒庄一日游",
-   "titleEn": "A friend rings to plan a Barossa day trip and a carpool"
-  },
-  {
-   "id": "2026-10-17",
-   "date": "2026-10-17",
-   "category": "保险/医疗",
-   "title": "周六去药房凭电子处方给孩子取药",
-   "titleEn": "Picking up your child's eScript at the chemist"
-  },
-  {
-   "id": "2026-10-16",
-   "date": "2026-10-16",
-   "category": "日常",
-   "title": "银行反诈团队来电核实一笔可疑消费",
-   "titleEn": "Taking a call from your bank's fraud team about a suspicious charge"
-  },
-  {
-   "id": "2026-10-15",
-   "date": "2026-10-15",
-   "category": "求职",
-   "title": "面试被问：讲一次和同事意见不合的经历",
-   "titleEn": "Answering a 'tell me about a time' question in a BA interview"
-  },
-  {
-   "id": "2026-10-14",
-   "date": "2026-10-14",
-   "category": "孩子学校/幼儿园",
-   "title": "学校前台来电：孩子发烧要你来接",
-   "titleEn": "The school office calls: your child is sick"
-  },
-  {
-   "id": "2026-10-13",
-   "date": "2026-10-13",
-   "category": "工作",
-   "title": "需求访谈中礼貌插话澄清审批流程",
-   "titleEn": "Jumping in to clarify during a requirements interview"
-  },
-  {
-   "id": "2026-10-12",
-   "date": "2026-10-12",
-   "category": "房屋",
-   "title": "热水器漏水，打电话约水管工上门",
-   "titleEn": "Calling a plumber about a leaking hot water system"
-  },
-  {
-   "id": "2026-10-11",
-   "date": "2026-10-11",
-   "category": "日常",
-   "title": "打电话给网络运营商报修家里断网",
-   "titleEn": "Calling your internet provider about an NBN dropout"
-  },
-  {
-   "id": "2026-10-10",
-   "date": "2026-10-10",
-   "category": "社交",
-   "title": "同学妈妈来电邀请生日派对",
-   "titleEn": "A birthday party invite from another school mum"
-  },
-  {
-   "id": "2026-10-09",
-   "date": "2026-10-09",
-   "category": "保险/医疗",
-   "title": "专科诊所来电改复诊时间",
-   "titleEn": "The specialist's rooms call to reschedule"
-  },
-  {
-   "id": "2026-10-08",
-   "date": "2026-10-08",
-   "category": "求职",
-   "title": "招聘顾问来电初筛 BA 合同岗",
-   "titleEn": "A recruiter screens you for a BA contract role"
-  },
-  {
-   "id": "2026-10-07",
-   "date": "2026-10-07",
-   "category": "日常",
-   "title": "修车厂来电：刹车片要不要换",
-   "titleEn": "The mechanic calls during your logbook service"
-  },
-  {
-   "id": "2026-10-06",
-   "date": "2026-10-06",
-   "category": "工作",
-   "title": "长周末后茶水间和同事闲聊",
-   "titleEn": "Kitchen small talk after the long weekend"
-  },
-  {
-   "id": "2026-10-05",
-   "date": "2026-10-05",
-   "category": "孩子学校/幼儿园",
-   "title": "OSHC 来电确认明天动物园 excursion",
-   "titleEn": "Vacation care calls about tomorrow's zoo excursion"
-  },
-  {
-   "id": "2026-10-04",
-   "date": "2026-10-04",
-   "category": "房屋",
-   "title": "中介来电约 routine inspection 顺便报修",
-   "titleEn": "The property manager books a routine inspection"
-  },
-  {
-   "id": "2026-10-03",
-   "date": "2026-10-03",
-   "category": "社交",
-   "title": "隔壁邻居邀请周日后院 BBQ",
-   "titleEn": "Your neighbour invites you to a Sunday barbie"
-  },
-  {
-   "id": "2026-10-02",
-   "date": "2026-10-02",
-   "category": "保险/医疗",
-   "title": "Bupa 来电：牙科理赔要补材料",
-   "titleEn": "Bupa calls about your dental extras claim"
-  }
- ]
+  "updated": "2026-11-02",
+  "lessons": [
+    {
+      "id": "2026-11-02",
+      "date": "2026-11-02",
+      "category": "求职",
+      "title": "视频面试开场：两分钟自我介绍",
+      "titleEn": "Handling 'tell me about yourself' in a video interview"
+    },
+    {
+      "id": "2026-11-01",
+      "date": "2026-11-01",
+      "category": "房屋",
+      "title": "中介来电通知房东卖房，商量看房安排",
+      "titleEn": "The owner's selling — sorting out open inspections"
+    },
+    {
+      "id": "2026-10-31",
+      "date": "2026-10-31",
+      "category": "社交",
+      "title": "邻居上门约孩子晚上一起万圣节讨糖",
+      "titleEn": "A neighbour invites your kids trick-or-treating"
+    },
+    {
+      "id": "2026-10-30",
+      "date": "2026-10-30",
+      "category": "保险/医疗",
+      "title": "致电 GP 诊所抢当天号看久咳",
+      "titleEn": "Calling the GP clinic for a same-day appointment"
+    },
+    {
+      "id": "2026-10-29",
+      "date": "2026-10-29",
+      "category": "工作",
+      "title": "茶水间闲聊热天，被拉去帮办圣诞聚会",
+      "titleEn": "Kitchen small talk about the heat and the Christmas do"
+    },
+    {
+      "id": "2026-10-28",
+      "date": "2026-10-28",
+      "category": "日常",
+      "title": "空气炸锅用两周就坏，回店里要求退款",
+      "titleEn": "Returning a faulty air fryer for a refund"
+    },
+    {
+      "id": "2026-10-27",
+      "date": "2026-10-27",
+      "category": "孩子学校/幼儿园",
+      "title": "放学校门口和家长闲聊运动会安排",
+      "titleEn": "School gate chat about Sports Day and a play date"
+    },
+    {
+      "id": "2026-10-26",
+      "date": "2026-10-26",
+      "category": "社交",
+      "title": "朋友来电邀你参加墨尔本杯午餐聚会",
+      "titleEn": "Getting invited to a Melbourne Cup lunch and sweep"
+    },
+    {
+      "id": "2026-10-25",
+      "date": "2026-10-25",
+      "category": "房屋",
+      "title": "周日跳闸插座焦味，紧急电工回电约上门",
+      "titleEn": "Getting an after-hours sparky out for a tripping safety switch"
+    },
+    {
+      "id": "2026-10-24",
+      "date": "2026-10-24",
+      "category": "求职",
+      "title": "HR 来电口头 offer，谈入职日期和薪酬",
+      "titleEn": "Taking a verbal job offer and talking start date and pay"
+    },
+    {
+      "id": "2026-10-23",
+      "date": "2026-10-23",
+      "category": "保险/医疗",
+      "title": "致电保险公司问孩子正畸保障和等待期",
+      "titleEn": "Calling your health fund about braces cover"
+    },
+    {
+      "id": "2026-10-22",
+      "date": "2026-10-22",
+      "category": "工作",
+      "title": "客户来电要求系统提前两周上线",
+      "titleEn": "A client call asking to bring the go-live forward"
+    },
+    {
+      "id": "2026-10-21",
+      "date": "2026-10-21",
+      "category": "日常",
+      "title": "包裹显示已送达却没收到，致电邮局客服",
+      "titleEn": "Calling the post about a 'delivered' parcel that never turned up"
+    },
+    {
+      "id": "2026-10-20",
+      "date": "2026-10-20",
+      "category": "孩子学校/幼儿园",
+      "title": "家长面谈：听老师讲孩子阅读进度",
+      "titleEn": "A parent-teacher interview about your child's reading"
+    },
+    {
+      "id": "2026-10-19",
+      "date": "2026-10-19",
+      "category": "房屋",
+      "title": "租约快到期，中介来电谈续租和涨租",
+      "titleEn": "The property manager calls about renewing your lease"
+    },
+    {
+      "id": "2026-10-18",
+      "date": "2026-10-18",
+      "category": "社交",
+      "title": "朋友来电约周末去酒庄一日游",
+      "titleEn": "A friend rings to plan a Barossa day trip and a carpool"
+    },
+    {
+      "id": "2026-10-17",
+      "date": "2026-10-17",
+      "category": "保险/医疗",
+      "title": "周六去药房凭电子处方给孩子取药",
+      "titleEn": "Picking up your child's eScript at the chemist"
+    },
+    {
+      "id": "2026-10-16",
+      "date": "2026-10-16",
+      "category": "日常",
+      "title": "银行反诈团队来电核实一笔可疑消费",
+      "titleEn": "Taking a call from your bank's fraud team about a suspicious charge"
+    },
+    {
+      "id": "2026-10-15",
+      "date": "2026-10-15",
+      "category": "求职",
+      "title": "面试被问：讲一次和同事意见不合的经历",
+      "titleEn": "Answering a 'tell me about a time' question in a BA interview"
+    },
+    {
+      "id": "2026-10-14",
+      "date": "2026-10-14",
+      "category": "孩子学校/幼儿园",
+      "title": "学校前台来电：孩子发烧要你来接",
+      "titleEn": "The school office calls: your child is sick"
+    },
+    {
+      "id": "2026-10-13",
+      "date": "2026-10-13",
+      "category": "工作",
+      "title": "需求访谈中礼貌插话澄清审批流程",
+      "titleEn": "Jumping in to clarify during a requirements interview"
+    },
+    {
+      "id": "2026-10-12",
+      "date": "2026-10-12",
+      "category": "房屋",
+      "title": "热水器漏水，打电话约水管工上门",
+      "titleEn": "Calling a plumber about a leaking hot water system"
+    },
+    {
+      "id": "2026-10-11",
+      "date": "2026-10-11",
+      "category": "日常",
+      "title": "打电话给网络运营商报修家里断网",
+      "titleEn": "Calling your internet provider about an NBN dropout"
+    },
+    {
+      "id": "2026-10-10",
+      "date": "2026-10-10",
+      "category": "社交",
+      "title": "同学妈妈来电邀请生日派对",
+      "titleEn": "A birthday party invite from another school mum"
+    },
+    {
+      "id": "2026-10-09",
+      "date": "2026-10-09",
+      "category": "保险/医疗",
+      "title": "专科诊所来电改复诊时间",
+      "titleEn": "The specialist's rooms call to reschedule"
+    },
+    {
+      "id": "2026-10-08",
+      "date": "2026-10-08",
+      "category": "求职",
+      "title": "招聘顾问来电初筛 BA 合同岗",
+      "titleEn": "A recruiter screens you for a BA contract role"
+    },
+    {
+      "id": "2026-10-07",
+      "date": "2026-10-07",
+      "category": "日常",
+      "title": "修车厂来电：刹车片要不要换",
+      "titleEn": "The mechanic calls during your logbook service"
+    },
+    {
+      "id": "2026-10-06",
+      "date": "2026-10-06",
+      "category": "工作",
+      "title": "长周末后茶水间和同事闲聊",
+      "titleEn": "Kitchen small talk after the long weekend"
+    },
+    {
+      "id": "2026-10-05",
+      "date": "2026-10-05",
+      "category": "孩子学校/幼儿园",
+      "title": "OSHC 来电确认明天动物园 excursion",
+      "titleEn": "Vacation care calls about tomorrow's zoo excursion"
+    },
+    {
+      "id": "2026-10-04",
+      "date": "2026-10-04",
+      "category": "房屋",
+      "title": "中介来电约 routine inspection 顺便报修",
+      "titleEn": "The property manager books a routine inspection"
+    },
+    {
+      "id": "2026-10-03",
+      "date": "2026-10-03",
+      "category": "社交",
+      "title": "隔壁邻居邀请周日后院 BBQ",
+      "titleEn": "Your neighbour invites you to a Sunday barbie"
+    },
+    {
+      "id": "2026-10-02",
+      "date": "2026-10-02",
+      "category": "保险/医疗",
+      "title": "Bupa 来电：牙科理赔要补材料",
+      "titleEn": "Bupa calls about your dental extras claim"
+    }
+  ]
 }
