@@ -1,0 +1,327 @@
+{
+  "id": "2026-11-03",
+  "date": "2026-11-03",
+  "category": "孩子学校/幼儿园",
+  "title": "小学前台来电确认明年入学和试读日",
+  "titleEn": "The school office calls about starting Reception next year",
+  "scene": [
+    "你的儿子 Leo 明年要上 Reception（南澳小学的第一年，相当于学前班）。今天上午你在上班，孩子未来学校的前台 Trish 打来电话：入学材料还差两样，顺便通知这学期的 transition visits（试读日）。Trish 很热情，但语速快，日期和金额一口气说完，还夹着 chockers、give 'em a bell 这类说法。",
+    "你的目标：① 听清还缺什么材料、什么时候交；② 记准三个日期、时间和要带的东西，确认奶奶能不能代送；③ 问清费用、校服和课后托管（OSHC），最后把要点复述一遍，并请对方发短信确认。"
+  ],
+  "facts": [
+    {
+      "k": "Missing",
+      "v": "住址证明（lease 即可）+ 疫苗接种记录，周五前交"
+    },
+    {
+      "k": "Visits",
+      "v": "11 月 12、19、26 日（周四）9:30–11:00"
+    },
+    {
+      "k": "Bring",
+      "v": "帽子、水壶、一个水果"
+    },
+    {
+      "k": "Fee",
+      "v": "Materials and services charge：$320 / 年"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "Reception",
+      "zh": "南澳小学第一年（学前班）",
+      "ex": "Leo starts Reception next year."
+    },
+    {
+      "en": "transition visit",
+      "zh": "入学前的试读/适应日",
+      "ex": "We run three transition visits this term."
+    },
+    {
+      "en": "proof of address",
+      "zh": "住址证明",
+      "ex": "A copy of your lease is fine as proof of address."
+    },
+    {
+      "en": "immunisation history statement",
+      "zh": "疫苗接种记录（Medicare 出具）",
+      "ex": "You can download his immunisation history statement from myGov."
+    },
+    {
+      "en": "up to date",
+      "zh": "（疫苗等）按时完成、没有落下",
+      "ex": "It shows all his needles are up to date."
+    },
+    {
+      "en": "get it sorted",
+      "zh": "把事情办好、搞定",
+      "ex": "I need two more documents before I can get it sorted."
+    },
+    {
+      "en": "drop (something) in",
+      "zh": "顺路把东西送过去",
+      "ex": "Just drop them in at the front desk if you're passing."
+    },
+    {
+      "en": "materials and services charge",
+      "zh": "公立学校每年收的学杂费",
+      "ex": "The materials and services charge covers books and art supplies."
+    },
+    {
+      "en": "pay it off in instalments",
+      "zh": "分期付清",
+      "ex": "You can pay it off in instalments over the year."
+    },
+    {
+      "en": "School Card",
+      "zh": "南澳政府给低收入家庭的学杂费资助",
+      "ex": "If money's tight, have a look at School Card."
+    },
+    {
+      "en": "book pack",
+      "zh": "开学文具书本套装",
+      "ex": "You order the book pack online."
+    },
+    {
+      "en": "waitlist",
+      "zh": "候补名单、排队名单",
+      "ex": "There's a bit of a waitlist for OSHC."
+    }
+  ],
+  "listening": [
+    {
+      "en": "Look, have you got a sec? It's about Leo starting Reception next year.",
+      "sound": "got a 连读 \"god-a\"；sec = second，\"一会儿\"。开头的 Look 不是让你看，只是 \"是这样\" 的意思",
+      "zh": "是这样，你现在方便吗？是关于 Leo 明年上 Reception 的事。",
+      "reply": "Yes, I've got a few minutes. Is everything okay?"
+    },
+    {
+      "en": "We're just missing a couple of bits before I can get it all sorted.",
+      "sound": "couple of 读 \"cup-la\"；bits = 东西、材料；get it all 连读 \"ged-id-all\"",
+      "zh": "还差两样东西我才能办好。",
+      "reply": "Sorry, which documents do you still need?"
+    },
+    {
+      "en": "Just email them through, or drop 'em in at the front desk if you're passing.",
+      "sound": "'em = them，只剩一个 \"m\" 音；drop 'em in 连读 \"drop-a-min\"；if you're passing = 你路过的话",
+      "zh": "发邮件过来，或者路过时送到前台都行。",
+      "reply": "I'll email them by Friday. Could you text me the address, please?"
+    },
+    {
+      "en": "They're on Thursdays, the twelfth, nineteenth and twenty-sixth, half nine till eleven.",
+      "sound": "half nine = 九点半，不是八点半；twelfth 的 \"fth\" 很轻；nineteenth 重音在后面，别听成 ninety",
+      "zh": "都在周四，12、19 和 26 号，九点半到十一点。",
+      "reply": "Just to confirm, that's nine thirty to eleven on three Thursdays?"
+    },
+    {
+      "en": "You just drop him at the Reception rooms and we'll take it from there. Morning tea's on us.",
+      "sound": "take it from there = 后面交给我们；it's on us = 我们请客；drop him 的 h 吞掉，读 \"drop-im\"",
+      "zh": "把他送到 Reception 教室，后面交给我们。茶点我们请。",
+      "reply": "That sounds good. Do I need to stay with him?"
+    },
+    {
+      "en": "Heads-up, it gets chockers in January. And give OSHC a bell this week, yeah?",
+      "sound": "heads-up = 提醒一下；chockers = 挤满了；give ... a bell = 打个电话；句尾 yeah? 是 \"好吧？\"",
+      "zh": "提醒一下，一月份人挤人。这周给 OSHC 打个电话吧？",
+      "reply": "Thanks for the heads-up. I'll call them this week."
+    }
+  ],
+  "speech": {
+    "topic": "我怎么为孩子上小学做准备",
+    "paragraphs": [
+      "My son starts school next year, and I want to talk about how I'm getting ready. To be honest, I'm a bit more nervous than he is. He just wants to know if there's a big slide in the playground.",
+      "When I went to school in China, everything was different, so a lot of the words here were new to me. At first I didn't know what Reception meant, or what a transition visit was. Now I know that the school runs a few short visits, so the kids can get used to the classroom and meet their teacher before they start.",
+      "There's also a lot of paperwork. The office needs a proof of address and an immunisation statement. I used to be scared of phone calls from the school, because the lady in the front office talks really fast. So now I keep a notebook next to me. I write down the dates and the amounts, and I repeat them back to check that I've got them right. If I don't understand, I ask her to send a text. She's always happy to do that.",
+      "I've learned that it's better to ask early. For example, I found out there's a waitlist for after-school care, so I rang them straight away. I'm also buying the uniform before Christmas, because the shop gets very busy in January.",
+      "In the end, I think starting school is a big step for parents too. If I stay organised and keep asking questions, Leo and I will both be okay. And hopefully, there really is a big slide."
+    ],
+    "zh": "我儿子明年上学，我比他还紧张，而他只关心操场有没有大滑梯。这里的学校用语对我来说很陌生，现在我知道了 Reception 和试读日是什么。手续也不少，要交住址证明和疫苗记录。以前我怕接学校电话，因为前台说话很快，现在我手边放个本子，记下日期和金额，再复述确认，听不懂就请她发短信。我还学到要早点问：课后托管要排队，我马上打了电话；校服圣诞前就买。上学对家长也是一大步，只要有条理、多提问，我和 Leo 都会没问题。",
+    "patterns": [
+      {
+        "en": "I used to be scared of ___, because ___.",
+        "zh": "说以前害怕什么、为什么"
+      },
+      {
+        "en": "So now I ___ before / when ___.",
+        "zh": "说你现在的应对办法"
+      },
+      {
+        "en": "I've learned that it's better to ___ early.",
+        "zh": "总结一个经验"
+      },
+      {
+        "en": "For example, I found out ___, so I ___ straight away.",
+        "zh": "举例：发现情况后马上行动"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Trish",
+      "role": "小学前台行政人员",
+      "voice": "f"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Hi there, it's Trish calling from the front office at Wattle Grove Primary. Is that Leo Zhang's mum or dad?",
+        "zh": "你好，我是 Wattle Grove 小学前台的 Trish。请问是 Leo Zhang 的家长吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, I'm Leo's parent. Hi, Trish.",
+        "zh": "是的，我是 Leo 的家长。你好，Trish。"
+      },
+      {
+        "s": "o",
+        "en": "Lovely. How're you going? Look, have you got a sec? It's about Leo starting Reception next year.",
+        "zh": "太好了。你好吗？是这样，你现在方便吗？是关于 Leo 明年上 Reception 的事。"
+      },
+      {
+        "s": "y",
+        "en": "I'm good, thanks. Yes, I've got a few minutes. Is everything okay with his enrolment?",
+        "zh": "我很好，谢谢。方便，我有几分钟。他的入学手续没问题吧？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, yeah, nothing to worry about. We got your form, thanks for that, but we're just missing a couple of bits before I can get it all sorted. We still need your proof of address and his immunisation history statement.",
+        "zh": "没事没事，不用担心。表格我们收到了，谢谢，不过还差两样东西我才能办好。我们还需要你的住址证明和他的疫苗接种记录。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? You need proof of address, and what was the second one?",
+        "zh": "不好意思，能说慢一点再讲一遍吗？要住址证明，第二样是什么？"
+      },
+      {
+        "s": "o",
+        "en": "No worries. The immunisation history statement. It's just a one-pager from Medicare that shows all his needles are up to date. You can pull it up on the Medicare app or myGov. Takes two secs.",
+        "zh": "没问题。疫苗接种记录。就是 Medicare 出的一页纸，证明他该打的针都打了。在 Medicare app 或 myGov 上就能调出来，一下子的事。"
+      },
+      {
+        "s": "y",
+        "en": "Okay, I can download that tonight. For the address, is a copy of our lease okay? We're renting at 14 Wattle Street, Prospect.",
+        "zh": "好的，我今晚下载。住址证明的话，租约复印件可以吗？我们租住在 Prospect 的 Wattle Street 14 号。"
+      },
+      {
+        "s": "o",
+        "en": "Yep, a lease is fine, or a rates notice, whatever's handy. Just email them through to the office, or drop 'em in at the front desk if you're passing. If you could get that to me by Friday, that'd be ace.",
+        "zh": "可以，租约没问题，或者地税单，哪个方便用哪个。发邮件到办公室，或者路过时送到前台都行。要是能周五前给我就太好了。"
+      },
+      {
+        "s": "y",
+        "en": "Sure, I'll email them by Friday. Could you text me the email address, please? My mobile is 0491 570 156.",
+        "zh": "好的，我周五前发邮件。能把邮箱地址短信发给我吗？我的手机是 0491 570 156。"
+      },
+      {
+        "s": "o",
+        "en": "Too easy. Now, the other reason I'm ringing: transition visits. We run three of 'em this term, so the kids can get a feel for the classroom before they start. They're on Thursdays, the twelfth, nineteenth and twenty-sixth of November, half nine till eleven.",
+        "zh": "没问题。我打电话的另一件事是试读日。这学期我们办三次，让孩子入学前先熟悉教室。都在周四，11 月 12、19 和 26 号，九点半到十一点。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, that's three Thursdays, from nine thirty to eleven? Do I need to stay with him?",
+        "zh": "我确认一下，是三个周四，九点半到十一点？我需要陪着他吗？"
+      },
+      {
+        "s": "o",
+        "en": "That's the one. Nah, you don't need to stay. You just drop him at the Reception rooms and we'll take it from there. On the first one, though, there's a parent session in the library, so hang around for that if you can. Morning tea's on us.",
+        "zh": "对。不用，你不用陪。把他送到 Reception 教室，后面交给我们。不过第一次在图书馆有家长说明会，能留下的话就留下听听。茶点我们请。"
+      },
+      {
+        "s": "y",
+        "en": "That sounds good. I work on Thursdays, so I'll take the morning off for the first one. Can his grandma drop him off for the other two?",
+        "zh": "听起来不错。我周四上班，第一次我请个上午假。另外两次可以让他奶奶送吗？"
+      },
+      {
+        "s": "o",
+        "en": "Course she can. Just let the class teacher know who's picking him up. He'll need a hat, a drink bottle and a piece of fruit, and that's about it.",
+        "zh": "当然可以。告诉班主任谁来接就行。他带帽子、水壶和一个水果，差不多就这些。"
+      },
+      {
+        "s": "y",
+        "en": "Okay, great. What about the school fees? I saw something on the form about a charge.",
+        "zh": "好的，太好了。学费方面呢？我在表格上看到有一项收费。"
+      },
+      {
+        "s": "o",
+        "en": "Oh, that's the materials and services charge. It's three-twenty for the year, and that covers his books and art stuff and whatnot. You'll get an invoice in Term One. You can pay it off in instalments, and if money's a bit tight, have a look at School Card. That's through the Education Department.",
+        "zh": "哦，那是学杂费。一年三百二，包括书本、美术用品之类的。第一学期会收到账单。可以分期付，如果手头紧，可以看看 School Card，那是教育部办的。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, was that three-twenty or three-thirty?",
+        "zh": "不好意思，是三百二还是三百三？"
+      },
+      {
+        "s": "o",
+        "en": "Three-two-oh. Three hundred and twenty bucks.",
+        "zh": "三二零。三百二十块。"
+      },
+      {
+        "s": "y",
+        "en": "Got it, thanks. And where do we buy the uniform?",
+        "zh": "明白了，谢谢。校服在哪儿买？"
+      },
+      {
+        "s": "o",
+        "en": "Uniform shop's just behind the gym, open Tuesday arvos and Friday mornings. Heads-up, it gets chockers in January, so I'd go before Christmas if I were you. The book pack's separate. You order that online, and I'll chuck the link in the text.",
+        "zh": "校服店就在体育馆后面，周二下午和周五上午开。提醒你一下，一月份人挤人，换我就圣诞前去。书包文具套装是另外的，在网上订，我把链接放在短信里。"
+      },
+      {
+        "s": "y",
+        "en": "Thank you. One more question. Can he go to OSHC from the first day? I finish work at five.",
+        "zh": "谢谢。还有一个问题。他第一天起就能上课后托管吗？我五点下班。"
+      },
+      {
+        "s": "o",
+        "en": "Ooh, you'd wanna get onto that now. OSHC's run separately and there's a bit of a waitlist for Reception kids. I'll pop their number in the text as well. Give 'em a bell this week, yeah?",
+        "zh": "哦，那你得现在就去办。课后托管是单独运营的，Reception 的孩子还要排一阵队。我把他们的电话也放短信里。这周给他们打个电话吧？"
+      },
+      {
+        "s": "y",
+        "en": "I will. So just to check: proof of address and the immunisation statement by Friday, the first visit's on the twelfth, and I'll call OSHC this week.",
+        "zh": "好的。我确认一下：周五前交住址证明和疫苗记录，第一次试读是 12 号，这周我打给 OSHC。"
+      },
+      {
+        "s": "o",
+        "en": "Spot on. You've got it. Right, I'll let you get back to it. See you and Leo on the twelfth. Ta, bye for now!",
+        "zh": "完全正确。好了，不耽误你了。12 号见你和 Leo。谢谢，先这样，拜拜！"
+      },
+      {
+        "s": "y",
+        "en": "Thanks for your help, Trish. See you then. Bye.",
+        "zh": "谢谢你的帮助，Trish。到时见，拜拜。"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, I missed that. Could you say the dates again, a bit slower?",
+      "zh": "不好意思，没听清。能再慢一点说一遍日期吗？"
+    },
+    {
+      "en": "Sorry, was that thirteen or thirty?",
+      "zh": "不好意思，是十三还是三十？"
+    },
+    {
+      "en": "Could you spell that for me, please?",
+      "zh": "能帮我拼一下吗？"
+    },
+    {
+      "en": "Could you text or email me the details, so I don't miss anything?",
+      "zh": "能把细节用短信或邮件发给我吗？这样我不会漏掉。"
+    },
+    {
+      "en": "Just to check I've got this right, you need ___ by ___?",
+      "zh": "我确认一下，您需要在___之前交___，对吗？"
+    }
+  ],
+  "checklist": [
+    "我听到 \"a couple of bits\" 时，知道对方说的是还差几样材料",
+    "我能听出 half nine 是九点半，并把三个日期记对",
+    "我能说出 proof of address 和 immunisation history statement 是什么",
+    "我能问清 three-twenty 还是 three-thirty，不怕开口核对金额",
+    "我听懂了 chockers 和 give 'em a bell",
+    "我挂电话前能把要做的事复述一遍，并请对方发短信确认"
+  ]
+}
