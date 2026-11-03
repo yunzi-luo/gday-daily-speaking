@@ -1,0 +1,130 @@
+{
+  "id": "2026-11-04",
+  "date": "2026-11-04",
+  "category": "日常",
+  "title": "致电餐厅订年底聚餐，问定金和套餐",
+  "titleEn": "Calling a restaurant to book a big end-of-year family dinner",
+  "scene": [
+    "年底快到了，你想订一家意大利餐厅 Nonna Bruna's，12 月初请亲戚吃顿饭：一共 12 个人，8 个大人、4 个小孩。下午你打电话过去，接电话的是店员 Matt。餐厅还没开晚市，他一边忙一边接电话，语速很快，金额和规定一口气说完，还夹着 a head、corkage、drop off 这些说法。",
+    "你的目标：① 订到合适的时段，听清要几点离桌；② 问清大桌只能点套餐、价格、高脚椅，说明一位麸质不耐（coeliac）和一位素食者的饮食要求；③ 问清定金、取消规定、自带酒和分账，最后复述一遍，并让对方发短信确认。"
+  ],
+  "facts": [
+    {"k": "When", "v": "12 月 5 日（周六）5:30 场，7:30 前离桌"},
+    {"k": "Who", "v": "8 个大人 + 4 个小孩，要 1 张高脚椅"},
+    {"k": "Menu", "v": "套餐：成人 $65 / 位，儿童 $22 / 位"},
+    {"k": "Deposit", "v": "每位成人 $20，共 $160，48 小时内付，从总账里扣"}
+  ],
+  "vocab": [
+    {"en": "sitting", "zh": "（餐厅的）一轮用餐时段", "ex": "We've got two sittings that night."},
+    {"en": "turn the table over", "zh": "翻台，把桌子让给下一批客人", "ex": "We need to turn the table over by half seven."},
+    {"en": "set menu", "zh": "固定套餐", "ex": "Groups of ten or more are set menu only."},
+    {"en": "a head", "zh": "每人（说价格时用）", "ex": "It's sixty-five a head for adults."},
+    {"en": "share plates", "zh": "大家分着吃的菜", "ex": "You start with share plates for the table."},
+    {"en": "high chair", "zh": "（餐厅的）宝宝高脚椅", "ex": "Could we please have one high chair?"},
+    {"en": "dietaries", "zh": "饮食要求（dietary requirements 的口语说法）", "ex": "Any dietaries I should know about?"},
+    {"en": "coeliac", "zh": "乳糜泻患者，不能吃麸质（读 \"see-lee-ak\"）", "ex": "My sister-in-law is coeliac."},
+    {"en": "cross-contamination", "zh": "（食物之间的）交叉污染", "ex": "Is there a risk of cross-contamination in the kitchen?"},
+    {"en": "corkage", "zh": "开瓶费", "ex": "Corkage is fifteen dollars a bottle."},
+    {"en": "deposit", "zh": "定金", "ex": "We take a deposit for big groups."},
+    {"en": "final numbers", "zh": "最终确认人数", "ex": "We need your final numbers by the Wednesday before."}
+  ],
+  "listening": [
+    {
+      "en": "Bear with me a sec, I'll just bring it up on the system.",
+      "sound": "Bear with me 读 \"bair-with-mee\"，= 请稍等；bring it up 连读 \"bring-i-dup\"，= 在电脑上调出来。听到这句就等一下，不用说话",
+      "zh": "稍等一下，我在系统里看看。",
+      "reply": "Sure, no worries. I'll wait."
+    },
+    {
+      "en": "We've gotta have the table back by half seven, 'cause we turn it over for the next lot.",
+      "sound": "gotta = got to；half seven = 七点半；the next lot = 下一批人，lot 在这里不是\"很多\"",
+      "zh": "七点半前要把桌子腾出来，因为要给下一批客人。",
+      "reply": "Just to confirm, we need to leave by seven-thirty?"
+    },
+    {
+      "en": "Groups of ten or more, it's set menu only, I'm afraid. Sixty-five a head.",
+      "sound": "I'm afraid 读 \"m'fraid\"，只是客气的\"不好意思\"，不是害怕；a head = 每人。sixty 重音在前，注意和 seventy 分清",
+      "zh": "不好意思，十人以上只能点套餐，每人六十五。",
+      "reply": "Sorry, was that sixty-five or seventy-five?"
+    },
+    {
+      "en": "Any dietaries I should know about? Is she proper coeliac, or just avoiding it?",
+      "sound": "dietaries 读 \"die-uh-trees\"；proper = 真正的。对方问的是医学上的乳糜泻，还是自己选择不吃麸质，这关系到厨房怎么处理",
+      "zh": "有什么饮食要求吗？她是真的乳糜泻，还是只是不想吃？",
+      "reply": "She's properly coeliac, so even a small amount makes her sick."
+    },
+    {
+      "en": "If it's not paid within forty-eight hours, the booking just drops off.",
+      "sound": "forty-eight 的 t 弱化，像 \"for-dee-ate\"；drops off = 从系统里自动取消，不是\"送人\"的意思",
+      "zh": "如果 48 小时内没付，预订就自动取消了。",
+      "reply": "Okay, I'll pay it today. Could you text me the link?"
+    },
+    {
+      "en": "Reckon you'd be right to pay it this arvo? Then you're all locked in.",
+      "sound": "you'd be right to = 你方便……吗；arvo = 下午；locked in = 定下来了，不会变",
+      "zh": "你今天下午方便付吗？付了就定下来了。",
+      "reply": "Yes, I'll do that as soon as I get your text."
+    }
+  ],
+  "speech": {
+    "topic": "我为什么不再害怕打电话订餐厅",
+    "paragraphs": [
+      "When I first came to Australia, I always booked restaurants online. I was too nervous to call. I was afraid the staff would speak too fast, and I was afraid they would get annoyed if I asked them to repeat things. So if a restaurant had no online booking, I just chose a different one.",
+      "But last year I needed a table for a big family dinner, and the website only took bookings for up to eight people. I had no choice. I had to pick up the phone. Before I called, I wrote down everything I needed: the date, the number of people, and a list of questions.",
+      "The call was not easy. The man on the phone spoke very quickly, and he said a lot of numbers. But I told him, \"Sorry, my English isn't perfect. Could you say that a bit slower?\" He just said, \"No worries,\" and slowed down. He wasn't annoyed at all.",
+      "That day I learned something important. When people work in a restaurant, they talk to all kinds of customers. They would much rather repeat something than get the booking wrong. Asking a question is not rude. It actually saves them time.",
+      "Now I have a simple routine. I prepare my questions, I repeat the key details back, and I ask them to send me a text. I also call in the afternoon, when the restaurant is quiet. I still get a bit nervous, but I can do it. Next time, I think I might even enjoy it."
+    ],
+    "zh": "刚来澳洲时，我总是在网上订餐厅，不敢打电话，怕对方说得太快，也怕让人重复会惹人烦。去年要订一次大的家庭聚餐，网站最多只能订八个人，只好打电话。打之前我写下了日期、人数和问题。电话并不容易，对方语速快、数字多，但我告诉他我英语不够好，请他说慢一点，他说 no worries 就放慢了，一点也没不耐烦。我明白了：餐厅员工每天接待各种客人，宁可重复一遍也不愿订错，提问并不失礼，反而省时间。现在我有固定流程：准备问题、复述要点、请对方发短信，还会挑餐厅不忙的下午打。虽然还有点紧张，但我能做到了。",
+    "patterns": [
+      {"en": "I was too nervous to ___, so I just ___.", "zh": "说以前不敢做什么，以及怎么躲开的"},
+      {"en": "I had no choice. I had to ___.", "zh": "说是什么逼你迈出了第一步"},
+      {"en": "That day I learned that ___.", "zh": "说这件事让你明白了什么"},
+      {"en": "Now I have a simple routine. I ___, I ___, and I ___.", "zh": "用三个动作说你现在的做法"}
+    ]
+  },
+  "dialogue": {
+    "other": {"name": "Matt", "role": "意大利餐厅店员", "voice": "m"},
+    "lines": [
+      {"s": "o", "en": "Good arvo, Nonna Bruna's, Matt speaking, how can I help?", "zh": "下午好，Nonna Bruna's，我是 Matt，有什么可以帮您？"},
+      {"s": "y", "en": "Hi Matt. I'd like to book a table for a family dinner, please. It's for twelve people, on Saturday the fifth of December.", "zh": "你好 Matt。我想订一桌家庭聚餐，十二个人，十二月五号星期六。"},
+      {"s": "o", "en": "Twelve, righto. Ooh, December's filling up pretty quick, I'll tell ya. Bear with me a sec, I'll just bring it up on the system. Yeah, look, we can fit you in. We've got two sittings that night, five-thirty or seven forty-five. Which one suits?", "zh": "十二位，好的。哎呀，十二月订得很快。稍等，我在系统里看一下。嗯，是这样，排得下。那天晚上有两轮，五点半或七点四十五。哪个合适？"},
+      {"s": "y", "en": "Sorry, could you say the times again a bit slower?", "zh": "不好意思，能再慢一点说一遍时间吗？"},
+      {"s": "o", "en": "Yeah, no worries. Five-thirty, or seven forty-five. With the early one, we've gotta have the table back by half seven, 'cause we turn it over for the next lot.", "zh": "好，没问题。五点半，或者七点四十五。早的那轮要在七点半前把桌子腾出来，因为要给下一批客人。"},
+      {"s": "y", "en": "Just to confirm, if we come at five-thirty, we need to leave by seven-thirty?", "zh": "我确认一下，如果五点半来，七点半前要走，对吗？"},
+      {"s": "o", "en": "That's the one, yep. Most families go for the early one, to be honest. By eight o'clock the kids are climbing the walls.", "zh": "对，没错。说实话大多数家庭都选早场。到八点孩子们就闹翻天了。"},
+      {"s": "y", "en": "Ha, that's true. Four of the twelve are kids, so five-thirty is perfect. Do you have high chairs? My nephew is only eighteen months old.", "zh": "哈，确实。十二个人里有四个小孩，五点半正好。你们有高脚椅吗？我侄子才十八个月大。"},
+      {"s": "o", "en": "Yep, we've got a couple. I'll pop one down for you. Now, the other thing is, groups of ten or more, it's set menu only, I'm afraid. Sixty-five a head for the adults. You get share plates to start, a choice of two mains, then dessert. Kids are twenty-two, that's a pasta, a drink and a gelato.", "zh": "有，我们有几张。给您记一张。还有，不好意思，十人以上只能点套餐。成人每位六十五，先上分享小盘，主菜两选一，还有甜点。小孩二十二，含一份意面、一杯饮料和一份意式冰淇淋。"},
+      {"s": "y", "en": "Sorry, was that sixty-five or seventy-five for adults?", "zh": "不好意思，成人是六十五还是七十五？"},
+      {"s": "o", "en": "Sixty-five. Six, five. Any dietaries I should know about?", "zh": "六十五。六、五。有什么饮食要求吗？"},
+      {"s": "y", "en": "Yes, two. One person is vegetarian, and my sister-in-law is coeliac.", "zh": "有，两个。一位吃素，我嫂子是乳糜泻，不能吃麸质。"},
+      {"s": "o", "en": "Vego's no dramas at all. With the coeliac, is she proper coeliac, or just avoiding it? We can do gluten-free pasta, no worries, but it's a pretty small kitchen.", "zh": "素食完全没问题。乳糜泻的话，她是真的有这个病，还是只是不想吃？无麸质意面我们能做，但厨房挺小的。"},
+      {"s": "y", "en": "She's properly coeliac, so even a small amount makes her sick. Is there a risk of cross-contamination?", "zh": "她是真的乳糜泻，一点点都会不舒服。会有交叉污染的风险吗？"},
+      {"s": "o", "en": "Good on ya for asking. I don't wanna guess on that one. The chef's in at four, so I'll get him to give you a bell this arvo, and you can run through it with him. That alright?", "zh": "您问得好。这个我不想乱说。厨师四点到，我让他今天下午给您打个电话，您可以跟他仔细说。这样行吗？"},
+      {"s": "y", "en": "Yes, that's great, thank you. Do we need to pay a deposit?", "zh": "好的，太好了，谢谢。我们需要付定金吗？"},
+      {"s": "o", "en": "Yeah, we do for big groups. It's twenty bucks a head for the adults, and that comes off the bill on the night. I'll text you a link, but if it's not paid within forty-eight hours, the booking just drops off. And we need seven days' notice if you cancel, otherwise you lose it. Oh, and final numbers by the Wednesday before.", "zh": "要的，大桌都要。成人每位二十块，当晚从账单里扣。我发短信给您链接，但四十八小时内没付的话，预订就自动取消了。取消要提前七天通知，否则定金不退。对了，最终人数要在前一个星期三之前确认。"},
+      {"s": "y", "en": "Let me check I've got this right. Eight adults, so that's a hundred and sixty dollars. It comes off the bill, and we get it back if we cancel at least seven days before. Is that right?", "zh": "我确认一下。八个大人，也就是一百六十块。从账单里扣，如果至少提前七天取消就能退。对吗？"},
+      {"s": "o", "en": "Spot on. You've got it.", "zh": "完全正确。"},
+      {"s": "y", "en": "Great. Can we bring our own wine? And can we split the bill at the end?", "zh": "太好了。我们能自己带酒吗？最后可以分开结账吗？"},
+      {"s": "o", "en": "Yep, BYO's fine, bottled wine only, and corkage is fifteen a bottle. And we can split it, but only evenly, not item by item. Too hard on a Saturday night, mate. What name was it for the booking?", "zh": "可以，能带酒，只限瓶装葡萄酒，开瓶费每瓶十五。账单能分，但只能平分，不能按每人点的算。周六晚上太忙了。预订用什么名字？"},
+      {"s": "y", "en": "Amy Chen. That's C-H-E-N. My mobile is 0491 570 156. Could you text me all the details with the link, please?", "zh": "Amy Chen，C-H-E-N。我的手机是 0491 570 156。能把所有细节和链接一起发短信给我吗？"},
+      {"s": "o", "en": "Too easy. Reckon you'd be right to pay it this arvo? Then you're all locked in. Chef'll give you a bell after four. See you on the fifth!", "zh": "没问题。您今天下午方便付吗？付了就定下来了。厨师四点后给您打电话。五号见！"},
+      {"s": "y", "en": "Yes, I'll do that as soon as I get your text. Thanks for your help, Matt. Bye!", "zh": "好的，收到短信我马上付。谢谢你，Matt。再见！"}
+    ]
+  },
+  "rescue": [
+    {"en": "Sorry, I missed that. Could you say the price again, a bit slower?", "zh": "不好意思，没听清。能再慢一点说一遍价格吗？"},
+    {"en": "Sorry, was that fifteen or fifty?", "zh": "不好意思，是十五还是五十？"},
+    {"en": "Sorry, I'm not sure what corkage means. Could you explain that?", "zh": "不好意思，我不太清楚 corkage 是什么意思，能解释一下吗？"},
+    {"en": "Could you text me the details, so I don't get anything wrong?", "zh": "能用短信把细节发给我吗？这样我不会弄错。"},
+    {"en": "Just to check I've got this right, it's ___ a head, and we need to ___ by ___?", "zh": "我确认一下，每人___，我们要在___之前___，对吗？"}
+  ],
+  "checklist": [
+    "我听到 two sittings 和 half seven 时，知道要选时段、几点离桌",
+    "我能听出 a head 是每人，并分清 sixty-five 和 seventy-five",
+    "我能说清 8 个大人、4 个小孩，并开口要一张高脚椅",
+    "我能说明 coeliac 和 vegetarian，并问出 cross-contamination 的风险",
+    "我听懂了 corkage、drops off 和 final numbers",
+    "我挂电话前能复述定金和取消规定，并请对方发短信确认"
+  ]
+}
