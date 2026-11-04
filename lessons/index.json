@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "lessons": [
+    {
+      "id": "2026-11-05",
+      "date": "2026-11-05",
+      "category": "保险/医疗",
+      "title": "致电 Medicare 查退款为何没到账",
+      "titleEn": "Calling Medicare about a missing rebate"
+    },
     {
       "id": "2026-11-04",
       "date": "2026-11-04",

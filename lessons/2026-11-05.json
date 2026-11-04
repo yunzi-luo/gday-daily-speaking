@@ -1,0 +1,131 @@
+{
+  "id": "2026-11-05",
+  "date": "2026-11-05",
+  "category": "保险/医疗",
+  "title": "致电 Medicare 查退款为何没到账",
+  "titleEn": "Calling Medicare about a missing rebate",
+  "scene": [
+    "三周前你去市区看了皮肤科专科医生，当场先付了 $220，诊所说会帮你向 Medicare 提交报销（lodge the claim）。可是过了这么久，银行账户里一分钱也没进来。你趁午休打 Medicare 热线，等了一会儿，接电话的是客服 Darren。他先要核对身份（卡上你名字旁边的序号、生日、地址），查到记录后语速很快地告诉你：钱已经付了，但 bounced back（被退回）了。",
+    "你的目标：① 说清楚看病日期、医生、付了多少钱；② 听懂钱为什么被退回（旧银行账户已关闭），确认钱没有丢；③ 更新银行账户，问清多久到账，要到参考号（reference number）。"
+  ],
+  "facts": [
+    { "k": "Visit", "v": "10 月 13 日看皮肤科 Dr Nguyen，先付 $220" },
+    { "k": "Rebate", "v": "应退 $78.65，因账户已关闭被退回" },
+    { "k": "Fix", "v": "在 myGov 的 Medicare 网上账户里改银行信息" },
+    { "k": "Next", "v": "约 3–5 个工作日到账；下周五还没到就再打电话，报参考号 R4729" }
+  ],
+  "vocab": [
+    { "en": "rebate", "zh": "（Medicare）退款、报销额", "ex": "I'm still waiting for my Medicare rebate." },
+    { "en": "lodge a claim", "zh": "提交报销申请", "ex": "The clinic said they'd lodge the claim for me." },
+    { "en": "upfront", "zh": "当场先付", "ex": "I paid two hundred and twenty dollars upfront." },
+    { "en": "come through", "zh": "（钱或信息）到了、传过来", "ex": "The money still hasn't come through." },
+    { "en": "have … handy", "zh": "把……放手边，随时能拿出来", "ex": "Have you got your Medicare card handy?" },
+    { "en": "bounce back", "zh": "（付款）被退回", "ex": "The payment bounced back because the account was closed." },
+    { "en": "on file", "zh": "记录在系统里的", "ex": "Which bank account have you got on file?" },
+    { "en": "ring a bell", "zh": "听着耳熟、想起点什么", "ex": "A closed account? Does that ring a bell?" },
+    { "en": "reissue", "zh": "重新发出（付款）", "ex": "I can reissue the payment today." },
+    { "en": "BSB", "zh": "澳洲银行分行代码（6 位数）", "ex": "Just pop your BSB and account number in." },
+    { "en": "business days", "zh": "工作日（不含周末和公共假期）", "ex": "It should land in three to five business days." },
+    { "en": "give or take", "zh": "大约、上下差一点", "ex": "That's about a week, give or take." }
+  ],
+  "listening": [
+    {
+      "en": "Thanks for holding, you're through to Medicare, Darren speaking.",
+      "sound": "you're through to 连得很快，听起来像 “yer-through-ta”；意思是“电话接通了”，重点抓人名",
+      "zh": "感谢等候，这里是 Medicare，我是 Darren。",
+      "reply": "Hi Darren. I'm calling about a rebate that hasn't come through."
+    },
+    {
+      "en": "I'll just need to confirm a few details first, if that's alright.",
+      "sound": "I'll just need to → “awl-jus-need-ta”；客服开头几乎都要核对身份，准备好卡",
+      "zh": "我需要先核对几个信息，可以吗？",
+      "reply": "Sure, I've got my card here."
+    },
+    {
+      "en": "Bear with me a sec, I'm just pulling that up.",
+      "sound": "Bear with me = 请稍等；a sec = a second；pull up = 在电脑上调出记录",
+      "zh": "稍等一下，我把记录调出来。",
+      "reply": "No worries, take your time."
+    },
+    {
+      "en": "Looks like the payment's bounced back, mate.",
+      "sound": "开头省了 It；payment's = payment has，s 很轻；bounced back 里 d 几乎吞掉",
+      "zh": "看起来这笔钱被退回来了。",
+      "reply": "Sorry, what do you mean it bounced back?"
+    },
+    {
+      "en": "I'll pop you on hold for a tick while you do that, alright?",
+      "sound": "pop you → “pop-ya”；for a tick = 一小会儿；on hold = 让你在线等，会有音乐",
+      "zh": "你操作的时候我先让你在线等一下，好吗？",
+      "reply": "Okay, thanks. I'll be quick."
+    },
+    {
+      "en": "If it hasn't turned up by next Friday, give us a buzz back.",
+      "sound": "turned up = 到了、出现；give us a buzz = 给我们打电话，us 读 “uz”，其实是“给我”的意思",
+      "zh": "要是到下周五还没到账，就再打电话给我们。",
+      "reply": "Will do. Could I get a reference number, please?"
+    }
+  ],
+  "speech": {
+    "topic": "我打客服电话的小技巧",
+    "paragraphs": [
+      "When I first came to Australia, I was scared of phone calls. In person, I could see people's faces and use my hands. On the phone, I only had my ears, and everyone seemed to talk so fast. So I used to ask my friends to call for me, or I just avoided it.",
+      "Over time, I've learnt a few tricks. First, I get ready before I call. I put my card, my dates and my questions on the table, because the agent always checks my details first. I also write down the one thing I want to get out of the call.",
+      "Second, I don't pretend to understand. This was the hardest thing to learn. Now, if I miss something, I say, 'Sorry, could you say that a bit slower?' Nobody has ever been annoyed. Most people are happy to explain it again. I also repeat the important parts, like the amount or the date, starting with 'Just to confirm'.",
+      "Third, I always ask for a reference number, and I write down the person's name. If something goes wrong later, I don't have to start from the beginning.",
+      "Last week, I called about a payment that hadn't arrived. It turned out that my old bank account was closed. It was a simple problem, and it took only ten minutes to fix. A few years ago, I would have worried about that call for days. Now it feels normal. I still make mistakes, but that's okay. Every call is a little bit of free practice."
+    ],
+    "zh": "刚来澳洲时我很怕打电话，当面还能看表情、比手势，电话里只能靠耳朵，大家说话又快，所以我常常请朋友代打或者干脆躲开。后来我学到几个小技巧。第一，打之前做好准备：把卡、日期和问题放在桌上，因为客服总要先核对信息，还要写下这通电话最想解决的一件事。第二，不要假装听懂。这是最难学的。现在没听清我就请对方说慢一点，从来没有人不耐烦。金额、日期等重要内容，我会用“Just to confirm”重复一遍。第三，一定要参考号，并记下对方的名字，以后出问题不用从头讲。上周我打电话查一笔没到账的钱，原来是旧账户关了，十分钟就解决了。换成几年前，我会为这通电话担心好几天。现在觉得很平常。我还是会犯错，但没关系，每通电话都是一次免费的练习。",
+    "patterns": [
+      { "en": "I used to ___, but now I ___.", "zh": "我以前……，但现在……" },
+      { "en": "Before I call, I always ___.", "zh": "打电话之前，我总会……" },
+      { "en": "It turned out that ___.", "zh": "结果原来是……" },
+      { "en": "A few years ago, I would have ___.", "zh": "换成几年前，我大概会……" }
+    ]
+  },
+  "dialogue": {
+    "other": { "name": "Darren", "role": "Medicare 热线客服", "voice": "m" },
+    "lines": [
+      { "s": "o", "en": "Thanks for holding, you're through to Medicare, Darren speaking. How can I help you today?", "zh": "感谢等候，这里是 Medicare，我是 Darren。今天有什么可以帮你？" },
+      { "s": "y", "en": "Hi Darren. I'm calling about a rebate. I saw a specialist about three weeks ago, and the money still hasn't come through.", "zh": "你好 Darren。我想问一笔退款。我大约三周前看了专科，钱到现在还没到。" },
+      { "s": "o", "en": "Oh, righto, sorry about that. We can have a look into it for you. I'll just need to confirm a few details first, if that's alright. You've keyed your card number in already, so I've got your record up. What's the number next to your name on the card?", "zh": "哦，好的，不好意思。我们帮你查一下。我需要先核对几个信息，可以吗？你已经按键输入了卡号，所以记录我调出来了。卡上你名字旁边的数字是几？" },
+      { "s": "y", "en": "I'm number two.", "zh": "我是 2 号。" },
+      { "s": "o", "en": "Lovely. And your date of birth and your address, please?", "zh": "好的。再说一下你的出生日期和地址？" },
+      { "s": "y", "en": "The twelfth of March, nineteen eighty-six. And I'm at 14 Wattle Street, Prospect.", "zh": "1986 年 3 月 12 日。地址是 Prospect 区 Wattle Street 14 号。" },
+      { "s": "o", "en": "Ta for that. So, who'd you see, and round when was it?", "zh": "谢谢。那你看的是哪位医生，大概什么时候？" },
+      { "s": "y", "en": "A dermatologist in the city, Dr Nguyen, on the thirteenth of October. I paid two hundred and twenty dollars upfront, and the clinic said they'd lodge the claim for me.", "zh": "市区的皮肤科医生 Dr Nguyen，10 月 13 日。我当场先付了 220 澳元，诊所说他们会帮我提交报销。" },
+      { "s": "o", "en": "Yep, bear with me a sec, I'm just pulling that up. System's a bit slow today. Right, here we go. So the claim went in on the fourteenth and we processed it on the sixteenth, seventy-eight dollars sixty-five. But, ah, looks like the payment's bounced back.", "zh": "好，稍等，我调一下记录。今天系统有点慢。好，找到了。报销 14 号提交，我们 16 号处理了，78.65 澳元。不过，呃，看起来这笔钱被退回来了。" },
+      { "s": "y", "en": "Sorry, could you say that again a bit slower? What do you mean, it bounced back?", "zh": "不好意思，能说慢一点吗？“退回来了”是什么意思？" },
+      { "s": "o", "en": "Yeah, no worries. We sent the money to the bank account we've got on file, but the bank sent it straight back, because that account's been closed. Does that ring a bell at all?", "zh": "好，没问题。我们把钱打到系统里记录的银行账户，但银行马上退回来了，因为那个账户已经关了。你有印象吗？" },
+      { "s": "y", "en": "Oh, yes! I changed banks in August, and I never updated my details with you.", "zh": "哦，对！我八月换了银行，一直没跟你们更新。" },
+      { "s": "o", "en": "Yeah, that'd be it. Happens all the time, don't stress. The good news is the money's not lost, it's just sitting with us. Once we've got your new details, I can reissue it.", "zh": "嗯，应该就是这个原因。这种事常有，别担心。好消息是钱没丢，就在我们这里。有了你的新账户信息，我就能重新打款。" },
+      { "s": "y", "en": "Just to confirm, you mean I'll still get the full seventy-eight dollars sixty-five?", "zh": "确认一下，你的意思是我还是能拿到全部 78.65 澳元？" },
+      { "s": "o", "en": "Yep, every cent. Now, you've got two options. I can take your BSB and account number over the phone, or you can jump onto your Medicare online account through myGov and change it yourself. Are you linked up to myGov?", "zh": "对，一分不少。你有两个选择：我可以在电话里记下你的 BSB 和账号，或者你登录 myGov 里的 Medicare 网上账户自己改。你的 myGov 关联了 Medicare 吗？" },
+      { "s": "y", "en": "Yes, I am. I'm logged in on my phone now, so I'd rather do it myself.", "zh": "关联了。我现在手机上已经登录了，我还是自己改吧。" },
+      { "s": "o", "en": "Good on you. You should see a section for bank details under your profile. Pop in your new BSB and account number and hit save. I'll pop you on hold for a tick while you do that, alright?", "zh": "好嘞。你在个人资料下面应该能看到银行信息那一栏。填上新的 BSB 和账号，点保存。你操作的时候我先让你在线等一下，好吗？" },
+      { "s": "y", "en": "Okay, thanks. Hi Darren, I've done it. It says my details are updated.", "zh": "好的，谢谢。（片刻后）Darren 你好，我改好了，显示已经更新。" },
+      { "s": "o", "en": "Beautiful, yep, that's come through on my end. I'll reissue that now, so it should land in about three to five business days, give or take. If it hasn't turned up by next Friday, give us a buzz back. Oh, and while I've got you, there's another one here for your son from September, forty-one dollars twenty, same deal. Want me to reissue both?", "zh": "太好了，我这边也看到了。我现在重新打款，大约 3 到 5 个工作日到账，可能差一两天。要是到下周五还没到，就再打电话给我们。哦，顺便说一下，这里还有一笔九月你儿子的报销，41.20 澳元，情况一样。要两笔一起重发吗？" },
+      { "s": "y", "en": "Oh, really? Yes, please, both. Sorry, how much was that second one?", "zh": "哦，真的吗？好的，两笔都发。不好意思，第二笔是多少钱？" },
+      { "s": "o", "en": "Forty-one twenty, so all up you'll get a hundred and nineteen eighty-five. Do you want a reference number for that?", "zh": "41.20，所以总共你会收到 119.85 澳元。要个参考号吗？" },
+      { "s": "y", "en": "Yes, please. Could you say it slowly? I'll write it down.", "zh": "要的，能慢点说吗？我记一下。" },
+      { "s": "o", "en": "Course. It's R for Robert, four, seven, two, nine. And just a heads-up, watch out for scam texts. If a message has a link asking for your bank details, don't click on it.", "zh": "当然。R，Robert 的 R，4、7、2、9。再提醒一下，小心诈骗短信。如果短信里有链接让你填银行信息，别点。" },
+      { "s": "y", "en": "Good to know. R four seven two nine. That's everything, thanks so much for your help, Darren.", "zh": "知道了。R4729。就这些，非常感谢你的帮助，Darren。" },
+      { "s": "o", "en": "No dramas at all. Have a good one. Bye now.", "zh": "不客气。祝你今天愉快。再见。" }
+    ]
+  },
+  "rescue": [
+    { "en": "Sorry, could you say that a bit slower? I didn't quite catch it.", "zh": "不好意思，能说慢一点吗？我没完全听清。" },
+    { "en": "Sorry, what do you mean by that?", "zh": "不好意思，你这是什么意思？" },
+    { "en": "Could you spell that for me, please?", "zh": "能帮我拼一下吗？" },
+    { "en": "Just to confirm, how much will I get back, and when?", "zh": "确认一下，我能退多少钱，什么时候到？" },
+    { "en": "Could I get a reference number, please?", "zh": "能给我一个参考号吗？" }
+  ],
+  "checklist": [
+    "我能一句话说清看病日期、医生、自付金额和问题（钱没到）",
+    "我听懂了 bounced back、on file、reissue、come through",
+    "我至少用了一次礼貌追问（说慢一点 / Just to confirm…）",
+    "我能用 number two、日期、地址完成身份核对",
+    "我问清了到账时间和下一步，并要到了参考号",
+    "我记住了：短信里的链接不要点，银行信息自己登录修改"
+  ]
+}
