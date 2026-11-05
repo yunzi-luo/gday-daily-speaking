@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "lessons": [
+    {
+      "id": "2026-11-06",
+      "date": "2026-11-06",
+      "category": "工作",
+      "title": "和经理一对一：听绩效反馈，申请圣诞假",
+      "titleEn": "A one-on-one with your manager: feedback and Christmas leave"
+    },
     {
       "id": "2026-11-05",
       "date": "2026-11-05",

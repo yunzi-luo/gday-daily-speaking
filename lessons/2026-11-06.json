@@ -1,0 +1,316 @@
+{
+  "id": "2026-11-06",
+  "date": "2026-11-06",
+  "category": "工作",
+  "title": "和经理一对一：听绩效反馈，申请圣诞假",
+  "titleEn": "A one-on-one with your manager: feedback and Christmas leave",
+  "scene": [
+    "周五下午，你和经理 Fiona 在小会议室做每月一次的一对一（one-on-one）。今年的 reporting dashboard 项目刚上线，她要跟你聊今年做得怎么样、哪里还能提高。Fiona 人很好，但语速快，夸人和提意见都说得很委婉，比如 “one thing to work on”，其实就是她希望你改进的地方。公司圣诞节放假，你还想多请几天带孩子出门。",
+    "你的目标：① 听懂表扬和改进建议，并追问具体例子；② 提出 12 月 21 日到 1 月 8 日休假，确认年假够不够、谁来接手；③ 礼貌地问一下明年有没有升职或加薪的机会。"
+  ],
+  "facts": [
+    {
+      "k": "Shutdown",
+      "v": "公司 12 月 24 日到 1 月 1 日放假，这几天要扣年假"
+    },
+    {
+      "k": "Your leave",
+      "v": "12 月 21 日起休，1 月 11 日（周一）回来，共用 12 天年假"
+    },
+    {
+      "k": "Handover",
+      "v": "12 月 18 日前交接给同事 Ben"
+    },
+    {
+      "k": "Pay review",
+      "v": "每年 3 月"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "one-on-one",
+      "zh": "（和经理的）一对一谈话",
+      "ex": "I've got a one-on-one with my manager on Friday."
+    },
+    {
+      "en": "how are you tracking?",
+      "zh": "你最近进展/状态怎么样？",
+      "ex": "How are you tracking with the handover notes?"
+    },
+    {
+      "en": "get something over the line",
+      "zh": "把事情做完、推到完成",
+      "ex": "We finally got the dashboard over the line last week."
+    },
+    {
+      "en": "the finance mob",
+      "zh": "财务那帮人（mob = 一群人，口语，无贬义）",
+      "ex": "The finance mob are really happy with the new report."
+    },
+    {
+      "en": "one thing to work on",
+      "zh": "一个需要改进的地方（委婉提意见）",
+      "ex": "One thing to work on is speaking up earlier in meetings."
+    },
+    {
+      "en": "speak up",
+      "zh": "大胆发言、说出想法",
+      "ex": "Don't be shy, just speak up if you disagree."
+    },
+    {
+      "en": "put in for leave",
+      "zh": "申请休假",
+      "ex": "I'll put in for leave this arvo."
+    },
+    {
+      "en": "in the bank",
+      "zh": "（假期）存着的、还剩的",
+      "ex": "I've got about eighteen days of leave in the bank."
+    },
+    {
+      "en": "shutdown",
+      "zh": "公司统一放假（如圣诞期间）",
+      "ex": "The office shutdown starts on Christmas Eve."
+    },
+    {
+      "en": "handover",
+      "zh": "工作交接",
+      "ex": "I'll write up a handover before I go on leave."
+    },
+    {
+      "en": "step up",
+      "zh": "承担更多责任、挑大梁",
+      "ex": "She'd like me to step up and run the workshops."
+    },
+    {
+      "en": "on my radar",
+      "zh": "我记着这事、在关注",
+      "ex": "Your promotion is definitely on my radar."
+    }
+  ],
+  "listening": [
+    {
+      "en": "So, how're you tracking? Busy week?",
+      "sound": "how're you tracking 连成 “how-ya-track-in”，g 不发音；这里不是问具体进度，更像“最近怎么样”",
+      "zh": "那么，你最近怎么样？这周忙吗？",
+      "reply": "Yeah, pretty flat out, but it's been good, thanks."
+    },
+    {
+      "en": "Look, I'll just start by saying the dashboard was a ripper job.",
+      "sound": "Look 开头只是“这样吧”，不是叫你看；ripper = 非常棒；job 这里是“活儿”",
+      "zh": "这样吧，我先说一句，那个 dashboard 你做得太棒了。",
+      "reply": "Thanks, Fiona. That means a lot. The whole team helped."
+    },
+    {
+      "en": "The finance mob reckon it's saved 'em a couple of days a month.",
+      "sound": "reckon = think；'em = them，只听到轻轻的 “um”；a couple of 连成 “a-cup-la”",
+      "zh": "财务那帮人觉得这每个月帮他们省了两三天。",
+      "reply": "Oh, that's great to hear. I didn't know it was that much."
+    },
+    {
+      "en": "One thing to work on, though, is backing yourself a bit more in the big meetings.",
+      "sound": "though 放句中表示转折：好话说完了，重点来了；back yourself = 相信自己、敢于表态",
+      "zh": "不过有一点可以改进，就是在大会上多相信自己一点。",
+      "reply": "Yeah, fair enough. Could you give me an example?"
+    },
+    {
+      "en": "Just make sure you flick me the dates and put it in the system, and we're all good.",
+      "sound": "flick me 听起来像 “flick-me”，就是发给我；put it in the system = 在 HR 系统里提交；we're all good = 没问题了",
+      "zh": "你把日期发给我，再在系统里提交，就没问题了。",
+      "reply": "No worries, I'll do it this arvo."
+    },
+    {
+      "en": "Pay reviews aren't till March, but it's on my radar, so leave it with me.",
+      "sound": "aren't till 连成 “arnt-til”；leave it with me = 交给我，我来处理——但不等于已经答应",
+      "zh": "调薪要到三月，不过我记着这事，交给我吧。",
+      "reply": "Thanks. Would it be okay to check in again in the new year?"
+    }
+  ],
+  "speech": {
+    "topic": "今年工作中我最自豪的一件事",
+    "paragraphs": [
+      "This year, the thing I'm most proud of at work is a small reporting dashboard. It doesn't sound exciting, but it changed my year. Before we built it, the finance team spent days every month copying numbers into spreadsheets. They were tired of it, and mistakes happened all the time.",
+      "At the start, I was nervous. I had to talk to people from three different teams, and they all wanted different things. Some of them spoke very fast, and in meetings I often stayed quiet because I was worried about my English. So I changed the way I worked. I wrote down my questions before each meeting. I asked people to show me their real work on the screen. And when I didn't understand something, I said, \"Sorry, can I just check what you mean?\" To my surprise, nobody minded. In fact, people seemed happy that I was checking.",
+      "When we finally finished, the finance team told us it saved them about two days every month. My manager thanked me in front of everyone, and I felt really good. But the best part wasn't the praise. The best part was learning that I don't need perfect English to do good work.",
+      "I still have things to work on. My manager wants me to speak up more in big meetings, and she's right. Next year, I'd like to run a workshop by myself. I'll probably be nervous again, but that's okay. If I prepare well and ask clear questions, I know I can do it."
+    ],
+    "zh": "今年工作上我最自豪的是一个小小的报表 dashboard。以前财务团队每月花好几天手工复制数字，又累又容易错。一开始我很紧张，要和三个团队沟通，大家要求不同，开会时我也怕英语不好而不敢说话。后来我改变方法：会前写好问题，请对方在屏幕上演示实际工作，听不懂就直接确认。没想到大家都不介意。项目完成后，每月为财务省了约两天，经理当众感谢了我。但最大的收获是明白了：不需要完美的英语也能把工作做好。我还有要改进的地方，明年想自己主持一次工作坊，只要准备好、问清楚，我就能做到。",
+    "patterns": [
+      {
+        "en": "The thing I'm most proud of is ___.",
+        "zh": "我最自豪的是……"
+      },
+      {
+        "en": "Before we ___, people had to ___.",
+        "zh": "在我们……之前，大家不得不……"
+      },
+      {
+        "en": "To my surprise, ___.",
+        "zh": "让我意外的是，……"
+      },
+      {
+        "en": "Next year, I'd like to ___, because ___.",
+        "zh": "明年我想……，因为……"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Fiona",
+      "role": "你的直属经理",
+      "voice": "f"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Hey, come in, grab a seat. Sorry I'm a few minutes late, the last meeting ran over. So, how're you tracking? Busy week?",
+        "zh": "嘿，进来，坐吧。不好意思晚了几分钟，上个会超时了。你最近怎么样？这周忙吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yeah, pretty busy, but it's been good, thanks. How about you?",
+        "zh": "嗯，挺忙的，不过还不错，谢谢。你呢？"
+      },
+      {
+        "s": "o",
+        "en": "Oh, flat out, as usual. Everyone wants everything before Christmas, you know how it is. Anyway, I wanted to have a bit of a chat about how the year's gone. Look, I'll just start by saying the dashboard was a ripper job. You really got that over the line.",
+        "zh": "哎，忙得要命，老样子。大家都想在圣诞前把事办完，你懂的。总之，我想聊聊今年过得怎么样。这样吧，我先说一句，那个 dashboard 做得太棒了。你真的把它搞定了。"
+      },
+      {
+        "s": "y",
+        "en": "Thank you, that's really nice to hear. The whole team helped a lot, though.",
+        "zh": "谢谢，听到这个真开心。不过整个团队都帮了很多忙。"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, but you drove it. The finance mob reckon it's saved 'em a couple of days a month, and Trevor doesn't usually say nice things about anyone, so that's a big call.",
+        "zh": "是，但主要是你在推动。财务那帮人觉得每月帮他们省了两三天，Trevor 平时可不轻易夸人，所以这评价很高了。"
+      },
+      {
+        "s": "y",
+        "en": "Oh, wow. I didn't know that. Thanks for telling me.",
+        "zh": "哇，我都不知道。谢谢你告诉我。"
+      },
+      {
+        "s": "o",
+        "en": "No worries, you've earned it. One thing to work on, though, and this is more of a next-level thing, is backing yourself a bit more in the big meetings. You've usually got the best answer in the room, but you tend to sit on it till someone else says it.",
+        "zh": "应该的，这是你该得的。不过有一点可以改进，算是更上一层的要求：在大会上多相信自己一点。你常常有全场最好的答案，但总是憋着，等别人说出来。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? When you say I sit on it, you mean I don't say my idea in the meeting?",
+        "zh": "不好意思，能再说慢一点吗？你说我 sit on it，意思是我在会上不说出自己的想法？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, exactly. Sorry, I talk too fast. You hold onto it. Like in the steering committee last month, you spotted the problem with the data early, but you only told me afterwards.",
+        "zh": "对，就是这个意思。抱歉，我说太快了。你把想法留着不说。比如上个月的指导委员会，你很早就发现数据有问题，但是会后才告诉我。"
+      },
+      {
+        "s": "y",
+        "en": "Yeah, fair enough. Sometimes they talk so fast that by the time I'm ready, the topic has changed.",
+        "zh": "嗯，确实。有时候他们说得太快，等我准备好，话题已经变了。"
+      },
+      {
+        "s": "o",
+        "en": "Totally get that. It's tough, and honestly half of 'em don't know what they're on about either. Just jump in with something like, \"Can I add something there?\" Nobody'll mind. And I'd love you to step up next year and run the requirements workshops yourself. What do you reckon?",
+        "zh": "太理解了。这确实难，老实说他们一半人自己也不知道在说什么。你就直接插一句，比如“我能补充一点吗？”没人会介意。另外我很希望你明年挑起担子，自己主持需求工作坊。你觉得呢？"
+      },
+      {
+        "s": "y",
+        "en": "I'd like to try that. I might need some help with the first one, but I'm keen.",
+        "zh": "我想试试。第一次可能需要点帮助，但我很愿意。"
+      },
+      {
+        "s": "o",
+        "en": "Beauty. I'll sit in on the first one, no dramas. Now, was there anything you wanted to bring up?",
+        "zh": "太好了。第一次我陪你一起，没问题。那么，你有什么想说的吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, two things. First, I'd like to take some extra leave at Christmas. Could I take off from the twenty-first of December and come back on the eleventh of January?",
+        "zh": "有，两件事。第一，我想圣诞节多请几天假。我能从 12 月 21 日开始休，1 月 11 日回来吗？"
+      },
+      {
+        "s": "o",
+        "en": "Should be right. Let me have a look. The shutdown starts on the twenty-fourth anyway, but heads-up, those days come out of your annual leave. So that's twelve days all up, and you've got eighteen in the bank, so you're fine.",
+        "zh": "应该没问题。我看看。公司反正 24 号开始放假，不过提醒一下，那几天要扣年假。所以一共是 12 天，你还有 18 天，够用。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, you mean the shutdown days are not free, so I'll use twelve days in total?",
+        "zh": "我确认一下，你的意思是放假那几天不是白放的，所以我一共用 12 天？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, that's it. Just make sure you flick me the dates and put it in the system, and we're all good. The only thing I'd ask is a handover to Ben by the eighteenth, because finance'll want their end-of-year numbers while you're away.",
+        "zh": "对，就是这样。你把日期发给我，再在系统里提交，就没问题了。我只有一个要求：18 号前交接给 Ben，因为你不在的时候财务要年终数据。"
+      },
+      {
+        "s": "y",
+        "en": "Sure, I'll write up the handover notes next week and go through them with Ben.",
+        "zh": "好的，我下周写好交接文档，再和 Ben 过一遍。"
+      },
+      {
+        "s": "o",
+        "en": "Perfect, thanks. And the second thing?",
+        "zh": "太好了，谢谢。那第二件事呢？"
+      },
+      {
+        "s": "y",
+        "en": "I've been here for almost three years now, and I'd like to ask about next year. Is there a chance of moving to a senior role, or a pay rise?",
+        "zh": "我来这里快三年了，想问问明年的情况。有没有机会升到高级职位，或者加薪？"
+      },
+      {
+        "s": "o",
+        "en": "Good on you for asking, a lot of people don't. Look, I can't promise anything today. Pay reviews aren't till March, but it's on my radar, so leave it with me. Running those workshops would really help your case, to be honest.",
+        "zh": "你能开口问很好，很多人都不问。这样吧，今天我不能承诺什么。调薪要到三月，不过我记着这事，交给我吧。说实话，主持那些工作坊会对你很有帮助。"
+      },
+      {
+        "s": "y",
+        "en": "That makes sense. Would it be okay if we talked about it again in the new year?",
+        "zh": "明白了。我们新年再聊一次可以吗？"
+      },
+      {
+        "s": "o",
+        "en": "Absolutely. I'll chuck something in the calendar for February. Right, I'd better let you go. Got anything on this weekend?",
+        "zh": "当然。我在日历上约个二月的时间。好了，不耽误你了。这周末有什么安排吗？"
+      },
+      {
+        "s": "y",
+        "en": "Not much, just kids' sport on Saturday. Thanks for your time, Fiona. Have a good weekend.",
+        "zh": "没什么，就是周六孩子有运动。谢谢你抽时间，Fiona。周末愉快。"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that a bit slower? I didn't quite catch it.",
+      "zh": "不好意思，能说慢一点吗？我没完全听清。"
+    },
+    {
+      "en": "Could you give me an example of that?",
+      "zh": "能举个例子吗？"
+    },
+    {
+      "en": "Just to confirm, you mean ___?",
+      "zh": "我确认一下，你的意思是……？"
+    },
+    {
+      "en": "Can I add something there?",
+      "zh": "我能补充一点吗？"
+    },
+    {
+      "en": "Could you flick me those dates in an email, please?",
+      "zh": "能把这些日期发邮件给我吗？"
+    }
+  ],
+  "checklist": [
+    "我听懂了 how're you tracking、over the line、a ripper job 这些夸奖和寒暄",
+    "听到 “one thing to work on, though” 时，我知道重点来了",
+    "我能追问具体例子，不只是说 OK",
+    "我能用一两句话说清休假的开始和回来日期",
+    "我听懂了 shutdown 要扣年假、12 天 all up、18 天 in the bank",
+    "我能礼貌地问升职加薪，并听出 leave it with me 不等于已经答应"
+  ]
+}
