@@ -1,0 +1,317 @@
+{
+  "id": "2026-11-07",
+  "date": "2026-11-07",
+  "category": "社交",
+  "title": "朋友家BBQ上和第一次见面的人闲聊",
+  "titleEn": "Small talk with a new face at a friend's backyard BBQ",
+  "scene": [
+    "周六下午，你带孩子去朋友 Kate 家后院参加 BBQ。Kate 在厨房忙，把你介绍给她老公 Pete 就走开了。Pete 正在烤架前翻香肠，很友好，话也多，但语速快、口音重，满嘴澳洲口语：snags、stubby、what do you do for a crust、down the coast……你们之前从没见过，要自己把天聊下去。",
+    "你的目标：① 自然地回答“你们怎么认识的、来阿德莱德多久、做什么工作”这类开场问题，并反问对方；② 听懂他聊板球、圣诞假期去海边露营的计划，听不懂时礼貌追问；③ 顺势帮把手、交换一个有用信息（露营地推荐），最后自然地结束对话。"
+  ],
+  "facts": [
+    {
+      "k": "Who",
+      "v": "Pete：朋友 Kate 的老公，在一家建筑公司做项目经理"
+    },
+    {
+      "k": "When",
+      "v": "周六下午三点多，snags 快烤好了"
+    },
+    {
+      "k": "Topics",
+      "v": "怎么认识 Kate、工作、板球赛季、圣诞去 Fleurieu 海边露营"
+    },
+    {
+      "k": "Tip",
+      "v": "Port Elliot 的营地圣诞期间要提前好几个月订"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "snag",
+      "zh": "香肠（BBQ 必备）",
+      "ex": "Grab a snag while they're hot."
+    },
+    {
+      "en": "a stubby / a cold one",
+      "zh": "一小瓶啤酒 / 一瓶冰饮",
+      "ex": "Can I get you a cold one? There's soft drink in the esky too."
+    },
+    {
+      "en": "what do you do for a crust?",
+      "zh": "你是做什么工作的？（口语）",
+      "ex": "So what do you do for a crust, Pete?"
+    },
+    {
+      "en": "how'd you end up in ___?",
+      "zh": "你怎么会来到……的？",
+      "ex": "How'd you end up in Adelaide?"
+    },
+    {
+      "en": "can't complain",
+      "zh": "还不错（谦虚说法）",
+      "ex": "Work's busy, but I can't complain."
+    },
+    {
+      "en": "flat out",
+      "zh": "忙得不可开交",
+      "ex": "I've been flat out all week."
+    },
+    {
+      "en": "the Test / the cricket",
+      "zh": "板球国际对抗赛 / 板球比赛",
+      "ex": "Are you watching the Test this summer?"
+    },
+    {
+      "en": "head down the coast",
+      "zh": "去海边（度假）",
+      "ex": "We usually head down the coast after Christmas."
+    },
+    {
+      "en": "booked out",
+      "zh": "订满了",
+      "ex": "The caravan parks get booked out months ahead."
+    },
+    {
+      "en": "chuck on",
+      "zh": "（随手）放上去、打开",
+      "ex": "I'll chuck a few more snags on."
+    },
+    {
+      "en": "give us a hand",
+      "zh": "帮个忙（us = me）",
+      "ex": "Could you give us a hand with the plates?"
+    },
+    {
+      "en": "I'll let you get back to it",
+      "zh": "不打扰你了（礼貌结束对话）",
+      "ex": "Anyway, I'll let you get back to the barbie."
+    }
+  ],
+  "listening": [
+    {
+      "en": "G'day, how ya goin'? I'm Pete. You must be Kate's mate from work?",
+      "sound": "how ya goin' 三个词连成 “how-ya-go-in”，g 吞掉；mate = 朋友，读 “mite”",
+      "zh": "你好，最近怎么样？我是 Pete。你一定是 Kate 的同事朋友吧？",
+      "reply": "Good thanks, Pete. Actually, we met through the kids' swimming lessons."
+    },
+    {
+      "en": "So whaddaya do for a crust?",
+      "sound": "whaddaya = what do you；for a crust 字面是“为了一块面包皮”，意思是“靠什么谋生”",
+      "zh": "那你是做什么工作的？",
+      "reply": "I'm a business analyst. Mostly working on IT projects."
+    },
+    {
+      "en": "Reckon they'll make it through the summer without a shocker?",
+      "sound": "reckon = think；shocker = 很糟糕的表现/一场大败；整句说得很快",
+      "zh": "你觉得他们（板球队）这个夏天能不出大丑吗？",
+      "reply": "Honestly, I don't follow the cricket much. Who's playing?"
+    },
+    {
+      "en": "We're thinkin' of headin' down to Port Elliot straight after Chrissy, if we can still get a spot.",
+      "sound": "thinkin' / headin' 的 g 都吞掉；Chrissy = Christmas；get a spot = 订到营位",
+      "zh": "我们打算圣诞节一过就去 Port Elliot，如果还能订到位置的话。",
+      "reply": "Oh, nice. Do you need to book a long way ahead?"
+    },
+    {
+      "en": "Ah, it's chockers by then — you've gotta get in early or you're stuffed.",
+      "sound": "chockers = 满满的；you're stuffed = 你就没戏了/完蛋了（口语，不粗鲁）",
+      "zh": "哎呀，那时候人满为患，你得早点订，不然就没戏了。",
+      "reply": "Good to know. We might try Victor Harbor instead."
+    },
+    {
+      "en": "No worries at all — help yourself, there's heaps.",
+      "sound": "heaps = 很多；help yourself = 自己拿，别客气",
+      "zh": "没事没事，自己拿，多得是。",
+      "reply": "Thanks, Pete. These smell amazing."
+    }
+  ],
+  "speech": {
+    "topic": "我第一次参加澳洲朋友的后院 BBQ",
+    "paragraphs": [
+      "The first time I went to an Aussie backyard BBQ, I was a bit nervous. My friend Kate invited my family on a Saturday afternoon. She told me to bring a plate, and I wasn't sure what that meant. I almost brought an empty plate! Luckily, my colleague explained that it means bringing some food to share, so I made a big bowl of fried rice.",
+      "When we arrived, Kate introduced me to her husband and then went back to the kitchen. I had to keep the conversation going by myself. At first, it was hard. He spoke really fast and used a lot of slang, like snags and stubbies. But I asked simple questions: how did you meet Kate, what do you do for work, and do you have any plans for Christmas? People here love talking about holidays, sport and the weather, so these topics are always safe.",
+      "I also learned that it's okay to say, \"Sorry, I didn't catch that.\" Nobody minded. In fact, he slowed down and explained some words to me. He even gave me a great tip about camping on the coast.",
+      "The best part was helping out. I carried plates and passed the sauce around, and it made me feel like part of the group. By the end of the afternoon, our kids were playing together and I had a new phone number in my contacts.",
+      "Now I don't worry so much about small talk. I just stay curious, ask questions, and smile."
+    ],
+    "zh": "我第一次参加澳洲后院 BBQ 时有点紧张。朋友让我 bring a plate，我差点真带个空盘子，后来才知道是带一道菜分享。到了以后朋友把我介绍给她老公就走开了，我只能自己聊。他语速快、俚语多，但我问一些简单的问题：怎么认识的、做什么工作、圣诞有什么计划——假期、运动、天气永远是安全话题。我还发现说“不好意思没听清”完全没问题，他反而放慢了速度，还推荐了海边露营地。帮忙端盘子让我更有融入感。现在我不太怕闲聊了：保持好奇、多提问、多微笑。",
+    "patterns": [
+      {
+        "en": "So how do you know ___?",
+        "zh": "那你是怎么认识……的？（聚会开场万能句）"
+      },
+      {
+        "en": "Have you got anything planned for ___?",
+        "zh": "……你有什么计划吗？（Christmas / the weekend / the holidays）"
+      },
+      {
+        "en": "Sorry, I'm not familiar with ___. What's that?",
+        "zh": "不好意思，我不太了解……，那是什么？"
+      },
+      {
+        "en": "Anyway, I'll let you get back to ___.",
+        "zh": "好啦，不打扰你继续……了。（自然结束对话）"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Pete",
+      "role": "朋友 Kate 的老公",
+      "voice": "m"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "G'day, how ya goin'? I'm Pete, Kate's other half. You must be Kate's mate from work?",
+        "zh": "你好，最近怎么样？我是 Pete，Kate 的另一半。你一定是 Kate 的同事吧？"
+      },
+      {
+        "s": "y",
+        "en": "Hi Pete, nice to meet you. Not from work, actually. Our kids do swimming lessons together, so we got chatting by the pool.",
+        "zh": "嗨 Pete，很高兴认识你。其实不是同事，我们的孩子一起上游泳课，在泳池边聊起来的。"
+      },
+      {
+        "s": "o",
+        "en": "Ah, right, the swimming crew! She's mentioned you. Can I grab you a cold one? There's stubbies in the esky, or soft drink if you're driving.",
+        "zh": "哦对，游泳课那帮人！她提起过你。给你拿瓶冰的？冰桶里有小瓶啤酒，开车的话有汽水。"
+      },
+      {
+        "s": "y",
+        "en": "A soft drink would be great, thanks. I'm driving today.",
+        "zh": "汽水就好，谢谢。我今天开车。"
+      },
+      {
+        "s": "o",
+        "en": "Too easy. Here ya go. So whaddaya do for a crust?",
+        "zh": "没问题。给你。那你是做什么工作的？"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, what do I do for a…?",
+        "zh": "不好意思，我是做什么……？"
+      },
+      {
+        "s": "o",
+        "en": "Ha, sorry — for a crust. For work, I mean. What's your job?",
+        "zh": "哈，抱歉——for a crust，就是问工作，你做什么的？"
+      },
+      {
+        "s": "y",
+        "en": "Oh, I see! I'm a business analyst. I work on IT projects, mostly for a government department. What about you?",
+        "zh": "哦，明白了！我是业务分析师，主要做 IT 项目，大多是给一个政府部门。你呢？"
+      },
+      {
+        "s": "o",
+        "en": "I'm a project manager for a builder. Mostly townhouses out north at the moment. It's been flat out — everyone wants their place finished before Christmas, which is never gonna happen, but you know, can't complain.",
+        "zh": "我在一家建筑公司当项目经理，现在主要做北边的联排别墅。忙疯了——人人都想圣诞前完工，那根本不可能，不过嘛，还算不错。"
+      },
+      {
+        "s": "y",
+        "en": "That sounds busy. So how long have you two been in Adelaide?",
+        "zh": "听起来好忙。你们俩在阿德莱德多久了？"
+      },
+      {
+        "s": "o",
+        "en": "Oh, I'm a local, born and bred. Kate's from Melbourne, but I dragged her over here fifteen years ago. How 'bout you? How'd you end up in Adelaide?",
+        "zh": "我是本地人，土生土长。Kate 是墨尔本人，十五年前被我拽过来的。你呢？怎么来阿德莱德的？"
+      },
+      {
+        "s": "y",
+        "en": "We came for my husband's job about six years ago. We really like it. It's quiet, and it's easy with the kids.",
+        "zh": "大概六年前因为我老公的工作来的。我们挺喜欢这里，安静，带孩子也方便。"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, can't beat it. Hey, are you into the cricket at all? The Test's on in a few weeks. Reckon they'll get through the summer without a shocker?",
+        "zh": "是啊，没得比。对了，你看板球吗？几周后有 Test 比赛。你觉得他们这个夏天能不出大丑吗？"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? I don't know much about cricket.",
+        "zh": "不好意思，能再说慢一点吗？我对板球不太懂。"
+      },
+      {
+        "s": "o",
+        "en": "No worries. Australia plays a big series over summer, five days a game. I'm just asking if you think we'll play well. A shocker's a really bad game.",
+        "zh": "没事。澳大利亚夏天打一个大系列赛，一场打五天。我就是问你觉得我们能不能打好。shocker 就是很烂的一场。"
+      },
+      {
+        "s": "y",
+        "en": "Five days for one game? Wow. I'll have to watch a bit. Have you got anything planned for Christmas?",
+        "zh": "一场比赛五天？哇。那我得看一点。你们圣诞有什么计划？"
+      },
+      {
+        "s": "o",
+        "en": "We're thinkin' of headin' down to Port Elliot straight after Chrissy, if we can still get a spot at the caravan park. It's chockers by then, though — you've gotta book months ahead or you're stuffed.",
+        "zh": "我们打算圣诞一过就去 Port Elliot，如果房车营地还订得到位置的话。不过那时候人满为患——你得提前好几个月订，不然就没戏了。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, you mean the campsites are already full for Christmas?",
+        "zh": "我确认一下，你是说圣诞期间营地已经订满了？"
+      },
+      {
+        "s": "o",
+        "en": "Pretty much. The good ones, anyway. If you're keen, try Victor or Goolwa, or go in February. Still warm, half the crowds.",
+        "zh": "差不多吧，至少好的那几个满了。你想去的话，可以试试 Victor 或 Goolwa，或者二月去，天还热，人少一半。"
+      },
+      {
+        "s": "y",
+        "en": "That's a great tip, thanks. Can I give you a hand with anything? Maybe plates or sauce?",
+        "zh": "这个建议太好了，谢谢。我能帮你做点什么吗？拿盘子或者酱料？"
+      },
+      {
+        "s": "o",
+        "en": "Ah, legend. Could you grab the bread and the tomato sauce off the table? These snags are just about done. I'll chuck a few more on for the kids.",
+        "zh": "太够意思了。能帮我把桌上的面包和番茄酱拿过来吗？这些香肠快好了。我再给孩子们多放几根。"
+      },
+      {
+        "s": "y",
+        "en": "Sure. Here you go. They smell amazing.",
+        "zh": "好的，给你。闻起来太香了。"
+      },
+      {
+        "s": "o",
+        "en": "Cheers. Help yourself, there's heaps. And yell out if your kids want one without onion.",
+        "zh": "谢了。自己拿，多得是。孩子要不加洋葱的就喊一声。"
+      },
+      {
+        "s": "y",
+        "en": "Thanks, Pete. Anyway, I'll let you get back to it. I'll go and see if Kate needs a hand in the kitchen.",
+        "zh": "谢谢 Pete。好啦，不打扰你了。我去看看 Kate 厨房里要不要帮忙。"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, I didn't quite catch that. Could you say it again?",
+      "zh": "不好意思，我没听清，能再说一遍吗？"
+    },
+    {
+      "en": "Sorry, what does ___ mean? I haven't heard that one before.",
+      "zh": "不好意思，___ 是什么意思？我以前没听过。"
+    },
+    {
+      "en": "Could you say that a bit slower, please?",
+      "zh": "能说慢一点吗？"
+    },
+    {
+      "en": "Just to confirm, you mean ___?",
+      "zh": "我确认一下，你的意思是……？"
+    },
+    {
+      "en": "Could you text me the name of that place? I'll look it up.",
+      "zh": "能把那个地方的名字发短信给我吗？我查一下。"
+    }
+  ],
+  "checklist": [
+    "我能自然回答“怎么认识 Kate、做什么工作、来阿德莱德多久”，并反问对方",
+    "我听懂了 how ya goin'、what do you do for a crust、can't complain",
+    "听到 snags、stubbies、esky、Chrissy 这些词我不会愣住",
+    "听不懂板球那段时，我礼貌地请对方说慢一点，而不是只点头",
+    "我听懂了 chockers、you're stuffed、book months ahead 是在说营地订满了",
+    "我能主动帮忙（give you a hand），并用 I'll let you get back to it 自然结束对话"
+  ]
+}
