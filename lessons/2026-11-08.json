@@ -1,0 +1,316 @@
+{
+  "id": "2026-11-08",
+  "date": "2026-11-08",
+  "category": "房屋",
+  "title": "空调不制冷，约中介派的空调师傅上门",
+  "titleEn": "Booking the aircon tech when your split system blows warm air",
+  "scene": [
+    "周日早上，下周天气预报连续几天 35 度以上，可你家客厅的分体空调（split system）开了半小时还在吹热风，室外机好像也不怎么转。你周五在 tenant portal 上报了修，物业经理批了 work order，把单子转给了常合作的空调师傅 Brett。今天上午 Brett 打电话过来，人很热情，但说话快，满嘴行话和口语：regas、kick in、have a squiz、bit of a backlog……",
+    "你的目标：① 把故障说清楚（吹热风、室外机不启动、遥控器模式已检查过）；② 听懂他让你先自查的几件事（模式、滤网、电闸），以及上门时间、费用由谁出；③ 约好上门时间段和进门方式，并请他短信确认。"
+  ],
+  "facts": [
+    {
+      "k": "Who",
+      "v": "Brett：中介合作的空调师傅（aircon tech）"
+    },
+    {
+      "k": "When",
+      "v": "周二下午 12 点到 3 点之间上门，到前 20 分钟打电话"
+    },
+    {
+      "k": "Where",
+      "v": "14 Wattle Street, Prospect（客厅分体空调，室外机在侧院）"
+    },
+    {
+      "k": "Cost",
+      "v": "走中介 work order，房东付；若只是滤网脏，call-out fee 可能要租客出"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "split system",
+      "zh": "分体式空调（澳洲最常见）",
+      "ex": "The split system in the lounge is only blowing warm air."
+    },
+    {
+      "en": "aircon",
+      "zh": "空调（air conditioner 的口语）",
+      "ex": "Our aircon's playing up again."
+    },
+    {
+      "en": "outdoor unit / compressor",
+      "zh": "室外机 / 压缩机",
+      "ex": "The outdoor unit doesn't seem to kick in at all."
+    },
+    {
+      "en": "kick in",
+      "zh": "（机器）启动、开始起作用",
+      "ex": "It hums for a bit, but the cold air never kicks in."
+    },
+    {
+      "en": "play up",
+      "zh": "（机器）出毛病、不正常",
+      "ex": "The remote's been playing up for a few weeks."
+    },
+    {
+      "en": "regas",
+      "zh": "给空调补充冷媒（加氟）",
+      "ex": "If it's low on gas, I'll need to regas it."
+    },
+    {
+      "en": "have a squiz",
+      "zh": "看一眼、检查一下",
+      "ex": "Can you have a squiz at the filters for me?"
+    },
+    {
+      "en": "clogged up",
+      "zh": "堵住了、积满灰",
+      "ex": "If the filters are clogged up, it can't cool properly."
+    },
+    {
+      "en": "backlog",
+      "zh": "积压的活儿",
+      "ex": "With this heat, we've got a bit of a backlog."
+    },
+    {
+      "en": "a window (of time)",
+      "zh": "一个时间段",
+      "ex": "I can give you a window between twelve and three."
+    },
+    {
+      "en": "cop the call-out fee",
+      "zh": "（被迫）承担上门费",
+      "ex": "If it's just dirty filters, you might cop the call-out fee."
+    },
+    {
+      "en": "quote it up",
+      "zh": "出报价",
+      "ex": "If it needs a new part, I'll quote it up and send it to the agent."
+    }
+  ],
+  "listening": [
+    {
+      "en": "G'day, it's Brett from Cool Breeze Air — got a job sheet here from your agent. Is now a good time?",
+      "sound": "G'day 读作 “g'die”；job sheet = 派工单，说得很快像 “jobsheet”",
+      "zh": "你好，我是 Cool Breeze 空调的 Brett，你们中介给我派了单。现在方便说话吗？",
+      "reply": "Yes, now's fine. Thanks for calling back so quickly."
+    },
+    {
+      "en": "Righto, so what's it doin' — is it just not cooling, or is it not coming on at all?",
+      "sound": "Righto = 好的；what's it doin' 的 g 吞掉，连成 “wotsit-doin”",
+      "zh": "好嘞，那它是什么情况——只是不制冷，还是根本开不了？",
+      "reply": "It comes on, but it only blows warm air, even on eighteen degrees."
+    },
+    {
+      "en": "Can you duck outside and have a squiz — is the fan on the outdoor unit spinnin'?",
+      "sound": "duck outside = 快速出去一下；have a squiz = 看一眼；spinnin' 吞 g",
+      "zh": "你能出去看一眼吗——室外机的风扇在转吗？",
+      "reply": "Hang on, I'll check. ... No, it's not moving at all."
+    },
+    {
+      "en": "Sounds like it could be the capacitor, could be low on gas — won't know till I get the gauges on it.",
+      "sound": "capacitor（电容）是难词，不认识就记住“一个零件”；gauges = 压力表，读 “gay-jiz”",
+      "zh": "听起来可能是电容坏了，也可能是缺冷媒——要接上压力表才知道。",
+      "reply": "Okay. Is that something you can fix on the day?"
+    },
+    {
+      "en": "With this heat comin' we've got a bit of a backlog, so earliest I can do is Tuesdee arvo.",
+      "sound": "Tuesdee = Tuesday；arvo = afternoon；backlog = 积压的单",
+      "zh": "天要热了，我们活儿积了不少，最早只能周二下午。",
+      "reply": "Tuesday afternoon works. What time roughly?"
+    },
+    {
+      "en": "No dramas, I'll flick you a text the day before and give you a buzz when I'm twenty out.",
+      "sound": "No dramas = 没问题；flick you a text = 给你发个短信；twenty out = 还有二十分钟到",
+      "zh": "没问题，我前一天给你发短信，到之前二十分钟给你打电话。",
+      "reply": "Perfect, thanks Brett. I'll keep my phone on me."
+    }
+  ],
+  "speech": {
+    "topic": "我在澳洲第一次遇到家里电器坏了",
+    "paragraphs": [
+      "The first time something broke in our rental, I didn't know what to do. It was the middle of summer, and the aircon in the living room suddenly started blowing warm air. It was thirty-eight degrees outside, and the kids were hot and grumpy. My first thought was to call someone and pay for it myself, but a friend told me to contact the property manager first.",
+      "So I logged into the tenant portal and reported the problem. I wrote down what was happening, added a photo of the outdoor unit, and said it was quite urgent because of the heat. The agent replied the next day. She said she had sent a work order to an aircon technician, and he would call me to book a time.",
+      "The phone call was harder than I expected. The technician spoke really fast and used words I didn't know, like regas and capacitor. I asked him to slow down a couple of times, and he was happy to explain. He also asked me to check the filters and the mode on the remote, which I hadn't thought of.",
+      "In the end, he came on a Tuesday afternoon and fixed it in about an hour. The landlord paid for it, so it didn't cost us anything. I learned three things: report problems in writing, describe them clearly, and don't be afraid to ask people to repeat themselves. Now I feel much more confident when something goes wrong at home."
+    ],
+    "zh": "第一次租的房子里电器坏了，我不知道该怎么办。那是盛夏，客厅空调突然吹热风，外面 38 度，孩子们又热又烦。我本想自己找人修、自己付钱，朋友提醒我先联系物业经理。于是我在租客平台上报修，写清情况、附上室外机照片，并说明因为天热比较紧急。中介第二天回复说已经把派工单发给空调师傅，他会打电话约时间。电话比想象中难，师傅说得很快，还用了 regas、capacitor 这些我不认识的词。我请他说慢一点，他也很乐意解释，还让我先检查滤网和遥控器模式。最后他周二下午上门，一个小时就修好了，房东出钱。我学到三点：书面报修、描述清楚、不怕请别人重复。现在家里出问题时我自信多了。",
+    "patterns": [
+      {
+        "en": "It comes on, but it only ___.",
+        "zh": "能开，但只会……（描述故障）"
+      },
+      {
+        "en": "I've already checked ___, and it's still ___.",
+        "zh": "我已经检查过……，还是……（说明已自查）"
+      },
+      {
+        "en": "Is that something you can ___ on the day?",
+        "zh": "这个能当天……吗？"
+      },
+      {
+        "en": "Who'd be paying for ___ — me or the landlord?",
+        "zh": "……的费用是谁付，我还是房东？"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Brett",
+      "role": "中介合作的空调师傅",
+      "voice": "m"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "G'day, it's Brett from Cool Breeze Air. I've got a job sheet here from your agent, for the split system at Wattle Street. Is now an okay time?",
+        "zh": "你好，我是 Cool Breeze 空调的 Brett。中介给我派了单，说是 Wattle 街那台分体空调。现在方便吗？"
+      },
+      {
+        "s": "y",
+        "en": "Hi Brett, yes, now's fine. Thanks for calling on a Sunday.",
+        "zh": "嗨 Brett，方便的。谢谢你周日还打过来。"
+      },
+      {
+        "s": "o",
+        "en": "No worries, it's that time of year — everyone's aircon decides to pack it in the week before a heatwave. So what's it doin'? Not cooling, or not coming on at all?",
+        "zh": "没事，每年这时候都这样——热浪来之前一周，大家的空调都会罢工。那它是什么情况？不制冷，还是开不了？"
+      },
+      {
+        "s": "y",
+        "en": "It comes on, but it only blows warm air. I set it to eighteen degrees and left it for half an hour, and the room actually got warmer.",
+        "zh": "能开，但只吹热风。我设到 18 度开了半小时，房间反而更热了。"
+      },
+      {
+        "s": "o",
+        "en": "Righto. First things first — you're sure it's on cool and not on dry or fan? The little snowflake on the remote. You'd be surprised how many call-outs that is.",
+        "zh": "好的。先确认一下——你确定是制冷模式，不是除湿或送风？遥控器上那个小雪花。这种情况叫我上门的多得你想不到。"
+      },
+      {
+        "s": "y",
+        "en": "Yes, I've already checked the mode, and it's definitely on the snowflake. I changed the batteries in the remote too.",
+        "zh": "嗯，模式我已经检查过了，确定是雪花。遥控器电池我也换了。"
+      },
+      {
+        "s": "o",
+        "en": "Good stuff. And the filters — have you had a squiz at 'em lately? If they're clogged up with dust it'll struggle, but it shouldn't blow hot.",
+        "zh": "很好。那滤网呢——最近看过吗？如果积满灰，制冷会吃力，但不至于吹热风。"
+      },
+      {
+        "s": "y",
+        "en": "I gave them a rinse on Friday. They weren't too bad.",
+        "zh": "我周五冲洗过，不算太脏。"
+      },
+      {
+        "s": "o",
+        "en": "Okay, can you duck outside for me and have a look at the outdoor unit while it's running? Is the fan spinnin', and can you hear the compressor humming away?",
+        "zh": "好，你能趁它开着的时候出去帮我看一下室外机吗？风扇在转吗？能听到压缩机嗡嗡响吗？"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? The fan and the… what was the second thing?",
+        "zh": "不好意思，能说慢一点再讲一遍吗？风扇，还有……第二个是什么？"
+      },
+      {
+        "s": "o",
+        "en": "Sorry, I'm rabbiting on. The compressor — it's the big motor inside the outdoor box. When it's working you'll hear a low hum. Just tell me if the fan's moving and if there's any noise.",
+        "zh": "抱歉，我说太快了。压缩机——就是室外机箱子里的大马达。工作的时候你会听到低沉的嗡嗡声。你就告诉我风扇转不转、有没有声音。"
+      },
+      {
+        "s": "y",
+        "en": "Okay, I'm outside now. The fan isn't moving at all, and it's pretty quiet. Maybe a little clicking sound.",
+        "zh": "好，我在外面了。风扇完全不转，挺安静的，可能有一点咔哒声。"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, that clicking's a bit of a giveaway. Could be the capacitor, could be low on gas — I won't know till I get the gauges on it. Either way, it's not a DIY job, so I'd turn it off for now.",
+        "zh": "嗯，那个咔哒声挺说明问题的。可能是电容，也可能是缺冷媒——接上压力表才知道。不管哪种都不是自己能修的，先关掉吧。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, you mean I shouldn't use it at all until you come?",
+        "zh": "我确认一下，你的意思是你来之前我完全不要用它？"
+      },
+      {
+        "s": "o",
+        "en": "Spot on. Running it like that won't do the compressor any favours. Now, with this heat comin' we've got a bit of a backlog, so the earliest I can do is Tuesdee arvo. I can give you a window between twelve and three.",
+        "zh": "没错。那样开着对压缩机没好处。另外，天要热了我们活儿积了不少，最早周二下午。我可以给你一个 12 点到 3 点的时间段。"
+      },
+      {
+        "s": "y",
+        "en": "Tuesday afternoon works. I'll be working from home that day, so someone will be here. Is that something you can fix on the day?",
+        "zh": "周二下午可以。那天我在家办公，会有人在。当天能修好吗？"
+      },
+      {
+        "s": "o",
+        "en": "If it's the capacitor, yep, I carry those in the van — half an hour, tops. If it needs a regas or a new compressor, I'll quote it up and send it through to your agent for approval, and that can take a few days.",
+        "zh": "如果是电容，可以，我车上带着——最多半小时。如果要补冷媒或者换压缩机，我会出报价发给中介审批，那可能要几天。"
+      },
+      {
+        "s": "y",
+        "en": "Okay. And who'd be paying for the call-out — me or the landlord?",
+        "zh": "好的。那上门费是谁付，我还是房东？"
+      },
+      {
+        "s": "o",
+        "en": "It's on the work order, so it goes to the owner. The only time a tenant cops it is if I rock up and it's just dirty filters or someone's left it on fan mode. Sounds like that's not you, so you're right.",
+        "zh": "单子是走 work order 的，所以房东付。只有我到了发现只是滤网脏、或者有人开成送风模式，才要租客出。听起来你不是这种情况，所以没问题。"
+      },
+      {
+        "s": "y",
+        "en": "That's good to know. Is there anything I need to do before you come? The outdoor unit is down the side of the house, past the gate.",
+        "zh": "知道了。你来之前我需要做什么吗？室外机在房子侧面，过了那道门就是。"
+      },
+      {
+        "s": "o",
+        "en": "Just make sure the side gate's unlocked and there's a clear path to it — and if you've got a dog, pop it inside. I'll flick you a text the day before and give you a buzz when I'm twenty out.",
+        "zh": "把侧门打开、通道清出来就行——如果有狗，先关屋里。我前一天给你发短信，到之前二十分钟打电话。"
+      },
+      {
+        "s": "y",
+        "en": "No dog, so that's easy. Could you send me a text with the time window as well, just so I have it in writing? This is the right number — 0491 570 236.",
+        "zh": "没养狗，那就简单了。能把时间段也发短信给我吗，有个书面记录？就是这个号码——0491 570 236。"
+      },
+      {
+        "s": "o",
+        "en": "Will do. In the meantime, keep the blinds down and maybe grab a pedestal fan from Kmart if it gets nasty Monday. Catch you Tuesdee.",
+        "zh": "好的。这期间把百叶窗拉下来，如果周一热得受不了，去 Kmart 买个落地扇。周二见。"
+      },
+      {
+        "s": "y",
+        "en": "Thanks so much, Brett. See you Tuesday.",
+        "zh": "太谢谢了，Brett。周二见。"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再讲一遍吗？"
+    },
+    {
+      "en": "Sorry, what's a ___? I'm not sure what that part is.",
+      "zh": "不好意思，___ 是什么？我不太清楚那个零件。"
+    },
+    {
+      "en": "Just to confirm, you mean ___?",
+      "zh": "我确认一下，你的意思是……？"
+    },
+    {
+      "en": "Could you text me the time window, so I have it in writing?",
+      "zh": "能把时间段发短信给我吗？我想有个书面记录。"
+    },
+    {
+      "en": "Could you send the quote to the agent and cc me, please?",
+      "zh": "能把报价发给中介，同时抄送给我吗？"
+    }
+  ],
+  "checklist": [
+    "我能把故障说清楚：能开机、只吹热风、室外机风扇不转",
+    "我能说明自己已经检查过模式、遥控器电池和滤网",
+    "我听懂了 have a squiz、duck outside、kick in、clogged up",
+    "听到 capacitor、compressor、regas、gauges 这些行话时，我礼貌追问而不是只说 yes",
+    "我听懂了 cop the call-out fee 的意思：只有自己的原因才要租客付上门费",
+    "我约好了周二 12 点到 3 点的时间段，并请他短信书面确认"
+  ]
+}

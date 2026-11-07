@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "lessons": [
+    {
+      "id": "2026-11-08",
+      "date": "2026-11-08",
+      "category": "房屋",
+      "title": "空调不制冷，约中介派的空调师傅上门",
+      "titleEn": "Booking the aircon tech when your split system blows warm air"
+    },
     {
       "id": "2026-11-07",
       "date": "2026-11-07",
