@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "lessons": [
+    {
+      "id": "2026-11-09",
+      "date": "2026-11-09",
+      "category": "求职",
+      "title": "招聘顾问来电告知落选，礼貌询问反馈",
+      "titleEn": "Asking for feedback after missing out on a job"
+    },
     {
       "id": "2026-11-08",
       "date": "2026-11-08",

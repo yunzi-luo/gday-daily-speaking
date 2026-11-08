@@ -1,0 +1,101 @@
+{
+  "id": "2026-11-09",
+  "date": "2026-11-09",
+  "category": "求职",
+  "title": "招聘顾问来电告知落选，礼貌询问反馈",
+  "titleEn": "Asking for feedback after missing out on a job",
+  "scene": [
+    "上周你面试了一家养老金公司（super fund）的 BA 岗位。周一早上，招聘顾问 Bec 打来电话：很遗憾，公司选了另一位候选人。她语速很快，还夹着不少澳洲说法，比如 pipped at the post。",
+    "你的目标：① 保持礼貌和专业，不让对方尴尬；② 问清楚具体反馈：输在哪里、下次怎么改；③ 请 Bec 继续留意别的岗位，听清下一个机会的时间，并请她把反馈发邮件给你。"
+  ],
+  "facts": [
+    {"k": "Who", "v": "Bec：Southgate Recruitment 的招聘顾问"},
+    {"k": "Result", "v": "super fund 的 BA 岗位没拿到，最后两人中输给了有行业经验的人"},
+    {"k": "Feedback", "v": "优点：利益相关方案例好、表达清楚；要改：回答太长，每题最多两分钟，先说结果"},
+    {"k": "Next", "v": "州政府数据迁移项目，6 个月合同，一月底或二月初开始；约两周后 Bec 来电"}
+  ],
+  "vocab": [
+    {"en": "go with someone else", "zh": "选了别人（委婉的拒绝说法）", "ex": "They've decided to go with someone else this time."},
+    {"en": "cut to the chase", "zh": "开门见山，直接说重点", "ex": "I'll cut to the chase: you didn't get the job."},
+    {"en": "a bit of a bummer", "zh": "有点扫兴、挺可惜的", "ex": "It's a bit of a bummer, but there'll be other roles."},
+    {"en": "a close call", "zh": "很难取舍；差一点点", "ex": "It was a close call between the two candidates."},
+    {"en": "get pipped at the post", "zh": "在最后关头以微弱差距输掉", "ex": "She got pipped at the post by someone with more experience."},
+    {"en": "the clincher", "zh": "起决定作用的因素", "ex": "Her industry experience was the clincher."},
+    {"en": "from scratch", "zh": "从零开始", "ex": "You'd have to learn the rules from scratch."},
+    {"en": "keep it tight", "zh": "说得简短、紧凑", "ex": "Keep it tight and let them ask for more detail."},
+    {"en": "on my radar", "zh": "我会留意、记在心上", "ex": "Don't worry, you're on my radar for the next one."},
+    {"en": "in the pipeline", "zh": "正在筹备中、快要有了", "ex": "I've got a contract role in the pipeline."},
+    {"en": "right up your alley", "zh": "正合你的专长或兴趣", "ex": "This project sounds right up your alley."},
+    {"en": "chin up", "zh": "别灰心，打起精神", "ex": "Chin up. You'll find something soon."}
+  ],
+  "listening": [
+    {"en": "Look, I'll cut to the chase — unfortunately it's not the news we were hoping for.", "sound": "Look 开头只是起话头，不表示“看”；cut to the 连读成 “cutta the”。听到 unfortunately 就知道是坏消息", "zh": "我就直说了，很遗憾，结果不是我们希望的。", "reply": "Oh, okay. Thanks for letting me know so quickly."},
+    {"en": "You got pipped at the post, basically.", "sound": "got pipped 中 got 的 t 几乎不发音，听着像 “go-pipped”；at the 弱读成 “a'the”。源自赛马，指冲线前被超过", "zh": "基本上就是最后关头被别人超过了。", "reply": "Sorry, I didn't quite catch that. What does \"pipped\" mean?"},
+    {"en": "They reckon you came across really well.", "sound": "reckon 读 “rekn” = think；came across 连读成 “cay-macross”，意思是给人的印象", "zh": "他们觉得你给人的印象非常好。", "reply": "That's great to hear. Thanks for telling me."},
+    {"en": "That was probably the clincher, to be honest.", "sound": "probably 常吞成 “prob'ly”；to be honest 连成 “t'be onest”，h 不发音", "zh": "说实话，那大概就是决定性因素。", "reply": "Just to confirm, you mean industry experience was the main reason?"},
+    {"en": "I reckon it could be right up your alley.", "sound": "could be 很轻，像 “c'd be”；up your alley 连读成 “up-ya-alley”，your 弱读成 ya", "zh": "我觉得这个可能很适合你。", "reply": "That sounds interesting. Please let me know when it's live."},
+    {"en": "I'll flick you a few dot points this arvo.", "sound": "flick you 读成 “flick-ya” = 发给你；dot points = 列点内容；arvo = afternoon", "zh": "我今天下午把几个要点发给你。", "reply": "That'd be great. Thanks, I'll keep an eye out for it."}
+  ],
+  "speech": {
+    "topic": "讲一次没有成功的经历，以及你从中学到了什么",
+    "paragraphs": [
+      "I'd like to talk about a time when things didn't go the way I wanted. Not long ago, I applied for a job that I was really excited about. I prepared for days, and I felt the interview went well. A week later, the recruiter called me and said they had chosen someone else.",
+      "At first, I was disappointed. I had spent so much time on it, and I had already imagined myself in that job. But I didn't want to waste the experience, so I took a deep breath and asked for some feedback. I was a little nervous about asking, but the recruiter was very kind about it.",
+      "She told me two things. First, the other person had more experience in that industry, and there wasn't much I could do about that. Second, my answers were too long. I gave too much background, so the panel didn't have time to ask all of their questions. That was hard to hear, but it was also very useful, because I could change it.",
+      "Since then, I've changed the way I practise. Now I start with the result, and I try to finish each answer in about two minutes. If people want more detail, they can ask me. I've also started a short online course to learn more about the industry.",
+      "What I learned is simple. Missing out on something doesn't mean you're not good enough. Sometimes another person is just a better match at that moment. If you ask for feedback and act on it, even a bad result can help you move forward."
+    ],
+    "zh": "我想讲一次事与愿违的经历。不久前我申请了一份很心仪的工作，准备了好几天，面试感觉也不错，但一周后招聘顾问告诉我他们选了别人。一开始我很失望，但不想白白浪费这次经历，就鼓起勇气问了反馈。她告诉我两点：对方有更多行业经验，这点我一时改变不了；另外我的回答太长，背景讲得太多，这点我可以改。从那以后，我练习先说结果，每个回答控制在两分钟左右，还开始上一门短期网课了解这个行业。我学到的是：没成功不代表你不够好，有时只是别人当下更合适。只要去问反馈并付诸行动，坏结果也能帮你往前走。",
+    "patterns": [
+      {"en": "I'd like to talk about a time when ___.", "zh": "我想讲讲一次……的经历（开场句）"},
+      {"en": "At first, I was ___, but I ___.", "zh": "一开始我……，但后来我……（讲转折）"},
+      {"en": "That was hard to hear, but it was also ___ because ___.", "zh": "这话听着不好受，但也很……，因为……"},
+      {"en": "What I learned is that ___.", "zh": "我学到的是……（总结句）"}
+    ]
+  },
+  "dialogue": {
+    "other": {"name": "Bec", "role": "招聘顾问", "voice": "f"},
+    "lines": [
+      {"s": "o", "en": "Hi there, it's Bec from Southgate Recruitment. How're you going? Got a quick sec?", "zh": "你好，我是 Southgate 招聘公司的 Bec。最近怎么样？现在方便说几句吗？"},
+      {"s": "y", "en": "Hi Bec, I'm good, thanks. Yes, I've got a few minutes. Is this about the BA role at the super fund?", "zh": "你好 Bec，我挺好的，谢谢。方便，我有几分钟。是关于那家养老金公司 BA 岗位的事吗？"},
+      {"s": "o", "en": "Yeah, it is. Look, I'll cut to the chase — unfortunately it's not the news we were hoping for. They've decided to go with someone else.", "zh": "对。我就直说了，很遗憾，结果不是我们希望的。他们决定选别人了。"},
+      {"s": "y", "en": "Oh, okay. That's a bit disappointing, but thanks for letting me know so quickly.", "zh": "哦，好的。有点失望，不过谢谢你这么快告诉我。"},
+      {"s": "o", "en": "Yeah, bit of a bummer, I know. But you were right up there. It came down to you and one other person, and it was a really close call — you got pipped at the post, basically.", "zh": "是啊，我知道挺可惜的。不过你真的排在最前面。最后就剩你和另一个人，很难取舍，基本上就是最后关头被超过了。"},
+      {"s": "y", "en": "Sorry, could you say that last part again a bit slower? I didn't quite catch \"pipped\".", "zh": "不好意思，最后那部分能再说慢一点吗？我没听清 pipped 这个词。"},
+      {"s": "o", "en": "Oh, sorry, yeah! \"Pipped at the post\" just means the other person beat you by a tiny bit, right at the end. Like in a horse race.", "zh": "哦，抱歉！这个说法就是对方在最后时刻以一点点优势赢了你，就像赛马一样。"},
+      {"s": "y", "en": "Ah, I see. Thanks. Would you mind if I asked for some feedback? I'd really like to know what I could do better next time.", "zh": "哦，明白了，谢谢。我可以问问反馈吗？我很想知道下次哪里可以做得更好。"},
+      {"s": "o", "en": "Course, no worries at all. I had a good yarn with the hiring manager yesterday, so I jotted a few things down. Good stuff first: they loved your stakeholder examples, and they reckon you came across really well. Very calm, very clear.", "zh": "当然，没问题。我昨天和招聘经理好好聊了聊，记了几点。先说好的：他们很喜欢你讲的利益相关方案例，觉得你给人的印象很好，很沉稳，表达也很清楚。"},
+      {"s": "y", "en": "That's great to hear. And what was the main reason they chose the other person?", "zh": "太好了。那他们选另一个人的主要原因是什么？"},
+      {"s": "o", "en": "Yeah, so, the other candidate had done a fair bit of work in super before, so they could hit the ground running, whereas you'd be learning the regs from scratch. That was probably the clincher, to be honest.", "zh": "嗯，那位候选人之前在养老金行业做过不少，可以马上上手，而你得从零开始学那些法规。说实话，那大概就是决定性因素。"},
+      {"s": "y", "en": "Just to confirm, you mean it was mainly about industry experience, not how I did in the interview?", "zh": "我确认一下，你的意思是主要因为行业经验，而不是我面试的表现？"},
+      {"s": "o", "en": "Yep, mostly. There was one little thing on the interview side, though. A couple of your answers ran a bit long, so they didn't get through all their questions. They said to keep it a bit tighter, you know — get to the point, then let them dig deeper if they want.", "zh": "对，基本是。不过面试方面有个小问题。你有几个回答有点长，他们没能问完所有问题。他们建议你说得紧凑一点，先讲重点，他们想深入了解自然会追问。"},
+      {"s": "y", "en": "That makes sense. I do tend to give a lot of background. So I should give a shorter answer first and then add details if they ask?", "zh": "有道理。我确实常常讲很多背景。所以我应该先简短回答，他们问了再补充细节？"},
+      {"s": "o", "en": "Spot on. Two minutes, tops, per answer. And maybe lead with the result — that's what sticks in their minds.", "zh": "完全正确。每个回答最多两分钟。最好先说结果，那才是他们记得住的。"},
+      {"s": "y", "en": "Okay, that's really useful. Is there anything I could do about the industry experience side?", "zh": "好的，这很有用。行业经验这方面，我有什么可以做的吗？"},
+      {"s": "o", "en": "Look, not a lot in the short term, but if you did a short online course on super basics, it'd show you're keen. Doesn't have to be anything flash. Just pop it on your LinkedIn and your CV.", "zh": "短期内能做的不多，不过如果你上个养老金基础的短期网课，就能表现出你的积极性。不用多高级，放到 LinkedIn 和简历上就行。"},
+      {"s": "y", "en": "Good idea, I'll look into that. Would you mind keeping me in mind if anything else comes up?", "zh": "好主意，我去了解一下。如果有别的机会，能麻烦你想着我吗？"},
+      {"s": "o", "en": "Absolutely, you're definitely on my radar. Actually, I've got something in the pipeline — six-month contract with a state government department, data migration project, starting late Jan, early Feb. It's not live yet, but I reckon it could be right up your alley.", "zh": "当然，我一定会留意你。其实我手上正好有个机会：州政府部门的 6 个月合同，数据迁移项目，一月底二月初开始。还没正式发布，不过我觉得可能很适合你。"},
+      {"s": "y", "en": "Sorry, I missed the start date. Did you say late January or early February?", "zh": "不好意思，开始时间我没听清。你是说一月底还是二月初？"},
+      {"s": "o", "en": "Could be either — they haven't locked it in yet. Should know in a fortnight or so. I'll give you a buzz as soon as it's live, and we can have a proper chat.", "zh": "两个都有可能，他们还没定。大概两周后能知道。一发布我就给你打电话，到时候我们好好聊聊。"},
+      {"s": "y", "en": "Sounds good. Could you send me the feedback in an email as well, so I can look back at it?", "zh": "好的。能把反馈也发邮件给我吗？这样我可以回头再看看。"},
+      {"s": "o", "en": "Yeah, no dramas. I'll flick you a few dot points this arvo. And hey, chin up, all right? You interviewed really well. It just wasn't your one this time.", "zh": "好，没问题。我今天下午把几个要点发给你。还有，别灰心，好吗？你面试表现很好，只是这次不是属于你的机会。"},
+      {"s": "y", "en": "Thanks, Bec. I really appreciate you taking the time to call. Talk in a couple of weeks.", "zh": "谢谢你，Bec。真的很感谢你特地打电话来。那我们两周后再聊。"},
+      {"s": "o", "en": "No worries at all. You take care, have a good one. Bye, bye, bye.", "zh": "不客气。多保重，祝你今天愉快。拜拜。"}
+    ]
+  },
+  "rescue": [
+    {"en": "Sorry, could you say that again a bit slower?", "zh": "不好意思，能再说慢一点吗？"},
+    {"en": "Sorry, I'm not familiar with that expression. What does it mean?", "zh": "抱歉，我不熟悉这个说法，是什么意思？"},
+    {"en": "Just to confirm, you mean ___?", "zh": "我确认一下，你的意思是……？"},
+    {"en": "Could you spell the name of the company for me, please?", "zh": "能帮我拼一下公司名字吗？"},
+    {"en": "Could you send that to me in an email, so I don't miss anything?", "zh": "能发邮件给我吗？这样我不会漏掉什么。"}
+  ],
+  "checklist": [
+    "听到坏消息时，能平静地说出 Thanks for letting me know",
+    "听懂 go with someone else 和 pipped at the post 的意思",
+    "能主动开口要反馈：Would you mind if I asked for some feedback?",
+    "能用 Just to confirm 复述落选的主要原因",
+    "听清下一个机会的合同期和开始时间（late Jan, early Feb）",
+    "结束前请对方邮件发送反馈，并表达感谢"
+  ]
+}
