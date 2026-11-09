@@ -1,0 +1,131 @@
+{
+  "id": "2026-11-10",
+  "date": "2026-11-10",
+  "category": "日常",
+  "title": "政府来电核实托儿补贴收入估算",
+  "titleEn": "A call from Centrelink about your family income estimate",
+  "scene": [
+    "你的孩子上 childcare，每两周能拿到政府的托儿补贴（Child Care Subsidy，CCS）。周二上午你正在上班，手机上来了一个 No Caller ID 的电话。对方说自己是 Services Australia（大家习惯叫 Centrelink）的 Narelle：你在系统里填的家庭收入估算可能太低了，将来可能要还钱。她说话很快，还有不少政府办事用语。",
+    "你的目标：① 先礼貌地确认这个电话是真的，不要随便报银行或密码信息；② 听懂为什么要更新估算，以及不更新的后果；③ 问清楚去哪里改、什么时候之前改好，并请对方把内容发到 myGov 信箱。"
+  ],
+  "facts": [
+    {"k": "Who", "v": "Narelle：Services Australia 家庭补助部门的工作人员"},
+    {"k": "Issue", "v": "系统里的家庭收入估算是 $120,000，今年实际大约 $140,000"},
+    {"k": "Risk", "v": "估算太低，补贴多发，报税对账（reconciliation）后可能要还钱"},
+    {"k": "To do", "v": "两周内在 myGov 的 Centrelink 账户里更新估算，并按时报税"}
+  ],
+  "vocab": [
+    {"en": "No Caller ID / a private number", "zh": "来电不显示号码", "ex": "It came up as a private number, so I nearly didn't answer."},
+    {"en": "Services Australia / Centrelink", "zh": "澳洲政府福利服务机构（口语常说 Centrelink）", "ex": "Services Australia runs Centrelink and Medicare."},
+    {"en": "Child Care Subsidy (CCS)", "zh": "托儿补贴", "ex": "Our Child Care Subsidy goes straight to the centre."},
+    {"en": "family income estimate", "zh": "家庭收入估算（你预计的全年家庭收入）", "ex": "I need to update our family income estimate on myGov."},
+    {"en": "combined income", "zh": "夫妻/伴侣合计收入", "ex": "Our combined income went up this year."},
+    {"en": "Customer Reference Number (CRN)", "zh": "Centrelink 客户编号", "ex": "Have you got your CRN handy?"},
+    {"en": "on our system / on file", "zh": "我们系统里记录的", "ex": "The address we've got on file is in Prospect."},
+    {"en": "be under the mark", "zh": "（估算）偏低、不够", "ex": "Your estimate looks a bit under the mark."},
+    {"en": "reconciliation", "zh": "年度对账（报税后核算补贴多发或少发）", "ex": "They do the reconciliation after you lodge your tax return."},
+    {"en": "end up with a debt", "zh": "结果欠下一笔钱（要还给政府）", "ex": "If you don't update it, you could end up with a debt."},
+    {"en": "lodge your tax return", "zh": "提交报税表", "ex": "Make sure you both lodge your tax returns on time."},
+    {"en": "a fortnight", "zh": "两周", "ex": "Can you get it done within a fortnight?"}
+  ],
+  "listening": [
+    {
+      "en": "G'day, it's Narelle calling from Services Australia. Have I caught you at an okay time?",
+      "sound": "caught you 连读成 “cor-chya”；Have I 很轻，几乎只听到 “av-eye”。这是在问你现在方便吗",
+      "zh": "你好，我是 Services Australia 的 Narelle。现在方便说话吗？",
+      "reply": "Yes, I've got a few minutes. What's it about?"
+    },
+    {
+      "en": "Totally fair question, love. You can hang up and ring us back on the number on our website if you'd rather.",
+      "sound": "if you'd rather 连读成 “if-ya-RAH-tha”，意思是“如果你更愿意这样”；love 是部分年长澳洲人的亲切称呼，不用在意",
+      "zh": "这个问题问得很合理。你愿意的话，可以挂掉，再打我们官网上的号码回拨。",
+      "reply": "Thanks. Could you send something to my myGov inbox first?"
+    },
+    {
+      "en": "Have you got your CRN handy, or will I just go through a few security questions with you?",
+      "sound": "CRN 读字母 C-R-N；handy 这里是“手边有”；will I 在这里相当于 shall I，是澳洲常见的说法",
+      "zh": "你手边有 CRN 吗？还是我问你几个身份核实问题？",
+      "reply": "I don't have it with me. Security questions are fine, but I won't give out any passwords."
+    },
+    {
+      "en": "So what's come through is your combined income's looking a fair bit higher than what you've got in there.",
+      "sound": "what's come through 指“系统传过来的信息”；a fair bit 读 “a-FAIR-bit”，意思是“不少”；句子连得很紧，抓住 higher 就明白了",
+      "zh": "系统显示的信息是，你们的合计收入看起来比你填的高出不少。",
+      "reply": "Oh, right. Yes, I started a new job this year, so that makes sense."
+    },
+    {
+      "en": "If it's under the mark, you've been getting more than you're entitled to, and that'll catch up with you at reconciliation.",
+      "sound": "entitled to 是“有资格得到”；catch up with you 连读成 “catchup-with-ya”，意思是“之后会找上你”，这里指到时要还钱",
+      "zh": "如果估算偏低，你拿到的补贴就比应得的多，到年度对账时就得算回来。",
+      "reply": "So I might have to pay some of it back?"
+    },
+    {
+      "en": "No dramas, just pop it in your myGov when you get a sec, and that'll sort it for the next lot of payments.",
+      "sound": "pop it in 是“填进去”；when you get a sec 读 “wen-ya-get-a-SEC”；the next lot of 就是“下一批”",
+      "zh": "没关系，有空的时候在 myGov 里填上就行，下一批补贴就会按新的算了。",
+      "reply": "Okay, I'll do that tonight. Is there a deadline?"
+    }
+  ],
+  "speech": {
+    "topic": "讲一次你接到陌生官方电话的经历，以及你怎么处理",
+    "paragraphs": [
+      "Today I'd like to talk about a phone call that made me a bit nervous. Last week, I was at work when my phone rang. The screen said No Caller ID. Usually I don't answer those calls, but this time I picked up.",
+      "The woman said she was from Services Australia. She told me there was a problem with our family income estimate for childcare. To be honest, my first thought was that it might be a scam. We all get so many fake calls these days. So I took a deep breath and asked her how I could know the call was real.",
+      "I was surprised by her answer. She said it was a very fair question, and she told me I could hang up and call back on the number on the official website. She also sent a message to my myGov inbox while we were talking. When I saw that message, I felt much better.",
+      "After that, she explained the problem. I started a new job this year, so our income had gone up, but I had forgotten to change the number in the system. If I didn't fix it, we could end up with a debt later. I asked her to slow down twice, and she was happy to do that.",
+      "That night, I logged in and updated the estimate. It only took five minutes. I learned two things from this call. First, it's okay to check who is calling before you give out your details. Second, it's okay to ask people to repeat things. A good call is not a fast call. It's a clear one."
+    ],
+    "zh": "我想讲一通让我有点紧张的电话。上周上班时手机响了，显示不显示号码，这次我接了。对方说自己是 Services Australia 的，我们的托儿补贴家庭收入估算有问题。我第一反应是诈骗，于是深吸一口气，问她怎么证明电话是真的。没想到她说这个问题很合理，我可以挂掉再打官网上的号码，通话时她还往我的 myGov 信箱发了一条消息，我这才放心。她解释说我今年换了新工作，收入涨了，但我忘了改系统里的数字，不改以后可能要还钱。我请她放慢语速两次，她都很乐意。当晚我登录改好了，只花了五分钟。我学到两点：给信息前先核实对方身份没问题；请别人重复也没问题。好的电话不是快，而是清楚。",
+    "patterns": [
+      {"en": "My first thought was that ___.", "zh": "我的第一反应是……"},
+      {"en": "Before I give out any details, could you ___?", "zh": "在我提供任何信息之前，您能……吗？"},
+      {"en": "If I didn't ___, we could end up with ___.", "zh": "如果我不……，我们可能落得……"},
+      {"en": "I learned that it's okay to ___.", "zh": "我学到了，……是没问题的"}
+    ]
+  },
+  "dialogue": {
+    "other": {"name": "Narelle", "role": "Services Australia 工作人员", "voice": "f"},
+    "lines": [
+      {"s": "o", "en": "G'day, it's Narelle calling from Services Australia. Have I caught you at an okay time?", "zh": "你好，我是 Services Australia 的 Narelle。现在方便说话吗？"},
+      {"s": "y", "en": "Hi Narelle. I'm at work, but I've got a few minutes. Sorry, what's this about?", "zh": "你好 Narelle。我在上班，不过有几分钟。请问是什么事？"},
+      {"s": "o", "en": "Yeah, no worries. It's about your Child Care Subsidy. Nothing to panic about, but your family income estimate needs a bit of a look.", "zh": "好的，没事。是关于你的托儿补贴。不用慌，只是你的家庭收入估算需要看一下。"},
+      {"s": "y", "en": "Okay. Before I give out any details, how do I know this is a genuine call? It came up as No Caller ID.", "zh": "好的。在我提供任何信息之前，我怎么知道这个电话是真的？来电没有显示号码。"},
+      {"s": "o", "en": "Totally fair question, love. You can hang up and ring us back on the number on our website if you'd rather. Or I can pop a message in your myGov inbox right now. Which'd suit?", "zh": "这个问题问得很合理。你愿意的话，可以挂掉，再打我们官网上的号码回拨。或者我现在往你的 myGov 信箱发一条消息。哪种方便？"},
+      {"s": "y", "en": "A message would be great, thanks. I'll check the app while we talk.", "zh": "发消息吧，谢谢。我们说话时我看一下 app。"},
+      {"s": "o", "en": "Righto, that's gone through now. Should be there in a tick.", "zh": "好，已经发过去了。马上就能收到。"},
+      {"s": "y", "en": "Yes, I can see it. Thanks for that.", "zh": "嗯，我看到了。谢谢。"},
+      {"s": "o", "en": "Beauty. Now, have you got your CRN handy, or will I just go through a few security questions with you?", "zh": "太好了。那你手边有 CRN 吗？还是我问你几个身份核实问题？"},
+      {"s": "y", "en": "I don't have it with me. Questions are fine, but I won't give out any passwords or bank details.", "zh": "我手边没有。问问题可以，但我不会提供密码或银行信息。"},
+      {"s": "o", "en": "Good on you, and I'd never ask for those. Can I just get your date of birth and the address we've got on file?", "zh": "做得对，我也绝不会问这些。麻烦告诉我你的出生日期，和我们系统里的地址。"},
+      {"s": "y", "en": "Sure. It's the third of June, 1987, and the address is 14 Wattle Street, Prospect.", "zh": "好的。1987 年 6 月 3 日，地址是 Prospect 区 Wattle Street 14 号。"},
+      {"s": "o", "en": "Lovely, that's all matching up. So what's come through is your combined income's looking a fair bit higher than what you've got in there. You've put one-twenty, and we're seeing closer to one-forty.", "zh": "好的，都对得上。系统显示的是，你们的合计收入比你填的高出不少。你填的是十二万，我们看到的接近十四万。"},
+      {"s": "y", "en": "Sorry, could you say that again a bit slower? Did you say one-forty or one-fourteen?", "zh": "不好意思，能再说慢一点吗？您说的是十四万还是十一万四？"},
+      {"s": "o", "en": "Yep, sorry, I do rabbit on. One hundred and forty thousand, combined, for this financial year.", "zh": "哦，抱歉，我说话太快了。十四万，是合计收入，这个财年的。"},
+      {"s": "y", "en": "Oh, right. That makes sense. I started a new job this year, and I forgot to change it.", "zh": "哦，明白了。那就对了。我今年换了新工作，忘记改了。"},
+      {"s": "o", "en": "Happens all the time. Thing is, if it's under the mark, you've been getting more than you're entitled to, and that'll catch up with you at reconciliation.", "zh": "这很常见。问题是，如果估算偏低，你拿到的补贴就比应得的多，到年度对账时就得算回来。"},
+      {"s": "y", "en": "Just to confirm, you mean we might have to pay some of the money back?", "zh": "我确认一下，您的意思是我们可能要还一部分钱？"},
+      {"s": "o", "en": "Yeah, you could end up with a debt, unfortunately. But if you fix it now, it'll be a lot smaller, or there might be nothing to pay at all.", "zh": "对，很遗憾可能会欠一笔钱。但现在改的话，金额会小很多，甚至可能完全不用还。"},
+      {"s": "y", "en": "Okay. Where do I change it? And is there a deadline?", "zh": "好的。在哪里改？有截止时间吗？"},
+      {"s": "o", "en": "Easiest way's through myGov. Go into your Centrelink account and there's a spot for your family income estimate. No dramas, just pop it in when you get a sec. If you could get it done within a fortnight, that'd be ideal.", "zh": "最简单的是通过 myGov。进你的 Centrelink 账户，里面有填家庭收入估算的地方。没关系，有空的时候填上就行。最好两周内弄好。"},
+      {"s": "y", "en": "Within two weeks, got it. Could you please put all of that in a message to my myGov inbox, so I have it in writing?", "zh": "两周内，明白了。能麻烦您把这些内容都发到我的 myGov 信箱吗？这样我有书面记录。"},
+      {"s": "o", "en": "Absolutely, I'll chuck it in there as soon as we hang up. And don't forget, you and your partner both need to lodge your tax returns, or the reconciliation can't happen.", "zh": "没问题，挂了电话我就发过去。还有别忘了，你和伴侣都要报税，不然没法做年度对账。"},
+      {"s": "y", "en": "Sure, we'll do that. Thanks so much for your help, Narelle.", "zh": "好的，我们会的。非常感谢您的帮助，Narelle。"},
+      {"s": "o", "en": "No worries at all. Have a good one, bye now.", "zh": "不客气。祝你今天愉快，再见。"}
+    ]
+  },
+  "rescue": [
+    {"en": "Sorry, I didn't catch that. Could you say it again a bit slower, please?", "zh": "不好意思，我没听清。能再说慢一点吗？"},
+    {"en": "Before I give out any details, how can I check that this call is genuine?", "zh": "在我提供信息之前，我怎么核实这个电话是真的？"},
+    {"en": "Could you spell that for me, please?", "zh": "能帮我拼一下吗？"},
+    {"en": "Just to confirm, the deadline is two weeks from today, is that right?", "zh": "我确认一下，截止时间是今天起两周内，对吗？"},
+    {"en": "Could you send that to my myGov inbox, so I have it in writing?", "zh": "能发到我的 myGov 信箱吗？这样我有书面记录。"}
+  ],
+  "checklist": [
+    "能听懂 No Caller ID、your CRN handy、on file 这些开场和核实身份的说法",
+    "能礼貌地问 How do I know this is a genuine call?，并说明不提供密码和银行信息",
+    "能分清 one-forty 和 one-fourteen 这类容易听混的数字，听不清就马上问",
+    "能听懂 under the mark、reconciliation、end up with a debt 的意思和后果",
+    "能问清楚去哪里改、什么时候之前改好",
+    "结束前能请对方把内容发到 myGov 信箱，留下书面记录"
+  ]
+}

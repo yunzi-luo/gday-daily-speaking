@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "lessons": [
+    {
+      "id": "2026-11-10",
+      "date": "2026-11-10",
+      "category": "日常",
+      "title": "政府来电核实托儿补贴收入估算",
+      "titleEn": "A call from Centrelink about your family income estimate"
+    },
     {
       "id": "2026-11-09",
       "date": "2026-11-09",
