@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "lessons": [
+    {
+      "id": "2026-11-11",
+      "date": "2026-11-11",
+      "category": "孩子学校/幼儿园",
+      "title": "班主任来电说孩子课间和同学起争执",
+      "titleEn": "A call from the teacher about a playground scuffle"
+    },
     {
       "id": "2026-11-10",
       "date": "2026-11-10",

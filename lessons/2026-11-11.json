@@ -1,0 +1,312 @@
+{
+  "id": "2026-11-11",
+  "date": "2026-11-11",
+  "category": "孩子学校/幼儿园",
+  "title": "班主任来电说孩子课间和同学起争执",
+  "titleEn": "A call from the teacher about a playground scuffle",
+  "scene": [
+    "周三下午两点多你正在上班，手机响了，是孩子小学的号码。打来的是孩子的 Year 1 班主任 Mr Collins。他先说“别担心，孩子没事”，然后讲午饭后在操场上，你女儿 Mia 和同班同学为了轮流玩单杠（monkey bars）吵起来，被推了一下，膝盖擦破了皮。他语速快，还会用一些学校里的说法，比如 first aid、yard duty、restorative chat。",
+    "你的目标：① 听懂发生了什么、孩子伤得怎么样、学校已经怎么处理了；② 礼貌地问清楚：是不是第一次发生、对方孩子那边怎么处理、以后怎么防止；③ 约好接下来怎么沟通（放学时聊几句或在学校 app 上留言），并请老师把事件记录发过来。"
+  ],
+  "facts": [
+    {
+      "k": "Who",
+      "v": "Mr Collins：孩子的 Year 1 班主任"
+    },
+    {
+      "k": "What",
+      "v": "午饭后在操场为轮流玩单杠起争执，被推倒，膝盖擦伤"
+    },
+    {
+      "k": "Done",
+      "v": "First aid 已处理（清洗、贴创可贴、冰袋），两个孩子已和老师谈过并互相道歉"
+    },
+    {
+      "k": "Next",
+      "v": "老师会在 app 上发事件记录；明天放学后可以当面聊几分钟"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "Nothing to worry about / she's fine",
+      "zh": "没什么好担心的，她没事（老师开场常用来先让你放心）",
+      "ex": "First up, nothing to worry about, she's absolutely fine."
+    },
+    {
+      "en": "recess / lunch play",
+      "zh": "上午课间休息 / 午饭后的操场活动时间",
+      "ex": "It happened during lunch play, not recess."
+    },
+    {
+      "en": "yard duty",
+      "zh": "老师轮流在操场值班看管",
+      "ex": "Mrs Kelly was on yard duty and saw the whole thing."
+    },
+    {
+      "en": "a scuffle / a bit of argy-bargy",
+      "zh": "小推搡、小争执（不算打架）",
+      "ex": "It was just a bit of argy-bargy over the monkey bars."
+    },
+    {
+      "en": "take turns / wait your turn",
+      "zh": "轮流 / 排队等着轮到你",
+      "ex": "They were meant to take turns on the monkey bars."
+    },
+    {
+      "en": "graze / grazed knee",
+      "zh": "擦伤 / 膝盖擦破皮",
+      "ex": "She's got a little graze on her knee."
+    },
+    {
+      "en": "first aid / the sick bay",
+      "zh": "急救处理 / 学校医务室",
+      "ex": "We took her to the sick bay for some first aid."
+    },
+    {
+      "en": "a bit teary / a bit shaken up",
+      "zh": "有点想哭 / 有点受惊",
+      "ex": "She was a bit teary at first, but she settled quickly."
+    },
+    {
+      "en": "restorative chat",
+      "zh": "（学校用语）让双方孩子坐下来说清楚、互相道歉的谈话",
+      "ex": "We had a restorative chat with both kids."
+    },
+    {
+      "en": "make up / be back to being mates",
+      "zh": "和好 / 又是好朋友了",
+      "ex": "By the end of lunch they'd made up."
+    },
+    {
+      "en": "a one-off",
+      "zh": "只此一次、偶发事件",
+      "ex": "From what I've seen, it's a one-off."
+    },
+    {
+      "en": "keep an eye on it / keep me in the loop",
+      "zh": "留意着 / 随时告诉我情况",
+      "ex": "Could you keep me in the loop if anything else happens?"
+    }
+  ],
+  "listening": [
+    {
+      "en": "Hi, is that Mia's mum? It's Tom Collins from the school — first up, nothing to worry about, she's fine.",
+      "sound": "is that 连读成 “iz-zat”；first up 是“首先”；nothing to worry about 读得很快像 “nuthin-ta-worry-bout”。学校来电通常先说这句，让你放心",
+      "zh": "你好，是 Mia 的妈妈吗？我是学校的 Tom Collins。先说一下，别担心，她没事。",
+      "reply": "Oh, thanks for letting me know straight away. What happened?"
+    },
+    {
+      "en": "There was a bit of argy-bargy over the monkey bars at lunch and she copped a push.",
+      "sound": "argy-bargy 读 “AR-gee-BAR-gee”，指小推搡；copped a push 连读成 “cop-ta-push”，cop 在这里是“挨了、遭受”",
+      "zh": "午饭时间为了单杠起了点推搡，她被推了一下。",
+      "reply": "Oh no. Did she hurt herself?"
+    },
+    {
+      "en": "She's got a bit of a graze on her knee — we cleaned it up, chucked a bandaid on and gave her an ice pack.",
+      "sound": "bit of a 连读成 “bidda”；chucked a bandaid on 连读成 “chuck-ta-BAND-ay-don”，chuck 是“随手放、贴上”；bandaid 是创可贴",
+      "zh": "她膝盖擦破了点皮，我们清洗了一下，贴了创可贴，还给了个冰袋。",
+      "reply": "Thank you. Was she very upset?"
+    },
+    {
+      "en": "Mrs Kelly was on yard duty, so she saw the whole thing and sorted it out on the spot.",
+      "sound": "on yard duty 是“操场值班”；sorted it out 连读成 “sor-di-dout”，on the spot 是“当场”",
+      "zh": "Kelly 老师当时在操场值班，整件事都看到了，当场就处理好了。",
+      "reply": "That's good to hear. Just to confirm, was the other child spoken to as well?"
+    },
+    {
+      "en": "We had a restorative chat with both of 'em, and they'd pretty much made up by the bell.",
+      "sound": "both of 'em 读 “bo-thuv-um”；'em = them；by the bell 是“到上课铃响的时候”；pretty much 是“基本上”",
+      "zh": "我们和两个孩子都谈了一下，到上课铃响时他俩基本已经和好了。",
+      "reply": "I'm glad they made up. Is this the first time something like this has happened?"
+    },
+    {
+      "en": "Honestly, I reckon it's a one-off, but I'll keep an eye on it and give you a heads-up if anything else crops up.",
+      "sound": "I reckon 是“我觉得”；one-off 读 “WUN-off”，偶发事件；crops up 是“冒出来、发生”，连读成 “crop-sup”",
+      "zh": "说实话，我觉得是偶发的，不过我会留意，再有什么情况会提前告诉你。",
+      "reply": "Thanks, I really appreciate that. Could you keep me in the loop?"
+    }
+  ],
+  "speech": {
+    "topic": "我如何和孩子的老师沟通学校里发生的小冲突",
+    "paragraphs": [
+      "Today I want to talk about how I deal with small problems at my daughter's school. Last week her teacher rang me at work. The first thing he said was, \"Nothing to worry about, she's fine.\" I was really glad he said that, because when the school calls, my heart always skips a beat.",
+      "He told me there was a bit of a scuffle on the playground. My daughter and a classmate both wanted the monkey bars, and the other girl pushed her. She grazed her knee, so the school gave her first aid and an ice pack. The teacher on yard duty saw everything and talked to both girls straight away.",
+      "On the phone, I tried to stay calm and ask clear questions. I asked if it was the first time, and how the school was handling it with the other child. When the teacher spoke too fast, I said, \"Sorry, could you say that again a bit slower?\" He didn't mind at all.",
+      "I also learned that I don't need to fix everything myself. Australian schools usually have a process. They often have a \"restorative chat\", where the kids talk about what happened and say sorry. By the end of lunch, the two girls had made up.",
+      "That evening, I talked to my daughter about taking turns and asking a teacher for help. The next day I sent a short thank-you message on the school app. My advice is simple: stay calm, ask questions, and keep the teacher in the loop. Small problems are much easier to solve when parents and teachers work together."
+    ],
+    "zh": "我想讲讲怎么处理孩子在学校的小冲突。上周老师打电话到我单位，第一句就说“别担心，她没事”，让我松了口气。原来是孩子和同学抢单杠，被推了一下，膝盖擦伤，学校做了急救，值班老师当场和两个孩子谈了话。电话里我尽量保持冷静，问是不是第一次、对方孩子怎么处理；听不清就请老师说慢一点。我也明白了不用什么都自己解决，澳洲学校有自己的流程，比如让孩子们坐下来说清楚并道歉，两个孩子午饭结束就和好了。晚上我和女儿聊了轮流和找老师帮忙，第二天在学校 app 上给老师发了感谢。我的建议是：保持冷静、多问问题、和老师保持沟通。",
+    "patterns": [
+      {
+        "en": "Is this the first time ___ has happened?",
+        "zh": "问是不是第一次发生：this sort of thing / anything like this"
+      },
+      {
+        "en": "How is the school handling it with ___?",
+        "zh": "问学校怎么处理：the other child / the class"
+      },
+      {
+        "en": "Could you keep me in the loop if ___?",
+        "zh": "请对方有情况再告诉你：anything else happens / she seems upset"
+      },
+      {
+        "en": "Is there anything we can do at home to ___?",
+        "zh": "问家长在家能做什么：help her take turns / help her settle"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Tom Collins",
+      "role": "孩子的 Year 1 班主任",
+      "voice": "m"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Hi, is that Mia's mum? It's Tom Collins, Mia's teacher. First up, nothing to worry about — she's absolutely fine.",
+        "zh": "你好，是 Mia 的妈妈吗？我是 Mia 的老师 Tom Collins。先说一下，别担心，她完全没事。"
+      },
+      {
+        "s": "y",
+        "en": "Oh, hi Mr Collins. Thanks for saying that first. What's happened?",
+        "zh": "噢，你好 Collins 老师。谢谢你先这么说。发生什么事了？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, so, at lunch play there was a bit of argy-bargy over the monkey bars. Her and another girl both reckoned it was their turn, and Mia copped a push and went down on the bark chips.",
+        "zh": "嗯，是这样，午饭后在操场上为了单杠有点推搡。她和另一个女孩都觉得该轮到自己了，Mia 被推了一下，摔在了木屑地上。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? She got pushed?",
+        "zh": "不好意思，能说慢一点再说一遍吗？她被推了？"
+      },
+      {
+        "s": "o",
+        "en": "Sure, sorry. Another girl pushed her, and she fell over. She's got a little graze on her knee, that's all.",
+        "zh": "好的，抱歉。另一个女孩推了她，她摔倒了。膝盖擦破了一点皮，就这样。"
+      },
+      {
+        "s": "y",
+        "en": "Okay. Is she alright now? Did someone look at her knee?",
+        "zh": "好的。她现在还好吗？有人看过她的膝盖吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, she went up to the sick bay. They cleaned it up, chucked a bandaid on and gave her an ice pack. She was a bit teary at first, but she settled pretty quick and she's back in class now.",
+        "zh": "看过了，她去了医务室。他们清洗了伤口，贴了创可贴，还给了冰袋。她一开始有点想哭，但很快就平静下来了，现在已经回到教室了。"
+      },
+      {
+        "s": "y",
+        "en": "That's a relief. Who saw what happened?",
+        "zh": "那我就放心了。谁看到当时的情况了？"
+      },
+      {
+        "s": "o",
+        "en": "Mrs Kelly was on yard duty, so she saw the whole thing and sorted it out on the spot. Then after lunch I had a restorative chat with both girls.",
+        "zh": "Kelly 老师当时在操场值班，整件事都看到了，当场就处理了。午饭后我又和两个女孩做了一次“修复谈话”。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, a restorative chat means they talked about it and said sorry?",
+        "zh": "我确认一下，restorative chat 是指她们把事情说清楚并互相道歉吗？"
+      },
+      {
+        "s": "o",
+        "en": "Exactly. They both had a turn to say how they felt, the other girl said sorry, and they'd pretty much made up by the bell. They were playing tiggy together this arvo, actually.",
+        "zh": "没错。两个人都轮流说了自己的感受，那个女孩道了歉，到上课铃响时她们基本就和好了。其实今天下午她们还一起玩了捉人游戏。"
+      },
+      {
+        "s": "y",
+        "en": "Good. Can I ask, is this the first time something like this has happened?",
+        "zh": "那就好。我能问一下，这是第一次发生这种事吗？"
+      },
+      {
+        "s": "o",
+        "en": "With Mia, yeah, first time. Honestly, I reckon it's a one-off. Year Ones are still working out the whole taking-turns thing, you know?",
+        "zh": "Mia 这边是第一次。说实话，我觉得是偶发的。一年级的孩子还在学怎么轮流，你懂的。"
+      },
+      {
+        "s": "y",
+        "en": "Yes, I understand. How is the school handling it with the other child?",
+        "zh": "嗯，我理解。学校对另一个孩子那边是怎么处理的？"
+      },
+      {
+        "s": "o",
+        "en": "I can't really go into details about another student, sorry, but her parents have been told, and there's a consequence for the pushing. She'll miss a bit of play tomorrow.",
+        "zh": "关于别的学生我不太能讲细节，抱歉，不过已经通知了她的父母，推人也有相应的后果。她明天会少玩一会儿。"
+      },
+      {
+        "s": "y",
+        "en": "That's fair. Is there anything we can do at home to help?",
+        "zh": "这很合理。我们在家能做点什么帮忙吗？"
+      },
+      {
+        "s": "o",
+        "en": "Maybe just have a chat tonight about what to do if someone won't share — like, use her words, walk away, or come and find a teacher on duty. Look for the hats, they wear the bright yellow ones.",
+        "zh": "今晚可以和她聊聊，如果别人不肯轮流该怎么办，比如用语言说、走开，或者去找值班老师。找戴帽子的老师就行，他们戴亮黄色的帽子。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, the teachers on duty wear yellow hats?",
+        "zh": "不好意思，值班老师戴黄帽子？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, bright yellow, so the kids can spot 'em easily. I'll also pop a short incident note up on the app this arvo, so you've got it in writing.",
+        "zh": "对，亮黄色的，这样孩子们一眼就能看到。我今天下午也会在 app 上发一份简短的事件记录，这样你就有书面记录了。"
+      },
+      {
+        "s": "y",
+        "en": "That would be great, thank you. Could you keep me in the loop if anything else happens?",
+        "zh": "太好了，谢谢。如果再有什么情况，能告诉我一声吗？"
+      },
+      {
+        "s": "o",
+        "en": "Absolutely, I'll give you a heads-up straight away. And if you want a quick chat, I'm usually around for five minutes after the bell.",
+        "zh": "当然，我会第一时间告诉你。如果你想当面聊几句，放学铃响后我一般会在教室待五分钟。"
+      },
+      {
+        "s": "y",
+        "en": "Great. I'll try to come in tomorrow after school. Thanks so much for calling, Mr Collins.",
+        "zh": "好的。我明天放学尽量过去一下。非常感谢你打电话来，Collins 老师。"
+      },
+      {
+        "s": "o",
+        "en": "No worries at all. She's a great kid. See you tomorrow!",
+        "zh": "不客气。她是个很棒的孩子。明天见！"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再说一遍吗？"
+    },
+    {
+      "en": "Sorry, I didn't quite catch that. Is she hurt?",
+      "zh": "抱歉，我没听清。她受伤了吗？"
+    },
+    {
+      "en": "Just to confirm, you mean ___?",
+      "zh": "我确认一下，你是说……？"
+    },
+    {
+      "en": "Could you put that on the app, so I've got it in writing?",
+      "zh": "能在 app 上发一下吗？这样我有书面记录。"
+    },
+    {
+      "en": "Could you spell the teacher's name for me, please?",
+      "zh": "能帮我拼一下那位老师的名字吗？"
+    }
+  ],
+  "checklist": [
+    "听到 \"nothing to worry about, she's fine\" 能马上明白老师在先让你放心",
+    "能听懂 argy-bargy、copped a push、graze、sick bay 这些描述事情经过的词",
+    "能用一句话追问：是不是第一次发生、对方孩子那边怎么处理",
+    "听到 restorative chat、yard duty、a one-off 能理解意思，必要时用 \"Just to confirm…\" 确认",
+    "能问出在家可以怎么帮孩子，并请老师在 app 上发书面记录",
+    "结束时能约好下一步沟通方式（放学当面聊 / app 留言），并礼貌道谢"
+  ]
+}
