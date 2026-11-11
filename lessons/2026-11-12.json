@@ -1,0 +1,322 @@
+{
+  "id": "2026-11-12",
+  "date": "2026-11-12",
+  "category": "工作",
+  "title": "冲刺演示会上被业务方追问数据口径",
+  "titleEn": "Handling tough questions at a sprint review demo",
+  "scene": [
+    "周四上午十点，你所在的项目组开两周一次的 Sprint Review（冲刺演示会），你负责在 Teams 上给业务方演示刚做好的新版销售报表。业务方代表是销售运营经理 Gary，人很爽快，但说话快、爱打断，喜欢用 ballpark、apples with apples、the bottom line 这类说法。演示到一半，他发现新报表的数字和他们自己 Excel 里的对不上，开始追问。",
+    "你的目标：① 听懂 Gary 到底在质疑哪个数字、他想要什么；② 礼貌地插话澄清，解释差异原因（新报表按“发货日期”算，旧 Excel 按“下单日期”算），不当场乱答应改需求；③ 约好后续：会后发书面说明、把新需求放进 backlog，下次冲刺再排优先级。"
+  ],
+  "facts": [
+    {
+      "k": "When",
+      "v": "周四上午 10:00，Teams 线上会议，约 45 分钟"
+    },
+    {
+      "k": "Who",
+      "v": "Gary：销售运营经理（业务方）；你：BA，负责演示"
+    },
+    {
+      "k": "Issue",
+      "v": "新报表十月销售额 $1.42m，Gary 的 Excel 是 $1.51m"
+    },
+    {
+      "k": "Why",
+      "v": "新报表按发货日期（ship date）算，旧表按下单日期（order date）算"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "sprint review / demo",
+      "zh": "冲刺演示会，给业务方展示这两周做完的功能",
+      "ex": "We'll walk through the new report at the sprint review on Thursday."
+    },
+    {
+      "en": "share my screen",
+      "zh": "共享屏幕",
+      "ex": "Can everyone see my screen okay?"
+    },
+    {
+      "en": "doesn't add up",
+      "zh": "数字对不上、说不通",
+      "ex": "Sorry, that number just doesn't add up for me."
+    },
+    {
+      "en": "ballpark",
+      "zh": "大概的数、粗略估计",
+      "ex": "We're in the same ballpark, but not quite there."
+    },
+    {
+      "en": "apples with apples",
+      "zh": "同口径比较（比较同一类东西）",
+      "ex": "I want to make sure we're comparing apples with apples."
+    },
+    {
+      "en": "based on / pulled from",
+      "zh": "基于……算的 / 数据取自……",
+      "ex": "These figures are pulled from the warehouse system."
+    },
+    {
+      "en": "the bottom line",
+      "zh": "关键是、说到底",
+      "ex": "The bottom line is the board looks at order date."
+    },
+    {
+      "en": "a toggle / a filter",
+      "zh": "切换开关 / 筛选条件",
+      "ex": "Could we add a toggle to switch between the two dates?"
+    },
+    {
+      "en": "out of scope",
+      "zh": "不在这次范围内",
+      "ex": "That's a fair ask, but it's out of scope for this sprint."
+    },
+    {
+      "en": "chuck it on the backlog",
+      "zh": "先放进待办需求池（口语）",
+      "ex": "Let's chuck it on the backlog and prioritise it next sprint."
+    },
+    {
+      "en": "park that for now",
+      "zh": "这个先放一放",
+      "ex": "Can we park that for now and come back to it at the end?"
+    },
+    {
+      "en": "run it by / loop in",
+      "zh": "征求某人意见 / 把某人拉进来",
+      "ex": "I'll run it by the data team and loop you in."
+    }
+  ],
+  "listening": [
+    {
+      "en": "Sorry to jump in, but that October figure doesn't look right to me.",
+      "sound": "Sorry to 读成 “sorry-da”；jump in 连读成 “jum-pin”；doesn't look right 里 doesn't 的 t 基本吞掉，像 “dozn look right”",
+      "zh": "不好意思插一句，十月那个数字我看着不太对。",
+      "reply": "No worries, Gary. Which number are you looking at?"
+    },
+    {
+      "en": "We've got one-point-five-one in our spreadsheet, so we're out by about ninety grand.",
+      "sound": "one-point-five-one = 1.51 million，澳洲人说大数常省掉 million；out by 是“差了”；ninety grand = $90,000",
+      "zh": "我们表里是 151 万，所以差了大概九万。",
+      "reply": "Just to confirm, you've got 1.51 million and we're showing 1.42?"
+    },
+    {
+      "en": "Are we comparing apples with apples here, or is this pulled from somewhere else?",
+      "sound": "apples with apples 连读像 “apple-zwith-apples”；pulled from 里 pulled 的 d 很轻",
+      "zh": "我们这是同口径比较吗，还是数据取自别的地方？",
+      "reply": "Good question. This report is based on ship date, not order date."
+    },
+    {
+      "en": "Righto, that'd explain it — stuff that's ordered late in the month doesn't ship till November.",
+      "sound": "Righto = “好吧/明白了”；that'd = that would，读 “that-ud”；doesn't ship till 读得很快",
+      "zh": "好，那就说得通了——月底下的单要到十一月才发货。",
+      "reply": "Exactly. That's most of the gap."
+    },
+    {
+      "en": "Bottom line is, the board reports on order date, so can we get a toggle in there?",
+      "sound": "Bottom line 两个 t 都是喉塞音，像 “bo'om line”；get a 连读成 “ge-da”",
+      "zh": "说到底，董事会是按下单日期汇报的，能不能加一个切换开关？",
+      "reply": "That's a fair ask. It's out of scope for this sprint, but I'll chuck it on the backlog."
+    },
+    {
+      "en": "Can you flick us something in writing so I can take it to my boss?",
+      "sound": "flick us 连读成 “fli-kus”；us 在这里其实指 me；in writing 读成 “in wri-ding”",
+      "zh": "能给我发个书面说明吗？我好拿给我老板看。",
+      "reply": "Sure, I'll email you a short summary by end of day."
+    }
+  ],
+  "speech": {
+    "topic": "我如何在会议上应对别人对我工作的质疑",
+    "paragraphs": [
+      "Today I want to talk about how I handle tough questions in meetings. As a business analyst, I often show new reports to the business. Most of the time it goes well, but sometimes someone says, \"Sorry, that number doesn't add up.\" The first time it happened, I panicked and started talking too fast.",
+      "Now I have a simple routine. First, I stay calm and say thank you. A question is not an attack. It usually means the person cares about the data. Second, I check that I understand the question. I say, \"Just to confirm, you're looking at the October total?\" This gives me a few seconds to think, and it stops us talking about two different things.",
+      "Third, I explain where the numbers come from. Very often the problem is that we are not comparing apples with apples. For example, one report uses order date and another uses ship date. When I explain this clearly, people usually relax.",
+      "Finally, I don't promise anything on the spot. If someone asks for a new feature, I say, \"That's a fair ask. Let me chuck it on the backlog and we'll look at it next sprint.\" Then I send a short email after the meeting, so everyone has the same information in writing.",
+      "This routine has made me much more confident. I still get nervous sometimes, especially when people speak quickly. But I know I can always ask them to slow down, and that's completely normal in Australian workplaces."
+    ],
+    "zh": "我是一名业务分析师，经常给业务方演示新报表。有时有人会说“这个数字对不上”。我现在的做法是：先冷静道谢，把问题当作对方在乎数据；再用“我确认一下……”澄清问题，争取思考时间；然后解释数据来源，很多时候是口径不同，比如下单日期和发货日期；最后不当场承诺新需求，放进 backlog，会后发邮件书面说明。这样做让我更自信，听不懂时请对方说慢一点也很正常。",
+    "patterns": [
+      {
+        "en": "Just to confirm, you're looking at ___?",
+        "zh": "我确认一下，您看的是……？（澄清对方在问哪一项）"
+      },
+      {
+        "en": "This is based on ___, not ___.",
+        "zh": "这个是按……算的，不是按……（解释口径）"
+      },
+      {
+        "en": "That's a fair ask. Let me ___ and get back to you by ___.",
+        "zh": "这个要求合理。我先……，……之前回复您。（不当场答应）"
+      },
+      {
+        "en": "Can we park that for now and come back to ___ at the end?",
+        "zh": "这个先放一放，最后再回来讨论……好吗？（控制会议节奏）"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Gary",
+      "role": "销售运营经理（业务方代表）",
+      "voice": "m"
+    },
+    "lines": [
+      {
+        "s": "y",
+        "en": "Okay, I'll share my screen now. Can everyone see the new sales dashboard okay?",
+        "zh": "好，我现在共享屏幕。大家都能看到新的销售看板吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, got it. Looks heaps cleaner than the old one, I'll give you that. Go for it.",
+        "zh": "嗯，看到了。比旧的清爽多了，这点我承认。你开始吧。"
+      },
+      {
+        "s": "y",
+        "en": "Thanks, Gary. So this top section shows total sales by month, and you can click on any month to drill down by region.",
+        "zh": "谢谢 Gary。最上面这一块是按月的销售总额，点任何一个月都可以按地区往下看明细。"
+      },
+      {
+        "s": "o",
+        "en": "Sorry to jump in, but hang on — that October figure doesn't look right to me. One-point-four-two? We've got one-point-five-one in our spreadsheet, so we're out by about ninety grand.",
+        "zh": "不好意思插一句，等一下——十月那个数我看着不对。142 万？我们表里是 151 万，差了大概九万。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? Which number have you got?",
+        "zh": "不好意思，能再说慢一点吗？您那边是哪个数？"
+      },
+      {
+        "s": "o",
+        "en": "No worries. Our Excel says one-point-five-one million for October. Your dashboard says one-point-four-two.",
+        "zh": "没事。我们 Excel 里十月是 151 万，你的看板显示 142 万。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, you mean the total for the whole of October, all regions?",
+        "zh": "我确认一下，您是说整个十月、所有地区的总额，对吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, the lot. So are we comparing apples with apples here, or is this pulled from somewhere else?",
+        "zh": "对，全部。那我们这是同口径比较吗，还是数据取自别的地方？"
+      },
+      {
+        "s": "y",
+        "en": "Good question. This dashboard is pulled from the warehouse system, and it's based on ship date, not order date. I think your spreadsheet uses order date.",
+        "zh": "好问题。这个看板的数据取自仓库系统，是按发货日期算的，不是下单日期。我想你们的表是按下单日期的。"
+      },
+      {
+        "s": "o",
+        "en": "Ah, righto. Yeah, that'd explain it — a fair bit of stuff that's ordered late in the month doesn't ship till November.",
+        "zh": "啊，明白了。对，那就说得通了——月底下的不少单要到十一月才发货。"
+      },
+      {
+        "s": "y",
+        "en": "Exactly. We checked last week, and those late orders make up most of the gap. It's in the same ballpark once you adjust for that.",
+        "zh": "没错。我们上周核对过，月底那些订单占了差额的大部分。按这个调整后基本在同一个范围。"
+      },
+      {
+        "s": "o",
+        "en": "Fair enough. But here's the thing — the bottom line is, the board reports on order date. If I take this to them, they'll be scratching their heads. Can we get a toggle in there to flip between the two?",
+        "zh": "有道理。但问题是——说到底董事会是按下单日期汇报的。我把这个拿去，他们会一头雾水。能不能加个开关，在两种日期之间切换？"
+      },
+      {
+        "s": "y",
+        "en": "That's a fair ask. It's out of scope for this sprint, but I'm happy to chuck it on the backlog so the team can size it up.",
+        "zh": "这个要求合理。不在这次冲刺范围内，不过我可以先放进 backlog，让团队估一下工作量。"
+      },
+      {
+        "s": "o",
+        "en": "How long are we talking? I've got the quarterly review first week of December, so I'm keen to have it before then if we can swing it.",
+        "zh": "大概要多久？我十二月第一周有季度汇报，如果能搞定，我挺希望在那之前有。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, did you say the first week of December?",
+        "zh": "不好意思，您是说十二月第一周吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, the fourth. Friday the fourth.",
+        "zh": "对，四号。周五，四号。"
+      },
+      {
+        "s": "y",
+        "en": "Okay. I can't promise anything on the spot, but I'll run it by the developers and Priya, our product owner, and get back to you by tomorrow arvo.",
+        "zh": "好的。我现在没法当场答应，但我会和开发还有我们的产品负责人 Priya 商量，明天下午之前回复您。"
+      },
+      {
+        "s": "o",
+        "en": "Good stuff. And while we're at it, could the regions be in the same order as our spreadsheet? Takes me ages to find SA on there.",
+        "zh": "好。顺便说一句，地区的顺序能不能跟我们表里一样？我找 SA 要找半天。"
+      },
+      {
+        "s": "y",
+        "en": "Can we park that for now and come back to it at the end? I'd like to show you the region view first, because it might help.",
+        "zh": "这个能先放一放，最后再说吗？我想先给您看地区视图，可能会有帮助。"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, go on then. Sorry, I'm getting ahead of myself.",
+        "zh": "行，你继续。抱歉，我有点着急了。"
+      },
+      {
+        "s": "y",
+        "en": "No worries at all. So if you click here, you can sort the regions any way you like, and it'll remember your setting.",
+        "zh": "完全没关系。您点这里，地区可以随意排序，系统会记住您的设置。"
+      },
+      {
+        "s": "o",
+        "en": "Oh, beauty. That sorts that one out, then. Can you flick us something in writing about the dates, so I can take it to my boss?",
+        "zh": "哦，太好了。那这个就解决了。日期口径那件事，能给我发个书面说明吗？我好拿给我老板看。"
+      },
+      {
+        "s": "y",
+        "en": "Sure. I'll email you a short summary by end of day, with the two numbers side by side, and I'll loop in Priya as well.",
+        "zh": "没问题。我今天下班前给您发个简短总结，把两个数并排列出来，也会抄送 Priya。"
+      },
+      {
+        "s": "o",
+        "en": "Legend. Cheers for that — good demo, by the way. Much better than the last one.",
+        "zh": "太棒了。谢谢——顺便说，演示做得不错，比上次好多了。"
+      },
+      {
+        "s": "y",
+        "en": "Thanks, Gary, I appreciate that. Let's keep going with the region view.",
+        "zh": "谢谢 Gary，很高兴听您这么说。我们接着看地区视图吧。"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再说一遍吗？"
+    },
+    {
+      "en": "Just to confirm, which number are you looking at?",
+      "zh": "我确认一下，您看的是哪个数？"
+    },
+    {
+      "en": "Sorry, did you say fifteen or fifty?",
+      "zh": "不好意思，您说的是 15 还是 50？"
+    },
+    {
+      "en": "Could you put that in the chat, so I don't get it wrong?",
+      "zh": "能把这个打在聊天框里吗？免得我记错。"
+    },
+    {
+      "en": "I'll follow up with an email after the meeting, so we've got it in writing.",
+      "zh": "会后我发邮件跟进，这样我们有书面记录。"
+    }
+  ],
+  "checklist": [
+    "听到 \"Sorry to jump in, that doesn't look right\" 不慌，能马上问清是哪个数字",
+    "能听懂 one-point-five-one、out by ninety grand 这种口语化的大数字说法",
+    "能用一句话解释口径差异：\"This is based on ship date, not order date.\"",
+    "听到 apples with apples、the bottom line、ballpark 能理解意思",
+    "对方提新需求时，能说 \"That's a fair ask\"，不当场答应，并约好回复时间",
+    "会议被带偏时，能用 \"Can we park that for now?\" 礼貌拉回，会后发邮件书面确认"
+  ]
+}
