@@ -1,0 +1,322 @@
+{
+  "id": "2026-11-13",
+  "date": "2026-11-13",
+  "category": "保险/医疗",
+  "title": "诊所护士来电说验血结果要回诊",
+  "titleEn": "A call from the GP clinic about your blood test results",
+  "scene": [
+    "周五上午，你在上班时接到家庭诊所 Prospect Family Medical 的电话。打来的是诊所护士 Sue。上周你做了一次常规体检验血，现在结果出来了，医生想让你回来复诊，顺便再做一次空腹验血（fasting blood test）。Sue 语速快，还会说 results are back、nothing to stress about、pathology、a touch high 这类说法，而且诊所规定电话里不能详细讲结果。",
+    "你的目标：① 听懂是不是急事、医生为什么要你回诊；② 约好复诊时间（下周二下午 4:15 或周三早上），问清能不能 telehealth、要不要自费；③ 弄清楚空腹验血怎么做：几点以后不能吃东西、能不能喝水、去哪个化验点、要不要预约，并请对方短信确认。"
+  ],
+  "facts": [
+    {
+      "k": "Who",
+      "v": "Sue：家庭诊所护士；你：上周做过体检验血的病人"
+    },
+    {
+      "k": "Results",
+      "v": "铁偏低、胆固醇有点高，不紧急，但医生要当面讲"
+    },
+    {
+      "k": "Appointment",
+      "v": "下周二 4:15pm，Dr Patel，标准门诊，bulk billed"
+    },
+    {
+      "k": "Fasting test",
+      "v": "前一晚 10 点后不吃东西，可以喝白水；化验点不用预约"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "your results are back",
+      "zh": "你的检查结果出来了",
+      "ex": "Hi, it's Sue from the clinic. Your blood test results are back."
+    },
+    {
+      "en": "nothing urgent / nothing to stress about",
+      "zh": "不紧急 / 不用担心",
+      "ex": "It's nothing urgent, but the doctor would like to see you."
+    },
+    {
+      "en": "go over the results",
+      "zh": "（医生）当面讲解结果",
+      "ex": "Dr Patel would like to go over the results with you."
+    },
+    {
+      "en": "follow-up appointment",
+      "zh": "复诊预约",
+      "ex": "Can I book you in for a follow-up appointment next week?"
+    },
+    {
+      "en": "fasting blood test",
+      "zh": "空腹验血",
+      "ex": "You'll need a fasting blood test before you see the doctor."
+    },
+    {
+      "en": "nothing to eat after ten",
+      "zh": "十点以后别吃东西",
+      "ex": "Nothing to eat after ten the night before, but water's fine."
+    },
+    {
+      "en": "pathology / collection centre",
+      "zh": "化验所 / 抽血点",
+      "ex": "The pathology collection centre is right next door to the clinic."
+    },
+    {
+      "en": "request form",
+      "zh": "化验申请单",
+      "ex": "I'll pop the request form in the system, so you don't need the paper one."
+    },
+    {
+      "en": "walk-in",
+      "zh": "直接去，不用预约",
+      "ex": "It's walk-in only, so just rock up before nine if you can."
+    },
+    {
+      "en": "on the low side / a touch high",
+      "zh": "偏低 / 有点偏高",
+      "ex": "Your iron's on the low side and your cholesterol's a touch high."
+    },
+    {
+      "en": "bulk billed",
+      "zh": "由 Medicare 直接结算，自己不用付钱",
+      "ex": "Follow-ups with Dr Patel are bulk billed, so there's nothing to pay."
+    },
+    {
+      "en": "over the phone",
+      "zh": "在电话里",
+      "ex": "Sorry, I can't go into the details over the phone."
+    }
+  ],
+  "listening": [
+    {
+      "en": "Hi, is that Amy? It's Sue calling from Prospect Family Medical — have you got a quick sec?",
+      "sound": "have you got a quick sec 连读成 “hav-ya-gotta-quick-sec”；sec = second，一下下",
+      "zh": "你好，是 Amy 吗？我是 Prospect 家庭诊所的 Sue，你现在方便说两句吗？",
+      "reply": "Yes, speaking. I've got a minute, go ahead."
+    },
+    {
+      "en": "Your bloods are back, and Dr Patel'd like to have a chat about 'em — nothing to stress about.",
+      "sound": "bloods = blood test results（澳洲口语）；Patel'd = Patel would；about 'em 读成 “a-bow-dem”",
+      "zh": "你的验血结果出来了，Patel 医生想和你聊聊，不用担心。",
+      "reply": "Oh, okay. Is it anything serious?"
+    },
+    {
+      "en": "I can't really go into it over the phone, but your iron's on the low side and your cholesterol's a touch high.",
+      "sound": "go into it 连成 “go-in-tu-it”；iron's 读 “eye-ens”；a touch high = 有一点高",
+      "zh": "电话里不太方便细说，不过你的铁偏低，胆固醇有点高。",
+      "reply": "Right. So should I make an appointment to see the doctor?"
+    },
+    {
+      "en": "She's after a fasting one before you come in — so nothing after ten the night before, water's fine.",
+      "sound": "she's after = 她想要；fasting one = fasting blood test；water's fine 很快，像 “wor-diz-fine”",
+      "zh": "她想让你复诊前先做个空腹验血——前一晚十点后别吃东西，喝水没问题。",
+      "reply": "Just to confirm, nothing to eat after 10 pm, but I can drink water?"
+    },
+    {
+      "en": "Collection centre's right next door, it's walk-in, just rock up any time from half seven.",
+      "sound": "rock up = 直接去、出现；half seven = 7:30（不是 6:30！）",
+      "zh": "抽血点就在隔壁，不用预约，七点半以后随时去就行。",
+      "reply": "Great, so I don't need to book. Do I need to bring anything?"
+    },
+    {
+      "en": "I'll flick you a text with all that, and if anything changes just give us a buzz.",
+      "sound": "flick you a text = 发短信给你；give us a buzz = 给我们打个电话（us 其实指“我们”）",
+      "zh": "我会把这些发短信给你，有什么变化就给我们打电话。",
+      "reply": "Perfect, thanks so much, Sue."
+    }
+  ],
+  "speech": {
+    "topic": "我怎么照顾自己的健康（以及在澳洲看 GP 的经验）",
+    "paragraphs": [
+      "Today I want to talk about how I look after my health here in Australia. When I first moved here, I didn't have a regular GP. If I got sick, I just went to any clinic that had an appointment. It worked, but every time I had to explain my history again, and it was a bit stressful.",
+      "A couple of years ago, a friend recommended a family clinic near my home. Now I see the same doctor every time. She knows my history, and I feel more comfortable asking questions. Most of my visits are bulk billed, so I don't have to pay anything out of pocket.",
+      "Last week I had a routine blood test, just a general check-up. A few days later, the nurse called me. My first thought was, \"Oh no, something's wrong!\" But she said it was nothing urgent. My iron was a bit low and my cholesterol was a touch high, so the doctor wanted to go over the results with me. I also need a fasting blood test, so no food after ten the night before.",
+      "To be honest, the hardest part was the phone call, not the results. The nurse spoke really fast. But I asked her to slow down, I repeated the important details, and I asked her to send me a text. That really helped.",
+      "So my advice is simple: find a regular GP, get a check-up once a year, and don't be shy on the phone. It's your health, so it's okay to ask questions."
+    ],
+    "zh": "我刚来澳洲时没有固定的家庭医生，每次都得重新讲病史，挺累。后来朋友推荐了家附近的诊所，现在每次看同一位医生，她了解我的情况，我也敢问问题，而且大多是 bulk bill 不用付钱。上周我做了常规验血，护士打电话来时我第一反应是“糟了”，但她说不紧急，只是铁偏低、胆固醇有点高，医生想当面讲，还要再做一次空腹验血。其实最难的是那通电话——护士说得很快，但我请她慢一点、复述了重点、让她发短信确认，就搞定了。我的建议：找一个固定的 GP，每年体检一次，打电话别害羞，有问题就问。",
+    "patterns": [
+      {
+        "en": "My first thought was, \"___!\" But it turned out ___.",
+        "zh": "我第一反应是……，结果其实……（讲经历时很好用）"
+      },
+      {
+        "en": "Just to confirm, ___, but I can ___?",
+        "zh": "我确认一下，……，但我可以……对吧？（复述注意事项）"
+      },
+      {
+        "en": "Is there anything I need to ___ before ___?",
+        "zh": "在……之前，我需要……什么吗？（问准备事项）"
+      },
+      {
+        "en": "Could you send me a text with ___, so I don't forget?",
+        "zh": "能把……发短信给我吗？免得我忘了。"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Sue",
+      "role": "家庭诊所护士",
+      "voice": "f"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Hi there, is that Amy? It's Sue calling from Prospect Family Medical. Have you got a quick sec?",
+        "zh": "你好，是 Amy 吗？我是 Prospect 家庭诊所的 Sue。你现在方便说两句吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, speaking. Hi Sue. I'm at work, but I've got a few minutes. Is everything okay?",
+        "zh": "是我。你好 Sue。我在上班，不过有几分钟。一切都还好吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, all good, nothing to stress about. Just ringing 'cause your bloods from last week are back, and Dr Patel'd like to have a chat with you about 'em.",
+        "zh": "嗯，都还好，不用担心。就是打来说你上周的验血结果出来了，Patel 医生想和你聊聊。"
+      },
+      {
+        "s": "y",
+        "en": "Oh, okay. Sorry, could you say that again a bit slower? The doctor wants to see me about my results?",
+        "zh": "哦，好的。不好意思，能说慢一点再说一遍吗？医生是想因为结果见我一下？"
+      },
+      {
+        "s": "o",
+        "en": "Sorry, yes — I talk a million miles an hour. Your blood test results are back, and the doctor would like you to come in so she can go over them with you.",
+        "zh": "抱歉，对——我说话太快了。你的验血结果出来了，医生想让你来一趟，当面给你讲一下。"
+      },
+      {
+        "s": "y",
+        "en": "I see. Is it anything serious? Can you tell me a bit now?",
+        "zh": "明白了。严重吗？您现在能稍微跟我说一点吗？"
+      },
+      {
+        "s": "o",
+        "en": "I can't really go into the details over the phone, I'm afraid — the doctor likes to do that herself. But between you and me, it's not urgent. Your iron's on the low side and your cholesterol's a touch high, that's all.",
+        "zh": "恐怕电话里不太方便细说，医生喜欢亲自讲。不过私下说一句，不紧急。就是你的铁偏低，胆固醇有点高，就这些。"
+      },
+      {
+        "s": "y",
+        "en": "Right, that's a relief. So when can I see Dr Patel?",
+        "zh": "好的，那我放心了。那我什么时候能见 Patel 医生？"
+      },
+      {
+        "s": "o",
+        "en": "She's pretty chockers this week, but I've got a quarter past four next Tuesday, or there's a nine-fifteen on Wednesday morning.",
+        "zh": "她这周排得很满，不过下周二有个四点一刻的，或者周三早上九点一刻也有。"
+      },
+      {
+        "s": "y",
+        "en": "Tuesday at four-fifteen works for me, I can leave work a bit early. Is that a face-to-face appointment, or could it be telehealth?",
+        "zh": "周二四点一刻我可以，能早点下班。这是要当面看，还是可以视频/电话问诊？"
+      },
+      {
+        "s": "o",
+        "en": "Face-to-face is best for this one, love, 'cause she might want to check your blood pressure while you're in. It's a standard consult and it's bulk billed, so there's nothing to pay.",
+        "zh": "这次最好当面来，因为她可能顺便给你量个血压。是标准门诊，bulk bill 的，不用付钱。"
+      },
+      {
+        "s": "y",
+        "en": "Great. And just to confirm, there's no fee at all?",
+        "zh": "太好了。我确认一下，完全不收费对吧？"
+      },
+      {
+        "s": "o",
+        "en": "Nope, not a cent. Now, the other thing — she's after a fasting blood test before you come in, so she's got the full picture.",
+        "zh": "对，一分都不用。还有一件事——她想让你复诊前先做个空腹验血，这样她能看到完整情况。"
+      },
+      {
+        "s": "y",
+        "en": "A fasting blood test. What do I need to do for that?",
+        "zh": "空腹验血。那我需要怎么做？"
+      },
+      {
+        "s": "o",
+        "en": "Easy. Nothing to eat after ten the night before. Water's fine — actually, drink plenty, it makes it easier to find a vein. No coffee, though, sorry!",
+        "zh": "很简单。前一晚十点后别吃东西。可以喝水——其实多喝点，抽血时好找血管。不过不能喝咖啡，抱歉！"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, just to confirm — nothing to eat after 10 pm, water is okay, but no coffee in the morning?",
+        "zh": "不好意思，我确认一下——晚上十点后不能吃东西，可以喝水，但早上不能喝咖啡？"
+      },
+      {
+        "s": "o",
+        "en": "Spot on. So if you do it Monday morning, the results'll be back in plenty of time for Tuesday arvo.",
+        "zh": "完全正确。所以你周一早上去做的话，周二下午之前结果肯定出来了。"
+      },
+      {
+        "s": "y",
+        "en": "Okay. Where do I go? Do I need to book?",
+        "zh": "好的。我去哪儿做？需要预约吗？"
+      },
+      {
+        "s": "o",
+        "en": "The collection centre's right next door to us. It's walk-in, so just rock up any time from half seven. I've already popped the request form in the system, so you don't need a paper one.",
+        "zh": "抽血点就在我们诊所隔壁。不用预约，七点半以后随时去就行。我已经把申请单录进系统了，你不用拿纸质的。"
+      },
+      {
+        "s": "y",
+        "en": "Half past seven, right next door, no paper form. Should I bring my Medicare card?",
+        "zh": "七点半，就在隔壁，不用纸质单子。我需要带 Medicare 卡吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, bring your Medicare card, that's all they'll need. Is your mobile still 0491 570 236?",
+        "zh": "对，带上 Medicare 卡就行，他们只要这个。你的手机还是 0491 570 236 吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, that's right. Could you send me a text with the appointment time and the fasting instructions, so I don't forget?",
+        "zh": "对，没错。能把预约时间和空腹要求发短信给我吗？免得我忘了。"
+      },
+      {
+        "s": "o",
+        "en": "No worries at all, I'll flick you a text as soon as we hang up. And if Tuesday doesn't work out, just give us a buzz and we'll shuffle it around.",
+        "zh": "没问题，挂了电话我就发短信给你。如果周二去不了，就给我们打个电话，我们再调。"
+      },
+      {
+        "s": "y",
+        "en": "Perfect. Thanks so much for calling, Sue. That's really helpful.",
+        "zh": "太好了。谢谢你打来，Sue，帮了大忙。"
+      },
+      {
+        "s": "o",
+        "en": "Pleasure. Don't worry too much, okay? See you Tuesday. Bye!",
+        "zh": "不客气。别太担心哦，好吗？周二见，拜拜！"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再说一遍吗？"
+    },
+    {
+      "en": "Sorry, did you say a quarter past four or a quarter to four?",
+      "zh": "不好意思，您说的是四点一刻还是三点四十五？"
+    },
+    {
+      "en": "Just to confirm, nothing to eat after ten, but water is okay?",
+      "zh": "我确认一下，十点后不能吃东西，但能喝水对吧？"
+    },
+    {
+      "en": "Could you spell the doctor's name for me, please?",
+      "zh": "能帮我拼一下医生的名字吗？"
+    },
+    {
+      "en": "Could you send me a text with all the details, please?",
+      "zh": "能把所有细节发短信给我吗？"
+    }
+  ],
+  "checklist": [
+    "听到 \"Your bloods are back\" 能马上明白是验血结果出来了",
+    "能分清 nothing urgent / nothing to stress about，知道这不是坏消息",
+    "能听懂 on the low side、a touch high 这种轻描淡写的说法",
+    "能用一句话复述空腹要求：\"Nothing to eat after ten, water's fine, no coffee.\"",
+    "听到 half seven、a quarter past four 能马上换算成准确时间",
+    "能主动问清是否 bulk billed、要不要预约，并请对方短信确认"
+  ]
+}
