@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "lessons": [
+    {
+      "id": "2026-11-14",
+      "date": "2026-11-14",
+      "category": "日常",
+      "title": "打给手机运营商查账单多扣漫游费",
+      "titleEn": "Calling your phone company about unexpected roaming charges"
+    },
     {
       "id": "2026-11-13",
       "date": "2026-11-13",

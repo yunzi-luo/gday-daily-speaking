@@ -1,0 +1,323 @@
+{
+  "id": "2026-11-14",
+  "date": "2026-11-14",
+  "category": "日常",
+  "title": "打给手机运营商查账单多扣漫游费",
+  "titleEn": "Calling your phone company about unexpected roaming charges",
+  "scene": [
+    "周六上午，你打开手机运营商 Coastline Mobile 的 app，发现这个月账单是 $131，平时只有 $45。原来上个月你去新西兰奥克兰参加朋友婚礼四天，以为漫游是套餐自带的，结果流量全按高价计费了。你打客服热线，接电话的是客服 Shane，他语速快，会说 got stung、casual rates、a one-off credit、out of contract、pro-rata 这类说法。",
+    "你的目标：① 通过身份验证，听懂多扣的钱是怎么来的；② 礼貌争取减免，听清能退多少、从哪期账单扣；③ 了解带漫游的新套餐和换套餐怎么计费，先要书面资料再决定，并拿到 reference number 和短信确认。"
+  ],
+  "facts": [
+    {
+      "k": "Bill",
+      "v": "平时 $45/月，这期 $131，多了约 $86"
+    },
+    {
+      "k": "Why",
+      "v": "在新西兰 4 天没开 $5/天的 Day Pass，流量按 casual rates 计费"
+    },
+    {
+      "k": "Your number",
+      "v": "0491 570 156（只在你主动打过去时才念验证码）"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "bill shock / my bill's gone through the roof",
+      "zh": "账单吓一跳 / 账单暴涨",
+      "ex": "My bill's gone through the roof this month — it's nearly three times the usual."
+    },
+    {
+      "en": "international roaming",
+      "zh": "国际漫游",
+      "ex": "Did you have international roaming turned on while you were in New Zealand?"
+    },
+    {
+      "en": "day pass",
+      "zh": "按天收费的漫游包",
+      "ex": "The day pass is five dollars a day, but you have to opt in before you travel."
+    },
+    {
+      "en": "opt in",
+      "zh": "主动选择开通",
+      "ex": "It's not automatic — you've gotta opt in through the app."
+    },
+    {
+      "en": "casual rates / pay-as-you-go",
+      "zh": "按量计费（单价很高）",
+      "ex": "Without the pass, your data was charged at casual rates."
+    },
+    {
+      "en": "get stung",
+      "zh": "被狠狠收了一笔钱（被宰）",
+      "ex": "That's where you got stung — the data adds up really fast overseas."
+    },
+    {
+      "en": "a one-off goodwill credit",
+      "zh": "一次性的善意补偿额度",
+      "ex": "I can pop a sixty-dollar credit on as a one-off goodwill gesture."
+    },
+    {
+      "en": "come off your bill",
+      "zh": "从账单里扣掉",
+      "ex": "The credit will come off this bill, so you'll only owe seventy-one dollars."
+    },
+    {
+      "en": "out of contract / month-to-month",
+      "zh": "合约已到期 / 按月续",
+      "ex": "You've been out of contract since July, so you're month-to-month now."
+    },
+    {
+      "en": "switch plans",
+      "zh": "换套餐",
+      "ex": "You can switch plans any time without a fee."
+    },
+    {
+      "en": "pro-rata",
+      "zh": "按天折算",
+      "ex": "This month will be pro-rata'd, so you only pay for the days on each plan."
+    },
+    {
+      "en": "a one-time code",
+      "zh": "一次性验证码",
+      "ex": "I'll send a one-time code to your mobile — can you read it back to me?"
+    }
+  ],
+  "listening": [
+    {
+      "en": "Thanks for holding, you're speaking with Shane at Coastline. How're you going today?",
+      "sound": "How're you going 连读成 “how-ya-goin’”，是澳洲版 How are you，不是问你去哪；回答 Good, thanks 就行",
+      "zh": "感谢等候，我是 Coastline 的 Shane。今天怎么样？",
+      "reply": "Good, thanks. I'm calling about my latest bill."
+    },
+    {
+      "en": "Can I just grab the number on the account and your date of birth so I can pull it up?",
+      "sound": "Can I just grab 读成 “c’n-I-jus-grab”；grab 这里是“要一下”；pull it up = 把账户调出来",
+      "zh": "能告诉我账户上的号码和你的出生日期吗？我调一下账户。",
+      "reply": "Sure, it's 0491 570 156, and my date of birth is the twelfth of March, 1988."
+    },
+    {
+      "en": "Righto, so the day pass didn't kick in, which means you got stung with casual rates.",
+      "sound": "Righto = 好的；kick in = 生效；got stung 读得很快像 “gotstung”，意思是被收了很贵的钱",
+      "zh": "好，我看明白了，Day Pass 没有生效，所以你被按高价计费了。",
+      "reply": "Sorry, could you say that again a bit slower? What are casual rates?"
+    },
+    {
+      "en": "Look, I can't wipe the lot, but I can pop a sixty-dollar credit on as a one-off.",
+      "sound": "Look 开头只是语气词（“这样吧”）；wipe the lot = 全部免掉；pop ... on = 加上去；one-off 读成 “wun-off”",
+      "zh": "这样吧，我没法全部免掉，不过可以一次性给你加 60 块的补偿额度。",
+      "reply": "Just to confirm, the sixty dollars comes off this bill?"
+    },
+    {
+      "en": "You're out of contract, so you can switch whenever — it'd just be pro-rata'd this month.",
+      "sound": "whenever = 随时；pro-rata'd 读成 “pro-rah-tad”，按天折算；it'd = it would",
+      "zh": "你的合约已经到期了，随时可以换套餐，这个月按天折算。",
+      "reply": "Okay. Could you email me the plan details first?"
+    },
+    {
+      "en": "I'll just pop you on hold for a tick while I set that up, won't be long.",
+      "sound": "pop you on hold = 让你等一下（会放音乐）；a tick = 一会儿；won't be long 读成 “wone-be-long”",
+      "zh": "我先让你稍等一下，我去设置，很快。",
+      "reply": "No worries, I'll hold."
+    }
+  ],
+  "speech": {
+    "topic": "一次账单惊吓教会我的事：我怎么管理手机和网络开销",
+    "paragraphs": [
+      "Today I want to talk about a small mistake that taught me a big lesson. Last month I went to New Zealand for a friend's wedding. It was a lovely trip, but when I got home, my phone bill was a hundred and thirty-one dollars. Normally it's only forty-five.",
+      "I called my phone company, and the agent explained what happened. My plan had a five-dollar day pass for roaming, but it wasn't automatic. I had to turn it on before I left, and I didn't. So all my data was charged at very high rates. In just four days, I used more than a gig, mostly for maps and photos.",
+      "At first I was really annoyed, but I stayed polite. I asked him to slow down, I repeated the important numbers, and I asked if he could help. In the end, he gave me a sixty-dollar credit, so I only paid an extra twenty-six dollars. He also told me I was out of contract, so I could switch to a better plan any time.",
+      "Now I have a few simple habits. Before I travel, I check my roaming settings in the app. Every few months, I compare my plan with other plans, because prices change all the time. And when I call customer service, I always ask for a reference number and a text or email to confirm.",
+      "So my advice is this: read your bill every month, don't be afraid to ask questions, and always ask nicely for a discount. The worst they can say is no."
+    ],
+    "zh": "上个月我去新西兰参加朋友婚礼，回来发现手机账单 $131，平时只有 $45。打电话问客服才知道，套餐里的 $5/天漫游包不会自动开通，我没开，所以流量按高价收费，四天用了一个多 G。我当时很生气，但保持礼貌：请他说慢一点、复述关键数字、问他能不能帮忙。最后他给了我 $60 补偿，我只多付了 $26，他还告诉我合约已到期、随时能换更划算的套餐。现在我养成了几个习惯：出国前在 app 里检查漫游设置；每隔几个月比较一下套餐；打客服电话一定要 reference number 和短信或邮件确认。我的建议：每月看账单，别怕问问题，礼貌地争取优惠——最坏不过是被拒绝。",
+    "patterns": [
+      {
+        "en": "My bill's usually ___, but this month it's ___. Could you tell me why?",
+        "zh": "我的账单平时是……，这个月却是……，能告诉我为什么吗？（开门见山说问题）"
+      },
+      {
+        "en": "Nobody told me ___. Is there anything you can do about ___?",
+        "zh": "没人告诉过我……，……这部分有没有办法处理一下？（礼貌争取减免）"
+      },
+      {
+        "en": "Just to confirm, so I'd ___, and ___?",
+        "zh": "我确认一下，也就是说我……，然后……，对吗？（复述金额和安排）"
+      },
+      {
+        "en": "Could you send me ___ in writing before I decide?",
+        "zh": "我决定之前，能把……书面发给我吗？（不当场答应）"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Shane",
+      "role": "手机运营商客服",
+      "voice": "m"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "G'day, thanks for holding, you're speaking with Shane at Coastline Mobile. How're you going today?",
+        "zh": "你好，感谢等候，我是 Coastline Mobile 的 Shane。今天怎么样？"
+      },
+      {
+        "s": "y",
+        "en": "Hi Shane, I'm good, thanks. I'm calling about my latest bill. It's much higher than usual and I'm not sure why.",
+        "zh": "你好 Shane，我挺好，谢谢。我打来是问最新一期账单，比平时高很多，我不知道为什么。"
+      },
+      {
+        "s": "o",
+        "en": "Ah, no worries, let's have a squiz. Can I just grab the mobile number on the account, and then your full name and date of birth?",
+        "zh": "啊，没问题，我们看看。能告诉我账户上的手机号，还有你的全名和出生日期吗？"
+      },
+      {
+        "s": "y",
+        "en": "Sure. The number's 0491 570 156. My name's Amy Wong, and my date of birth is the twelfth of March, 1988.",
+        "zh": "好的。号码是 0491 570 156。我叫 Amy Wong，出生日期是 1988 年 3 月 12 日。"
+      },
+      {
+        "s": "o",
+        "en": "Lovely, thanks Amy. I'm just gonna flick a one-time code to that number for security. Can you read it back to me when it comes through?",
+        "zh": "好的，谢谢 Amy。为了安全，我给这个号码发一个一次性验证码，收到后能念给我听吗？"
+      },
+      {
+        "s": "y",
+        "en": "Okay... yes, it's just come through. It's four, eight, two, nine, one, seven.",
+        "zh": "好……收到了。是 4、8、2、9、1、7。"
+      },
+      {
+        "s": "o",
+        "en": "Perfect, you're verified. Righto, so your plan's normally forty-five a month, and this one's come in at a hundred and thirty-one, so about eighty-six over. Most of that's international roaming. Were you in New Zealand early October?",
+        "zh": "好，验证通过。嗯，你的套餐平时每月 45，这期是 131，多了大概 86。大部分是国际漫游费。你十月初在新西兰吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, I was in Auckland for four days for a friend's wedding. But I thought roaming was included. I saw something about a five-dollar day pass?",
+        "zh": "对，我去奥克兰参加朋友婚礼，待了四天。可我以为漫游是包含的。我看到过一个 5 块一天的 Day Pass？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, so the day pass is five bucks a day, but it's not automatic on your plan. You've gotta opt in before you go, in the app. Because it wasn't switched on, the data got charged at casual rates, and they're pretty steep. That's where you got stung.",
+        "zh": "对，Day Pass 是每天 5 块，但你的套餐不会自动开，出发前得在 app 里开通。因为没开，流量就按零售价算了，挺贵的。你就是在这儿被多收了钱。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? What do you mean by casual rates?",
+        "zh": "不好意思，能说慢一点再讲一遍吗？casual rates 是什么意思？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, sorry, I'm going a bit quick. Casual rates means pay-as-you-go. Without the pass, all the data you use overseas is charged separately. You used about one point two gigs, and that adds up fast.",
+        "zh": "好，抱歉我说快了。casual rates 就是按量计费。没有漫游包的话，你在国外用的流量都单独收费。你用了大约 1.2G，一下子就累积起来了。"
+      },
+      {
+        "s": "y",
+        "en": "I see. That's a bit frustrating, because nobody told me I had to turn it on. Is there anything you can do about the charges?",
+        "zh": "明白了。这有点让人郁闷，因为没人告诉我要手动开。这些费用有没有办法处理一下？"
+      },
+      {
+        "s": "o",
+        "en": "Look, I hear ya. I can't wipe the whole lot, unfortunately, but since it's the first time on your account, I can pop a sixty-dollar credit on as a one-off goodwill gesture. It'll come straight off this bill.",
+        "zh": "这样，我理解你。很遗憾没法全部免掉，不过因为你的账户是第一次出这种情况，我可以一次性给你 60 块补偿，直接从这期账单扣掉。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, so I'd only owe seventy-one dollars this month, and I'm still paying about twenty-six for the roaming?",
+        "zh": "我确认一下，所以这个月我只要付 71 块，漫游部分我还是付大约 26 块，对吗？"
+      },
+      {
+        "s": "o",
+        "en": "Spot on. It might take a day to show up in the app, so don't stress.",
+        "zh": "完全正确。可能要一天才会在 app 里显示，别着急。"
+      },
+      {
+        "s": "y",
+        "en": "That's fair, thank you. Actually, I go to New Zealand a few times a year for work. Is there a plan that already includes roaming?",
+        "zh": "这样挺公平的，谢谢。其实我每年因为工作要去新西兰几次。有没有本身就包含漫游的套餐？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, there is. And while I've got you, I can see you've been out of contract since July, so you're month-to-month and you can switch any time, no fees. Our fifty-five dollar plan's got eighty gigs and fifteen roaming days a year chucked in.",
+        "zh": "有的。顺便说一下，我看到你的合约七月就到期了，现在是按月续，随时可以换，不收费。我们 55 块的套餐有 80G 流量，每年还送 15 天漫游。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, I missed that. How many roaming days, and which countries does it cover?",
+        "zh": "抱歉，我没听清。是多少天漫游？包括哪些国家？"
+      },
+      {
+        "s": "o",
+        "en": "Fifteen days a year, one-five. It covers New Zealand, the UK, the US and most of Asia. After that, it's five bucks a day, and that part's automatic.",
+        "zh": "每年 15 天，一五。包括新西兰、英国、美国和亚洲大部分国家。超过之后是每天 5 块，这部分是自动的。"
+      },
+      {
+        "s": "y",
+        "en": "That sounds good. If I switch today, how does the billing work?",
+        "zh": "听起来不错。如果我今天换，账单怎么算？"
+      },
+      {
+        "s": "o",
+        "en": "It'd be pro-rata'd, so you pay the old plan up to today and the new plan from today. Your bill date stays the same, the third of every month.",
+        "zh": "按天折算：今天之前按旧套餐，今天开始按新套餐。账单日不变，还是每月 3 号。"
+      },
+      {
+        "s": "y",
+        "en": "Okay. Could you send me the plan details in writing before I decide? I'd like to talk it over at home first.",
+        "zh": "好的。我决定之前，能把套餐详情书面发给我吗？我想先和家里商量一下。"
+      },
+      {
+        "s": "o",
+        "en": "Absolutely. I'll flick you an email with the plan summary, and pop a note on your account. Anything else I can help with?",
+        "zh": "当然。我给你发封邮件附上套餐说明，再在账户上备注一下。还有别的能帮你的吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, one more thing. Can I get a reference number for today's call, and could you confirm the credit by text?",
+        "zh": "还有一件事。能给我今天这通电话的参考编号吗？还有能发短信确认这笔补偿吗？"
+      },
+      {
+        "s": "o",
+        "en": "Too easy. Your reference number is C-R-five-five-two-nine-oh-eight. I'll just pop you on hold for a tick while I set that up... Thanks for waiting. All done: credit's on, text's on its way, and the email's sent.",
+        "zh": "没问题。参考编号是 CR552908。我先让你稍等一下去设置……感谢等候。都弄好了：补偿已加上，短信在路上，邮件也发了。"
+      },
+      {
+        "s": "y",
+        "en": "Great, I've just got the text. Thanks so much for your help, Shane. Bye!",
+        "zh": "太好了，我刚收到短信。非常感谢你的帮忙，Shane。再见！"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再讲一遍吗？"
+    },
+    {
+      "en": "Sorry, what do you mean by ___?",
+      "zh": "不好意思，……是什么意思？"
+    },
+    {
+      "en": "Could you spell that for me, please? Is that C for Charlie?",
+      "zh": "能拼一下吗？是 Charlie 的 C 吗？"
+    },
+    {
+      "en": "Just to confirm, the total is ___ dollars, right?",
+      "zh": "我确认一下，总共是……块，对吗？"
+    },
+    {
+      "en": "Could you send that to me by text or email, please?",
+      "zh": "能用短信或邮件把这个发给我吗？"
+    }
+  ],
+  "checklist": [
+    "我能一开口就说清问题：平时账单多少、这期多少、想知道为什么",
+    "我能听懂 day pass、opt in、casual rates、got stung，知道多扣的钱怎么来的",
+    "我能礼貌地争取减免，并复述“这期只付 71 块、补偿 60 块”这类关键数字",
+    "我能听懂 out of contract、month-to-month、pro-rata，知道换套餐怎么计费",
+    "我没有当场答应换套餐，而是要求先发书面资料",
+    "我拿到了 reference number，并请对方短信确认；也记得只在自己主动打过去时才念验证码"
+  ]
+}
