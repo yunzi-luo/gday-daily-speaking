@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "lessons": [
+    {
+      "id": "2026-11-15",
+      "date": "2026-11-15",
+      "category": "社交",
+      "title": "邻居出远门前请你帮忙收信倒垃圾桶",
+      "titleEn": "Helping your neighbour while he's away"
+    },
     {
       "id": "2026-11-14",
       "date": "2026-11-14",

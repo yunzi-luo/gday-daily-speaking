@@ -1,0 +1,322 @@
+{
+  "id": "2026-11-15",
+  "date": "2026-11-15",
+  "category": "社交",
+  "title": "邻居出远门前请你帮忙收信倒垃圾桶",
+  "titleEn": "Helping your neighbour while he's away",
+  "scene": [
+    "周日下午，你在前院收衣服，隔壁的退休邻居 Graham 隔着矮墙跟你打招呼。他下周四要飞去布里斯班看女儿和刚出生的外孙，走两个多星期，想请你帮忙：周一晚上把垃圾桶推出去、收信、给后院的番茄浇水。Graham 人很热情，但说话快，满嘴 bin night、the green one、chock-a-block、a fortnight、no skin off my nose 这类说法。",
+    "你的目标：① 先寒暄、恭喜他，听懂他要走多久；② 把每件事问清楚：哪天放哪个桶、信放哪、怎么浇水、钥匙怎么给；③ 说明你自己哪个周末不在，交换电话，约好有事怎么联系。"
+  ],
+  "facts": [
+    {
+      "k": "Away",
+      "v": "这周四（19 号）出发，12 月 4 日（周五）回来，两周多"
+    },
+    {
+      "k": "Bins",
+      "v": "每周二早上收：红盖普通垃圾每周都放；黄盖回收和绿盖花园垃圾隔周轮换，周一晚上推出去"
+    },
+    {
+      "k": "Key",
+      "v": "周三晚上 Graham 送备用钥匙过来，屋里有报警器，密码他发短信"
+    },
+    {
+      "k": "Phone",
+      "v": "Graham 的手机 0491 570 238"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "bin night",
+      "zh": "放垃圾桶的那天晚上（收垃圾前一晚）",
+      "ex": "Monday's bin night on our street, so the bins go out after dinner."
+    },
+    {
+      "en": "the red / yellow / green bin",
+      "zh": "普通垃圾 / 可回收 / 花园有机垃圾桶（按盖子颜色叫）",
+      "ex": "The yellow one goes out this week, and the green one next week."
+    },
+    {
+      "en": "every second week / a fortnight",
+      "zh": "隔周 / 两个星期",
+      "ex": "Recycling only goes out every second week."
+    },
+    {
+      "en": "keep an eye on the place",
+      "zh": "帮忙照看房子",
+      "ex": "Would you mind keeping an eye on the place while I'm away?"
+    },
+    {
+      "en": "clear the letterbox",
+      "zh": "清空信箱",
+      "ex": "I'll clear the letterbox every couple of days."
+    },
+    {
+      "en": "chock-a-block / chockers",
+      "zh": "塞满了",
+      "ex": "If the letterbox is chock-a-block, people know no one's home."
+    },
+    {
+      "en": "give them a good soak",
+      "zh": "把（植物）浇透",
+      "ex": "Just give the tomatoes a good soak every second evening."
+    },
+    {
+      "en": "on a timer",
+      "zh": "定时（自动）的",
+      "ex": "The front garden's on a timer, so you don't need to worry about it."
+    },
+    {
+      "en": "a spare key",
+      "zh": "备用钥匙",
+      "ex": "I'll drop a spare key over on Wednesday night."
+    },
+    {
+      "en": "set off the alarm",
+      "zh": "触发报警器",
+      "ex": "Punch in the code straight away so you don't set off the alarm."
+    },
+    {
+      "en": "it's no trouble / no skin off my nose",
+      "zh": "一点都不麻烦（后者更口语）",
+      "ex": "Honestly, it's no trouble — I'm out there anyway."
+    },
+    {
+      "en": "I owe you one",
+      "zh": "欠你个人情",
+      "ex": "Thanks heaps, I owe you one."
+    }
+  ],
+  "listening": [
+    {
+      "en": "Afternoon! Gorgeous day for it, eh? Have you got a sec?",
+      "sound": "Afternoon 前面省了 Good；eh 放句尾求认同，读“ay”；Have you got a sec 连读成 “hav-ya-got-a-sec”，sec = second，一小会儿",
+      "zh": "下午好！天气真好啊，是吧？你有空吗？",
+      "reply": "Afternoon, Graham! Yeah, sure, what's up?"
+    },
+    {
+      "en": "I'm off up to Brissie Thursdee week — well, this Thursdee — to see our Sarah and the new bub.",
+      "sound": "Brissie = Brisbane；Thursdee 是 Thursday 的澳洲读法；bub = 小婴儿；off up to 只是“去（北边）”的意思",
+      "zh": "我这周四要去布里斯班，看我女儿 Sarah 和刚出生的小宝宝。",
+      "reply": "Oh, congratulations! That's lovely news. How long are you going for?"
+    },
+    {
+      "en": "Bins go out Mondee night — red one every week, and it's the yellow one this week, then the green one the week after.",
+      "sound": "信息量大：red every week，yellow 和 green 隔周轮换；Mondee = Monday",
+      "zh": "周一晚上放垃圾桶——红的每周都放，这周放黄的，下周放绿的。",
+      "reply": "Sorry, could you say that again a bit slower? Red every week, and then yellow and green take turns?"
+    },
+    {
+      "en": "If it gets chockers, the junk mail's a dead giveaway that no one's home.",
+      "sound": "chockers = 塞满；a dead giveaway = 一眼就暴露",
+      "zh": "信箱要是塞满了，那些广告单一看就知道家里没人。",
+      "reply": "Good point. I'll clear it every couple of days."
+    },
+    {
+      "en": "Just chuck the mail on the kitchen bench — don't worry about sorting it.",
+      "sound": "chuck 在这里是“随手放”，不是“扔掉”；bench = 厨房台面",
+      "zh": "信随手放厨房台面上就行，不用分。",
+      "reply": "No worries, I'll just pop it on the bench."
+    },
+    {
+      "en": "Honestly, if it's too much of a hassle, just say so — I won't be offended.",
+      "sound": "hassle = 麻烦事；这是澳洲人的客气话，你回答“不麻烦”就好",
+      "zh": "说真的，要是太麻烦你就直说，我不会介意。",
+      "reply": "Not at all, it's no trouble. That's what neighbours are for."
+    }
+  ],
+  "speech": {
+    "topic": "我和邻居的相处：怎样从点头之交变成能互相帮忙的人",
+    "paragraphs": [
+      "When I first moved to Australia, I didn't really know my neighbours. I would just smile and say hi when I saw them at the letterbox. I was a bit shy, and I was worried that my English wasn't good enough for a real chat.",
+      "Things changed when my next-door neighbour started talking to me about the weather and the bins. It sounds silly, but bin night was a great way to start. Every Monday evening we were both outside with our bins, so we had a few minutes to chat. Slowly I learnt about his family, his garden and his old job.",
+      "Now we help each other out. When he goes away, I clear his letterbox, put his bins out and water his tomatoes. When my family went on a holiday, he did the same for us, and he even mowed our front lawn without being asked. We also have each other's phone numbers, which makes me feel safer.",
+      "I think small things build trust. You don't need perfect English to be a good neighbour. You just need to be friendly, say yes when you can, and be clear when you can't. If I don't understand something, I simply ask him to say it again. He never minds.",
+      "My advice for new migrants is simple: start with a small chat at the letterbox or on bin night. Offer a little help, and accept help too. A good neighbour makes a new place feel like home."
+    ],
+    "zh": "刚来澳洲时我和邻居只是点头之交，因为害羞、担心英语不好。后来隔壁邻居从天气和垃圾桶聊起，每周一晚上放垃圾桶成了我们聊天的机会，慢慢就熟了。现在我们互相帮忙：他出门我帮他收信、放桶、浇番茄；我们出门他也帮忙，甚至主动帮我们剪草。互存电话让我更有安全感。我觉得做好邻居不需要完美的英语，只要友好、能帮就帮、不能帮就说清楚，听不懂就请对方再说一遍。给新移民的建议：从信箱旁或放垃圾桶时的小聊天开始，愿意帮忙，也愿意接受帮助。",
+    "patterns": [
+      {
+        "en": "Would you mind ___ while I'm away?",
+        "zh": "我不在的时候，你介意帮我……吗？（请人帮忙）"
+      },
+      {
+        "en": "No worries at all. Just to confirm, you want me to ___ on ___?",
+        "zh": "完全没问题。我确认一下，你是要我在……做……？"
+      },
+      {
+        "en": "I'm happy to ___, but I won't be around on ___.",
+        "zh": "我很乐意……，不过……那天我不在。（答应但说明限制）"
+      },
+      {
+        "en": "If anything comes up, I'll ___.",
+        "zh": "万一有什么事，我会……"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Graham",
+      "role": "隔壁的退休邻居",
+      "voice": "m"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Afternoon! Gorgeous day for it, eh? Have you got a sec?",
+        "zh": "下午好！天气真好啊，是吧？你有空吗？"
+      },
+      {
+        "s": "y",
+        "en": "Afternoon, Graham! Yeah, sure. What's up?",
+        "zh": "下午好，Graham！有空，怎么了？"
+      },
+      {
+        "s": "o",
+        "en": "Well, big news — our Sarah had the baby last week. A little girl. So I'm off up to Brissie this Thursdee to meet the new bub.",
+        "zh": "是这样，大消息——我女儿 Sarah 上周生了，是个女孩。所以我这周四要去布里斯班看小宝宝。"
+      },
+      {
+        "s": "y",
+        "en": "Oh, congratulations! That's lovely news. How long are you going for?",
+        "zh": "哇，恭喜恭喜！太好了。你去多久？"
+      },
+      {
+        "s": "o",
+        "en": "Just over a fortnight. Back on the fourth of December, all going well. Now, I hate to ask, but would you mind keeping an eye on the place while I'm gone?",
+        "zh": "两个多星期吧。顺利的话十二月四号回来。我真不好意思开口，你介意我不在的时候帮忙照看一下房子吗？"
+      },
+      {
+        "s": "y",
+        "en": "Of course, happy to help. What do you need me to do?",
+        "zh": "当然，很乐意帮忙。需要我做什么？"
+      },
+      {
+        "s": "o",
+        "en": "Righto, mainly the bins. Bins go out Mondee night — red one every week, and it's the yellow one this week, then the green one the week after, and so on.",
+        "zh": "好嘞，主要是垃圾桶。周一晚上放——红的每周都放，这周放黄的，下周放绿的，就这样轮着来。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? So the red bin goes out every week, and the yellow and green ones take turns?",
+        "zh": "不好意思，能说慢一点再讲一遍吗？就是红桶每周都放，黄桶和绿桶轮流放？"
+      },
+      {
+        "s": "o",
+        "en": "Spot on. Every second week. Pickup's early Tuesdee morning, so if you could wheel them back in Tuesdee arvo, that'd be ace. Otherwise it's a bit of a giveaway.",
+        "zh": "完全正确，隔周一次。周二一大早收，你周二下午帮我推回来就太好了，不然一看就知道没人在家。"
+      },
+      {
+        "s": "y",
+        "en": "No worries. Monday night out, Tuesday afternoon back in. What about the mail?",
+        "zh": "没问题。周一晚上推出去，周二下午推回来。那信件呢？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, if you could clear the letterbox every couple of days. It gets chockers with junk mail, and that's a dead giveaway too. Just chuck it all on the kitchen bench — don't bother sorting it.",
+        "zh": "嗯，麻烦你每隔一两天清一下信箱。广告单多得能塞满，那也是一眼就暴露。全放厨房台面上就行，不用分。"
+      },
+      {
+        "s": "y",
+        "en": "Sure. Anything else? I saw your tomatoes out the back — they're looking great.",
+        "zh": "好的。还有别的吗？我看你后院的番茄长得特别好。"
+      },
+      {
+        "s": "o",
+        "en": "Ha, thanks. They're my pride and joy. The front garden's on a timer, so don't worry about that, but the tomatoes need a good soak every second evening, more if it's a stinker. Hose is round the side by the tap.",
+        "zh": "哈，谢谢，那是我的宝贝。前院是定时浇水的，不用管，但番茄要隔一天傍晚浇透一次，要是特别热就多浇。水管在房子侧面水龙头旁边。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, a stinker means a really hot day, right?",
+        "zh": "我确认一下，stinker 是指特别热的天，对吧？"
+      },
+      {
+        "s": "o",
+        "en": "That's the one. Anything over thirty-five, give them a drink every day if you can.",
+        "zh": "对。超过三十五度的话，能的话就每天浇。"
+      },
+      {
+        "s": "y",
+        "en": "Got it. One thing, though — I'm happy to do all that, but we're away the weekend of the twenty-ninth. We're going down to Victor Harbor.",
+        "zh": "明白。不过有一点——我很乐意做这些，但二十九号那个周末我们不在，要去 Victor Harbor。"
+      },
+      {
+        "s": "o",
+        "en": "Oh, no dramas at all. A couple of days won't hurt. I'll ask Bev across the road to cover that weekend. It's no skin off her nose, she's always out walking the dog.",
+        "zh": "哦，完全没关系，两天没事的。那个周末我请对面的 Bev 帮忙，对她来说一点不麻烦，她总在外面遛狗。"
+      },
+      {
+        "s": "y",
+        "en": "Great. How will I get in, if I need to?",
+        "zh": "太好了。如果我需要进屋，怎么进？"
+      },
+      {
+        "s": "o",
+        "en": "I'll drop a spare key over Wednesdee night. There's an alarm, mind you — the keypad's just inside the front door. I'll text you the code so I don't forget it myself.",
+        "zh": "我周三晚上把备用钥匙送过来。不过有报警器——按键板就在前门进去那儿。我把密码短信发给你，免得我自己忘了。"
+      },
+      {
+        "s": "y",
+        "en": "Perfect. Do you have my number? It's 0491 570 147.",
+        "zh": "好的。你有我的电话吗？是 0491 570 147。"
+      },
+      {
+        "s": "o",
+        "en": "Hang on, let me grab my phone... 0491 570 147. Done. I'll send you a text now so you've got mine. If anything goes pear-shaped, just give us a bell.",
+        "zh": "等一下，我拿手机……0491 570 147，存好了。我现在给你发条短信，你就有我的号了。要是出了什么岔子，给我打电话就行。"
+      },
+      {
+        "s": "y",
+        "en": "Will do. And if anything comes up, I'll send you a photo as well.",
+        "zh": "好的。万一有什么情况，我也会拍照发给你。"
+      },
+      {
+        "s": "o",
+        "en": "You're a legend. Honestly, if it's too much of a hassle, just say so — I won't be offended.",
+        "zh": "你真是太好了。说真的，要是太麻烦你就直说，我不会介意。"
+      },
+      {
+        "s": "y",
+        "en": "Not at all, it's no trouble. That's what neighbours are for. Have a great trip, and give the baby a cuddle from us.",
+        "zh": "一点也不麻烦，邻居就是互相帮忙的嘛。祝你旅途愉快，替我们抱抱小宝宝。"
+      },
+      {
+        "s": "o",
+        "en": "Will do. Thanks heaps, I owe you one. I'll bring you back something from Queensland — a mango or two, at least!",
+        "zh": "一定。太感谢了，欠你个人情。我从昆士兰给你带点东西回来——起码带几个芒果！"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再讲一遍吗？"
+    },
+    {
+      "en": "Sorry, what do you mean by ___?",
+      "zh": "不好意思，……是什么意思？"
+    },
+    {
+      "en": "Just to confirm, you want me to ___ on ___, right?",
+      "zh": "我确认一下，你是要我在……做……，对吗？"
+    },
+    {
+      "en": "Could you write that down for me, or text it to me?",
+      "zh": "能帮我写下来，或者发短信给我吗？"
+    },
+    {
+      "en": "Which one is that again — the yellow lid or the green lid?",
+      "zh": "再说一下是哪个——黄盖的还是绿盖的？"
+    }
+  ],
+  "checklist": [
+    "我能用 Congratulations! / How long are you going for? 自然地寒暄",
+    "我能听懂 bin night、red one every week、every second week，并说出哪天放哪个桶",
+    "我能听懂 chockers、a dead giveaway、chuck it on the bench，知道信件怎么处理",
+    "我能用 Just to confirm... 确认 stinker、give them a good soak 这类不熟的说法",
+    "我能礼貌说明自己哪个周末不在，而不是什么都直接答应",
+    "我和邻居交换了电话，约好钥匙、报警器密码和有事怎么联系"
+  ]
+}
