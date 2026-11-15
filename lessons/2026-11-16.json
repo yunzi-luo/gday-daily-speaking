@@ -1,0 +1,322 @@
+{
+  "id": "2026-11-16",
+  "date": "2026-11-16",
+  "category": "工作",
+  "title": "周一电脑账号被锁打给公司IT服务台",
+  "titleEn": "Locked out on Monday morning: calling the IT service desk",
+  "scene": [
+    "周一早上 8:40，你到办公室打开笔记本，系统提示密码已过期，你试了几次新密码都不对，账号被锁了。更糟的是你周末换了新手机，Authenticator 验证码也收不到。9:30 你还有个需求评审会要主持。你用座机打给公司 IT 服务台，接电话的是技术员 Liam。他人很好，但说话快，一口 you're through to、bear with me、remote in、raise a ticket、she'll be right 这种说法。",
+    "你的目标：① 说清楚问题：账号被锁 + 换了手机收不到验证码；② 跟着他的指示一步步操作（远程连接、重设密码、重新绑定 MFA），听不懂就礼貌追问；③ 拿到工单号，问清楚如果 9:30 前修不好有什么临时办法。"
+  ],
+  "facts": [
+    {
+      "k": "Problem",
+      "v": "密码过期 → 试错太多次账号被锁；新手机没装好 Authenticator，收不到验证码"
+    },
+    {
+      "k": "Deadline",
+      "v": "9:30 要主持 Teams 需求评审会"
+    },
+    {
+      "k": "Staff ID",
+      "v": "你的员工号 40287（编造），分机 3315"
+    },
+    {
+      "k": "Ticket",
+      "v": "工单号 INC 0048 213，会发到你的手机短信 0491 570 156"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "you're through to …",
+      "zh": "（接电话开场）这里是……",
+      "ex": "Morning, you're through to the IT Service Desk, Liam speaking."
+    },
+    {
+      "en": "locked out (of my account)",
+      "zh": "（账号）被锁、进不去",
+      "ex": "I've been locked out of my account after too many attempts."
+    },
+    {
+      "en": "my password's expired",
+      "zh": "密码过期了",
+      "ex": "It said my password's expired, so I tried to change it."
+    },
+    {
+      "en": "the authenticator app / MFA",
+      "zh": "身份验证器 App / 多重验证",
+      "ex": "I got a new phone, so the authenticator app isn't set up yet."
+    },
+    {
+      "en": "re-register / set up again",
+      "zh": "重新绑定、重新设置",
+      "ex": "We'll need to re-register MFA on your new phone."
+    },
+    {
+      "en": "remote in / remote session",
+      "zh": "远程连接你的电脑",
+      "ex": "Are you happy for me to remote in and have a look?"
+    },
+    {
+      "en": "bear with me",
+      "zh": "请稍等一下（我在弄）",
+      "ex": "Bear with me, this bit takes a minute to load."
+    },
+    {
+      "en": "it's playing up",
+      "zh": "（机器）出毛病、不正常",
+      "ex": "My laptop's been playing up since the update."
+    },
+    {
+      "en": "restart / give it a reboot",
+      "zh": "重启",
+      "ex": "Give it a quick reboot and try logging in again."
+    },
+    {
+      "en": "raise a ticket / ticket number",
+      "zh": "开工单 / 工单号",
+      "ex": "I'll raise a ticket so there's a record of it."
+    },
+    {
+      "en": "escalate it",
+      "zh": "把问题升级（转给更高级别的人）",
+      "ex": "If it still won't sync, I'll escalate it to the identity team."
+    },
+    {
+      "en": "a workaround",
+      "zh": "临时变通办法",
+      "ex": "As a workaround, you can join the meeting from your phone."
+    }
+  ],
+  "listening": [
+    {
+      "en": "Morning, you're through to the Service Desk, Liam speaking. What can I do for ya?",
+      "sound": "you're through to 读得很快像 “yer-threw-ta”；What can I do for ya 连成 “wot-k'nai-do-fa-ya”，ya = you。",
+      "zh": "早上好，这里是 IT 服务台，我是 Liam。有什么可以帮你？",
+      "reply": "Hi Liam, I've been locked out of my account and I can't get the codes on my phone."
+    },
+    {
+      "en": "No dramas. Can I grab your staff ID and the best number to get you on?",
+      "sound": "grab = 要一下（不是抢）；get you on 连成 “get-cha-on”，意思是“打哪个电话能找到你”。",
+      "zh": "没问题。能告诉我你的员工号和最好打哪个电话找你吗？",
+      "reply": "Sure, it's 4-0-2-8-7, and I'm on extension 3315."
+    },
+    {
+      "en": "Righto, looks like you've had a few goes and it's locked you out. Happens all the time on a Monday.",
+      "sound": "Righto 读 “rai-toh”= 好的；had a few goes = 试了好几次；locked you out 连读 “lock-tcha-out”。",
+      "zh": "好，看起来你试了好几次，系统把你锁了。周一这种事天天有。",
+      "reply": "Yeah, my password expired and I think I mixed up the new one."
+    },
+    {
+      "en": "Are you happy for me to remote in? Just pop the six-digit code from Quick Assist in the box and hit allow.",
+      "sound": "Are you happy for me to = 你同意我……吗（不是问你开不开心）；remote in 连成 “ri-mo-tin”；pop … in = 输入。",
+      "zh": "你同意我远程连进来吗？把 Quick Assist 里的六位数字输进框里，再点允许。",
+      "reply": "Sure. Sorry, could you say the code bit again a bit slower?"
+    },
+    {
+      "en": "Bear with me, it's thinking about it… she'll be right, just takes a sec.",
+      "sound": "bear with me 读 “bair-with-me”；she'll be right = 没事，会好的（she 指情况，不是人）；a sec = 一秒钟。",
+      "zh": "稍等，它在加载……没事，等一下就好。",
+      "reply": "No worries, I'll hang on."
+    },
+    {
+      "en": "If MFA still won't play ball, I'll escalate it, but they're flat out on a Monday so I can't promise before half nine.",
+      "sound": "won't play ball = 不配合、不好使；flat out = 忙得要死；half nine = 9:30。",
+      "zh": "如果验证还是不好使，我就升级上去，但周一他们忙疯了，9 点半前不敢保证。",
+      "reply": "Understood. Is there a workaround so I can still run my meeting?"
+    }
+  ],
+  "speech": {
+    "topic": "讲讲你遇到过的一次电脑或技术故障，你是怎么解决的",
+    "paragraphs": [
+      "I want to talk about a tech problem I had at work last Monday. It sounds small, but it nearly made me late for an important meeting.",
+      "When I got to the office, my laptop told me my password had expired. I tried to make a new one, but I typed it wrong a few times and the system locked me out. To make things worse, I had just bought a new phone on the weekend, so my authenticator app wasn't set up. I couldn't get any codes.",
+      "I had to run a requirements meeting at half past nine, so I called the IT service desk straight away. The technician was really friendly, but he spoke very fast. At first I felt nervous, so I asked him to slow down and repeat the steps. He didn't mind at all. He remoted in to my laptop, unlocked my account and helped me reset my password. Then he walked me through setting up the app on my new phone.",
+      "The whole thing took about twenty minutes. I wrote down the ticket number, just in case it happened again, and I joined my meeting with five minutes to spare.",
+      "I learned two things from this. First, when you change your phone, move your authenticator app before you reset the old one. Second, it's always okay to ask people to slow down. Most Australians are happy to help, and they would rather repeat something than have you guess. Now I feel much more confident when I call a help desk."
+    ],
+    "zh": "我讲的是上周一上班遇到的技术问题。到办公室时电脑提示密码过期，我设新密码时输错几次，账号被锁了；周末刚换手机，验证器 App 没装好，收不到验证码。9 点半我要主持需求会，就马上打给 IT 服务台。技术员很友好但说话很快，我请他放慢、重复步骤，他一点不介意。他远程连上电脑，解锁账号、帮我重设密码，又一步步教我在新手机上装好 App。前后二十分钟，我记下工单号，提前五分钟进了会。我学到两点：换手机前先迁移验证器；请别人说慢点完全没问题，大多数澳洲人宁愿重复也不想让你猜。现在打服务台我自信多了。",
+    "patterns": [
+      {
+        "en": "To make things worse, ___.",
+        "zh": "更糟的是……（讲故事时加一个新麻烦）"
+      },
+      {
+        "en": "I had to ___, so I ___ straight away.",
+        "zh": "我得……，所以马上就……（说明紧急情况和你的行动）"
+      },
+      {
+        "en": "He walked me through ___.",
+        "zh": "他一步步教我……"
+      },
+      {
+        "en": "___ with five minutes to spare.",
+        "zh": "……还剩五分钟（勉强赶上）"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Liam",
+      "role": "公司 IT 服务台技术员",
+      "voice": "m"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Morning, you're through to the IT Service Desk, Liam speaking. What can I do for ya?",
+        "zh": "早上好，这里是 IT 服务台，我是 Liam。有什么可以帮你？"
+      },
+      {
+        "s": "y",
+        "en": "Hi Liam. I've been locked out of my account, and I can't get the codes on my phone either.",
+        "zh": "你好 Liam。我的账号被锁了，手机上也收不到验证码。"
+      },
+      {
+        "s": "o",
+        "en": "Ah, the Monday special. No dramas, we'll sort you out. Can I grab your staff ID and the best number to get you on?",
+        "zh": "啊，周一经典问题。没事，我们帮你搞定。能给我你的员工号和最好联系你的电话吗？"
+      },
+      {
+        "s": "y",
+        "en": "Sure, my staff ID is 4-0-2-8-7, and I'm on extension 3315.",
+        "zh": "好的，员工号 40287，我的分机是 3315。"
+      },
+      {
+        "s": "o",
+        "en": "Lovely. Righto, so I can see your password expired on Saturday, and then there's been, what, five goes this morning, so it's locked you out automatically.",
+        "zh": "好。嗯，我看到你的密码周六过期了，今天早上试了大概五次，所以系统自动把你锁了。"
+      },
+      {
+        "s": "y",
+        "en": "Yeah, I think I mixed up the new password. And the other thing is, I got a new phone on the weekend, so the authenticator app isn't set up on it.",
+        "zh": "对，我可能把新密码记混了。还有，我周末换了新手机，所以验证器 App 还没装好。"
+      },
+      {
+        "s": "o",
+        "en": "Okay, so two things then. I'll unlock you and reset the password first, then we'll re-register MFA on the new phone. Are you happy for me to remote in?",
+        "zh": "好，那就是两件事。我先给你解锁、重设密码，然后在新手机上重新绑定多重验证。你同意我远程连到你电脑上吗？"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? You want to connect to my laptop?",
+        "zh": "不好意思，能再说慢一点吗？你是要连到我的笔记本上？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, sorry, I talk a mile a minute. I just want to remote in, so I can see your screen. Down the bottom left of the login screen there's a little icon that says 'Get help'. Click that and it'll give you a six-digit code. Read it out to me when it pops up.",
+        "zh": "对，抱歉，我说话太快了。我只是想远程连进来，这样能看到你的屏幕。登录界面左下角有个小图标写着 Get help，点一下会给你一个六位数的码，出来以后念给我听。"
+      },
+      {
+        "s": "y",
+        "en": "Okay… it says 7-1-4, 9-0-2.",
+        "zh": "好……显示 714 902。"
+      },
+      {
+        "s": "o",
+        "en": "Ta. Bear with me, it's thinking about it… right, I'm in. You'll see my mouse moving round, don't panic. I've unlocked the account, and I'm setting a temporary password now. I'll text it to you.",
+        "zh": "谢了。稍等，在加载……好，我连上了。你会看到我的鼠标在动，别慌。账号已经解锁，我现在设一个临时密码，发短信给你。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, you're texting it to my mobile, the one ending in 156?",
+        "zh": "确认一下，你是发到我手机上，尾号 156 那个？"
+      },
+      {
+        "s": "o",
+        "en": "That's the one. Once you're in, it'll make you change it straight away. Make it at least fourteen characters, and nothing you've used in the last year, otherwise it'll knock it back.",
+        "zh": "对，就是那个。登进去后它会马上要你改密码。至少 14 个字符，而且不能是过去一年用过的，不然会被拒。"
+      },
+      {
+        "s": "y",
+        "en": "Got it. I'm in, and I've changed it. That worked.",
+        "zh": "明白。我登进去了，也改好了，成功了。"
+      },
+      {
+        "s": "o",
+        "en": "Ripper. Now grab your new phone, open the authenticator app, and hit the plus sign up the top. Then scan the QR code I've just put on your screen.",
+        "zh": "太好了。现在拿出新手机，打开验证器 App，点上面的加号，然后扫我刚放到你屏幕上的二维码。"
+      },
+      {
+        "s": "y",
+        "en": "Okay, I've scanned it, but it says 'Something went wrong'. Is that normal?",
+        "zh": "好，我扫了，但显示“出错了”。这正常吗？"
+      },
+      {
+        "s": "o",
+        "en": "Hmm, no, that's it playing up. Sometimes the old phone's still hanging around on the account. Let me clear that off… okay, give it another crack.",
+        "zh": "嗯，不正常，是它出毛病了。有时候旧手机还挂在账号上。我把它清掉……好，再试一次。"
+      },
+      {
+        "s": "y",
+        "en": "It worked this time. It's showing a code now.",
+        "zh": "这次成功了，现在显示验证码了。"
+      },
+      {
+        "s": "o",
+        "en": "Too easy. Pop that code in on your laptop and you should be good to go. If it plays up again, give us a buzz and I'll escalate it to the identity team.",
+        "zh": "小菜一碟。把这个码输到电脑上就可以了。如果它再出问题，给我们打电话，我会升级给身份认证组。"
+      },
+      {
+        "s": "y",
+        "en": "Great, thanks. I've got a meeting at half nine. If something goes wrong, is there a workaround?",
+        "zh": "太好了，谢谢。我 9 点半有个会。万一出问题，有什么临时办法吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, worst case, you can join the Teams call from your phone as a guest with the dial-in number. I've raised a ticket for you too. It's INC 0048 213, and that'll come through by text.",
+        "zh": "有，最坏的情况，你可以用电话拨入号码以访客身份从手机加入 Teams 会议。我也给你开了工单，号码是 INC 0048 213，会发短信给你。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, was that 0048 213? Could you spell out the start for me?",
+        "zh": "不好意思，是 0048 213 吗？开头字母能拼一下吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, I-N-C, then 0-0-4-8, 2-1-3. Anything else I can help with while I've got you?",
+        "zh": "对，I-N-C，然后 0048，213。趁我在线，还有别的要帮忙的吗？"
+      },
+      {
+        "s": "y",
+        "en": "No, that's everything. Thanks so much, Liam, you've saved my morning.",
+        "zh": "没有了，就这些。太感谢了 Liam，你救了我一上午。"
+      },
+      {
+        "s": "o",
+        "en": "No worries at all. Good luck with the meeting. Cheers!",
+        "zh": "不客气。开会顺利，拜拜！"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再说一遍吗？"
+    },
+    {
+      "en": "Sorry, which button do you mean — the one on the left or the right?",
+      "zh": "不好意思，你说的是哪个按钮——左边还是右边？"
+    },
+    {
+      "en": "Could you spell that for me, letter by letter?",
+      "zh": "能一个字母一个字母拼给我吗？"
+    },
+    {
+      "en": "Just to confirm, you want me to ___, is that right?",
+      "zh": "确认一下，你是要我……，对吗？"
+    },
+    {
+      "en": "Could you text or email me the ticket number and the steps, please?",
+      "zh": "能把工单号和步骤用短信或邮件发我吗？"
+    }
+  ],
+  "checklist": [
+    "我能用一两句话说清楚两个问题：账号被锁 + 新手机收不到验证码",
+    "我听懂了 you're through to、remote in、bear with me、play up、give it another crack",
+    "对方说太快时，我至少礼貌追问了 2 次（说慢点 / 确认一下）",
+    "我能清楚地念出员工号、分机号和屏幕上的六位数字",
+    "我拿到了工单号并让对方拼写确认",
+    "我问到了 9:30 开会前修不好的临时办法（workaround）"
+  ]
+}

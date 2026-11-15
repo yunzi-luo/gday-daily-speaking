@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "lessons": [
+    {
+      "id": "2026-11-16",
+      "date": "2026-11-16",
+      "category": "工作",
+      "title": "周一电脑账号被锁打给公司IT服务台",
+      "titleEn": "Locked out on Monday morning: calling the IT service desk"
+    },
     {
       "id": "2026-11-15",
       "date": "2026-11-15",
