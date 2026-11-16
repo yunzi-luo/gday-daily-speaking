@@ -1,0 +1,322 @@
+{
+  "id": "2026-11-17",
+  "date": "2026-11-17",
+  "category": "房屋",
+  "title": "退租验房后中介来电要扣押金",
+  "titleEn": "Negotiating bond deductions after the final inspection",
+  "scene": [
+    "你们一家上周五搬出了在 Prospect 租了三年的房子（14 Wattle Street, Prospect），钥匙已经交回中介。周一中介做了 final inspection（退租验房）。周二下午，物业经理 Nat 打电话给你，说房子大体不错，但她列了几项想从你的 bond（押金，$2,240）里扣：地毯清洗、烤箱、孩子房间墙上的 Blu Tack 印，还有一个车库遥控器“没交回来”。Nat 很客气，但语速快，满口 final inspection、ingoing report、fair wear and tear、patch and paint 这些说法。",
+    "你的目标：① 听清楚每一项要扣什么、多少钱；② 有理有据地回应：地毯你搬走前请人蒸洗过、有收据；遥控器你和钥匙一起交了；墙上的小印子属于正常损耗，请她对照入住时的 condition report 和照片；③ 对合理的部分（烤箱）可以让步，最后确认接下来怎么走：发什么邮件、押金退款怎么签字、多久到账。"
+  ],
+  "facts": [
+    {
+      "k": "Bond",
+      "v": "$2,240（四周房租 $560 × 4），由 SA 政府的 CBS（Consumer and Business Services）保管"
+    },
+    {
+      "k": "Nat 想扣",
+      "v": "地毯蒸洗 $320 · 烤箱清洁 $150 · 墙面修补刷漆 $180 · 车库遥控器 $95，合计 $745"
+    },
+    {
+      "k": "你手里的证据",
+      "v": "地毯清洗收据（上周四做的）；交钥匙时前台 Kayla 签收的钥匙单；入住时的 condition report"
+    },
+    {
+      "k": "你的电话",
+      "v": "0491 570 238（编造）"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "final inspection / exit inspection",
+      "zh": "退租验房",
+      "ex": "We did the final inspection yesterday morning."
+    },
+    {
+      "en": "bond",
+      "zh": "租房押金",
+      "ex": "I'd like to get as much of my bond back as possible."
+    },
+    {
+      "en": "take it out of the bond / a deduction",
+      "zh": "从押金里扣 / 扣款",
+      "ex": "We'd have to take that out of the bond, I'm afraid."
+    },
+    {
+      "en": "ingoing (condition) report",
+      "zh": "入住时的房屋状况报告",
+      "ex": "Can we check the ingoing report? Those marks were already there."
+    },
+    {
+      "en": "fair wear and tear",
+      "zh": "正常使用损耗（租客不用赔）",
+      "ex": "A few small marks after three years is fair wear and tear."
+    },
+    {
+      "en": "steam clean the carpets",
+      "zh": "蒸汽清洗地毯（退租常见要求）",
+      "ex": "We had the carpets steam cleaned last Thursday."
+    },
+    {
+      "en": "patch and paint",
+      "zh": "补墙刷漆",
+      "ex": "The owner wants to patch and paint the kids' room."
+    },
+    {
+      "en": "scuff marks / Blu Tack marks",
+      "zh": "刮蹭印 / 蓝丁胶留下的印子",
+      "ex": "There are a few Blu Tack marks where the posters were."
+    },
+    {
+      "en": "a bit grubby",
+      "zh": "有点脏、不太干净",
+      "ex": "The oven was still a bit grubby around the door."
+    },
+    {
+      "en": "meet halfway / split the difference",
+      "zh": "各让一步 / 差价各付一半",
+      "ex": "Could we meet halfway on the oven?"
+    },
+    {
+      "en": "put in a claim / lodge the bond refund",
+      "zh": "提交押金退款申请",
+      "ex": "I'll lodge the bond refund once we've agreed on the amount."
+    },
+    {
+      "en": "dispute it",
+      "zh": "对扣款提出异议（可走 SACAT 仲裁）",
+      "ex": "If you don't agree, you can dispute it through SACAT."
+    }
+  ],
+  "listening": [
+    {
+      "en": "Hi, it's Nat from the agency. How're you going? Got a sec to go over the final inspection?",
+      "sound": "How're you going 连读成 “how-ya-goin”；Got a sec 吞掉 t，像 “go-da-sec”；go over = 过一遍。",
+      "zh": "你好，我是中介的 Nat。最近好吗？有空一起过一下退租验房的情况吗？",
+      "reply": "Hi Nat, yes, I've got a few minutes. How did it go?"
+    },
+    {
+      "en": "Look, overall the place came up really well, just a couple of bits I need to run past ya.",
+      "sound": "came up really well = 收拾得很好（不是“上来”）；a couple of bits = 几件小事；run past ya 像 “run-pas-cha”，ya = you。",
+      "zh": "总体来说房子收拾得很好，就是有几件小事想跟你说一下。",
+      "reply": "Sure, go ahead. What are they?"
+    },
+    {
+      "en": "The carpets in the bedrooms didn't look like they'd been professionally done, so we'd be looking at about three-twenty for that.",
+      "sound": "professionally done = 专业清洗过；we'd be looking at = 大概要（花）；three-twenty = $320，澳洲人报价常省略 dollars 和 hundred。",
+      "zh": "卧室地毯看起来不像专业清洗过，所以这项大概要 320 块。",
+      "reply": "Actually, we had them steam cleaned last Thursday. I've got the receipt."
+    },
+    {
+      "en": "Oh righto, if you can flick that through to me, I'll knock it off, no dramas.",
+      "sound": "righto = 好的/明白了；flick that through 像 “flick-that-threw” = 发过来；knock it off = 把这项去掉；no dramas = 没问题。",
+      "zh": "哦好的，你把收据发给我，我就把这项去掉，没问题。",
+      "reply": "Great, I'll email it to you this arvo."
+    },
+    {
+      "en": "With the walls, the owner reckons the Blu Tack marks need a patch and paint, so that's another one-eighty.",
+      "sound": "owner reckons = 房东认为；patch and paint 连成 “patch-n-paint”；one-eighty = $180。",
+      "zh": "墙面的话，房东觉得蓝丁胶印子需要补墙刷漆，又是 180 块。",
+      "reply": "Hmm, could you check the ingoing report? I think that's fair wear and tear after three years."
+    },
+    {
+      "en": "Fair enough, I'll have a look at the photos from when you moved in and get back to ya by Thursday.",
+      "sound": "Fair enough = 有道理/说得对；get back to ya 像 “get-back-ta-ya” = 再回复你。",
+      "zh": "有道理，我看一下你入住时的照片，周四前回复你。",
+      "reply": "Thanks, Nat. Could you also send me the photos from yesterday's inspection?"
+    }
+  ],
+  "speech": {
+    "topic": "讲讲你在澳洲租房或退房的一次经历，你学到了什么",
+    "paragraphs": [
+      "I want to talk about moving out of a rental in Adelaide and getting my bond back. When you rent in Australia, you usually pay four weeks' rent as a bond. You get it back at the end, but only if the house is in good condition.",
+      "Last week my family moved out of a house we had rented for three years. We spent the whole weekend cleaning. We washed the windows, cleaned the kitchen and even paid someone to steam clean the carpets. After the final inspection, the property manager called me. She was friendly, but she wanted to take about seven hundred dollars out of our bond.",
+      "At first I felt nervous, because she spoke very fast and used a lot of words I didn't know, like fair wear and tear. But I asked her to slow down and I went through the list one item at a time. I told her I had a receipt for the carpet cleaning. I also explained that we returned the garage remote with the keys. For the marks on the wall, I asked her to check the report from when we moved in.",
+      "In the end, she agreed to remove most of the charges. We only paid a small amount for cleaning the oven, which I thought was fair.",
+      "I learned three things. First, keep every receipt. Second, take photos when you move in and when you move out. Third, don't be afraid to ask questions. Being polite and calm really works, even on the phone."
+    ],
+    "zh": "我讲的是在阿德莱德退租、拿回押金的经历。在澳洲租房一般要交四周房租做押金，退租时房子状况好才能全额拿回。上周我们搬出住了三年的房子，整个周末都在打扫，还请人蒸洗了地毯。验房后物业经理打来电话，人很友好，但想从押金里扣七百块左右。一开始我很紧张，她说得快，还有 fair wear and tear 这种我不熟的词。我请她说慢一点，然后一项一项过：地毯有收据，遥控器和钥匙一起交了，墙上的印子请她对照入住报告。最后她去掉了大部分扣款，我们只付了一点烤箱清洁费，我觉得合理。我学到三点：保留所有收据；入住和退租都拍照；别怕提问，礼貌冷静真的有用，打电话也一样。",
+    "patterns": [
+      {
+        "en": "At first I felt ___, because ___.",
+        "zh": "一开始我觉得……，因为……（讲感受变化）"
+      },
+      {
+        "en": "I went through ___ one ___ at a time.",
+        "zh": "我把……一项一项过了一遍"
+      },
+      {
+        "en": "In the end, she agreed to ___.",
+        "zh": "最后她同意了……（讲结果）"
+      },
+      {
+        "en": "Don't be afraid to ___.",
+        "zh": "别怕去……（给建议）"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Nat",
+      "role": "房屋中介物业经理",
+      "voice": "f"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Hi, it's Nat from Parkside Property. How're you going? Have you got a sec to go over the final inspection?",
+        "zh": "你好，我是 Parkside 物业的 Nat。最近好吗？有空一起过一下退租验房吗？"
+      },
+      {
+        "s": "y",
+        "en": "Hi Nat, yes, I've got a few minutes. How did it go?",
+        "zh": "你好 Nat，有的，我有几分钟。验得怎么样？"
+      },
+      {
+        "s": "o",
+        "en": "Look, overall the place came up really well, so thanks for that. There's just a couple of bits I need to run past ya before we sort out the bond. So first up, the carpets in the bedrooms didn't look like they'd been professionally done. There were a few spots near the wardrobe, so we'd be looking at about three-twenty for a steam clean.",
+        "zh": "总体来说房子收拾得很好，谢谢你们。只是在处理押金之前有几件小事要跟你说一下。第一项，卧室地毯看起来不像专业清洗过，衣柜旁边有几块污渍，所以蒸洗大概要 320 块。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? Three hundred and twenty for the carpets?",
+        "zh": "不好意思，能说慢一点再说一遍吗？地毯要 320 块？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, three-twenty for the carpets.",
+        "zh": "对，地毯 320 块。"
+      },
+      {
+        "s": "y",
+        "en": "Actually, we had them steam cleaned last Thursday by a company in Kilkenny. I've got the receipt. Maybe those spots are old stains that didn't come out?",
+        "zh": "其实我们上周四请了 Kilkenny 一家公司蒸洗过，我有收据。那几块可能是洗不掉的旧印子？"
+      },
+      {
+        "s": "o",
+        "en": "Oh righto, I didn't know that. If you can flick the receipt through to me, I'll knock that one off, no dramas.",
+        "zh": "哦好的，我不知道。你把收据发我，我就把这项去掉，没问题。"
+      },
+      {
+        "s": "y",
+        "en": "Great, I'll email it to you this arvo.",
+        "zh": "太好了，我今天下午发邮件给你。"
+      },
+      {
+        "s": "o",
+        "en": "Lovely. Next one's the oven. It was still a bit grubby, especially round the door and the racks. The cleaners quoted one-fifty to do it properly.",
+        "zh": "好。下一项是烤箱，还是有点脏，尤其是门和烤架那块。清洁工报价 150 块彻底清洁。"
+      },
+      {
+        "s": "y",
+        "en": "Yeah, that's fair. We ran out of time with the oven. But one-fifty sounds a bit steep. Could we meet halfway?",
+        "zh": "嗯，这个合理，烤箱我们没来得及弄。不过 150 有点贵，能各让一步吗？"
+      },
+      {
+        "s": "o",
+        "en": "Let me see what I can do. I reckon the owner'd be happy with eighty if I ask nicely.",
+        "zh": "我看看能怎么办。我好好跟房东说，估计他 80 块就能接受。"
+      },
+      {
+        "s": "y",
+        "en": "Eighty is fine. Thanks, Nat.",
+        "zh": "80 可以，谢谢 Nat。"
+      },
+      {
+        "s": "o",
+        "en": "No worries. Then there's the kids' room. The owner reckons the Blu Tack marks and a few scuffs need a patch and paint, so that's another one-eighty. And we're still missing one of the garage remotes, which is ninety-five to replace.",
+        "zh": "不客气。然后是孩子的房间，房东觉得蓝丁胶印和几处刮痕需要补墙刷漆，又是 180 块。另外车库遥控器还少一个，换一个要 95 块。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, you mean one-eighty for the walls and ninety-five for the remote?",
+        "zh": "我确认一下，你是说墙 180，遥控器 95？"
+      },
+      {
+        "s": "o",
+        "en": "That's the one.",
+        "zh": "对，就是这样。"
+      },
+      {
+        "s": "y",
+        "en": "OK. For the remote, we handed in both remotes with the keys on Friday. Kayla at the front desk signed the key sheet. Could you double-check with her?",
+        "zh": "好。遥控器我们周五和钥匙一起交了两个，前台的 Kayla 签了钥匙单。你能跟她再确认一下吗？"
+      },
+      {
+        "s": "o",
+        "en": "Oh, it's probably sitting in the key safe, to be honest. I'll have a look and let you know.",
+        "zh": "哦，说实话可能就在钥匙柜里。我去看看再告诉你。"
+      },
+      {
+        "s": "y",
+        "en": "Thank you. And for the walls, we lived there for three years, so I think a few small marks are fair wear and tear. Could you check the ingoing report? Some of those marks were already there when we moved in.",
+        "zh": "谢谢。至于墙，我们住了三年，几处小印子我觉得算正常损耗。你能对照一下入住报告吗？有些印子我们搬进去时就有了。"
+      },
+      {
+        "s": "o",
+        "en": "Fair enough. I'll pull up the photos from when you moved in and have a chat with the owner. Leave it with me and I'll get back to ya by Thursday.",
+        "zh": "有道理。我把你入住时的照片调出来，再跟房东聊聊。交给我吧，周四前回复你。"
+      },
+      {
+        "s": "y",
+        "en": "Thanks. Could you also email me the photos from yesterday's inspection? And what happens with the bond after that?",
+        "zh": "谢谢。你也能把昨天验房的照片发邮件给我吗？那之后押金怎么处理？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, I'll send them through. Once we've agreed on the amount, I'll lodge the refund with CBS and you'll get an email to sign it online. If you're not happy with it, don't sign, you can always dispute it. But it usually lands in your account within a week or so.",
+        "zh": "好，我会发给你。等我们定好金额，我就向 CBS 提交退款，你会收到邮件在网上签字。如果不满意就别签，你随时可以提异议。不过一般一周左右就到账了。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, so I'll get an email from CBS, sign it online, and the money comes back in about a week. Is that right?",
+        "zh": "不好意思，就是说我会收到 CBS 的邮件，在网上签字，钱大概一周后退回来，对吗？"
+      },
+      {
+        "s": "o",
+        "en": "Spot on. Is this still the best number for you, 0491 570 238?",
+        "zh": "完全正确。0491 570 238 这个号码还是联系你最好的方式吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, that's right. I'll send the receipt this afternoon. Thanks for your help, Nat.",
+        "zh": "对的。我今天下午把收据发过去。谢谢你的帮忙，Nat。"
+      },
+      {
+        "s": "o",
+        "en": "No worries at all. Good luck settling into the new place. Talk Thursday!",
+        "zh": "一点不客气。祝你们在新家安顿顺利。周四再聊！"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再说一遍吗？"
+    },
+    {
+      "en": "Could you go through the list one item at a time?",
+      "zh": "能一项一项地说吗？"
+    },
+    {
+      "en": "Just to confirm, how much is that all up?",
+      "zh": "我确认一下，总共是多少钱？"
+    },
+    {
+      "en": "Could you email me the list and the photos, please?",
+      "zh": "能把清单和照片发邮件给我吗？"
+    },
+    {
+      "en": "Could you text me the amount so I've got it in writing?",
+      "zh": "能把金额发短信给我吗？这样我有书面记录。"
+    }
+  ],
+  "checklist": [
+    "我能听懂 Nat 报的四项扣款和金额（three-twenty、one-fifty、one-eighty、ninety-five）",
+    "我能说出有收据：We had the carpets steam cleaned last Thursday. I've got the receipt.",
+    "我能用 fair wear and tear 和 ingoing report 礼貌反驳墙面扣款",
+    "我能在合理的项目上提出各让一步：Could we meet halfway?",
+    "我至少礼貌追问了两次（请她说慢一点、Just to confirm…）",
+    "我能复述押金退款的流程：CBS 邮件 → 网上签字 → 大约一周到账"
+  ]
+}
