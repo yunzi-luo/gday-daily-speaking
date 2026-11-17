@@ -1,0 +1,102 @@
+{
+  "id": "2026-11-18",
+  "date": "2026-11-18",
+  "category": "求职",
+  "title": "面试尾声被问有什么问题想问我们",
+  "titleEn": "\"Any questions for us?\" — finishing a job interview strong",
+  "scene": [
+    "周三上午，你在 Teams 上参加一家医疗服务公司（Torrens Health Group，虚构）业务分析师（BA）岗位的第一轮面试。面试官是团队经理 Sarah 和一位资深 BA。前面的行为题都答完了，Sarah 看了看时间，说：“We've got about ten minutes left — have you got any questions for us?” 这是很多华人求职者最容易“卡壳”或只说 “No, I think you've covered everything” 的环节，其实澳洲面试官很看重这几分钟。",
+    "你的目标：① 准备 2–3 个有质量的问题（团队现在最头疼的事、前三个月的期望、混合办公安排）；② 听懂 Sarah 语速快、带口头禅的回答，必要时礼貌追问；③ 最后问清楚下一步流程和时间线（二面、reference check、多久出结果），并得体地收尾道谢。"
+  ],
+  "facts": [
+    {"k": "When", "v": "周三上午 10:00–10:45，Teams 视频面试，最后 10 分钟是提问环节"},
+    {"k": "Who", "v": "Sarah（团队经理，hiring manager）+ 一位资深 BA"},
+    {"k": "Role", "v": "BA，12 个月合同可续（view to extend），混合办公"},
+    {"k": "Next steps", "v": "周五前出结果 → 二面（案例题）→ reference check"}
+  ],
+  "vocab": [
+    {"en": "have you got any questions for us?", "zh": "你有什么问题想问我们吗？（面试收尾必问）", "ex": "Before we wrap up, have you got any questions for us?"},
+    {"en": "wrap up", "zh": "收尾、结束（会议/面试）", "ex": "We'll need to wrap up in about ten minutes."},
+    {"en": "a typical week / day-to-day", "zh": "典型的一周 / 日常工作内容", "ex": "Could you tell me what a typical week looks like in this role?"},
+    {"en": "pain point", "zh": "痛点、最头疼的问题", "ex": "What's the biggest pain point for the team at the moment?"},
+    {"en": "the first three months / first 90 days", "zh": "入职头三个月（问期望时常用）", "ex": "What would success look like in the first three months?"},
+    {"en": "hit the ground running", "zh": "一上手就能干活、马上进入状态", "ex": "We need someone who can hit the ground running."},
+    {"en": "hybrid / in the office two days a week", "zh": "混合办公 / 每周两天在办公室", "ex": "We're hybrid — most people are in Tuesdays and Thursdays."},
+    {"en": "a bit all over the place", "zh": "有点乱、没章法", "ex": "To be honest, our processes are a bit all over the place."},
+    {"en": "a fair bit of", "zh": "相当多的", "ex": "There's a fair bit of stakeholder management in this role."},
+    {"en": "next steps / the process from here", "zh": "下一步 / 接下来的流程", "ex": "Could you walk me through the process from here?"},
+    {"en": "shortlist / second round", "zh": "入围名单 / 第二轮面试", "ex": "We'll be shortlisting for a second round next week."},
+    {"en": "touch base", "zh": "（简短地）联系一下、沟通一下", "ex": "Our recruiter will touch base with you by Friday."}
+  ],
+  "listening": [
+    {"en": "Righto, we've got about ten minutes left — have you got any questions for us?", "sound": "Righto 读作 “rai-toh”（好嘞、那么）；got about 连读成 “go-da-bout”；have you got 弱读成 “hav-ya-got”。", "zh": "好，我们还剩大概十分钟——你有什么想问我们的吗？", "reply": "Yes, I've got a couple, actually. Thanks for asking."},
+    {"en": "Ah, good question. Honestly, it's a bit all over the place at the mo — we're sort of building the plane while we're flying it.", "sound": "at the mo = at the moment（澳洲口语缩写）；building the plane while we're flying it 是比喻：一边做一边搭流程；sort of 弱读成 “sor-da”。", "zh": "嗯，好问题。说实话现在有点乱——我们算是边飞边造飞机。", "reply": "That sounds like a good opportunity to help set things up properly."},
+    {"en": "We're not expecting you to hit the ground running from day one, but by the three-month mark we'd want you across the claims stuff.", "sound": "three-month mark 意思是“到三个月的时候”；be across something = 熟悉、掌握某事（澳洲很常用）；claims stuff 里 stuff 指“那一块东西”。", "zh": "我们不指望你第一天就上手，但到三个月左右，希望你能熟悉理赔那一块。", "reply": "That makes sense. Is there any documentation I could read early on?"},
+    {"en": "We're hybrid — most of the team's in Tuesdays and Thursdays, but it's pretty flexible, especially with school pick-ups and that.", "sound": "team's in = team is in（在办公室）；and that 放句尾 = “之类的”；pretty flexible 里 pretty = 挺、相当。", "zh": "我们是混合办公——团队大多周二周四来办公室，不过挺灵活的，特别是接孩子之类的情况。", "reply": "That's really good to hear. I've got two young kids, so that helps a lot."},
+    {"en": "So from here, we're seeing a couple more people this arvo and tomorrow, then Jess from HR'll touch base by Friday arvo either way.", "sound": "this arvo = 今天下午；HR'll = HR will；either way = 不管结果如何（都会通知你）；seeing people = 面试别人。", "zh": "接下来我们今天下午和明天还要面两三个人，然后 HR 的 Jess 会在周五下午前联系你，不管结果怎样。", "reply": "Great, thanks. And would the second round be in person or online?"},
+    {"en": "Anyway, I won't keep you — really appreciate your time today, it's been great chatting.", "sound": "I won't keep you = 不耽误你了（客气地结束对话）；won't 和 want 要分清：won't 是 “wohnt”，嘴更圆。", "zh": "好了，不耽误你了——非常感谢你今天抽时间，聊得很开心。", "reply": "Thank you both, I really enjoyed it. Looking forward to hearing from you."}
+  ],
+  "speech": {
+    "topic": "面试最后，我通常会问面试官哪些问题",
+    "paragraphs": [
+      "At the end of most job interviews in Australia, the interviewer asks, \"Have you got any questions for us?\" When I first moved here, I usually said, \"No, I think you've covered everything.\" Later, a recruiter told me that this is a missed chance. Interviewers want to see that you are curious and that you are thinking about the real job, not just the interview.",
+      "Now I always prepare three questions. The first one is about the team: \"What's the biggest pain point for the team at the moment?\" The answer tells me what problems I would be working on, and it often gives me a chance to share a quick example of how I solved something similar before.",
+      "My second question is about expectations: \"What would success look like in the first three months?\" This shows that I want to do well, and it helps me understand if the role is realistic. If they say they want someone to hit the ground running, I know I need to prepare more before I start.",
+      "My third question is about the practical side, like hybrid work or flexibility. As a parent, this matters to me, and I think it's fine to ask politely.",
+      "Finally, I always ask about the next steps, for example, \"Could you walk me through the process from here?\" That way, I don't spend the whole week waiting and guessing. Then I thank them for their time and say I'm looking forward to hearing from them. These last five minutes can really change how they remember you."
+    ],
+    "zh": "在澳洲面试的最后，面试官几乎都会问“你有什么问题想问我们吗”。我刚来时总说“没有了”，后来招聘顾问告诉我这是错失机会，面试官想看到你有好奇心、在认真想这份工作。现在我总准备三个问题：一是团队现在最头疼的事，这能让我了解要解决什么问题，还能顺势讲讲自己以前的类似经历；二是头三个月怎样算做得好，这体现积极性，也帮我判断岗位是否现实；三是混合办公、灵活性这类实际问题，作为家长我很在意，礼貌地问是没问题的。最后我一定会问接下来的流程，免得一整周干等，然后道谢说期待回复。最后这五分钟真的会改变面试官对你的印象。",
+    "patterns": [
+      {"en": "What's the biggest ___ for the team at the moment?", "zh": "团队目前最大的___是什么？（challenge / priority / pain point）"},
+      {"en": "What would success look like in the first ___?", "zh": "头___内怎样算做得好？（three months / six months）"},
+      {"en": "Could you walk me through ___?", "zh": "能给我讲讲___吗？（the process from here / a typical week）"},
+      {"en": "I really enjoyed ___, and I'm looking forward to ___.", "zh": "很享受___，期待___。（得体收尾）"}
+    ]
+  },
+  "dialogue": {
+    "other": {"name": "Sarah", "role": "团队经理（面试官）", "voice": "f"},
+    "lines": [
+      {"s": "o", "en": "Righto, I'm conscious of the time — we've got about ten minutes left. Have you got any questions for us?", "zh": "好，我注意一下时间——还剩大概十分钟。你有什么问题想问我们吗？"},
+      {"s": "y", "en": "Yes, I've got a couple, actually. Thanks for asking. First, what's the biggest pain point for the team at the moment?", "zh": "有的，我有几个问题，谢谢。第一个，团队目前最头疼的问题是什么？"},
+      {"s": "o", "en": "Ooh, good one. Um, honestly, it's a bit all over the place at the mo. We've just merged two claims systems, so we're sort of building the plane while we're flying it, if that makes sense.", "zh": "哦，好问题。嗯，说实话，现在有点乱。我们刚把两个理赔系统合并，所以有点像边飞边造飞机，你懂我意思吧。"},
+      {"s": "y", "en": "Sorry, could you say that last bit again a bit slower? Building the plane…?", "zh": "不好意思，最后那句能说慢一点吗？造飞机……？"},
+      {"s": "o", "en": "Ha, yeah, sorry — it just means we're fixing the processes while we're still using them. There's no proper documentation yet.", "zh": "哈，对，抱歉——意思就是我们一边用这些流程一边在修。目前还没有像样的文档。"},
+      {"s": "y", "en": "Got it, thanks. That actually sounds like something I could help with. In my last role, we had to map out the processes after a system upgrade, and I wrote most of the process documents.", "zh": "明白了，谢谢。这其实正是我能帮上忙的地方。我上一份工作中，系统升级后我们要梳理流程，大部分流程文档是我写的。"},
+      {"s": "o", "en": "Oh, that's handy. Yeah, we'd definitely lean on you for that.", "zh": "哦，那挺有用的。是的，这方面我们肯定会很依赖你。"},
+      {"s": "y", "en": "My second question is, what would success look like in the first three months?", "zh": "我的第二个问题是，头三个月怎样算做得好？"},
+      {"s": "o", "en": "Yeah, so we're not expecting you to hit the ground running from day one. But by the three-month mark, we'd want you across the claims stuff, running your own workshops, and sort of owning a couple of the smaller pieces of work.", "zh": "嗯，我们不指望你第一天就能完全上手。但到三个月左右，希望你熟悉理赔那一块、能自己主持需求工作坊，并且独立负责几项小一点的工作。"},
+      {"s": "y", "en": "Just to confirm, when you say \"across the claims stuff\", you mean understanding the claims process end to end?", "zh": "我确认一下，您说的 across the claims stuff，是指要从头到尾了解理赔流程，对吗？"},
+      {"s": "o", "en": "Spot on. Who does what, where it gets stuck, that kind of thing.", "zh": "没错。谁负责什么、在哪儿卡住，这类东西。"},
+      {"s": "y", "en": "That makes sense. Is there anything I could read early on to get up to speed?", "zh": "明白。有没有什么资料我可以提前看，帮助我尽快上手？"},
+      {"s": "o", "en": "Not a lot, to be fair, but Priya's put together a bit of a cheat sheet. We'd sit you down with her in the first week.", "zh": "说实话不多，不过 Priya 整理了一份速查表。第一周我们会安排你跟她坐下来过一遍。"},
+      {"s": "y", "en": "Great. And my last question is more practical. What does the hybrid arrangement look like?", "zh": "好的。我最后一个问题比较实际：混合办公是怎么安排的？"},
+      {"s": "o", "en": "So we're hybrid — most of the team's in Tuesdays and Thursdays, and the rest is up to you. It's pretty flexible, especially with school pick-ups and that. A few of us have got kids, so we get it.", "zh": "我们是混合办公——团队大多周二周四来办公室，其余时间你自己安排。挺灵活的，特别是接孩子之类的。我们好几个人也有孩子，所以都理解。"},
+      {"s": "y", "en": "That's really good to hear. I've got two young kids, so that helps a lot.", "zh": "听到这个太好了。我有两个小孩，这点很有帮助。"},
+      {"s": "o", "en": "Yeah, no worries at all. Anything else?", "zh": "嗯，完全没问题。还有别的吗？"},
+      {"s": "y", "en": "Just one more thing. Could you walk me through the process from here?", "zh": "还有一件事。能给我讲讲接下来的流程吗？"},
+      {"s": "o", "en": "Yep, so we're seeing a couple more people this arvo and tomorrow, then Jess from HR'll touch base by Friday arvo either way. If you're through, the second round's a case study — you'd get a bit of a scenario to work through with the team, about an hour.", "zh": "好，我们今天下午和明天还要面两三个人，然后 HR 的 Jess 会在周五下午前联系你，不管结果如何。如果你进了下一轮，二面是案例题——给你一个场景，跟团队一起分析，大概一个小时。"},
+      {"s": "y", "en": "Sorry, just to check — \"either way\" means Jess will call me even if I'm not successful?", "zh": "不好意思，确认一下——either way 是说即使我没通过，Jess 也会联系我吗？"},
+      {"s": "o", "en": "Yep, absolutely. We don't like leaving people hanging.", "zh": "对，一定会。我们不喜欢让人干等着。"},
+      {"s": "y", "en": "I appreciate that. And would the second round be in person or online?", "zh": "非常感谢。那二面是线下还是线上？"},
+      {"s": "o", "en": "In person, ideally — we're in the city, on Grenfell Street. But we can do Teams if that's tricky. Then it's just reference checks after that.", "zh": "最好是线下——我们在市中心 Grenfell Street。如果不方便也可以用 Teams。之后就只剩背景推荐人核查了。"},
+      {"s": "y", "en": "In person is fine. I'll have my referees ready, just in case.", "zh": "线下没问题。我会提前准备好推荐人，以防需要。"},
+      {"s": "o", "en": "Perfect. Anyway, I won't keep you — really appreciate your time today. It's been great chatting.", "zh": "太好了。好了，不耽误你了——非常感谢你今天抽时间，聊得很愉快。"},
+      {"s": "y", "en": "Thank you both. I really enjoyed learning more about the team, and I'm looking forward to hearing from Jess. Have a good rest of your day.", "zh": "谢谢两位。很高兴更了解了团队，期待 Jess 的消息。祝你们今天剩下的时间愉快。"}
+    ]
+  },
+  "rescue": [
+    {"en": "Sorry, could you say that last bit again a bit slower?", "zh": "不好意思，最后那部分能说慢一点吗？"},
+    {"en": "Just to confirm, you mean ___?", "zh": "我确认一下，您的意思是___？"},
+    {"en": "Sorry, I'm not familiar with that expression. What does it mean?", "zh": "抱歉，我不太熟悉那个说法，是什么意思？"},
+    {"en": "Could you spell the name of the HR contact for me?", "zh": "能帮我拼一下 HR 联系人的名字吗？"},
+    {"en": "Would you mind sending the details of the next steps by email?", "zh": "能麻烦把下一步的细节发邮件给我吗？"}
+  ],
+  "checklist": [
+    "被问 “any questions for us?” 时，我能自然地说出至少 2 个准备好的问题，而不是说 “No, I think you've covered everything”",
+    "我能用 “What would success look like in the first three months?” 问岗位期望",
+    "我听懂了 at the mo、this arvo、be across something、either way、touch base 这几个说法",
+    "听到比喻或俚语（如 building the plane while we're flying it）听不懂时，我能礼貌请对方解释或放慢",
+    "我能问清楚下一步流程：谁联系我、什么时候、二面形式",
+    "我能用一两句得体的话收尾道谢（I really enjoyed…, looking forward to hearing from…）"
+  ]
+}
