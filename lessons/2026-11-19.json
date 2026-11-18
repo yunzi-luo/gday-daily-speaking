@@ -1,0 +1,326 @@
+{
+  "id": "2026-11-19",
+  "date": "2026-11-19",
+  "category": "孩子学校/幼儿园",
+  "title": "年底提前请假出远门打电话给学校",
+  "titleEn": "Calling the school to take your child out early for a family trip",
+  "scene": [
+    "周四早上送完孩子，你给小学前台打电话。你们一家订了 12 月 4 日（周五）出发的机票，回老家看望长辈三周多，而这学期最后一天是 12 月 11 日——孩子（Year 1 的 Mia）要缺最后六个上学日，还会错过 12 月 9 日的圣诞音乐会。接电话的是前台主管 Michelle，说话快、一句话里信息很多，还会提到 exemption form（长假请假申请表）、学期报告、明年分班这些事。",
+    "你的目标：① 说清楚请假日期和原因，问清楚请假要走什么手续（表格、谁批、多久之前交）；② 听懂缺课期间会错过什么（音乐会、成绩报告、明年分班、图书馆还书），问能不能带点学习材料；③ 确认后续怎么沟通（谁会联系你、要不要邮件/短信确认）。"
+  ],
+  "facts": [
+    {
+      "k": "Trip",
+      "v": "12 月 4 日（周五）出发，1 月中旬回来"
+    },
+    {
+      "k": "Missing",
+      "v": "12 月 4 日–11 日，共 6 个上学日（含 12 月 9 日圣诞音乐会）"
+    },
+    {
+      "k": "Paperwork",
+      "v": "Exemption form：在学校 app 上填，校长批，最好出发前两周交"
+    },
+    {
+      "k": "Who",
+      "v": "Michelle（前台主管）；班主任 Mr Collins"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "take her out of school",
+      "zh": "给孩子请假（不去上学）",
+      "ex": "We need to take her out of school a week early."
+    },
+    {
+      "en": "the last week of term",
+      "zh": "学期最后一周",
+      "ex": "She'll miss most of the last week of term."
+    },
+    {
+      "en": "an exemption (form)",
+      "zh": "（长假）免上学申请表，需校长批准",
+      "ex": "For anything longer than a few days, you'll need to fill in an exemption form."
+    },
+    {
+      "en": "sign off on it",
+      "zh": "签字批准",
+      "ex": "The principal has to sign off on it."
+    },
+    {
+      "en": "approved / unexplained absence",
+      "zh": "已批准的缺勤 / 无故缺勤",
+      "ex": "Once it's approved, it won't show up as an unexplained absence."
+    },
+    {
+      "en": "a heads-up",
+      "zh": "提前打个招呼、提前通知",
+      "ex": "Thanks for the heads-up — that really helps us."
+    },
+    {
+      "en": "end-of-year report",
+      "zh": "期末成绩报告",
+      "ex": "End-of-year reports go out on the app in the last week."
+    },
+    {
+      "en": "class placements",
+      "zh": "（明年）分班安排",
+      "ex": "Class placements for next year come out on the last day."
+    },
+    {
+      "en": "a work pack / some bits and pieces",
+      "zh": "（带走做的）学习材料包 / 一些零碎的东西",
+      "ex": "Mr Collins might put together a little work pack for her."
+    },
+    {
+      "en": "overdue (library books)",
+      "zh": "（图书馆的书）逾期未还",
+      "ex": "Just make sure her library books aren't overdue before you go."
+    },
+    {
+      "en": "fair enough",
+      "zh": "可以理解、说得有道理",
+      "ex": "Fair enough — flights are much cheaper before the holidays."
+    },
+    {
+      "en": "pop it in an email",
+      "zh": "发封邮件说一下",
+      "ex": "Could you pop it in an email so I've got it in writing?"
+    }
+  ],
+  "listening": [
+    {
+      "en": "Morning, Northgate Primary, Michelle speaking, how can I help?",
+      "sound": "Morning 前面省了 Good；speaking 前是人名，听到名字就记下来；how can I help 连读成 “how-c'n-ai-help”。",
+      "zh": "早上好，Northgate 小学，我是 Michelle，有什么可以帮你？",
+      "reply": "Hi Michelle, I'm calling about taking my daughter out of school a bit early this term."
+    },
+    {
+      "en": "Oh righto, how long are we talking?",
+      "sound": "righto 读 “rai-toh”（好的、明白）；how long are we talking 是口语：你说的是多长时间？are we 弱读成 “ah-wee”。",
+      "zh": "哦好的，大概多久？",
+      "reply": "About six school days — from Friday the fourth until the end of term."
+    },
+    {
+      "en": "Yep, so anything more than a couple of days, you'll need to do an exemption — it's on the app under Forms, and Mr Hartley has to sign off on it.",
+      "sound": "anything more than 连读 “enny-thing-mor-th'n”；exemption 重音在中间 “ig-ZEMP-shun”；sign off on it 连成 “sai-nof-fon-it”。",
+      "zh": "好，一般超过两天就得申请免上学——在 app 的 Forms 里，要校长 Hartley 先生签字。",
+      "reply": "Sorry, could you say that again a bit slower? Where do I find the form?"
+    },
+    {
+      "en": "Ideally get it in a fortnight before you head off, so you're cutting it a bit fine, but it should be right.",
+      "sound": "a fortnight = 两周；head off = 出发；cutting it (a bit) fine = 时间有点紧；it should be right = 应该没问题（澳洲常说 she'll be right）。",
+      "zh": "最好出发前两周交，你时间有点紧，不过应该没问题。",
+      "reply": "Okay, I'll fill it in today, then."
+    },
+    {
+      "en": "Just a heads-up, she'll miss the Christmas concert on the ninth, and reports and class placements go out that last week too.",
+      "sound": "heads-up 读 “hedz-up”；Christmas 的 t 不发音 “kris-m's”；go out that 连读 “go-wout-that”；placements 读 “plays-m'nts”。",
+      "zh": "提醒一下，她会错过 9 号的圣诞音乐会，期末报告和明年分班也是最后一周出。",
+      "reply": "Will I still be able to see the report on the app while we're away?"
+    },
+    {
+      "en": "No dramas — I'll flick Mr Collins a message and he'll get back to you, probably by tomorrow arvo.",
+      "sound": "No dramas = 没问题；flick someone a message = 给某人发个消息；arvo = afternoon；get back to you 连读 “ge-back-ta-ya”。",
+      "zh": "没问题——我给 Collins 老师发个消息，他应该明天下午前回复你。",
+      "reply": "Lovely, thank you. Could you also pop that in an email so I've got it in writing?"
+    }
+  ],
+  "speech": {
+    "topic": "我们为什么有时会在学期中带孩子请假出远门",
+    "paragraphs": [
+      "Every couple of years, our family goes back home to visit the grandparents. It's a long trip, and it's not cheap, so we try to plan it carefully. The hardest part is always the timing. Flights during the Christmas school holidays are almost double the price, and they book out early. So this year, we decided to leave about a week before the end of term.",
+      "I didn't feel great about taking my daughter out of school, so I called the front office early to give them a heads-up. I found out there's a proper process. For anything longer than a couple of days, you need to fill in an exemption form, and the principal has to approve it. I was glad I asked, because I didn't want it to show up as an unexplained absence.",
+      "I also asked what she would miss. The last week of term is actually quite busy. There's the Christmas concert, the end-of-year reports, and the class placements for next year. She was a bit sad about the concert, so her teacher said she could still practise the song with her class and I could film it at home.",
+      "In the end, I think a short break from school is okay if you plan ahead and keep the school in the loop. My daughter will spend three weeks with her grandparents, speak a lot of Chinese, and learn things you can't learn in a classroom. To me, that's worth a few missed days, as long as we do a bit of reading every night while we're away."
+    ],
+    "zh": "我们家每隔一两年回国看望祖父母。圣诞假期机票几乎贵一倍、还很快订满，所以今年决定在学期结束前一周出发。我提前打电话给学校前台打招呼，才知道超过两三天要填 exemption form，由校长批准，这样不会被记成无故缺勤。我还问了孩子会错过什么：圣诞音乐会、期末报告和明年分班。老师说她仍可以跟班里练歌，我在家给她录。我觉得只要提前计划、跟学校保持沟通，短暂请假是可以的——孩子和祖父母相处三周、多说中文，学到课堂学不到的东西；只要旅途中每晚坚持读点书，就值得。",
+    "patterns": [
+      {
+        "en": "I'm calling about taking ___ out of school ___.",
+        "zh": "打电话说明请假：I'm calling about taking my son out of school next Friday."
+      },
+      {
+        "en": "What's the process for ___? / Is there a form I need to fill in?",
+        "zh": "问手续：What's the process for a longer absence?"
+      },
+      {
+        "en": "Just so I know, what will she miss while she's away — ___?",
+        "zh": "问会错过什么：Just so I know, will she miss any assessments?"
+      },
+      {
+        "en": "I didn't want it to ___, so I ___ early.",
+        "zh": "说明自己为什么提前做：I didn't want it to be a surprise, so I called early."
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Michelle",
+      "role": "小学前台主管",
+      "voice": "f"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Morning, Northgate Primary, Michelle speaking, how can I help?",
+        "zh": "早上好，Northgate 小学，我是 Michelle，有什么可以帮你？"
+      },
+      {
+        "s": "y",
+        "en": "Hi Michelle. My daughter Mia is in Year 1, in Mr Collins' class. I'm calling about taking her out of school a bit early this term.",
+        "zh": "你好 Michelle。我女儿 Mia 在一年级 Collins 老师班上。我打电话是想说这学期要给她提前请假。"
+      },
+      {
+        "s": "o",
+        "en": "Oh righto, no worries. How long are we talking?",
+        "zh": "哦好的，没问题。大概多久？"
+      },
+      {
+        "s": "y",
+        "en": "We're flying out on Friday the fourth of December, so she'd miss the last six school days. We're visiting her grandparents overseas.",
+        "zh": "我们 12 月 4 号周五的飞机，所以她会缺最后六个上学日。我们要出国看她的祖父母。"
+      },
+      {
+        "s": "o",
+        "en": "Lovely, fair enough. Yeah, flights are a killer once the holidays kick in. So, anything more than a couple of days, you'll need to do an exemption. It's on the app under Forms, and Mr Hartley has to sign off on it.",
+        "zh": "真好，可以理解。是啊，一放假机票就贵得要命。那么超过两天的话，你得申请免上学。在 app 的 Forms 里，要 Hartley 校长签字批准。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? Where do I find the form?",
+        "zh": "不好意思，能说慢一点再说一遍吗？表格在哪儿找？"
+      },
+      {
+        "s": "o",
+        "en": "Sure. Open the school app, tap Forms at the bottom, and it's called Exemption from Attendance. You fill in the dates and the reason, and it comes straight to us.",
+        "zh": "好的。打开学校 app，点底部的 Forms，表格叫 Exemption from Attendance（免上学申请）。填上日期和原因，就会直接发到我们这边。"
+      },
+      {
+        "s": "y",
+        "en": "Got it. Is there a deadline for it?",
+        "zh": "明白了。有截止时间吗？"
+      },
+      {
+        "s": "o",
+        "en": "Ideally we like it in a fortnight before you head off, so you're cutting it a bit fine, but if you get it in today or tomorrow, it should be right.",
+        "zh": "最好出发前两周交给我们，你时间有点紧了，不过今天或明天交上来应该没问题。"
+      },
+      {
+        "s": "y",
+        "en": "Okay, I'll do it tonight. Just to confirm, once it's approved, it won't count as an unexplained absence, right?",
+        "zh": "好，我今晚就填。确认一下，批下来之后就不算无故缺勤了，对吧？"
+      },
+      {
+        "s": "o",
+        "en": "That's right. It'll come up as approved on her record, so you won't get any of those automatic texts asking where she is.",
+        "zh": "对。她的记录上会显示已批准，你也不会收到那种问她去哪儿了的自动短信。"
+      },
+      {
+        "s": "y",
+        "en": "Great. Will she miss anything important in that last week?",
+        "zh": "太好了。最后那周她会错过什么重要的事吗？"
+      },
+      {
+        "s": "o",
+        "en": "Just a heads-up — the junior school Christmas concert's on Wednesday the ninth, so she'll miss that, unfortunately. And reports and class placements for next year all go out that last week as well.",
+        "zh": "提醒一下——低年级圣诞音乐会在 9 号周三，可惜她赶不上了。还有期末报告和明年的分班也都是最后那周出。"
+      },
+      {
+        "s": "y",
+        "en": "Oh, she'll be sad about the concert. Will I still be able to see the report and her new class on the app while we're away?",
+        "zh": "哦，她错过音乐会会难过的。我们在外面的时候还能在 app 上看到报告和她的新班级吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, reports drop on the app Tuesday the eighth, and placements come out on the Friday. If you've got any questions, just give us a bell — we're here till the fifteenth.",
+        "zh": "可以，报告 8 号周二会发到 app 上，分班周五出。有问题就给我们打个电话——我们上班到 15 号。"
+      },
+      {
+        "s": "y",
+        "en": "Perfect. Do you think Mr Collins could give her some reading or a few bits and pieces to take with her?",
+        "zh": "太好了。你觉得 Collins 老师能给她一些阅读材料或者一点学习的东西带着吗？"
+      },
+      {
+        "s": "o",
+        "en": "I'm sure he'd be happy to. I'll flick him a message and he'll get back to you, probably by tomorrow arvo. He might even send the concert song home so she can practise.",
+        "zh": "他肯定乐意。我给他发个消息，他大概明天下午前会回你。说不定还会把音乐会的歌发回家让她练。"
+      },
+      {
+        "s": "y",
+        "en": "That'd be lovely. Sorry, did you say tomorrow afternoon?",
+        "zh": "那太好了。不好意思，你是说明天下午吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, tomorrow arvo — he's on yard duty this morning, so it'll be after lunch at the earliest. Oh, and one more thing — the library's chasing up all the books before the break, so if she's got any out, can you send them back before the fourth?",
+        "zh": "对，明天下午——他今天上午要值操场班，所以最早也得午饭后。哦还有一件事——图书馆放假前要把书都收回来，她要是借了书，能在 4 号前还回来吗？"
+      },
+      {
+        "s": "y",
+        "en": "Sure, I think she's got two books at home. I'll put them in her bag on Monday.",
+        "zh": "好的，我记得她家里有两本。我周一放进她书包。"
+      },
+      {
+        "s": "o",
+        "en": "Beautiful. And when does she start back? Just so I can note it down.",
+        "zh": "太好了。她什么时候回来上学？我记一下。"
+      },
+      {
+        "s": "y",
+        "en": "We're back in mid-January, so she'll start Year 2 on the first day of Term 1 with everyone else.",
+        "zh": "我们一月中旬回来，所以她会和大家一起在第一学期第一天开始上二年级。"
+      },
+      {
+        "s": "o",
+        "en": "Easy. I'll pop a note on her file. Anything else I can help with?",
+        "zh": "好办。我在她的档案上记一下。还有别的需要帮忙吗？"
+      },
+      {
+        "s": "y",
+        "en": "Could you pop all that in a quick email, so I've got it in writing? Just the form name and the dates.",
+        "zh": "你能把这些发一封简短的邮件给我吗？这样我有书面记录。就写表格名称和日期就行。"
+      },
+      {
+        "s": "o",
+        "en": "No dramas, I'll send it through to the email we've got on file. Have a ripper trip, and give Mia a Merry Christmas from all of us.",
+        "zh": "没问题，我发到我们存档的邮箱。祝你们旅途愉快，替我们大家祝 Mia 圣诞快乐。"
+      },
+      {
+        "s": "y",
+        "en": "Thanks so much, Michelle. You've been really helpful. Bye!",
+        "zh": "太感谢了 Michelle，你帮了大忙。再见！"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再说一遍吗？"
+    },
+    {
+      "en": "Sorry, what was the name of the form again?",
+      "zh": "不好意思，那个表格叫什么来着？"
+    },
+    {
+      "en": "Could you spell that for me, please?",
+      "zh": "能帮我拼一下吗？"
+    },
+    {
+      "en": "Just to confirm, you mean I need to fill it in before the fourth?",
+      "zh": "确认一下，你是说我要在 4 号前填好？"
+    },
+    {
+      "en": "Could you pop that in an email or a text, so I've got it in writing?",
+      "zh": "能发封邮件或短信给我吗？我想要个书面记录。"
+    }
+  ],
+  "checklist": [
+    "我能一句话说清楚：孩子是谁、哪个班、要请几天假、为什么",
+    "我听懂了 exemption、sign off on it、a fortnight、cutting it a bit fine 的意思",
+    "我主动问了请假手续：表格在哪、谁批、什么时候交",
+    "我听懂了孩子会错过的事：圣诞音乐会、期末报告、明年分班、图书馆还书",
+    "我至少礼貌追问了两次（请对方放慢、确认时间）",
+    "我最后请对方发邮件做书面确认，并得体地道谢结束通话"
+  ]
+}
