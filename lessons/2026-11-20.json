@@ -1,0 +1,326 @@
+{
+  "id": "2026-11-20",
+  "date": "2026-11-20",
+  "category": "日常",
+  "title": "轮到你给全组买咖啡：咖啡店点一大单",
+  "titleEn": "Doing the office coffee run at a busy café",
+  "scene": [
+    "周五早上九点半，组里轮流买咖啡，今天轮到你。你拿着同事们在 Teams 上报的单子（6 杯，有燕麦奶、脱脂、特别烫、加糖、半份浓度……）走进办公楼楼下的咖啡店。店里正是早高峰，排着队，咖啡师 Tayla 说话很快，会一口气问杯型、奶、堂食还是外带、要不要杯托、名字写什么，还会告诉你燕麦奶刚用完、要等多久。",
+    "你的目标：① 一杯一杯把 6 杯咖啡点清楚（杯型、奶、浓度、温度、糖）；② 听懂她的追问和临时变化（没燕麦奶了换什么、要等十分钟），没听清就礼貌追问；③ 付款、拿积分卡盖章、取咖啡时核对有没有拿错。"
+  ],
+  "facts": [
+    {
+      "k": "Order",
+      "v": "6 杯：2 flat white（1 杯燕麦奶）、1 long black、1 skinny cap extra hot、1 large latte 一份糖、1 chai latte"
+    },
+    {
+      "k": "Where",
+      "v": "办公楼楼下的咖啡店，早高峰"
+    },
+    {
+      "k": "Wait",
+      "v": "大约 10 分钟，叫名字取"
+    },
+    {
+      "k": "Pay",
+      "v": "刷卡，单号写 “Amy”"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "a coffee run",
+      "zh": "（替大家）跑腿买咖啡",
+      "ex": "It's my turn to do the coffee run today."
+    },
+    {
+      "en": "What can I get you? / What are we having?",
+      "zh": "您要点什么？",
+      "ex": "Morning! What can I get you?"
+    },
+    {
+      "en": "flat white / long black",
+      "zh": "澳式白咖啡（奶泡薄）/ 澳式黑咖啡（类似美式但更浓）",
+      "ex": "Can I get a flat white and a long black, please?"
+    },
+    {
+      "en": "skinny / full cream / oat / almond",
+      "zh": "脱脂奶 / 全脂奶 / 燕麦奶 / 杏仁奶",
+      "ex": "Is that full cream, or would you like skinny?"
+    },
+    {
+      "en": "extra hot / half-strength / extra shot",
+      "zh": "特别烫 / 半份浓度 / 多加一份浓缩",
+      "ex": "Could I get a skinny cap, extra hot?"
+    },
+    {
+      "en": "Having here or takeaway?",
+      "zh": "堂食还是外带？",
+      "ex": "Having those here or takeaway?"
+    },
+    {
+      "en": "a tray / a carrier",
+      "zh": "杯托（可以一次拿四杯的纸托）",
+      "ex": "Do you want a couple of trays for those?"
+    },
+    {
+      "en": "we've run out of …",
+      "zh": "……用完了",
+      "ex": "Sorry, we've just run out of oat milk."
+    },
+    {
+      "en": "we're slammed / flat out",
+      "zh": "我们忙疯了",
+      "ex": "We're a bit slammed, so it'll be about ten minutes."
+    },
+    {
+      "en": "a name for the order",
+      "zh": "订单写的名字（取咖啡时叫名）",
+      "ex": "Can I grab a name for the order?"
+    },
+    {
+      "en": "a loyalty card / a stamp",
+      "zh": "积分卡 / 盖章（集满送一杯）",
+      "ex": "Have you got a loyalty card? I'll give you six stamps."
+    },
+    {
+      "en": "tap whenever you're ready",
+      "zh": "准备好了就刷卡（碰一下）",
+      "ex": "That's thirty-four eighty — tap whenever you're ready."
+    }
+  ],
+  "listening": [
+    {
+      "en": "Morning! What are we having?",
+      "sound": "Morning 前省了 Good；What are we 连读弱读成 “wod-ah-wee”，having 的 g 基本不发音 “hav-in”。",
+      "zh": "早上好！您要点什么？",
+      "reply": "Morning! It's a big one, sorry — six coffees, all takeaway."
+    },
+    {
+      "en": "No worries. Is that full cream, or d'you want skinny with that?",
+      "sound": "No worries 是“没问题”；d'you want 连成 “jə-wonn”；full cream = 全脂奶，澳洲咖啡店默认用全脂。",
+      "zh": "没问题。那杯用全脂奶，还是要脱脂？",
+      "reply": "Full cream for that one, please."
+    },
+    {
+      "en": "Ah, sorry love, we've just run out of oat — I've got almond or soy if that's any good?",
+      "sound": "love 是店员对顾客的亲切称呼，不用在意；run out of 连读 “ru-nou-tov”；if that's any good = 那个行不行。",
+      "zh": "啊，不好意思，燕麦奶刚用完——有杏仁奶或豆奶，可以吗？",
+      "reply": "Hmm, let me check… almond's fine, thanks."
+    },
+    {
+      "en": "We're pretty slammed this morning, so it'll be ten-ish. Can I grab a name?",
+      "sound": "slammed = 特别忙；ten-ish = 十分钟左右；Can I grab a name 连成 “k'nai-gra-bə-name”，grab 在这里就是“拿/要”。",
+      "zh": "今天早上特别忙，大概要十分钟。能给个名字吗？",
+      "reply": "Sure, it's Amy. A-M-Y."
+    },
+    {
+      "en": "That's thirty-four eighty all up — tap whenever you're ready. Got a loyalty card?",
+      "sound": "thirty-four eighty = $34.80，澳洲人说价格常省掉 dollars 和 cents；all up = 一共；ready 的 d 很轻。",
+      "zh": "一共 34.8 块——准备好了就刷卡。有积分卡吗？",
+      "reply": "Yep, here it is. Could I get the stamps for all six?"
+    },
+    {
+      "en": "Six for Amy! Just the long black and the chai to come, they won't be a tick.",
+      "sound": "Six for Amy = Amy 的六杯（叫号）；to come = 还没做好；won't be a tick 连成 “woan-bee-ə-tick”，= 马上就好。",
+      "zh": "Amy 的六杯！还差长黑和印度奶茶，马上就好。",
+      "reply": "Thanks! Sorry, is this the skinny one? There's no label on it."
+    }
+  ],
+  "speech": {
+    "topic": "我的咖啡习惯：从不会点到点得很顺",
+    "paragraphs": [
+      "When I first moved to Adelaide, ordering a coffee was actually a bit scary for me. Back home, I usually drank tea, and the menu here looked like a secret code. Flat white, long black, piccolo, magic — I had no idea what most of them meant. The first time, I just said \"a latte, please\" and hoped for the best.",
+      "The tricky part wasn't the menu, though. It was the questions. The barista asked me, \"Full cream or skinny? Having here or takeaway? Name for the order?\" all in one breath. I only caught the last word, so I just said \"yes\" and smiled. I ended up with a coffee I didn't really want.",
+      "These days, I have a simple routine. I always order the same way: size first, then the coffee, then the milk, then anything extra. For example, \"Can I get a regular flat white with oat milk, extra hot, please?\" If I don't catch something, I just ask, \"Sorry, was that full cream or skinny?\" Baristas are usually really friendly, and they don't mind at all.",
+      "Now I even do the coffee run for my team on Fridays. I write the order down in the same order I'll say it, so I don't get muddled. My favourite is still a flat white, and I've got a loyalty card at the café downstairs. For me, ordering coffee was a small but important step. It helped me feel more confident speaking English every day."
+    ],
+    "zh": "刚到阿德莱德时，点咖啡让我有点害怕：菜单像密码，咖啡师又一口气问全脂还是脱脂、堂食还是外带、写什么名字，我只听懂最后一个词就说 yes，结果拿到不想要的咖啡。现在我有固定顺序：先杯型、再咖啡、再奶、最后特殊要求；没听清就问“Sorry, was that full cream or skinny?”。现在我周五还帮组里跑腿买咖啡，提前按要说的顺序写好单子。点咖啡是一件小事，却让我每天说英语更有信心。",
+    "patterns": [
+      {
+        "en": "Can I get a ___ ___ with ___, please?",
+        "zh": "点单万能句：杯型 + 咖啡 + 奶，如 a regular flat white with oat milk"
+      },
+      {
+        "en": "Sorry, was that ___ or ___?",
+        "zh": "没听清二选一的问题时这样追问"
+      },
+      {
+        "en": "The tricky part wasn't ___. It was ___.",
+        "zh": "说明真正的难点在哪里"
+      },
+      {
+        "en": "These days, I ___ so I don't ___.",
+        "zh": "讲现在的习惯和目的"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Tayla",
+      "role": "咖啡店咖啡师",
+      "voice": "f"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Morning! Sorry about the wait, it's been absolutely mental since about eight. What are we having?",
+        "zh": "早上好！不好意思让你久等了，从八点左右开始就忙疯了。要点什么？"
+      },
+      {
+        "s": "y",
+        "en": "Morning! No worries. It's a big one, sorry — it's my turn for the office coffee run. Six coffees, all takeaway.",
+        "zh": "早上好！没关系。单子有点大，不好意思——今天轮到我给办公室买咖啡。六杯，全部外带。"
+      },
+      {
+        "s": "o",
+        "en": "Ha, no stress, that's what we're here for. Go for it, I'll punch 'em in as you go.",
+        "zh": "哈，没事，我们就是干这个的。你说吧，你边说我边输。"
+      },
+      {
+        "s": "y",
+        "en": "Great. So first, two regular flat whites — one normal, and one with oat milk.",
+        "zh": "好的。首先，两杯中杯 flat white——一杯普通的，一杯用燕麦奶。"
+      },
+      {
+        "s": "o",
+        "en": "Ah, sorry love, we've just run out of oat — the delivery's late this morning. I've got almond or soy if that's any good?",
+        "zh": "啊，不好意思，燕麦奶刚用完——今早送货晚了。有杏仁奶或豆奶，可以吗？"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? You've run out of oat milk?",
+        "zh": "不好意思，能说慢一点吗？燕麦奶用完了？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, sorry, all gone. Almond or soy are the other options.",
+        "zh": "对，抱歉，全没了。还可以选杏仁奶或豆奶。"
+      },
+      {
+        "s": "y",
+        "en": "Okay, she's usually fine with almond. Let's do almond, thanks.",
+        "zh": "好，她一般杏仁奶也可以。那就杏仁奶吧，谢谢。"
+      },
+      {
+        "s": "o",
+        "en": "Easy. One flat white, one almond flat white. What's next?",
+        "zh": "好嘞。一杯 flat white，一杯杏仁奶 flat white。下一杯？"
+      },
+      {
+        "s": "y",
+        "en": "Then a long black, and a skinny cappuccino, extra hot, please.",
+        "zh": "然后一杯 long black，一杯脱脂卡布奇诺，要特别烫，谢谢。"
+      },
+      {
+        "s": "o",
+        "en": "Yep. Do you want the long black regular or large? And any sugar in either of those?",
+        "zh": "好。long black 要中杯还是大杯？这两杯有要加糖的吗？"
+      },
+      {
+        "s": "y",
+        "en": "Regular, and no sugar for those two. Then one large latte with one sugar, and a chai latte.",
+        "zh": "中杯，那两杯都不加糖。然后一杯大杯拿铁加一份糖，还有一杯印度奶茶拿铁。"
+      },
+      {
+        "s": "o",
+        "en": "Is the chai a powder or the sticky one? We do a sticky chai — it's a bit spicier, fifty cents extra.",
+        "zh": "奶茶要粉冲的还是 sticky 的？我们有 sticky chai——香料味更重一点，多 5 毛。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, you mean the sticky one is made with real spices, and it's fifty cents more?",
+        "zh": "确认一下，你是说 sticky 那种是用真香料做的，贵 5 毛？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, that's it — real tea and spices with honey. Most people reckon it's worth it.",
+        "zh": "对，就是这样——真茶叶加香料和蜂蜜。大部分人觉得值。"
+      },
+      {
+        "s": "y",
+        "en": "Sounds good, let's go with the sticky one. Full cream milk for the latte and the chai, please.",
+        "zh": "听起来不错，就要 sticky 的。拿铁和奶茶都用全脂奶，谢谢。"
+      },
+      {
+        "s": "o",
+        "en": "Lovely. So that's six all up. We're pretty slammed this morning, so it'll be ten-ish. Can I grab a name for the order?",
+        "zh": "好的。一共六杯。今天早上很忙，大概要十分钟左右。能给个名字吗？"
+      },
+      {
+        "s": "y",
+        "en": "Sure, it's Amy. Ten minutes is fine. Could I also get a couple of trays, please?",
+        "zh": "好的，叫 Amy。十分钟没问题。能再给我两个杯托吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, I'll chuck two in. That's thirty-four eighty all up — tap whenever you're ready. Got a loyalty card?",
+        "zh": "好，给你放两个。一共 34.8——准备好了就刷卡。有积分卡吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, here it is. Do I get a stamp for every coffee, or just one for the order?",
+        "zh": "有，给你。是每杯咖啡盖一个章，还是一单只盖一个？"
+      },
+      {
+        "s": "o",
+        "en": "One a coffee, so that's six — and look at that, you're full, so your next one's on us.",
+        "zh": "一杯一个，所以是六个——你看，集满了，下一杯我们请。"
+      },
+      {
+        "s": "y",
+        "en": "Oh, brilliant! Thanks so much. I'll just wait over there by the window then.",
+        "zh": "哦，太棒了！非常感谢。那我就在窗边等。"
+      },
+      {
+        "s": "o",
+        "en": "Six for Amy! Just the long black and the chai to come, they won't be a tick.",
+        "zh": "Amy 的六杯！只差 long black 和奶茶，马上就好。"
+      },
+      {
+        "s": "y",
+        "en": "Thanks! Sorry, which one's the almond flat white? They all look the same to me.",
+        "zh": "谢谢！不好意思，哪杯是杏仁奶的 flat white？我看都一样。"
+      },
+      {
+        "s": "o",
+        "en": "Ah, good question — the almond's got an A on the lid, the skinny's got a big S, and the latte with sugar's got a little one-S on the side. Here's your long black and chai. Careful, the trays are a bit wobbly. Have a good one!",
+        "zh": "啊，问得好——杏仁奶的杯盖上写了 A，脱脂的写了大大的 S，加糖的拿铁侧面写了个 1S。这是你的 long black 和奶茶。小心，杯托有点晃。祝你今天愉快！"
+      },
+      {
+        "s": "y",
+        "en": "Perfect, thanks Tayla. Have a great weekend!",
+        "zh": "太好了，谢谢 Tayla。周末愉快！"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再说一遍吗？"
+    },
+    {
+      "en": "Sorry, was that full cream or skinny?",
+      "zh": "不好意思，刚才是问全脂还是脱脂？"
+    },
+    {
+      "en": "Just to confirm, that's two flat whites, a long black and…?",
+      "zh": "确认一下，是两杯 flat white、一杯 long black 还有……？"
+    },
+    {
+      "en": "Could you write the letters on the lids, please?",
+      "zh": "能在杯盖上写上字母吗？（方便分辨）"
+    },
+    {
+      "en": "Sorry, I think this one might be the wrong order — could you check it for me?",
+      "zh": "不好意思，这杯好像拿错了——能帮我看一下吗？"
+    }
+  ],
+  "checklist": [
+    "我能按“杯型 → 咖啡 → 奶 → 特殊要求”的顺序点完 6 杯，不卡壳",
+    "我听得懂 full cream / skinny、having here or takeaway、Can I grab a name",
+    "店员说某种奶用完了，我能马上换一个并确认",
+    "我至少用了一次礼貌追问（say that again slower / just to confirm）",
+    "我能听懂价格说法 thirty-four eighty all up，并问积分卡怎么盖章",
+    "取咖啡时我能开口核对哪杯是哪杯"
+  ]
+}

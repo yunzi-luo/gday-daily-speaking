@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "lessons": [
+    {
+      "id": "2026-11-20",
+      "date": "2026-11-20",
+      "category": "日常",
+      "title": "轮到你给全组买咖啡：咖啡店点一大单",
+      "titleEn": "Doing the office coffee run at a busy café"
+    },
     {
       "id": "2026-11-19",
       "date": "2026-11-19",
