@@ -1,0 +1,322 @@
+{
+  "id": "2026-11-21",
+  "date": "2026-11-21",
+  "category": "保险/医疗",
+  "title": "周六去眼镜店验光配镜并当场刷保险报销",
+  "titleEn": "Getting an eye test and new glasses — and claiming on your extras",
+  "scene": [
+    "周六上午，你在购物中心里的眼镜店约了验光。最近看电脑和开车看路牌都有点模糊，旧眼镜也戴了三年多。验光师 Ben 给你做完检查，会告诉你度数变化、要不要拍视网膜照片（自费、可选），然后带你选镜框、镜片和镀膜，最后用你的私人健康保险 Extras 当场刷卡报销（HICAPS），你只付差价。他说话很快，数字一串接一串。",
+    "你的目标：① 听懂检查结果（度数变化、散光、要不要换镜片）和哪些是 Medicare 付的、哪些要自费；② 问清楚镜框+镜片总价、保险能报多少、你自己要付多少；③ 确认什么时候取眼镜、怎么通知你、不合适能不能免费调整。"
+  ],
+  "facts": [
+    {
+      "k": "When",
+      "v": "周六上午 10:15 验光，约 30 分钟"
+    },
+    {
+      "k": "Where",
+      "v": "购物中心里的眼镜店（optometrist）"
+    },
+    {
+      "k": "Cost",
+      "v": "镜框 $189 + 镜片 $220 = $409；保险报 $250，自付 $159"
+    },
+    {
+      "k": "Pick-up",
+      "v": "7–10 个工作日，到货短信通知"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "an eye test / an eye check",
+      "zh": "验光、眼睛检查",
+      "ex": "I've booked an eye test for Saturday morning."
+    },
+    {
+      "en": "bulk billed",
+      "zh": "由 Medicare 直接付费，你不用掏钱",
+      "ex": "The eye test is bulk billed, so there's nothing to pay for that."
+    },
+    {
+      "en": "your prescription",
+      "zh": "你的度数（验光处方）",
+      "ex": "Your prescription has changed a little since last time."
+    },
+    {
+      "en": "short-sighted / long-sighted",
+      "zh": "近视 / 远视",
+      "ex": "You're a bit short-sighted, especially in your left eye."
+    },
+    {
+      "en": "astigmatism",
+      "zh": "散光",
+      "ex": "There's a touch of astigmatism in your right eye."
+    },
+    {
+      "en": "single vision / multifocals",
+      "zh": "单光镜片 / 渐进多焦点镜片",
+      "ex": "Single vision lenses will be fine for you."
+    },
+    {
+      "en": "a coating (anti-glare / blue light)",
+      "zh": "镀膜（防眩光 / 防蓝光）",
+      "ex": "Would you like an anti-glare coating on those?"
+    },
+    {
+      "en": "frames",
+      "zh": "镜框",
+      "ex": "These frames are a bit too wide for my face."
+    },
+    {
+      "en": "claim on your extras / your health fund",
+      "zh": "用私人保险的 Extras 报销",
+      "ex": "Can I claim on my extras today?"
+    },
+    {
+      "en": "your optical limit",
+      "zh": "保险每年的配镜报销额度",
+      "ex": "Your optical limit is two-fifty a year."
+    },
+    {
+      "en": "the gap / out of pocket",
+      "zh": "差价 / 你自己要掏的钱",
+      "ex": "So what's the gap after the fund pays?"
+    },
+    {
+      "en": "adjust / tighten the arms",
+      "zh": "调整 / 收紧镜腿",
+      "ex": "If they slip down, just pop in and we'll adjust them for free."
+    }
+  ],
+  "listening": [
+    {
+      "en": "How're you going? Come on through and grab a seat — we'll get started.",
+      "sound": "How're you going 连读成 “how-ya-goin”，是澳洲人的 How are you；grab a seat 连成 “gra-ba-seat” = 请坐。",
+      "zh": "你好吗？请进来坐，我们开始吧。",
+      "reply": "Good, thanks. My eyes have been a bit blurry lately, so I thought I'd better get them checked."
+    },
+    {
+      "en": "Your prescription's gone up a tad — about half a step in the left — and there's a touch of astigmatism.",
+      "sound": "prescription's 的 's = has；gone up a tad 连读 “gon-uppa-tad”，a tad / a touch = 一点点；astigmatism 重音在 STIG。",
+      "zh": "你的度数涨了一点——左眼大概半档——还有一点散光。",
+      "reply": "Sorry, could you say that again a bit slower? Is it a big change?"
+    },
+    {
+      "en": "There's also a retinal photo we can do — it's thirty-nine bucks, Medicare doesn't cover it, so totally up to you.",
+      "sound": "thirty-nine bucks 说快了像 “thir-y-nine bucks”，t 弱化；bucks = dollars；totally up to you = 完全由你决定（暗示可选、不是必须）。",
+      "zh": "我们还可以拍个视网膜照片——39 块，Medicare 不报，完全看你。",
+      "reply": "Is it worth doing, or can I leave it this time?"
+    },
+    {
+      "en": "Chuck these on, have a squiz in the mirror and see what you reckon.",
+      "sound": "Chuck these on 连成 “chuck-these-on” = 戴上试试；have a squiz = 看一眼；what you reckon “wotcha-reckon” = 你觉得怎么样。",
+      "zh": "戴上这副，照照镜子看你觉得怎么样。",
+      "reply": "I like the shape, but they feel a bit loose on my nose."
+    },
+    {
+      "en": "So that's four-oh-nine all up; I'll put it through HICAPS, the fund picks up two-fifty and you're left with one-fifty-nine.",
+      "sound": "four-oh-nine = $409（0 读 oh）；all up = 一共；put it through HICAPS = 刷保险卡当场报销；picks up = 付；you're left with = 你还剩要付的。",
+      "zh": "一共 409 块；我用 HICAPS 刷一下，保险付 250，你剩下付 159。",
+      "reply": "Great. Just to confirm, I'm paying one hundred and fifty-nine dollars today?"
+    },
+    {
+      "en": "They'll be ready in seven to ten working days — we'll flick you a text when they're in.",
+      "sound": "seven to ten 说快了像 “seven-a-ten”；working days = 工作日；flick you a text = 给你发短信；when they're in = 到货时。",
+      "zh": "7 到 10 个工作日能好——到货了给你发短信。",
+      "reply": "Perfect. And if they don't feel right, can I bring them back to get them adjusted?"
+    }
+  ],
+  "speech": {
+    "topic": "我是怎么用好每年的 Extras 保险额度的",
+    "paragraphs": [
+      "When I first got private health insurance in Australia, I only thought about hospital cover. I didn't really understand what \"extras\" meant, and for two years I hardly used it. Then a friend told me, \"You're paying for it anyway, so you might as well use it.\" That made a lot of sense to me.",
+      "Extras cover pays for things like dental check-ups, glasses and physio. But there's a catch: most limits reset every year. If you don't use them, you lose them. For example, my fund gives me two hundred and fifty dollars a year for glasses. So now I try to plan ahead.",
+      "These days I have a simple routine. In January, I book a dental check-up and clean for the whole family. Around the middle of the year, I check how much is left. And before Christmas, if I still have money in my optical limit, I get an eye test and new glasses. The eye test is usually bulk billed, so I only need to think about the frames and lenses.",
+      "The best part is that I can claim on the spot. The shop just swipes my health fund card, and I only pay the gap. It's quick and easy. I always ask, \"How much is the gap?\" before I say yes, because some frames are really expensive.",
+      "My advice is simple: log in to your health fund app, check your limits, and don't let the money go to waste. It's your money, after all."
+    ],
+    "zh": "刚买私人保险时我只关心住院险，不懂 Extras，两年几乎没用。朋友提醒“反正交了钱，不如用掉”。Extras 报牙科、眼镜、理疗等，但大多数额度每年清零，不用就浪费，比如我每年配镜额度 250 块。现在我会提前计划：一月全家看牙洗牙，年中查剩余额度，圣诞前如果配镜额度还在，就去验光配新眼镜；验光一般 Medicare 全付，只需考虑镜框和镜片。最方便的是能当场刷卡报销，只付差价，但我答应之前总会先问差价是多少。建议大家打开保险 App 看看额度，别浪费自己的钱。",
+    "patterns": [
+      {
+        "en": "You're paying for it anyway, so you might as well ___.",
+        "zh": "反正都花钱了，不如……（劝别人用起来）"
+      },
+      {
+        "en": "There's a catch: ___.",
+        "zh": "但有个坑/限制：……"
+      },
+      {
+        "en": "Before I say yes, I always ask, \"___?\"",
+        "zh": "答应之前我总会先问……"
+      },
+      {
+        "en": "Don't let ___ go to waste.",
+        "zh": "别浪费……"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Ben",
+      "role": "眼镜店验光师",
+      "voice": "m"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Morning! How're you going? You must be my ten-fifteen. Come on through and grab a seat.",
+        "zh": "早上好！你好吗？你应该是约了 10:15 的吧。请进来坐。"
+      },
+      {
+        "s": "y",
+        "en": "Good, thanks. Yes, that's me. My eyes have been a bit blurry lately, especially on the computer and when I'm driving at night.",
+        "zh": "挺好的，谢谢。对，是我。我最近眼睛有点模糊，尤其是看电脑和晚上开车的时候。"
+      },
+      {
+        "s": "o",
+        "en": "Righto, no worries. How old are your current glasses, roughly?",
+        "zh": "好的，没问题。你现在这副眼镜大概戴了多久？"
+      },
+      {
+        "s": "y",
+        "en": "About three years, I think. I got them before I moved here.",
+        "zh": "大概三年吧。是我搬来之前配的。"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, that'd be about due, then. Okay, so I've had a good look, and your prescription's gone up a tad — about half a step in the left — and there's a touch of astigmatism in the right, which is probably why things look a bit smudgy at night.",
+        "zh": "嗯，那也差不多该换了。好，我仔细看过了，你的度数涨了一点——左眼大概半档——右眼有一点散光，这可能就是你晚上看东西有点糊的原因。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? Is that a big change?",
+        "zh": "不好意思，能再说慢一点吗？变化大吗？"
+      },
+      {
+        "s": "o",
+        "en": "Sure, sorry, I do rabbit on. It's only a small change. Nothing to worry about — your eyes are healthy. You just need slightly stronger lenses, that's all.",
+        "zh": "当然，抱歉，我说话总是噼里啪啦的。变化很小，不用担心——你的眼睛很健康。只是需要稍微度数高一点的镜片，就这样。"
+      },
+      {
+        "s": "y",
+        "en": "Oh, that's a relief. Do I need to pay for today's test?",
+        "zh": "哦，那我就放心了。今天的检查要付钱吗？"
+      },
+      {
+        "s": "o",
+        "en": "Nope, the test itself is bulk billed, so Medicare covers that. There's also a retinal photo we can do — it's thirty-nine bucks, Medicare doesn't cover it, so totally up to you. Some people like to have it on file.",
+        "zh": "不用，检查本身是 bulk bill 的，Medicare 付。我们还能拍个视网膜照片——39 块，Medicare 不报，完全看你。有些人喜欢存个档。"
+      },
+      {
+        "s": "y",
+        "en": "I think I'll leave the photo this time, thanks. Maybe next year.",
+        "zh": "这次照片就先不拍了，谢谢。也许明年吧。"
+      },
+      {
+        "s": "o",
+        "en": "Easy. Right, let's find you some frames. Have you got a budget in mind? Are you with a health fund?",
+        "zh": "行。好，我们去给你挑镜框。你心里有预算吗？你有私人健康保险吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, I've got extras cover. I think I've got about two hundred and fifty dollars for glasses this year, and I haven't used any of it.",
+        "zh": "有，我有 Extras。我记得今年配镜大概有 250 块额度，一点都还没用。"
+      },
+      {
+        "s": "o",
+        "en": "Beauty — and you'll want to use it before it resets in January. Chuck these on, have a squiz in the mirror and see what you reckon.",
+        "zh": "太好了——而且你得在一月清零之前用掉。戴上这副，照照镜子，看你觉得怎么样。"
+      },
+      {
+        "s": "y",
+        "en": "I like the shape, but they feel a bit loose on my nose. Do you have something a bit narrower?",
+        "zh": "我喜欢这个形状，但鼻子那里有点松。有没有窄一点的？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, try these ones — same style, smaller fit. They're one-eighty-nine. For lenses, single vision with an anti-glare coating comes to two-twenty. You could add blue light, but honestly, for your needs, anti-glare's plenty.",
+        "zh": "有，试试这副——同款式，尺寸小一点。189 块。镜片的话，单光加防眩光镀膜一共 220。你也可以加防蓝光，不过说实话，就你的情况，防眩光就够了。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, so the frames are one hundred and eighty-nine, and the lenses are two hundred and twenty?",
+        "zh": "确认一下，镜框是 189，镜片是 220，对吗？"
+      },
+      {
+        "s": "o",
+        "en": "Spot on. So that's four-oh-nine all up. I'll put it through HICAPS now — just pop your health fund card in there — the fund picks up two-fifty and you're left with one-fifty-nine.",
+        "zh": "完全对。那一共 409。我现在用 HICAPS 刷——把你的保险卡插这里——保险付 250，你剩下付 159。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, how much did you say I pay today?",
+        "zh": "不好意思，你说我今天要付多少？"
+      },
+      {
+        "s": "o",
+        "en": "One hundred and fifty-nine dollars. Card's fine — just tap whenever you're ready.",
+        "zh": "159 块。刷卡就行——准备好了碰一下。"
+      },
+      {
+        "s": "y",
+        "en": "Great. And how long will they take?",
+        "zh": "好的。要多久能做好？"
+      },
+      {
+        "s": "o",
+        "en": "They'll be ready in seven to ten working days. We'll flick you a text when they're in, and you just pop back and we'll fit them for you. Is the mobile still 0491 570 236?",
+        "zh": "7 到 10 个工作日。到货了给你发短信，你回来一趟，我们帮你调好。手机号还是 0491 570 236 吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, that's right. And if they don't feel right after a few days, can I bring them back?",
+        "zh": "对，没错。如果戴几天觉得不舒服，可以拿回来吗？"
+      },
+      {
+        "s": "o",
+        "en": "Absolutely. Adjustments are free, any time. And if you can't get used to the new lenses after a couple of weeks, give us a bell and we'll sort it out.",
+        "zh": "当然。调整随时免费。如果两个星期后还不适应新镜片，给我们打个电话，我们会解决。"
+      },
+      {
+        "s": "y",
+        "en": "Thanks so much, Ben. You've been really helpful.",
+        "zh": "太感谢了，Ben。你帮了大忙。"
+      },
+      {
+        "s": "o",
+        "en": "No worries at all. Enjoy the rest of your Saturday, and we'll see you in a week or so.",
+        "zh": "不客气。周六愉快，一个星期左右见。"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再说一遍吗？"
+    },
+    {
+      "en": "Sorry, how much did you say the gap is?",
+      "zh": "不好意思，你说差价是多少？"
+    },
+    {
+      "en": "Is that covered by Medicare, or do I pay for it?",
+      "zh": "这个是 Medicare 付还是我自己付？"
+    },
+    {
+      "en": "Could you write the total and the gap down for me?",
+      "zh": "能把总价和差价写给我吗？"
+    },
+    {
+      "en": "Could you text me when they're ready, please?",
+      "zh": "做好了能发短信通知我吗？"
+    }
+  ],
+  "checklist": [
+    "我能用一两句话说清楚为什么来验光（看电脑、晚上开车模糊）",
+    "我听懂了 prescription's gone up a tad、a touch of astigmatism 是什么意思",
+    "我分得清哪些是 bulk billed（免费）、哪些是自费可选（retinal photo）",
+    "我能复述镜框价、镜片价、总价、保险付多少、自己付多少",
+    "我至少礼貌追问了两次（请对方说慢一点、确认数字）",
+    "我问清了取镜时间、怎么通知、不合适能否免费调整"
+  ]
+}
