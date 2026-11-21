@@ -1,0 +1,327 @@
+{
+  "id": "2026-11-22",
+  "date": "2026-11-22",
+  "category": "房屋",
+  "title": "搬家公司老板回电报价并约搬家日期",
+  "titleEn": "Getting a removalist quote and booking your moving day",
+  "scene": [
+    "你们家下个月要从 Prospect 搬到 Magill 的一套三居室。你在网上填了搬家公司的报价表，周日上午老板 Dean 回电话。他会问你家有多大、有没有特别重的大件、两边的门口和车道好不好停车，然后报按小时收费的价格、最少计费时间、路程时间、押金和保险。十二月是搬家旺季，周六很抢手，他说话快，数字又多，还夹着不少澳洲口语。",
+    "你的目标：① 说清楚要搬的东西和两边房子的情况（大件、楼梯、车道）；② 问清楚每小时多少钱、最少几小时、路程时间算不算、大概总共多少、押金和保险；③ 订下日期和开始时间，并请他把报价和预订确认用邮件发给你。"
+  ],
+  "facts": [
+    {
+      "k": "When",
+      "v": "12 月 12 日（周六）早上 7:30 开始"
+    },
+    {
+      "k": "From → To",
+      "v": "14 Wattle Street, Prospect → Magill 三居室，约 12 公里"
+    },
+    {
+      "k": "Rate",
+      "v": "两个搬运工 + 一辆 6 吨卡车 $165/小时，最少 3 小时，另加半小时路程费"
+    },
+    {
+      "k": "Deposit",
+      "v": "$200 押金，从尾款里扣；可选运输保险 $60"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "a removalist / removals",
+      "zh": "搬家公司 / 搬家服务",
+      "ex": "We've booked a removalist for the twelfth."
+    },
+    {
+      "en": "a quote / quote it up",
+      "zh": "报价 / 算个报价",
+      "ex": "Can you send me the quote in writing?"
+    },
+    {
+      "en": "two men and a truck",
+      "zh": "两个搬运工加一辆卡车（最常见的套餐）",
+      "ex": "Two men and a truck should be plenty for a three-bedroom house."
+    },
+    {
+      "en": "an hourly rate / a minimum charge",
+      "zh": "每小时收费 / 最低消费（最少计费时间）",
+      "ex": "There's a three-hour minimum, even for a small job."
+    },
+    {
+      "en": "travel time / call-out",
+      "zh": "路程时间费 / 出车费",
+      "ex": "Is travel time included, or is that on top?"
+    },
+    {
+      "en": "bulky / heavy items",
+      "zh": "大件 / 重物",
+      "ex": "Have you got any heavy items, like a piano or a pool table?"
+    },
+    {
+      "en": "pull apart / put back together",
+      "zh": "拆开 / 装回去（家具）",
+      "ex": "We'll pull the beds apart and put them back together at the new place."
+    },
+    {
+      "en": "access",
+      "zh": "进出条件（楼梯、车道、停车位置）",
+      "ex": "How's the access at the new place? Any stairs?"
+    },
+    {
+      "en": "a long carry",
+      "zh": "卡车停得远、要搬很长一段路（常加钱）",
+      "ex": "If the truck can't get up the driveway, it might be a long carry."
+    },
+    {
+      "en": "transit insurance",
+      "zh": "运输保险（东西在路上损坏的保险）",
+      "ex": "Transit insurance is optional, but I'd recommend it."
+    },
+    {
+      "en": "a deposit / the balance",
+      "zh": "押金、订金 / 尾款",
+      "ex": "The deposit comes off the balance on the day."
+    },
+    {
+      "en": "get snapped up",
+      "zh": "（时段、东西）很快被抢光",
+      "ex": "Saturdays in December get snapped up pretty quick."
+    }
+  ],
+  "listening": [
+    {
+      "en": "G'day, it's Dean from the removals mob — you put in a quote request on the website?",
+      "sound": "G'day 读 “g'die”；removals mob 的 mob = 公司、那帮人（口语，不是贬义）；put in a quote request 连成 “pu-di-na quote request”。",
+      "zh": "你好，我是搬家公司的 Dean——你在网站上填了报价申请对吧？",
+      "reply": "Yes, that's me. Thanks for calling back on a Sunday."
+    },
+    {
+      "en": "What are we lookin' at — three-bedder? Any big stuff, like a piano, pool table, gym gear?",
+      "sound": "What are we lookin' at 连成 “wodda-we-lookin-at” = 大概多少东西；three-bedder = three-bedroom house；gym gear = 健身器材。",
+      "zh": "大概多少东西？三居室？有没有大件，比如钢琴、台球桌、健身器材？",
+      "reply": "It's a three-bedroom house. No piano, but we've got a really heavy timber dining table and a trampoline."
+    },
+    {
+      "en": "It's one-sixty-five an hour for two blokes and a six-tonner, three-hour minimum, plus half an hour travel.",
+      "sound": "one-sixty-five = $165；six-tonner = 6 吨卡车；three-hour minimum = 最少按 3 小时收；plus half an hour travel = 另加半小时路程费。",
+      "zh": "两个人加一辆 6 吨卡车，一小时 165，最少 3 小时，另加半小时路程费。",
+      "reply": "Just to confirm, the half hour of travel is on top of the three hours?"
+    },
+    {
+      "en": "Ballpark, you're lookin' at five, five and a half hours all up, so eight-fifty to nine hundred, give or take.",
+      "sound": "ballpark = 大概估计；all up = 总共；eight-fifty 是 $850，不是 $8.50；give or take = 上下浮动一点。",
+      "zh": "大概估一下，总共五到五个半小时，也就是 850 到 900 块左右。",
+      "reply": "Okay, that sounds reasonable. Is that including the insurance?"
+    },
+    {
+      "en": "If the truck can't get up that driveway, it turns into a long carry and that can chew up a fair bit of time.",
+      "sound": "get up that driveway 连成 “ge-dup-that”；chew up time = 耗掉很多时间；a fair bit = 相当多。",
+      "zh": "如果卡车上不了那条车道，就得搬很远一段路，会耗掉不少时间。",
+      "reply": "Good point. The driveway's quite steep, but there's plenty of street parking out the front."
+    },
+    {
+      "en": "Saturdays this time of year get snapped up, so I'd lock it in sooner rather than later.",
+      "sound": "this time of year 弱读成 “this-time-a-year”；snapped up = 被抢光；lock it in = 定下来；sooner rather than later = 越早越好。",
+      "zh": "每年这个时候周六都被抢光，我建议你早点定下来。",
+      "reply": "Let's lock it in, then. Could you email me the quote and the booking details?"
+    }
+  ],
+  "speech": {
+    "topic": "我这次搬家是怎么计划的",
+    "paragraphs": [
+      "Next month my family is moving to a new rental in Magill, and to be honest, I've been a bit stressed about it. We've got two kids, a lot of stuff, and only one weekend to do it, so this time I decided to plan everything properly.",
+      "The first thing I did was get a few quotes from removalists. Most of them charge by the hour, usually for two men and a truck, and there's often a three-hour minimum. I learnt that you have to ask whether travel time is included, because some companies add it on top. I also asked about insurance, because our dining table is really heavy and I didn't want it to get damaged on the way.",
+      "The second thing was packing. To save money, we're packing the boxes ourselves. Every night after the kids go to bed, we pack two or three boxes and label each one with the room it's going to. That way, the removalists know exactly where to put everything, and we won't be looking for the kettle at ten o'clock at night.",
+      "The third thing was the small jobs that are easy to forget, like changing our address, transferring the internet and electricity, and telling the school. I made a checklist on my phone and I tick things off as I go.",
+      "Moving is never fun, but I think a bit of planning makes a huge difference. If I had one tip for someone else, it would be this: book your removalist early, especially in December, because the Saturdays get snapped up really quickly."
+    ],
+    "zh": "下个月我们家要搬到 Magill 的新租房，我其实挺焦虑的：两个孩子、东西多、只有一个周末。所以这次我好好做了计划。第一，找了几家搬家公司报价，大多按小时收费、两个人加一辆卡车、最少三小时；要问清路程时间算不算、有没有保险。第二，自己打包省钱，每晚孩子睡后打包两三箱，并标上去哪个房间。第三，别忘了改地址、转网络和电、通知学校，我在手机上列了清单。搬家不轻松，但计划能差很多。建议：早点订搬家公司，尤其十二月，周六很快就被订满。",
+    "patterns": [
+      {
+        "en": "The first thing I did was ___.",
+        "zh": "我做的第一件事是……（按顺序讲经验）"
+      },
+      {
+        "en": "I learnt that you have to ask whether ___.",
+        "zh": "我学到要问清楚是不是……"
+      },
+      {
+        "en": "That way, ___ and we won't ___.",
+        "zh": "这样一来……，我们就不会……（说明好处）"
+      },
+      {
+        "en": "If I had one tip for someone else, it would be this: ___.",
+        "zh": "如果要给别人一个建议，那就是……"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Dean",
+      "role": "搬家公司老板",
+      "voice": "m"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "G'day, it's Dean from Northside Removals. You put in a quote request on the website last night — is now a good time?",
+        "zh": "你好，我是 Northside 搬家公司的 Dean。你昨晚在网站上填了报价申请——现在方便说话吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, that's me. Thanks for calling back so quickly, especially on a Sunday.",
+        "zh": "是我。谢谢这么快回电话，还是周日。"
+      },
+      {
+        "s": "o",
+        "en": "No worries, Sundays are when everyone's thinking about moving, ha. So, what are we lookin' at? Three-bedder, from Prospect to Magill?",
+        "zh": "没事，周日大家都在琢磨搬家，哈。那么，大概多少东西？三居室，从 Prospect 搬到 Magill？"
+      },
+      {
+        "s": "y",
+        "en": "That's right. It's a three-bedroom house at 14 Wattle Street in Prospect, going to a three-bedroom house in Magill.",
+        "zh": "对。现在是 Prospect 的 14 Wattle Street 三居室，搬到 Magill 的一套三居室。"
+      },
+      {
+        "s": "o",
+        "en": "Lovely. Any big stuff? Piano, pool table, gym gear, one of those massive fridges?",
+        "zh": "好的。有没有大件？钢琴、台球桌、健身器材，或者那种超大冰箱？"
+      },
+      {
+        "s": "y",
+        "en": "No piano. We've got a normal fridge, a washing machine, a really heavy timber dining table, two kids' beds that need to be taken apart, and a trampoline.",
+        "zh": "没有钢琴。有一台普通冰箱、一台洗衣机、一张很重的实木餐桌、两张需要拆开的儿童床，还有一个蹦床。"
+      },
+      {
+        "s": "o",
+        "en": "Righto. Beds are no worries, we'll pull 'em apart and put 'em back together at the other end. The tramp — if you can get the net and the poles off beforehand, we'll chuck the frame on, no dramas.",
+        "zh": "好的。床没问题，我们会拆开，到那边再装回去。蹦床的话——你提前把网和杆子拆掉，我们就把框架装车，没问题。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? What do I need to do with the trampoline?",
+        "zh": "不好意思，能说慢一点吗？蹦床我需要做什么？"
+      },
+      {
+        "s": "o",
+        "en": "Sure. Just take the safety net and the poles off before we get there. We'll handle the big round frame. Saves us a good half hour, which saves you money.",
+        "zh": "好。我们到之前你把安全网和杆子拆掉就行，大圆框我们来。能省下差不多半小时，也就是帮你省钱。"
+      },
+      {
+        "s": "y",
+        "en": "Got it. I can do that the night before.",
+        "zh": "明白了，我前一天晚上弄。"
+      },
+      {
+        "s": "o",
+        "en": "Beauty. Now, how's the access? Any stairs at either place? And can a truck get right up to the front door?",
+        "zh": "太好了。那进出方便吗？两边有楼梯吗？卡车能开到门口吗？"
+      },
+      {
+        "s": "y",
+        "en": "No stairs at either place. But the new house has quite a steep driveway, and I'm not sure a big truck can get up it.",
+        "zh": "两边都没有楼梯。但新房子的车道挺陡的，我不确定大卡车上不上得去。"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, that's the one to watch. If we can't get up the driveway, it turns into a long carry and that can chew up a fair bit of time. Is there street parking out the front?",
+        "zh": "对，这个要注意。上不去车道的话就得搬很长一段路，会耗掉不少时间。门口街边能停车吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, there's plenty of room on the street, right in front of the house.",
+        "zh": "能，房子正前方街边位置很多。"
+      },
+      {
+        "s": "o",
+        "en": "Should be right, then. So pricing — it's one-sixty-five an hour for two blokes and a six-tonner, three-hour minimum, plus half an hour travel. Ballpark, you're lookin' at five, five and a half hours all up, so eight-fifty to nine hundred, give or take.",
+        "zh": "那应该没问题。价格是两个人加一辆 6 吨卡车每小时 165，最少 3 小时，另加半小时路程。大概估计总共五到五个半小时，也就是 850 到 900 左右。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, the half hour of travel is on top of the hourly time, and the total is roughly eight hundred and fifty to nine hundred dollars?",
+        "zh": "确认一下，半小时路程是另外算的，总价大概 850 到 900 块，对吗？"
+      },
+      {
+        "s": "o",
+        "en": "Spot on. And that's if you've got everything boxed up and ready to go when we rock up. If we're packing the kitchen on the day, the clock's ticking.",
+        "zh": "完全正确。前提是我们到的时候你都装好箱了。要是当天还在打包厨房，那可是按时间算钱的。"
+      },
+      {
+        "s": "y",
+        "en": "We'll pack everything ourselves. Does that price include insurance?",
+        "zh": "我们自己全部打包。这个价格包括保险吗？"
+      },
+      {
+        "s": "o",
+        "en": "Transit insurance is extra — sixty bucks flat. It's optional, but with a solid timber table I'd probably go for it. If something gets scratched, you're covered.",
+        "zh": "运输保险另算——固定 60 块。可选，但有实木桌的话我会建议买。万一刮花了有保障。"
+      },
+      {
+        "s": "y",
+        "en": "Okay, I'll take the insurance. And what date have you got? We were hoping for Saturday the twelfth of December.",
+        "zh": "好，我买保险。你们哪天有空？我们希望是 12 月 12 日周六。"
+      },
+      {
+        "s": "o",
+        "en": "Let me have a look… yep, I've got the twelfth, but only an early start — seven-thirty. Saturdays this time of year get snapped up, so I'd lock it in sooner rather than later.",
+        "zh": "我看看……有，12 号可以，不过只能早开工——7:30。每年这个时候周六很抢手，建议早点定。"
+      },
+      {
+        "s": "y",
+        "en": "Seven-thirty is fine. Let's lock it in. Is there a deposit?",
+        "zh": "7:30 没问题，定下来吧。要交押金吗？"
+      },
+      {
+        "s": "o",
+        "en": "Two hundred to hold the booking, and it comes off the balance on the day. Pay the rest by card or bank transfer when we're done.",
+        "zh": "200 块订金锁定预订，当天从尾款里扣。搬完后刷卡或转账付剩下的。"
+      },
+      {
+        "s": "y",
+        "en": "Great. Could you email me the quote and the booking confirmation, so I've got everything in writing? My mobile is 0491 570 236 if you need it.",
+        "zh": "好的。能把报价和预订确认发邮件给我吗？这样都有书面记录。需要的话我手机是 0491 570 236。"
+      },
+      {
+        "s": "o",
+        "en": "Too easy. I'll flick it through this arvo with a link for the deposit. We'll give you a buzz the day before to confirm. Cheers!",
+        "zh": "没问题。我今天下午发给你，附上付订金的链接。搬家前一天我们会打电话确认。谢啦！"
+      },
+      {
+        "s": "y",
+        "en": "Thanks so much, Dean. Have a good Sunday.",
+        "zh": "太感谢了，Dean。周日愉快。"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you slow down a little? There are a lot of numbers.",
+      "zh": "不好意思，能说慢一点吗？数字有点多。"
+    },
+    {
+      "en": "Just to confirm, is that per hour or the total?",
+      "zh": "确认一下，这是每小时的价格还是总价？"
+    },
+    {
+      "en": "Is that included, or is it on top?",
+      "zh": "这个包含在内，还是另外收费？"
+    },
+    {
+      "en": "Could you spell the company name for me?",
+      "zh": "能拼一下公司名字吗？"
+    },
+    {
+      "en": "Could you put that in an email so I've got it in writing?",
+      "zh": "能发邮件给我吗？这样我有书面记录。"
+    }
+  ],
+  "checklist": [
+    "我能说清楚要搬的大件和两边房子的楼梯、车道、停车情况",
+    "我听懂了 one-sixty-five an hour、three-hour minimum、plus half an hour travel 分别是什么意思",
+    "我能用 Just to confirm… 复述总价并确认路程费是不是另算",
+    "我知道 long carry、pull apart、transit insurance、deposit comes off the balance 的意思",
+    "我能定下日期和开始时间，并请对方把报价和确认发邮件",
+    "对方说太快时，我至少礼貌请他重复或放慢了一次"
+  ]
+}
