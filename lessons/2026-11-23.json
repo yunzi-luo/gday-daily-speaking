@@ -1,0 +1,312 @@
+{
+  "id": "2026-11-23",
+  "date": "2026-11-23",
+  "category": "工作",
+  "title": "周一站会汇报进度并商量接手同事工作",
+  "titleEn": "Giving your stand-up update and picking up a sick colleague's work",
+  "scene": [
+    "周一早上 9:15，你们组在 Teams 上开每天 15 分钟的站会（stand-up）。主持的是 Scrum Master Kirsty。轮到你时，你要说上周做了什么、今天做什么、有没有卡住的地方（blocker）。今天还有个意外：负责数据映射（data mapping）的同事 Priya 请了病假，可能要请好几天，Kirsty 会当场问你能不能先接她的活。大家说话快，还爱用缩写和澳洲口语，比如 “where are we at”、“across it”、“a fair bit on your plate”。",
+    "你的目标：① 用“上周—今天—blocker”三段清楚汇报 UAT 测试进度；② 听懂 Kirsty 的请求，不要一口答应，先说明自己手上的工作，问清优先级和截止时间；③ 约好会后具体交接（handover），并请她在 Teams 上把决定写下来。"
+  ],
+  "facts": [
+    {
+      "k": "When",
+      "v": "周一 9:15，Teams 线上站会，限时 15 分钟"
+    },
+    {
+      "k": "Your work",
+      "v": "工资系统升级项目的 UAT 测试：40 个测试用例已完成 28 个"
+    },
+    {
+      "k": "Blocker",
+      "v": "测试环境周五起一直很慢，等基础设施组修"
+    },
+    {
+      "k": "New ask",
+      "v": "Priya 病假，她的 data mapping 周四（26 日）要交初稿"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "stand-up",
+      "zh": "站会（每天的简短进度会）",
+      "ex": "Our stand-up is at quarter past nine every morning."
+    },
+    {
+      "en": "Where are we at with ___?",
+      "zh": "……进展到哪了？",
+      "ex": "Where are we at with the UAT testing?"
+    },
+    {
+      "en": "a blocker",
+      "zh": "卡住进度的问题",
+      "ex": "The only blocker is the test environment."
+    },
+    {
+      "en": "be across something",
+      "zh": "了解、掌握某事",
+      "ex": "Are you across the data mapping at all?"
+    },
+    {
+      "en": "have a lot on your plate",
+      "zh": "手头事情很多",
+      "ex": "I know you've got a fair bit on your plate this week."
+    },
+    {
+      "en": "pick up / take over",
+      "zh": "接手（工作）",
+      "ex": "Could you pick up Priya's tickets for a few days?"
+    },
+    {
+      "en": "a handover",
+      "zh": "工作交接",
+      "ex": "Can we do a quick handover after the stand-up?"
+    },
+    {
+      "en": "crook",
+      "zh": "（澳洲口语）生病",
+      "ex": "Priya's crook, so she's off today."
+    },
+    {
+      "en": "push back (a deadline)",
+      "zh": "推迟（截止日期）",
+      "ex": "Can we push the deadline back to Friday?"
+    },
+    {
+      "en": "deprioritise",
+      "zh": "降低优先级、先放一放",
+      "ex": "If I take this on, something else needs to be deprioritised."
+    },
+    {
+      "en": "a first cut / a first draft",
+      "zh": "初稿、第一版",
+      "ex": "The first cut is due on Thursday."
+    },
+    {
+      "en": "take it offline",
+      "zh": "会后单独讨论",
+      "ex": "Let's take that offline so we don't hold everyone up."
+    }
+  ],
+  "listening": [
+    {
+      "en": "Morning all, let's get cracking — we've got a fair bit to get through, so keep it snappy.",
+      "sound": "let's get cracking 连成 “lets-ged-crackin” = 开始吧；keep it snappy = 说简短点；a fair bit 读 “a fair-bi’” = 不少。",
+      "zh": "大家早，开始吧——今天事儿挺多，大家说简短点。",
+      "reply": "Morning, Kirsty. No worries."
+    },
+    {
+      "en": "Righto, over to you — where're we at with UAT?",
+      "sound": "Righto 读 “rye-toe” = 好的；over to you = 轮到你了；where're we at 连成 “wair-wee-at” = 进展到哪了。",
+      "zh": "好，轮到你了——UAT 测试进展到哪了？",
+      "reply": "Sure. Last week I finished twenty-eight of the forty test cases."
+    },
+    {
+      "en": "Is that environment still playin' up? I thought infra were all over it.",
+      "sound": "playing up 吞掉 g = 出毛病；infra = infrastructure team 基础设施组；all over it = 正在全力处理。",
+      "zh": "那个测试环境还在出问题吗？我以为基础设施组在全力搞呢。",
+      "reply": "It's still really slow. They said they'd have a look this morning."
+    },
+    {
+      "en": "Heads-up, Priya's crook, so she'll be off for a few days by the sounds of it.",
+      "sound": "heads-up = 提前告诉一声；crook 读 “crook” = 生病（澳洲常用）；by the sounds of it = 听起来、看样子。",
+      "zh": "提醒一下，Priya 病了，看样子要请几天假。",
+      "reply": "Oh no, I hope she feels better soon."
+    },
+    {
+      "en": "Any chance you could pick up her data mapping? I know you've got a fair bit on your plate.",
+      "sound": "Any chance you could 连成 “enny-chance-ya-could” = 你能不能……（委婉请求）；on your plate = 手头的事。",
+      "zh": "你有没有可能接一下她的数据映射？我知道你手上事也不少。",
+      "reply": "I can help, but I'd need to check the priorities first."
+    },
+    {
+      "en": "Let's take that offline — can you and I jump on a call straight after this?",
+      "sound": "take that offline = 会后单独聊；jump on a call 连成 “jum-pon-a-call” = 打个电话/开个小会；straight after = 一结束就。",
+      "zh": "这个会后再说吧——这个会一结束咱俩通个话行吗？",
+      "reply": "Sure, I'll stay on the call."
+    }
+  ],
+  "speech": {
+    "topic": "我是怎么在站会上把进度说清楚的",
+    "paragraphs": [
+      "When I first started working in an Australian office, I was really nervous about stand-up meetings. Everyone spoke so fast, and when it was my turn, I either talked for too long or forgot the most important part.",
+      "Now I use a simple pattern with three parts. First, I say what I finished yesterday or last week, with one clear number if I can. For example, \"I finished twenty-eight of the forty test cases.\" Second, I say what I'm working on today. Third, I say if I have a blocker, and who I need help from. That's it. It usually takes less than a minute.",
+      "I also learnt that stand-up is not the place to solve big problems. If something needs a long discussion, I say, \"Can we take that offline?\" and we talk after the meeting. People really appreciate it, because nobody wants a fifteen-minute meeting to turn into forty minutes.",
+      "Another thing I've had to practise is saying no politely. When my manager asks me to take on extra work, I don't just say yes straight away. I explain what I'm already working on, and I ask which task is more important. Sometimes the deadline moves, and sometimes another task waits. Either way, it's much better than promising too much and then missing a deadline.",
+      "If I could give one tip to someone new, it would be this: write down your three points before the meeting starts. Even after a few years, I still do it every morning."
+    ],
+    "zh": "刚在澳洲办公室上班时，我很怕站会：大家说话快，轮到我时不是说太长就是忘了重点。现在我用一个三段式：先说上周/昨天完成了什么，最好带一个具体数字；再说今天做什么；最后说有没有 blocker、需要谁帮忙。一般不到一分钟。我也学到站会不是解决大问题的地方，需要长时间讨论就说“会后再聊”，大家都很感激，因为没人想让 15 分钟的会拖到 40 分钟。另外我练习了礼貌地拒绝：经理让我多接工作时，我不会马上答应，而是先说明手上的工作，问哪个更重要。有时截止日期会推迟，有时别的任务先放一放，总比答应太多再误期好。给新人的建议：开会前先把三点写下来，我到现在每天早上都这么做。",
+    "patterns": [
+      {
+        "en": "Last week I finished ___. Today I'm working on ___. My only blocker is ___.",
+        "zh": "站会三段式：上周完成…今天做…卡在…"
+      },
+      {
+        "en": "I'm happy to help with ___, but I'd need to ___ first.",
+        "zh": "我愿意帮忙……，但得先……（不直接拒绝）"
+      },
+      {
+        "en": "If I take that on, ___ will have to wait. Which one is the priority?",
+        "zh": "如果我接了这个，……就得往后放。哪个优先？"
+      },
+      {
+        "en": "Can we take ___ offline so we don't hold everyone up?",
+        "zh": "……能会后再聊吗？免得耽误大家。"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Kirsty",
+      "role": "项目 Scrum Master",
+      "voice": "f"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Morning all, let's get cracking — we've got a fair bit to get through today, so keep it snappy. Righto, over to you. Where're we at with UAT?",
+        "zh": "大家早，开始吧——今天事挺多，大家说简短点。好，轮到你了。UAT 测试进展到哪了？"
+      },
+      {
+        "s": "y",
+        "en": "Morning, Kirsty. So, last week I finished twenty-eight of the forty test cases for the payroll upgrade. Most of them passed, and I logged three defects in Jira.",
+        "zh": "早，Kirsty。上周我完成了工资系统升级 40 个测试用例里的 28 个。大部分都通过了，我在 Jira 里记了三个缺陷。"
+      },
+      {
+        "s": "o",
+        "en": "Nice one. Are any of those three showstoppers, or are we talkin' cosmetic stuff?",
+        "zh": "不错。这三个里有致命的吗，还是只是界面小问题？"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? I didn't quite catch the last part.",
+        "zh": "不好意思，能再说慢一点吗？后半句我没太听清。"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, sorry, I'm rabbiting on. I mean, are any of the defects serious enough to stop us going live? Or are they just small things, like spelling or layout?",
+        "zh": "哦抱歉，我说太快了。我是说，这些缺陷里有没有严重到会阻止上线的？还是只是拼写、排版这种小问题？"
+      },
+      {
+        "s": "y",
+        "en": "Two are just layout issues. But one is serious — the overtime rate isn't calculating correctly for part-time staff. I've marked it as high priority.",
+        "zh": "两个只是排版问题。但有一个很严重——兼职员工的加班费算得不对。我已经标成高优先级了。"
+      },
+      {
+        "s": "o",
+        "en": "Right, good catch. I'll make sure the devs are across that one today. And what's on for you this week?",
+        "zh": "好，发现得好。我今天确保开发那边知道这个。你这周什么安排？"
+      },
+      {
+        "s": "y",
+        "en": "Today I'm working on the leave and timesheet test cases. My only blocker is the test environment. It's been really slow since Friday, and some pages time out.",
+        "zh": "今天我做请假和工时表的测试用例。唯一卡住的是测试环境，从周五起就特别慢，有些页面会超时。"
+      },
+      {
+        "s": "o",
+        "en": "Is it still playin' up? I thought infra were all over it. I'll give Marcus a nudge after this and see if we can get an ETA.",
+        "zh": "还在出问题？我以为基础设施组在全力处理呢。会后我催一下 Marcus，看能不能给个预计修好的时间。"
+      },
+      {
+        "s": "y",
+        "en": "Thanks, that'd be great. If it's fixed by lunchtime, I should still finish UAT by Friday.",
+        "zh": "谢谢，那太好了。如果中午前修好，我应该还能在周五前完成 UAT。"
+      },
+      {
+        "s": "o",
+        "en": "Lovely. Oh, and heads-up, everyone — Priya's crook, so she'll be off for a few days by the sounds of it.",
+        "zh": "好。哦，提醒大家一下——Priya 病了，看样子要请几天假。"
+      },
+      {
+        "s": "y",
+        "en": "Oh no, I'm sorry to hear that. I hope she's feeling better soon.",
+        "zh": "哎呀，听到这个很遗憾。希望她快点好起来。"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, poor thing. Which leaves us a bit short. Any chance you could pick up her data mapping? The first cut's due Thursday, and the client's pretty keen to see it. I know you've got a fair bit on your plate, though.",
+        "zh": "是啊，挺可怜的。这样我们就有点缺人了。你有没有可能接一下她的数据映射？初稿周四要交，客户挺急着想看。不过我知道你手上事也不少。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, you mean the mapping from the old payroll system to the new one — the spreadsheet she's been working on?",
+        "zh": "我确认一下，你是说从旧工资系统到新系统的数据映射——就是她一直在做的那个表格？"
+      },
+      {
+        "s": "o",
+        "en": "Spot on, that's the one. She reckons it's about two-thirds done.",
+        "zh": "对，就是那个。她说大概做了三分之二。"
+      },
+      {
+        "s": "y",
+        "en": "I'm happy to help, but I'd need to check the priorities first. If I take that on, I probably can't finish UAT by Friday. Which one is more important?",
+        "zh": "我愿意帮忙，但得先确认优先级。如果我接了这个，周五前可能完不成 UAT。哪个更重要？"
+      },
+      {
+        "s": "o",
+        "en": "Hmm, fair point. Honestly, UAT's the bigger fish to fry. But the client's been chasing that mapping since last week.",
+        "zh": "嗯，有道理。说实话，UAT 更重要。但客户从上周就一直在催那个映射。"
+      },
+      {
+        "s": "y",
+        "en": "Maybe there's a middle option. Could we push the mapping back to Monday? Or I could do the most urgent tables first and send a partial draft on Thursday.",
+        "zh": "也许可以折中一下。映射能不能推到下周一？或者我先做最急的几张表，周四先发一部分初稿。"
+      },
+      {
+        "s": "o",
+        "en": "Ooh, I like that. A partial draft Thursday should keep them happy. Let's take that offline, though — we're holding everyone up. Can you and I jump on a call straight after this?",
+        "zh": "哦，这个好。周四先给部分初稿应该能让他们满意。不过这个会后再聊吧——别耽误大家了。这个会一结束咱俩通个话行吗？"
+      },
+      {
+        "s": "y",
+        "en": "Sure. Could you also check if Priya left any notes? A quick handover would really help me get up to speed.",
+        "zh": "好的。你能不能也看看 Priya 有没有留下笔记？简单交接一下能帮我快点上手。"
+      },
+      {
+        "s": "o",
+        "en": "Yep, she said it's all in the shared drive, in the folder called 'Mapping v3'. I'll flick you the link.",
+        "zh": "有，她说都在共享盘里一个叫 'Mapping v3' 的文件夹。我把链接发你。"
+      },
+      {
+        "s": "y",
+        "en": "Thanks. And after our call, could you put the new plan in the Teams channel, so everyone knows UAT might slip a day?",
+        "zh": "谢谢。我们通完话后，你能把新安排发到 Teams 频道吗？这样大家都知道 UAT 可能会推迟一天。"
+      },
+      {
+        "s": "o",
+        "en": "Too easy, I'll pop it in the channel. Cheers for being flexible — you're a legend. Okay, who's next? Dev team, over to you.",
+        "zh": "没问题，我发到频道里。谢谢你这么灵活——你太给力了。好，下一个是谁？开发组，到你们了。"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能再说慢一点吗？"
+    },
+    {
+      "en": "Just to confirm, you mean ___?",
+      "zh": "我确认一下，你是说……？"
+    },
+    {
+      "en": "Sorry, what does ___ stand for?",
+      "zh": "不好意思，……是什么的缩写？"
+    },
+    {
+      "en": "Can we take that offline? I'll follow up after the meeting.",
+      "zh": "这个能会后再聊吗？我会后跟进。"
+    },
+    {
+      "en": "Could you put that in the Teams chat so I don't miss anything?",
+      "zh": "能把那个发到 Teams 聊天里吗？免得我漏掉。"
+    }
+  ],
+  "checklist": [
+    "我能用“上周—今天—blocker”三段在一分钟内说完进度",
+    "我听懂了 where're we at、across it、playing up、crook、a fair bit on your plate",
+    "Kirsty 说太快时，我用了礼貌追问而不是假装听懂",
+    "被要求接手额外工作时，我没有马上答应，而是问清了优先级和截止时间",
+    "我提出了一个折中方案（推迟或先交部分初稿）",
+    "我请对方把新安排写在 Teams 里确认"
+  ]
+}

@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "lessons": [
+    {
+      "id": "2026-11-23",
+      "date": "2026-11-23",
+      "category": "工作",
+      "title": "周一站会汇报进度并商量接手同事工作",
+      "titleEn": "Giving your stand-up update and picking up a sick colleague's work"
+    },
     {
       "id": "2026-11-22",
       "date": "2026-11-22",
