@@ -1,0 +1,317 @@
+{
+  "id": "2026-11-24",
+  "date": "2026-11-24",
+  "category": "社交",
+  "title": "邻居上门邀请参加街坊圣诞聚会并分工",
+  "titleEn": "A neighbour invites you to the street Christmas party",
+  "scene": [
+    "周二傍晚六点多，你刚下班到家，住在斜对面的邻居 Trudy 来敲门。她每年都张罗这条街的圣诞街坊聚会（street party）：12 月 13 日周日下午，向市政府（council）申请把街道尽头封起来，各家搬桌椅出来一起吃东西，傍晚还有 CFS 消防车载着圣诞老人（Santa run）开过来给孩子发糖。Trudy 很热情，说话快，一口气讲很多安排，还夹着 bring a plate、chip in、trestle table、sign-up sheet 这类说法。",
+    "你的目标：① 听懂时间、地点和每家要带什么；② 主动认领一件力所能及的事（比如带一张折叠桌和一盘菜），问清给孩子准备礼物的规则和凑钱金额；③ 留下联系方式，请她把细节发到街坊群里或短信给你。"
+  ],
+  "facts": [
+    {
+      "k": "When",
+      "v": "12 月 13 日周日，下午 4 点左右开始，Santa 大约 6:30 到"
+    },
+    {
+      "k": "Where",
+      "v": "Wattle Street 尽头的环形路口（cul-de-sac）"
+    },
+    {
+      "k": "Bring",
+      "v": "一盘菜（a plate）、自带饮料（BYO）、自己的椅子"
+    },
+    {
+      "k": "Kids' presents",
+      "v": "每个孩子一份写好名字的礼物，不超过 $15；每家凑 $10 买冰块和一次性餐具"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "street party",
+      "zh": "街坊聚会（在街上办的派对）",
+      "ex": "We have a street party every December."
+    },
+    {
+      "en": "close off the street",
+      "zh": "封路（不让车进）",
+      "ex": "The council lets us close off the end of the street."
+    },
+    {
+      "en": "bring a plate",
+      "zh": "每家带一盘吃的来分享",
+      "ex": "It's bring a plate, so maybe a salad or some nibbles."
+    },
+    {
+      "en": "nibbles",
+      "zh": "小零食、小点心",
+      "ex": "I'll bring some nibbles for the kids."
+    },
+    {
+      "en": "chip in",
+      "zh": "凑钱、分摊",
+      "ex": "Everyone chips in ten bucks for ice and plates."
+    },
+    {
+      "en": "trestle table",
+      "zh": "折叠长桌",
+      "ex": "Have you got a trestle table we could borrow?"
+    },
+    {
+      "en": "gazebo",
+      "zh": "（户外）遮阳棚",
+      "ex": "We'll put up a gazebo in case it's a hot one."
+    },
+    {
+      "en": "sign-up sheet",
+      "zh": "报名表、认领表",
+      "ex": "There's a sign-up sheet on the group chat."
+    },
+    {
+      "en": "put your name down for ___",
+      "zh": "认领……、报名……",
+      "ex": "Can I put my name down for a table and a fruit platter?"
+    },
+    {
+      "en": "label it",
+      "zh": "写上名字、贴标签",
+      "ex": "Just wrap the present and label it with your kid's name."
+    },
+    {
+      "en": "a hot one / a scorcher",
+      "zh": "大热天",
+      "ex": "If it's a scorcher, we'll move it a bit later."
+    },
+    {
+      "en": "pop over",
+      "zh": "（顺路）过来一下",
+      "ex": "I'll pop over on Saturday to drop off the table."
+    }
+  ],
+  "listening": [
+    {
+      "en": "Oh hiya, sorry to bug you — I know you've only just got in. Have you got a sec?",
+      "sound": "sorry to bug you 连读 “sorry-da-bug-ya” = 不好意思打扰；just got in = 刚到家；have you got a sec 吞成 “gotta-sec” = 有空一下吗。",
+      "zh": "嗨，不好意思打扰——我知道你刚到家。有空一下吗？",
+      "reply": "Hi Trudy! Yeah, no worries, what's up?"
+    },
+    {
+      "en": "We're doing the street party again — Sunday the thirteenth, kicks off fourish down the cul-de-sac end.",
+      "sound": "kicks off = 开始；fourish 读 “for-rish” = 四点左右；cul-de-sac 读 “cull-de-sack” = 死胡同/环形路尽头。",
+      "zh": "我们今年又办街坊聚会——13 号周日，四点左右在路尽头开始。",
+      "reply": "Oh lovely. The thirteenth, around four — sounds great."
+    },
+    {
+      "en": "It's just bring a plate, BYO, and chuck a camp chair in the boot — well, you know what I mean, just wheel it down.",
+      "sound": "bring a plate = 带一盘菜分享；BYO = 自带饮料；chuck ... in = 随手放进去；camp chair = 折叠露营椅。",
+      "zh": "就是每家带个菜、自带饮料，再带把折叠椅——反正你懂的，搬下来就行。",
+      "reply": "Easy. Should I bring something sweet or savoury?"
+    },
+    {
+      "en": "Santa's coming round on the CFS truck about half six, so if you could chuck a wrapped pressie in the sack for each kiddie, name on it, nothing over fifteen bucks.",
+      "sound": "half six = 六点半；pressie 读 “prezzy” = 礼物；kiddie = 小孩；fifteen bucks = 15 澳元。这句信息量大：包好、写名字、不超过 $15。",
+      "zh": "六点半左右圣诞老人会坐 CFS 消防车过来，所以请给每个孩子包一份礼物放进袋子里，写上名字，不超过 15 块。",
+      "reply": "Just to confirm — one wrapped present per child, with their name, under fifteen dollars?"
+    },
+    {
+      "en": "And we're asking everyone to chip in a tenner for ice and the plates and that.",
+      "sound": "chip in = 凑钱；a tenner 读 “a-tenna” = 10 块钱；and that = 之类的（澳洲常加在句尾）。",
+      "zh": "我们还请每家凑 10 块钱，买冰块、盘子之类的。",
+      "reply": "Sure, can I just transfer it to you?"
+    },
+    {
+      "en": "Reckon you'd be able to lend us a trestle table? We're always short come the day.",
+      "sound": "Reckon you'd 连成 “reck-n-youd” = 你觉得能不能；lend us = 借给我（us 在口语里常指 me）；come the day = 到了那天。",
+      "zh": "你能借我们一张折叠桌吗？每次到那天桌子都不够。",
+      "reply": "Yeah, we've got one. Put my name down for that."
+    }
+  ],
+  "speech": {
+    "topic": "说说我们这条街的邻居，以及我想怎样和邻居走得更近",
+    "paragraphs": [
+      "When we first moved into our street, I didn't really know anyone. People waved from their cars, and I waved back, but that was about it. I was a bit shy about my English, so I usually just smiled and went inside.",
+      "Things changed when a neighbour knocked on our door and invited us to the street Christmas party. At first I was nervous. I didn't know what to bring or how to start a conversation. But she was really friendly, and she explained everything: bring a plate, bring your own drinks, and bring a chair. My kids were very excited because Santa was coming on a fire truck.",
+      "On the day, I made a big fruit platter and we carried our trestle table down the street. I put my name down to help set up, and that was a great idea. When you have a job to do, it's much easier to talk to people. I met an older couple who have lived on the street for thirty years, and a family with kids the same age as mine.",
+      "Now I feel much more at home. We say hello by name, we keep an eye on each other's houses when someone is away, and the kids play together after school. I've learned that neighbours in Australia are often happy to chat, but sometimes you have to take the first step.",
+      "My plan for next year is simple. I want to help organise one small thing, like the kids' games, and I want to invite one neighbour over for a cuppa every month. It's a small step, but it makes a big difference."
+    ],
+    "zh": "刚搬来时我谁也不认识，因为对英语没信心，见到邻居只是笑笑。后来邻居上门邀请我们参加街坊圣诞聚会，她把规矩讲得很清楚：带一盘菜、自带饮料和椅子。那天我做了一大盘水果，借出折叠桌，还主动报名帮忙布置——有事做就更容易开口聊天。我认识了在这条街住了三十年的老夫妻，还有孩子同龄的一家人。现在我们能叫出彼此名字，互相照看房子，孩子们放学一起玩。我明白了：澳洲邻居通常很乐意聊天，但有时需要自己先迈出一步。明年我想帮忙组织一个小活动，并且每月请一位邻居来家里喝杯茶。",
+    "patterns": [
+      {
+        "en": "At first I was ___, but ___.",
+        "zh": "一开始我……，但是……（讲变化）"
+      },
+      {
+        "en": "I put my name down to ___.",
+        "zh": "我报名/认领了……"
+      },
+      {
+        "en": "When you have a job to do, it's much easier to ___.",
+        "zh": "有事情做的时候，……就容易多了"
+      },
+      {
+        "en": "My plan for next year is to ___ and ___.",
+        "zh": "我明年的计划是……和……"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Trudy",
+      "role": "住在斜对面的热心邻居",
+      "voice": "f"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Oh hiya! Sorry to bug you, I know you've only just got in from work. Have you got a sec?",
+        "zh": "嗨！不好意思打扰，我知道你刚下班到家。有空一下吗？"
+      },
+      {
+        "s": "y",
+        "en": "Hi Trudy! Yeah, no worries. How are you going?",
+        "zh": "嗨 Trudy！没事。你最近怎么样？"
+      },
+      {
+        "s": "o",
+        "en": "Good, good, flat out as usual, you know how it is this time of year. Look, I'm just doing the rounds — we're putting on the street party again this year. Did you hear about it last year? You'd only just moved in, I think.",
+        "zh": "挺好挺好，跟往常一样忙，你知道每年这个时候都这样。是这样，我在挨家挨户通知——今年我们又要办街坊聚会。去年你听说了吗？那时你好像刚搬来。"
+      },
+      {
+        "s": "y",
+        "en": "I think I saw some balloons, but we were still unpacking boxes. So it's a party for the whole street?",
+        "zh": "我好像看到了一些气球，但那时我们还在拆箱子。所以是整条街一起的派对？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, the whole lot. We get a permit from council and close off the cul-de-sac end, so the kids can run around and no one's gotta worry about cars. It's Sunday the thirteenth, kicks off fourish, and it usually goes till the mozzies get too bad.",
+        "zh": "对，整条街。我们向市政府申请许可，把路尽头那段封起来，孩子们可以随便跑，不用担心车。13 号周日，四点左右开始，通常一直到蚊子多得受不了为止。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? Which day did you say?",
+        "zh": "不好意思，能再说慢一点吗？你说的是哪天？"
+      },
+      {
+        "s": "o",
+        "en": "Ha, sorry, I talk a mile a minute. Sunday, the thirteenth of December. Starts around four in the afternoon, down the end of the street near the big gum tree.",
+        "zh": "哈，抱歉，我说话太快了。12 月 13 日周日。下午四点左右开始，在街尽头那棵大桉树附近。"
+      },
+      {
+        "s": "y",
+        "en": "Great, thanks. Sunday the thirteenth, around four. What do people usually bring?",
+        "zh": "好的，谢谢。13 号周日，四点左右。大家一般带什么？"
+      },
+      {
+        "s": "o",
+        "en": "It's bring a plate, so whatever you like — a salad, some nibbles, a slice, anything really. BYO drinks, and bring your own chairs. We've got a couple of gazebos going up in case it's a scorcher.",
+        "zh": "每家带一盘吃的，随你——沙拉、小零食、甜点切块，什么都行。饮料自带，椅子也自己带。我们会搭几个遮阳棚，以防到时候特别热。"
+      },
+      {
+        "s": "y",
+        "en": "Sounds lovely. I could make a big fruit platter, or maybe some dumplings. Would that be okay?",
+        "zh": "听起来真好。我可以做一大盘水果，或者做些饺子。可以吗？"
+      },
+      {
+        "s": "o",
+        "en": "Oh, dumplings would go down a treat! Honestly, they'd be gone in five minutes. Now, the other big thing — Santa's coming round on the CFS truck about half six, so if you could chuck a wrapped pressie in the sack for each of your kiddies, name on it, nothing over fifteen bucks.",
+        "zh": "哦，饺子肯定大受欢迎！说真的，五分钟就会被抢光。还有一件大事——六点半左右圣诞老人会坐 CFS 消防车过来，所以请给你家每个孩子包一份礼物放进袋子里，写上名字，不超过 15 块。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, you mean I buy a present for my own kids, wrap it, write their name on it, and Santa gives it to them?",
+        "zh": "我确认一下，你是说我给自己的孩子买礼物、包好、写上名字，然后由圣诞老人发给他们？"
+      },
+      {
+        "s": "o",
+        "en": "Spot on. That way no one misses out and nobody ends up with something they hate. Just drop them at mine by the Friday before, so I can sort them into the sack.",
+        "zh": "完全正确。这样谁都不会落下，也没人拿到自己讨厌的东西。在那之前的周五前送到我家就行，我好把它们分装进袋子。"
+      },
+      {
+        "s": "y",
+        "en": "Got it. Drop the presents at your place by Friday the eleventh. Under fifteen dollars each.",
+        "zh": "明白了。11 号周五前把礼物送到你家。每份不超过 15 块。"
+      },
+      {
+        "s": "o",
+        "en": "You're a legend. Oh, and we're asking everyone to chip in a tenner for ice, plates, bin bags and that. And — this is a bit cheeky — reckon you'd be able to lend us a trestle table? We're always short come the day.",
+        "zh": "你太好了。哦，我们还请每家凑 10 块钱，买冰块、盘子、垃圾袋之类的。还有——这有点不好意思——你能借我们一张折叠桌吗？每次到那天桌子都不够。"
+      },
+      {
+        "s": "y",
+        "en": "Sure, we've got one in the garage. You can put my name down for the table. And can I transfer the ten dollars, or do you need cash?",
+        "zh": "当然，我们车库里有一张。桌子就记在我名下吧。那 10 块钱我可以转账吗，还是要现金？"
+      },
+      {
+        "s": "o",
+        "en": "Either's fine. PayID's easiest — I'll pop the details in the street group chat. Are you on that? There's a sign-up sheet in there too, for setting up and packing down.",
+        "zh": "都行。PayID 最方便——我会把信息发到街坊群里。你在群里吗？群里还有张认领表，登记帮忙布置和收拾的。"
+      },
+      {
+        "s": "y",
+        "en": "I'm not in the group yet. Could you add me? My number is 0491 570 238.",
+        "zh": "我还没进群。你能把我加进去吗？我的号码是 0491 570 238。"
+      },
+      {
+        "s": "o",
+        "en": "Hang on, let me grab my phone. Oh-four-nine-one, five-seven-oh, two-three-eight? Righto, I'll add you tonight.",
+        "zh": "等一下，我拿个手机。0491 570 238？好，我今晚就把你加进去。"
+      },
+      {
+        "s": "y",
+        "en": "Yes, that's right. Thanks so much. I'm happy to help set up too, if you need extra hands.",
+        "zh": "对，没错。太感谢了。如果需要人手，我也很乐意帮忙布置。"
+      },
+      {
+        "s": "o",
+        "en": "Oh, beauty! We usually start setting up around three. Many hands make light work, eh? And if the forecast's a shocker, we'll just push it back a week — I'll let everyone know on the chat.",
+        "zh": "哦，太好了！我们一般三点左右开始布置。人多好干活嘛，对吧？要是天气预报很糟，我们就推迟一周——我会在群里通知大家。"
+      },
+      {
+        "s": "y",
+        "en": "Perfect. So, three o'clock to set up, and you'll message if it changes. Could you also text me the details, just so I don't forget?",
+        "zh": "好的。三点开始布置，有变化你会发消息。你能也把细节短信发我一下吗？免得我忘了。"
+      },
+      {
+        "s": "o",
+        "en": "Course I can. I'll flick you a text tonight with everything. Right, I'll let you get your dinner on. Lovely to catch up!",
+        "zh": "当然可以。我今晚给你发条短信，什么都写上。好啦，不耽误你做饭了。很高兴和你聊聊！"
+      },
+      {
+        "s": "y",
+        "en": "You too, Trudy. Thanks for inviting us — the kids will be so excited. See you soon!",
+        "zh": "我也是，Trudy。谢谢你邀请我们——孩子们会特别兴奋的。回头见！"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能再说慢一点吗？"
+    },
+    {
+      "en": "Sorry, which day did you say?",
+      "zh": "不好意思，你说的是哪天？"
+    },
+    {
+      "en": "Just to confirm, you mean ___?",
+      "zh": "我确认一下，你是说……？"
+    },
+    {
+      "en": "Sorry, what's a ___? I haven't heard that before.",
+      "zh": "不好意思，……是什么？我以前没听过这个说法。"
+    },
+    {
+      "en": "Could you text me the details, just so I don't forget?",
+      "zh": "你能把细节短信发我吗？免得我忘了。"
+    }
+  ],
+  "checklist": [
+    "我听懂了日期、开始时间（fourish）和 Santa 来的时间（half six）",
+    "我听懂了 bring a plate、BYO、chip in a tenner、trestle table、sign-up sheet",
+    "我能复述礼物规则：每个孩子一份、包好写名字、不超过 $15、周五前送到",
+    "我主动认领了一件事（借桌子/帮忙布置）并说清楚",
+    "我至少礼貌追问了两次（请对方说慢点 / Just to confirm…）",
+    "我留下了电话并请对方用短信或群消息确认细节"
+  ]
+}
