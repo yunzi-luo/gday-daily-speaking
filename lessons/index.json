@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "lessons": [
+    {
+      "id": "2026-11-25",
+      "date": "2026-11-25",
+      "category": "求职",
+      "title": "面试被问讲一次工作失误和补救经过",
+      "titleEn": "Answering \"Tell me about a time you made a mistake\""
+    },
     {
       "id": "2026-11-24",
       "date": "2026-11-24",

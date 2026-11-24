@@ -1,0 +1,317 @@
+{
+  "id": "2026-11-25",
+  "date": "2026-11-25",
+  "category": "求职",
+  "title": "面试被问讲一次工作失误和补救经过",
+  "titleEn": "Answering \"Tell me about a time you made a mistake\"",
+  "scene": [
+    "周三下午，你在一家市政厅（Riverside Council，虚构）参加业务分析师（BA）岗位的面对面面试。面试官是数字服务组的经理 Andrew，说话快、爱开玩笑。前面聊得不错，他突然说：“Righto, here's a bit of a curly one — tell me about a time you dropped the ball at work.” 很多人一听“犯错”就紧张，要么说“我想不出来”，要么把错推给别人——这两种都会扣分。澳洲面试官想看的是：你敢不敢承认（own up to it）、怎么补救、学到了什么。",
+    "你的目标：① 用 STAR（情境–任务–行动–结果）讲清一次真实但不致命的失误：上一份工作中需求遗漏了兼职员工的假期计算，UAT 时才发现；② 听懂 Andrew 的快语速追问（in hindsight、slip through the cracks、throw someone under the bus），不确定时礼貌澄清；③ 最后讲出你改了什么流程，让失误变成加分项。"
+  ],
+  "facts": [
+    {
+      "k": "When",
+      "v": "周三下午 2:00，面对面面试，约 45 分钟"
+    },
+    {
+      "k": "Who",
+      "v": "Andrew（数字服务组经理，hiring manager）"
+    },
+    {
+      "k": "Your story",
+      "v": "需求漏了兼职员工假期按比例计算 → UAT 发现 → 当天上报、三天修好、上线只推迟两天"
+    },
+    {
+      "k": "Lesson",
+      "v": "加了一张“边界情况检查清单”，每次需求评审都过一遍"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "drop the ball",
+      "zh": "失误、把事情搞砸（口语）",
+      "ex": "Tell me about a time you dropped the ball at work."
+    },
+    {
+      "en": "own up to (a mistake)",
+      "zh": "主动承认（错误）",
+      "ex": "I owned up to it straight away and told my manager."
+    },
+    {
+      "en": "slip through the cracks",
+      "zh": "被疏漏、没被注意到",
+      "ex": "How did that slip through the cracks?"
+    },
+    {
+      "en": "throw someone under the bus",
+      "zh": "把责任推给别人、出卖别人",
+      "ex": "I didn't want to throw the developer under the bus."
+    },
+    {
+      "en": "a curly one / a curly question",
+      "zh": "一个刁钻的问题",
+      "ex": "Here's a bit of a curly one for you."
+    },
+    {
+      "en": "go-live",
+      "zh": "系统上线（日期）",
+      "ex": "We found the issue two weeks before go-live."
+    },
+    {
+      "en": "edge case",
+      "zh": "边界情况、特殊情况",
+      "ex": "Part-time staff were an edge case we missed."
+    },
+    {
+      "en": "in hindsight",
+      "zh": "事后回想",
+      "ex": "In hindsight, I should have checked with payroll earlier."
+    },
+    {
+      "en": "take something on board",
+      "zh": "接受（意见）并采纳",
+      "ex": "I took that feedback on board."
+    },
+    {
+      "en": "cop it on the chin",
+      "zh": "坦然接受批评/后果（澳洲口语）",
+      "ex": "I just copped it on the chin and focused on the fix."
+    },
+    {
+      "en": "pro rata",
+      "zh": "按比例（计算）",
+      "ex": "Leave for part-timers is calculated pro rata."
+    },
+    {
+      "en": "fair enough",
+      "zh": "有道理、可以理解",
+      "ex": "Fair enough — no-one gets it right every time."
+    }
+  ],
+  "listening": [
+    {
+      "en": "Righto, here's a bit of a curly one — tell me about a time you dropped the ball.",
+      "sound": "Righto 读 “rai-toh”（好嘞）；bit of a 连读成 “bidda”；a curly one = 刁钻的问题；dropped the ball 中 dropped 的 -ed 几乎听不到，像 “drop-the-ball”。",
+      "zh": "好，来个有点刁钻的——讲讲你在工作中搞砸过的一次。",
+      "reply": "Sure. There's one that comes to mind from my last role."
+    },
+    {
+      "en": "So how'd that slip through the cracks in the first place?",
+      "sound": "how'd = how did，读 “howd”；slip through the 连成 “slip-throo-the”；in the first place 读快像 “in-the-fus-place”，意思是“最初、到底”。",
+      "zh": "那一开始这事是怎么被漏掉的？",
+      "reply": "Honestly, I assumed the leave rules were the same for everyone, and I didn't double-check with payroll."
+    },
+    {
+      "en": "And you didn't wanna throw the devs under the bus, I s'pose?",
+      "sound": "wanna = want to；devs = developers（开发人员）；I s'pose = I suppose，读 “I spose”，放在句尾表示“我猜”。throw…under the bus = 甩锅给别人。",
+      "zh": "而且我猜你也不想把锅甩给开发吧？",
+      "reply": "No, not at all. The requirement came from me, so it was my call to own it."
+    },
+    {
+      "en": "Did your boss go off at you, or was she pretty good about it?",
+      "sound": "go off at someone 是澳洲口语，“冲某人发火”；was she 连成 “wo-zshe”；pretty good about it = 处理得挺通情达理。",
+      "zh": "你老板有没有冲你发火，还是她挺通情达理的？",
+      "reply": "She was pretty good about it, actually. She appreciated that I came to her straight away with a plan."
+    },
+    {
+      "en": "In hindsight, what would you do differently, d'you reckon?",
+      "sound": "d'you reckon 读 “jer-reckon”，意思是“你觉得呢”，澳洲人常放在问句末尾；in hindsight = 事后回想。",
+      "zh": "事后回想，你觉得自己会怎么做得不一样？",
+      "reply": "I'd bring in the people who actually use the system much earlier, and go through the edge cases with them."
+    },
+    {
+      "en": "Good stuff. Fair enough — no-one's perfect. Let's crack on.",
+      "sound": "Good stuff = 很好；no-one's 读 “no-wunz”；crack on = 继续往下进行（英澳口语）。听到这句说明这一题过了。",
+      "zh": "很好。可以理解——没人是完美的。我们继续吧。",
+      "reply": "Thanks. Happy to go on."
+    }
+  ],
+  "speech": {
+    "topic": "我从一次工作失误中学到的事",
+    "paragraphs": [
+      "I'd like to talk about a mistake I made at work, and what I learnt from it. A couple of years ago, I was working as a business analyst on a new leave system for about eight hundred staff. My job was to collect the requirements and make sure the system did what people needed.",
+      "Two weeks before go-live, we were doing user testing, and a tester found a problem. Leave for part-time staff wasn't being calculated pro rata. Some people would have got too much leave, and some too little. When I checked my documents, I realised it was my mistake. I had assumed the rules were the same for everyone, and I hadn't double-checked with payroll.",
+      "My first feeling was panic. But I knew hiding it would only make it worse. So I owned up to it that same morning. I went to my manager, explained what had happened, and showed her a plan to fix it. I didn't blame the developers, because the requirement came from me.",
+      "Then I worked closely with payroll and the developers. We fixed the rule in three days and tested it again with real examples. In the end, go-live was only two days late, and nobody's pay was affected.",
+      "The biggest lesson for me was about edge cases. Now I keep a simple checklist: part-time staff, casuals, people on leave, and anyone who starts or finishes in the middle of a month. I go through it in every requirements meeting. I also learnt that people respect you more when you're honest early. A mistake is not the end of the world if you deal with it quickly and learn from it."
+    ],
+    "zh": "我想讲一次工作中的失误和我学到的东西。几年前我做 BA，负责一个约 800 名员工使用的新休假系统，负责收集需求。上线前两周的用户测试中，测试人员发现兼职员工的假期没有按比例计算。我一查发现是我的错：我以为所有人规则一样，没和薪资部门核实。我先是慌了，但知道隐瞒只会更糟，于是当天上午就向经理承认，说明经过并给出补救方案，没有把责任推给开发。之后我和薪资部门、开发紧密合作，三天修好并用真实案例重测，上线只推迟两天，没有影响任何人的工资。最大的收获是重视边界情况：现在我有一张检查清单（兼职、临时工、休假中的人、月中入职或离职的人），每次需求会都过一遍。我也明白了，早点坦白反而更让人尊重；只要尽快处理并从中学习，犯错不是世界末日。",
+    "patterns": [
+      {
+        "en": "When I checked ___, I realised it was my mistake.",
+        "zh": "当我查看___时，我意识到是我的错。（my documents / the email / the numbers）"
+      },
+      {
+        "en": "I owned up to it ___ and showed my manager ___.",
+        "zh": "我___就承认了，并给经理看了___。（that same morning / a plan to fix it）"
+      },
+      {
+        "en": "In the end, ___, and ___.",
+        "zh": "最后，___，而且___。用来讲 STAR 的 Result。"
+      },
+      {
+        "en": "The biggest lesson for me was ___. Now I ___.",
+        "zh": "对我最大的教训是___。现在我会___。用来收尾，讲改进。"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Andrew",
+      "role": "数字服务组经理（面试官）",
+      "voice": "m"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Okay, that's great, thanks. Righto, here's a bit of a curly one for you. Tell me about a time you dropped the ball at work.",
+        "zh": "好，很好，谢谢。来，问个有点刁钻的。讲讲你在工作中搞砸过的一次。"
+      },
+      {
+        "s": "y",
+        "en": "Sure. Sorry, just to confirm — you mean a time I made a mistake, and how I handled it?",
+        "zh": "好的。不好意思，确认一下——您是说我犯过的一次错，以及我是怎么处理的？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, spot on. Doesn't have to be a disaster. I'm more interested in what you did about it.",
+        "zh": "对，没错。不一定是什么大灾难，我更关心你后来怎么做的。"
+      },
+      {
+        "s": "y",
+        "en": "Okay. In my last role, I was the BA on a new leave system for about eight hundred staff. I was responsible for gathering all the requirements.",
+        "zh": "好。在上一份工作里，我是一个新休假系统的 BA，大约八百名员工使用。我负责收集所有需求。"
+      },
+      {
+        "s": "o",
+        "en": "Right, so a fair bit riding on it, then.",
+        "zh": "嗯，那这事挺要紧的。"
+      },
+      {
+        "s": "y",
+        "en": "Yes, definitely. About two weeks before go-live, during user testing, a tester noticed that leave for part-time staff wasn't being calculated pro rata.",
+        "zh": "是的。上线前大约两周，在用户测试时，一名测试人员发现兼职员工的假期没有按比例计算。"
+      },
+      {
+        "s": "o",
+        "en": "Ah, yep. Classic. So how'd that slip through the cracks in the first place?",
+        "zh": "啊，对，典型问题。那一开始这事是怎么被漏掉的？"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower?",
+        "zh": "不好意思，您能说慢一点再说一遍吗？"
+      },
+      {
+        "s": "o",
+        "en": "Course. How did the problem get missed? How did nobody pick it up earlier?",
+        "zh": "当然。这个问题是怎么被漏掉的？怎么之前没人发现？"
+      },
+      {
+        "s": "y",
+        "en": "Honestly, that part was on me. I assumed the leave rules were the same for everyone, and I didn't double-check with payroll. So the requirement I wrote was incomplete.",
+        "zh": "老实说，那是我的责任。我以为所有人的假期规则都一样，没有和薪资部门核实，所以我写的需求不完整。"
+      },
+      {
+        "s": "o",
+        "en": "Okay, fair enough. And you didn't wanna throw the devs under the bus, I s'pose?",
+        "zh": "好，可以理解。我猜你也不想把锅甩给开发吧？"
+      },
+      {
+        "s": "y",
+        "en": "No, not at all. The developers built exactly what I wrote. So that same morning, I went to my manager and owned up to it.",
+        "zh": "完全不会。开发完全按我写的做了。所以当天上午我就去找经理，主动承认了。"
+      },
+      {
+        "s": "o",
+        "en": "Good on ya. Did she go off at you, or was she pretty good about it?",
+        "zh": "好样的。她有没有冲你发火，还是挺通情达理的？"
+      },
+      {
+        "s": "y",
+        "en": "Just to check — 'go off at me' means 'get angry with me'?",
+        "zh": "确认一下——“go off at me”是“对我发火”的意思吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, yeah, sorry — Aussie-ism. Did she lose it?",
+        "zh": "对对，不好意思，澳洲说法。她有没有发脾气？"
+      },
+      {
+        "s": "y",
+        "en": "No, she was pretty good about it. I think it helped that I didn't just bring the problem — I brought a plan. I'd already talked to payroll and the lead developer about a fix.",
+        "zh": "没有，她挺通情达理的。我想是因为我不只是带着问题去，还带了方案。我已经和薪资部门、开发组长谈过怎么修。"
+      },
+      {
+        "s": "o",
+        "en": "Right. And how'd it pan out in the end? Did go-live get pushed back?",
+        "zh": "嗯。那最后结果怎么样？上线推迟了吗？"
+      },
+      {
+        "s": "y",
+        "en": "Only by two days. We fixed the rule in three days and retested it with real examples from payroll — casuals, part-timers, people starting mid-month. Nobody's pay was affected.",
+        "zh": "只推迟了两天。我们三天修好了规则，并用薪资部门提供的真实案例重测——临时工、兼职、月中入职的人。没有任何人的工资受影响。"
+      },
+      {
+        "s": "o",
+        "en": "Oh, that's not bad at all. And how'd the payroll team take it? They can be a bit of a tough crowd, in my experience.",
+        "zh": "哦，那还不错。薪资部门那边反应怎么样？据我经验，他们可不太好打交道。"
+      },
+      {
+        "s": "y",
+        "en": "They were actually really helpful. I think they appreciated being asked. Since then, I've made a point of checking in with them early on every project.",
+        "zh": "他们其实非常帮忙。我觉得他们挺高兴被请教的。从那以后，每个项目我都会尽早找他们确认。"
+      },
+      {
+        "s": "o",
+        "en": "Nice. In hindsight, what would you do differently, d'you reckon?",
+        "zh": "不错。事后回想，你觉得自己会怎么做得不一样？"
+      },
+      {
+        "s": "y",
+        "en": "I'd bring the actual users in much earlier. Now I keep an edge-case checklist — part-time, casual, people on leave, mid-month starters — and I go through it in every requirements workshop.",
+        "zh": "我会更早把真正的使用者拉进来。现在我有一张边界情况检查清单——兼职、临时工、休假中的人、月中入职的人——每次需求研讨会都过一遍。"
+      },
+      {
+        "s": "o",
+        "en": "Love that. Honestly, a lot of people just say they can't think of anything, which is a bit of a red flag for us. Good stuff — let's crack on.",
+        "zh": "很好。说实话，很多人就说想不出来，这对我们来说有点危险信号。很好——我们继续吧。"
+      },
+      {
+        "s": "y",
+        "en": "Thanks, Andrew. It wasn't fun at the time, but I learnt a lot from it.",
+        "zh": "谢谢 Andrew。当时挺不好受的，但我从中学到了很多。"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再说一遍吗？"
+    },
+    {
+      "en": "Just to confirm, you're asking about ___?",
+      "zh": "确认一下，您是在问___吗？"
+    },
+    {
+      "en": "Sorry, I'm not familiar with that expression — what does it mean?",
+      "zh": "不好意思，我不太熟悉这个说法，是什么意思？"
+    },
+    {
+      "en": "That's a good question. Can I have a moment to think of the best example?",
+      "zh": "好问题。能给我一点时间想个最合适的例子吗？"
+    },
+    {
+      "en": "Would you mind sending the next steps by email, just so I have them in writing?",
+      "zh": "能麻烦您把后续步骤发邮件给我吗？这样我有书面记录。"
+    }
+  ],
+  "checklist": [
+    "我能用 STAR 结构讲一次真实但不致命的工作失误，不超过两分钟",
+    "我没有说“想不出来”，也没有把责任推给别人（throw someone under the bus）",
+    "我听懂了 drop the ball、slip through the cracks、go off at someone、in hindsight",
+    "被问“你会怎么做得不一样”时，我能说出一个具体的改进（如检查清单）",
+    "听不懂俚语时，我能用 “Just to check — ___ means ___?” 礼貌确认",
+    "我能用 owned up to it、took it on board、in the end 这类表达讲结果和收获"
+  ]
+}
