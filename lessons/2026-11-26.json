@@ -1,0 +1,321 @@
+{
+  "id": "2026-11-26",
+  "date": "2026-11-26",
+  "category": "日常",
+  "title": "购物中心停车场车打不着火打道路救援",
+  "titleEn": "Calling roadside assistance about a flat battery",
+  "scene": [
+    "周四下午 1:50，你在 Prospect 附近一家购物中心买完菜，回到地下停车场，车却怎么也打不着火：一拧钥匙只听到“咔哒咔哒”，仪表盘灯也很暗。早上你忘了关车内阅读灯。3:15 还要去学校接孩子。你打给道路救援（roadside assistance，阿德莱德常见的是 RAA）的热线，接线员 Leah 说话很快，会连珠炮一样问会员号、车牌、具体位置，还会说一些听不惯的说法，比如 won't turn over、sit tight、he's flat out。",
+    "你的目标：① 说清楚车的症状和你所在的具体位置（几层、靠近哪里）；② 听懂救援师傅大概多久到、到了会怎么处理（搭电 jump start 还是当场换电池、大概多少钱）；③ 告诉对方你 3:15 要接孩子，确认他快到时会打你电话，并要求把工单号用短信发给你。"
+  ],
+  "facts": [
+    {
+      "k": "Where",
+      "v": "购物中心地下停车场 B2 层，靠近电梯，C14 车位"
+    },
+    {
+      "k": "Car",
+      "v": "白色 2016 款 Toyota Corolla，车牌 S 482 BXK（虚构）"
+    },
+    {
+      "k": "Problem",
+      "v": "只有咔哒声、打不着火（won't turn over）；早上阅读灯开了一上午"
+    },
+    {
+      "k": "Contact",
+      "v": "手机 0491 570 236；救援预计 40–60 分钟到，快到时会先打电话"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "flat battery",
+      "zh": "电瓶没电",
+      "ex": "I think I've got a flat battery — I left the interior light on."
+    },
+    {
+      "en": "won't turn over / won't start",
+      "zh": "（发动机）打不着火",
+      "ex": "The car won't turn over. It just makes a clicking noise."
+    },
+    {
+      "en": "jump start",
+      "zh": "搭电启动",
+      "ex": "The patrol will try a jump start first."
+    },
+    {
+      "en": "patrol / patrolman",
+      "zh": "（道路救援的）上门救援师傅",
+      "ex": "We'll get a patrol out to you as soon as we can."
+    },
+    {
+      "en": "whereabouts",
+      "zh": "具体在哪儿（口语）",
+      "ex": "Whereabouts in the car park are you?"
+    },
+    {
+      "en": "membership number",
+      "zh": "会员号",
+      "ex": "Have you got your membership number handy?"
+    },
+    {
+      "en": "rego",
+      "zh": "车牌号；车辆注册（registration）",
+      "ex": "Can I grab the rego of the car, please?"
+    },
+    {
+      "en": "sit tight",
+      "zh": "原地等着、别走开",
+      "ex": "Just sit tight and he'll give you a call when he's close."
+    },
+    {
+      "en": "flat out",
+      "zh": "忙得不可开交",
+      "ex": "Sorry, the patrols are flat out this arvo."
+    },
+    {
+      "en": "she's had it / on its last legs",
+      "zh": "（东西）快不行了、该换了",
+      "ex": "If it's more than five years old, she's probably had it."
+    },
+    {
+      "en": "replace it on the spot",
+      "zh": "当场更换",
+      "ex": "He can replace the battery on the spot if it fails the test."
+    },
+    {
+      "en": "get it towed",
+      "zh": "叫拖车拖走",
+      "ex": "If it's not the battery, we might need to get it towed."
+    }
+  ],
+  "listening": [
+    {
+      "en": "Roadside, you're speaking with Leah, how can I help?",
+      "sound": "Roadside 是 roadside assistance 的简称；you're speaking with 读得很快，像 “yer-speakin-with”。",
+      "zh": "道路救援，我是 Leah，有什么可以帮您？",
+      "reply": "Hi Leah, my car won't start. I'm in a shopping centre car park."
+    },
+    {
+      "en": "No worries. Have you got your membership number handy?",
+      "sound": "handy = 在手边、方便拿到；got your 连读成 “gotcha”。",
+      "zh": "没问题。您手边有会员号吗？",
+      "reply": "Yes, it's on the card. Hang on a sec… OK, here it is."
+    },
+    {
+      "en": "And when you turn the key, does it try to turn over, or is it just clicking?",
+      "sound": "turn over = 发动机转起来；try to 读成 “tryda”；just clicking 是“只有咔哒声”。",
+      "zh": "您拧钥匙的时候，发动机有想转起来的声音，还是只是咔哒响？",
+      "reply": "It's just clicking, and the dashboard lights are really dim."
+    },
+    {
+      "en": "Righto, sounds like a flat battery. Whereabouts in the car park are ya?",
+      "sound": "Righto 读 “rai-toh”（好嘞）；whereabouts 重音在前 “WARE-a-bouts”；are ya = are you。",
+      "zh": "好，听起来是电瓶没电。您在停车场的哪个位置？",
+      "reply": "I'm on level B2, near the lifts, bay C14."
+    },
+    {
+      "en": "The patrols are a bit flat out this arvo, so we're lookin' at forty to sixty minutes.",
+      "sound": "flat out = 很忙；this arvo = 今天下午；lookin' at 吞掉 g，“we're looking at” = 预计是。",
+      "zh": "今天下午救援师傅都挺忙的，预计要 40 到 60 分钟。",
+      "reply": "Sorry, could you say that again a bit slower? Forty to sixty minutes?"
+    },
+    {
+      "en": "Just sit tight, pop your hazards on, and he'll give you a buzz when he's ten minutes out.",
+      "sound": "sit tight = 原地等；pop your hazards on = 打开双闪（hazard lights）；give you a buzz = 给你打电话；ten minutes out = 离你还有十分钟。",
+      "zh": "您就在那儿等着，打开双闪，师傅离您十分钟的时候会给您打电话。",
+      "reply": "Great, thanks. Could you text me the job number as well?"
+    }
+  ],
+  "speech": {
+    "topic": "一次车在半路出问题的经历",
+    "paragraphs": [
+      "I'd like to talk about a time my car let me down. It was a hot Thursday afternoon, and I had just finished my grocery shopping. I went back to the underground car park, put the bags in the boot and turned the key. Nothing happened. There was only a clicking noise, and the lights on the dashboard were very weak. Then I remembered: I had left the small light inside the car on all morning.",
+      "At first I was really stressed, because I had to pick up my son from school at a quarter past three. But I took a deep breath and called roadside assistance. The lady on the phone spoke very fast. She asked for my membership number, my rego and exactly where I was. I told her I was on level B2, near the lifts. When I didn't catch the waiting time, I asked her to say it again more slowly. It was forty to sixty minutes.",
+      "While I was waiting, I turned on my hazard lights and sent a message to a friend, just in case I needed help with the school pick-up. The patrolman arrived after about forty minutes. He tested the battery and said it was nearly six years old and on its last legs. He replaced it on the spot, and I paid by card. I still made it to school just in time.",
+      "What did I learn? First, always check the lights before you leave the car. Second, keep your membership card in your wallet. And third, when you're on the phone and you don't understand something, it's completely fine to ask the other person to slow down."
+    ],
+    "zh": "我讲一次车子掉链子的经历。一个炎热的周四下午，我买完菜回到地下停车场，拧钥匙却只有咔哒声，仪表盘灯很暗——原来早上忘关车内小灯。我三点一刻要接孩子，很着急，但还是深呼吸打给了道路救援。接线员说话很快，问了会员号、车牌和具体位置；没听清等待时间时，我请她慢点再说一遍，是四十到六十分钟。等待时我打开双闪，也给朋友发了消息以防接不了孩子。四十分钟后师傅到了，测试后说电池快六年、快不行了，当场换了新电池，我刷卡付款，最后刚好赶上接孩子。我学到三点：下车前检查车灯；会员卡放在钱包里；打电话听不懂时，请对方说慢一点完全没问题。",
+    "patterns": [
+      {
+        "en": "My car won't start — it just ___.",
+        "zh": "描述症状：makes a clicking noise / cuts out straight away / makes a grinding noise"
+      },
+      {
+        "en": "I'm on level ___, near the ___, bay ___.",
+        "zh": "说清楚停车场位置：楼层、附近地标、车位号"
+      },
+      {
+        "en": "I've got to pick up my ___ at ___, so is there any chance ___?",
+        "zh": "说明时间压力并客气地提请求"
+      },
+      {
+        "en": "Roughly how much would it be if ___?",
+        "zh": "问大概价格：if he needs to replace the battery / if it needs to be towed"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Leah",
+      "role": "道路救援热线接线员",
+      "voice": "f"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Roadside, you're speaking with Leah, how can I help?",
+        "zh": "道路救援，我是 Leah，有什么可以帮您？"
+      },
+      {
+        "s": "y",
+        "en": "Hi Leah. My car won't start, and I'm stuck in a shopping centre car park.",
+        "zh": "你好 Leah。我的车打不着火，被困在购物中心停车场了。"
+      },
+      {
+        "s": "o",
+        "en": "Oh, that's no fun. No worries, we'll get you sorted. Have you got your membership number handy?",
+        "zh": "哎呀，真够糟心的。没事，我们帮您搞定。您手边有会员号吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, hang on a sec. It's 3-0-8-1, 5-5-2-7, 4-6.",
+        "zh": "有，稍等一下。是 3081 5527 46。"
+      },
+      {
+        "s": "o",
+        "en": "Lovely, thanks. And is that for the white Corolla, rego S-482-BXK?",
+        "zh": "好的，谢谢。是那辆白色 Corolla 吗，车牌 S482 BXK？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, that's the one.",
+        "zh": "对，就是那辆。"
+      },
+      {
+        "s": "o",
+        "en": "Righto. So when you turn the key, does it try to turn over, or is it just clicking?",
+        "zh": "好。您拧钥匙的时候，发动机有想转起来的声音，还是只是咔哒响？"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? I didn't quite catch \"turn over\".",
+        "zh": "不好意思，能说慢一点再说一遍吗？我没太听懂 “turn over”。"
+      },
+      {
+        "s": "o",
+        "en": "Course. Does the engine try to start, like a whirring sound, or do you just hear a click-click-click?",
+        "zh": "当然。发动机有试着启动吗，像“呜呜”转的声音？还是只听到咔哒咔哒？"
+      },
+      {
+        "s": "y",
+        "en": "Just clicking. And the lights on the dashboard are really dim. I think I left the interior light on this morning.",
+        "zh": "只有咔哒声。仪表盘的灯也很暗。我好像早上忘关车内灯了。"
+      },
+      {
+        "s": "o",
+        "en": "Ah yep, that'll do it. Sounds like a flat battery. Whereabouts in the car park are ya?",
+        "zh": "啊对，那就是原因了。听起来是电瓶没电。您在停车场哪个位置？"
+      },
+      {
+        "s": "y",
+        "en": "I'm on the basement level, B2, near the lifts. The bay number is C14. It's right next to the trolley bay.",
+        "zh": "我在地下 B2 层，靠近电梯，车位号 C14，就在购物车停放处旁边。"
+      },
+      {
+        "s": "o",
+        "en": "Perfect, that helps heaps. Now, I'll be honest, the patrols are a bit flat out this arvo with the heat, so we're lookin' at forty to sixty minutes.",
+        "zh": "太好了，这很有帮助。说实话，今天下午天热，救援师傅都很忙，预计要 40 到 60 分钟。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, you mean up to an hour? I've got to pick up my son from school at a quarter past three. Is there any chance it could be sooner?",
+        "zh": "确认一下，您是说最多一个小时？我三点一刻要去学校接儿子，有可能早一点吗？"
+      },
+      {
+        "s": "o",
+        "en": "I'll pop a note on the job, and if one frees up earlier, they'll send him straight over. Just sit tight, pop your hazards on, and he'll give you a buzz when he's ten minutes out.",
+        "zh": "我在工单上备注一下，要是有师傅早空出来，就直接派过去。您就原地等着，打开双闪，师傅离您十分钟的时候会给您打电话。"
+      },
+      {
+        "s": "y",
+        "en": "OK, thanks. What will he do when he gets here? Just jump start it?",
+        "zh": "好，谢谢。他到了会怎么处理？就搭电吗？"
+      },
+      {
+        "s": "o",
+        "en": "He'll test the battery first. If it's just flat, he'll jump start it and you're on your way. But if it's more than four or five years old, she's probably had it, and he can replace it on the spot.",
+        "zh": "他会先测电池。如果只是没电，就搭电，您就能走了。但如果电池用了四五年以上，多半是不行了，他可以当场换。"
+      },
+      {
+        "s": "y",
+        "en": "Roughly how much would a new battery be?",
+        "zh": "换个新电池大概多少钱？"
+      },
+      {
+        "s": "o",
+        "en": "For a Corolla, you're lookin' at around two-twenty to two-sixty, fitted. The call-out's covered by your membership, so that's just the battery.",
+        "zh": "Corolla 的话，含安装大概 220 到 260 块。上门费会员已经包了，所以只付电池钱。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, two-twenty to two-sixty dollars, including fitting?",
+        "zh": "不好意思，是 220 到 260 澳元，包含安装吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, spot on. And he takes card, so no dramas there. Best number to reach you on — is that the 0491 570 236?",
+        "zh": "对，没错。他可以刷卡，这个不用担心。最方便联系您的号码是 0491 570 236 吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, that's my mobile. Could you also text me the job number, please?",
+        "zh": "对，是我的手机。能把工单号也短信发给我吗？"
+      },
+      {
+        "s": "o",
+        "en": "Absolutely, you'll get a text in a sec with the job number and a link to track him. Anything else I can help with?",
+        "zh": "当然，马上您会收到短信，有工单号和追踪师傅位置的链接。还有别的需要帮忙的吗？"
+      },
+      {
+        "s": "y",
+        "en": "No, that's everything. Thanks so much, Leah.",
+        "zh": "没有了，就这些。太感谢了，Leah。"
+      },
+      {
+        "s": "o",
+        "en": "No worries at all. Stay cool down there, and good luck with the school run!",
+        "zh": "不客气。在下面别热着，祝您顺利赶上接孩子！"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再说一遍吗？"
+    },
+    {
+      "en": "Sorry, I didn't quite catch ___. What does that mean?",
+      "zh": "不好意思，我没听懂 ___，是什么意思？"
+    },
+    {
+      "en": "Just to confirm, you mean ___?",
+      "zh": "确认一下，您是说 ___ 吗？"
+    },
+    {
+      "en": "Could you spell that for me, please?",
+      "zh": "能帮我拼一下吗？"
+    },
+    {
+      "en": "Could you text me the job number and the details, please?",
+      "zh": "能把工单号和细节短信发给我吗？"
+    }
+  ],
+  "checklist": [
+    "我能用一两句话说清车的症状：won't start / just clicking / dashboard lights are dim",
+    "我能准确报出位置：楼层、附近地标（near the lifts）和车位号",
+    "我听懂了 turn over、whereabouts、flat out、sit tight、give you a buzz、ten minutes out",
+    "我能说明时间压力（要 3:15 接孩子）并客气地问能否早点来",
+    "我听懂了处理方式（先测电池、搭电或当场换）和大概价格 two-twenty to two-sixty",
+    "我记得要对方把工单号用短信发给我"
+  ]
+}
