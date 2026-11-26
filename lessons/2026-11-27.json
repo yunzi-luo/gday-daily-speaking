@@ -1,0 +1,327 @@
+{
+  "id": "2026-11-27",
+  "date": "2026-11-27",
+  "category": "保险/医疗",
+  "title": "久坐腰疼打电话约理疗师首次看诊",
+  "titleEn": "Booking your first physio appointment for a sore back",
+  "scene": [
+    "周五早上，你的腰已经疼了一个多星期——平时在办公室一坐一整天，上周末又在后院搬了几袋花园土，现在弯腰穿袜子都费劲。同事推荐了附近一家理疗诊所（physio），你打电话过去约第一次看诊。前台 Jade 说话又快又随意，会问你哪里疼、多久了、有没有医生转诊、有没有私人保险 Extras，还会讲价格、取消规定和第一次来要准备什么。",
+    "你的目标：① 用简单的话说清楚哪里疼、怎么弄的、疼了多久；② 约到一个不影响上班的时间（早上上班前或周六），并问清楚费用、保险能报多少、自己要付多少；③ 听懂第一次来要带什么、穿什么、提前多久到，以及改约/取消要提前多久。"
+  ],
+  "facts": [
+    {
+      "k": "When",
+      "v": "下周一早上 7:45，首次看诊约 45 分钟"
+    },
+    {
+      "k": "Who",
+      "v": "理疗师 Tom（physio），前台 Jade 接电话"
+    },
+    {
+      "k": "Cost",
+      "v": "首诊 $105；Extras 当场刷 HICAPS 大约报 $60，自付约 $45"
+    },
+    {
+      "k": "Cancel",
+      "v": "改约/取消需提前 24 小时，否则收全额"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "a physio / see a physio",
+      "zh": "理疗师（physiotherapist 的口语）/ 去看理疗",
+      "ex": "My colleague said I should see a physio about my back."
+    },
+    {
+      "en": "a sore back / lower back pain",
+      "zh": "腰疼 / 下背部疼",
+      "ex": "I've had a sore back for about a week and a half."
+    },
+    {
+      "en": "do my back in / put my back out",
+      "zh": "把腰弄伤了（口语）",
+      "ex": "I think I did my back in lifting bags of soil on the weekend."
+    },
+    {
+      "en": "an initial consult / a follow-up",
+      "zh": "首次看诊 / 复诊",
+      "ex": "An initial consult is forty-five minutes, and follow-ups are thirty."
+    },
+    {
+      "en": "a referral",
+      "zh": "（医生的）转诊信",
+      "ex": "Do I need a referral from my GP, or can I just book in?"
+    },
+    {
+      "en": "book in / book you in",
+      "zh": "预约 / 给你约上",
+      "ex": "I can book you in with Tom on Monday morning."
+    },
+    {
+      "en": "first thing",
+      "zh": "一大早、最早的时间",
+      "ex": "Have you got anything first thing, before work?"
+    },
+    {
+      "en": "be booked out / chockers",
+      "zh": "约满了",
+      "ex": "Saturdays are booked out for the next couple of weeks."
+    },
+    {
+      "en": "claim on the spot (HICAPS)",
+      "zh": "当场刷保险卡报销",
+      "ex": "Bring your health fund card and we can claim on the spot."
+    },
+    {
+      "en": "the gap",
+      "zh": "保险报完后你自己付的差价",
+      "ex": "The gap's usually around forty-five dollars."
+    },
+    {
+      "en": "a cancellation fee / 24 hours' notice",
+      "zh": "取消费 / 提前 24 小时通知",
+      "ex": "We need 24 hours' notice, otherwise there's a cancellation fee."
+    },
+    {
+      "en": "numbness / pins and needles",
+      "zh": "麻木 / 发麻刺痛",
+      "ex": "Any numbness or pins and needles down your legs?"
+    }
+  ],
+  "listening": [
+    {
+      "en": "Morning, Parkside Physio, Jade speaking, how can I help?",
+      "sound": "Morning 前面省了 Good；Jade speaking = 我是 Jade；how can I help 连成 “how-c'n-I-help”，can 弱读成 c'n。",
+      "zh": "早上好，Parkside 理疗诊所，我是 Jade，有什么可以帮你？",
+      "reply": "Hi, I'd like to book an appointment with a physio, please. It's my first time."
+    },
+    {
+      "en": "No worries. And what's brought you in — what are we lookin' at?",
+      "sound": "what's brought you in = 你是因为什么来的；what are we lookin' at 连读成 “wot-a-we-lookin-at”，这里不是“看”，而是“是什么问题”。",
+      "zh": "没问题。是什么情况呢——哪里不舒服？",
+      "reply": "It's my lower back. I think I did it in lifting heavy bags in the garden last weekend."
+    },
+    {
+      "en": "Have you had any numbness or pins and needles goin' down the legs at all?",
+      "sound": "pins and needles 连读成 “pinz-n-needlz” = 发麻刺痛；goin' down the legs = 往腿上窜；at all 放句尾 = “有没有（哪怕一点）”。",
+      "zh": "腿上有没有发麻、刺痛往下窜的感觉？",
+      "reply": "No, nothing like that. It's just stiff and sore, especially in the morning."
+    },
+    {
+      "en": "Saturdays are chockers till mid-December, I'm afraid, but Tom's got a seven-forty-five Monday if that suits.",
+      "sound": "chockers = 满了；till mid-December 说得很快；seven-forty-five = 7:45；if that suits = 如果你方便的话。",
+      "zh": "周六恐怕到 12 月中都约满了，不过 Tom 周一早上 7:45 有空，你看行不行。",
+      "reply": "Monday at seven forty-five works for me. Sorry, is that with Tom?"
+    },
+    {
+      "en": "It's a hundred and five for the initial; if you've got extras we'll put it through HICAPS and you'll just pay the gap — usually round forty-five.",
+      "sound": "the initial = initial consult 首诊；put it through HICAPS = 当场刷保险；round forty-five = 大约 45（around 吞掉 a）。",
+      "zh": "首诊 105 块；你有 Extras 的话我们当场刷 HICAPS，你只付差价——一般 45 左右。",
+      "reply": "Great. Just to confirm, I'll pay about forty-five dollars on the day?"
+    },
+    {
+      "en": "Just pop on something comfy — trackies or shorts — and rock up ten minutes early to do the paperwork.",
+      "sound": "pop on = 穿上；comfy = comfortable 舒服的；trackies = 运动裤；rock up 连成 “ro-cup” = 到场；paperwork = 填表。",
+      "zh": "穿舒服点的衣服——运动裤或短裤——提前十分钟到填一下表。",
+      "reply": "No worries. Can I fill in the form online before I come?"
+    }
+  ],
+  "speech": {
+    "topic": "坐办公室的人怎么照顾自己的腰和脖子",
+    "paragraphs": [
+      "I work in an office, and most days I sit at my desk for seven or eight hours. For years I didn't think about it. Then last week I lifted some heavy bags in the garden, and the next morning I could hardly bend down to put my socks on. That was a big wake-up call for me.",
+      "I booked in to see a physio, and she told me something simple: sitting isn't the real problem — sitting still for too long is. So now I try to get up every thirty or forty minutes. I fill up my water bottle, walk to the printer, or take phone calls standing up. It sounds small, but it really adds up.",
+      "I've also changed my desk set-up. My screen used to be too low, so I was always looking down. Now it's at eye level, and my chair supports my lower back. At home, I do ten minutes of easy stretches before bed. Some nights I'm tired and I skip it, but most nights I get it done.",
+      "The other thing I've learned is not to ignore pain. In the past, I would just take a painkiller and keep going. Now, if something hurts for more than a few days, I get it checked. Physio isn't cheap, but my extras cover a good part of it, so it's worth using.",
+      "If you work in an office like me, my advice is: move a little, often. Your back will thank you."
+    ],
+    "zh": "我在办公室上班，每天坐七八个小时，以前从没在意。上周在花园搬了重袋子，第二天连弯腰穿袜子都难，这让我警醒了。理疗师告诉我：问题不在坐，而在一动不动坐太久。所以我现在每三四十分钟起来一次——接水、去打印机、站着接电话，小事累积起来作用很大。我也调整了办公桌：屏幕抬到视线高度，椅子能托住腰；晚上睡前做十分钟拉伸。我还学会了不忽视疼痛——疼了好几天就去看，理疗不便宜，但 Extras 能报不少，值得用。我的建议：经常动一动，腰会感谢你。",
+    "patterns": [
+      {
+        "en": "That was a big wake-up call for me — I ___.",
+        "zh": "那件事让我警醒了——（之后我做了什么）"
+      },
+      {
+        "en": "___ isn't the real problem — ___ is.",
+        "zh": "真正的问题不是……而是……"
+      },
+      {
+        "en": "It sounds small, but it really adds up.",
+        "zh": "听起来是小事，但积累起来作用很大"
+      },
+      {
+        "en": "If something ___ for more than a few days, I ___.",
+        "zh": "如果……超过几天，我就……"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Jade",
+      "role": "理疗诊所前台",
+      "voice": "f"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Morning, Parkside Physio, Jade speaking, how can I help?",
+        "zh": "早上好，Parkside 理疗诊所，我是 Jade，有什么可以帮你？"
+      },
+      {
+        "s": "y",
+        "en": "Hi Jade. I'd like to book an appointment with a physio, please. It's my first time with you.",
+        "zh": "你好 Jade。我想约一次理疗，我是第一次来你们这儿。"
+      },
+      {
+        "s": "o",
+        "en": "Lovely, no worries. And what's brought you in — what are we lookin' at?",
+        "zh": "好的，没问题。是什么情况呢——哪里不舒服？"
+      },
+      {
+        "s": "y",
+        "en": "It's my lower back. I sit at a desk all day, and last weekend I lifted some heavy bags of soil in the garden. I think I did my back in.",
+        "zh": "是腰（下背部）。我整天坐办公室，上周末又在花园搬了几袋很重的土，我觉得把腰弄伤了。"
+      },
+      {
+        "s": "o",
+        "en": "Oh, ouch. Yeah, we see a lot of that this time of year — everyone's out in the garden. How long's it been sore for?",
+        "zh": "哎呀。嗯，每年这个时候这种情况很多——大家都在弄花园。疼了多久了？"
+      },
+      {
+        "s": "y",
+        "en": "About a week and a half. It's stiff in the morning, and it hurts when I bend down.",
+        "zh": "大概一个半星期。早上很僵，弯腰的时候疼。"
+      },
+      {
+        "s": "o",
+        "en": "Righto. Have you had any numbness or pins and needles goin' down the legs at all?",
+        "zh": "好。腿上有没有发麻、刺痛往下窜的感觉？"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? Pins and…?",
+        "zh": "不好意思，能说慢一点再说一遍吗？Pins and……？"
+      },
+      {
+        "s": "o",
+        "en": "Sure — pins and needles. Like a tingly feeling, or your legs going numb.",
+        "zh": "好的——pins and needles，就是那种发麻刺痛的感觉，或者腿发麻没知觉。"
+      },
+      {
+        "s": "y",
+        "en": "Oh, I see. No, nothing like that. It's just sore.",
+        "zh": "哦，明白了。没有，没有那种感觉，就是疼。"
+      },
+      {
+        "s": "o",
+        "en": "Good, good. If that does start happening, see your GP straight away, okay? Now, did a doctor refer you, or are you just booking in yourself?",
+        "zh": "好的。如果开始出现那种情况，马上去看你的 GP，好吗？那么，是医生转诊过来的，还是你自己预约？"
+      },
+      {
+        "s": "y",
+        "en": "Just myself. Do I need a referral?",
+        "zh": "我自己约的。需要转诊信吗？"
+      },
+      {
+        "s": "o",
+        "en": "Nah, you don't need one for physio. Are you after a particular day? We've got early mornings and some Saturdays.",
+        "zh": "不用，看理疗不需要。你想约哪天？我们有一大早的时段，也有一些周六。"
+      },
+      {
+        "s": "y",
+        "en": "Something before work would be best. Or a Saturday morning, if you have one.",
+        "zh": "最好是上班前的时间。或者周六上午，如果有的话。"
+      },
+      {
+        "s": "o",
+        "en": "Saturdays are chockers till mid-December, I'm afraid, but Tom's got a seven-forty-five Monday if that suits. Initial consult's forty-five minutes, so you'd be out by half eight.",
+        "zh": "周六恐怕到 12 月中都约满了，不过 Tom 周一早上 7:45 有空，你看行不行。首诊 45 分钟，八点半就能结束。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, that's this Monday, the thirtieth, at seven forty-five?",
+        "zh": "确认一下，是这周一，30 号，7:45？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, Monday the thirtieth. Can I grab your name and date of birth?",
+        "zh": "对，周一 30 号。请告诉我你的名字和出生日期。"
+      },
+      {
+        "s": "y",
+        "en": "It's Amy Zhang — Z-H-A-N-G. Date of birth is the fourteenth of March, 1988. And my mobile is 0491 570 236.",
+        "zh": "Amy Zhang——Z-H-A-N-G。出生日期是 1988 年 3 月 14 日。我的手机是 0491 570 236。"
+      },
+      {
+        "s": "o",
+        "en": "Perfect, you're all booked in. Do you have private health with extras?",
+        "zh": "好，给你约上了。你有带 Extras 的私人保险吗？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, I do. How much is the appointment, and how much will I get back?",
+        "zh": "有。看一次多少钱？能报多少？"
+      },
+      {
+        "s": "o",
+        "en": "It's a hundred and five for the initial. Bring your card and we'll put it through HICAPS on the spot, so you just pay the gap — usually round forty-five, but it depends on your fund and your level of cover.",
+        "zh": "首诊 105 块。带上保险卡，我们当场刷 HICAPS，你只付差价——一般 45 左右，不过要看你的保险公司和保障级别。"
+      },
+      {
+        "s": "y",
+        "en": "Okay, great. Is there anything I should bring or wear?",
+        "zh": "好的。我需要带什么或者穿什么吗？"
+      },
+      {
+        "s": "o",
+        "en": "Just pop on something comfy — trackies or shorts — so Tom can have a proper look. And if you've had any scans or X-rays, bring 'em along. Oh, and rock up ten minutes early to do the paperwork, or I can flick you a link to fill it in online.",
+        "zh": "穿舒服点的——运动裤或短裤——方便 Tom 好好检查。如果拍过片子或 X 光，也带上。哦，还有提前十分钟到填表，或者我可以发个链接给你在网上填。"
+      },
+      {
+        "s": "y",
+        "en": "The link would be great, thanks. And if I need to change the time, how much notice do you need?",
+        "zh": "发链接最好，谢谢。如果我要改时间，需要提前多久说？"
+      },
+      {
+        "s": "o",
+        "en": "We need twenty-four hours' notice, otherwise we charge the full fee, unfortunately. You'll get a reminder text the day before — just reply Y to confirm.",
+        "zh": "需要提前 24 小时通知，不然很遗憾要收全额。前一天你会收到提醒短信——回复 Y 确认就行。"
+      },
+      {
+        "s": "y",
+        "en": "Got it. Thanks so much, Jade. See you Monday — and I'll try not to lift anything heavy this weekend!",
+        "zh": "明白了。非常感谢，Jade。周一见——这个周末我尽量不搬重东西了！"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再说一遍吗？"
+    },
+    {
+      "en": "Sorry, what does \"pins and needles\" mean?",
+      "zh": "不好意思，“pins and needles” 是什么意思？"
+    },
+    {
+      "en": "Just to confirm, that's Monday the thirtieth at seven forty-five?",
+      "zh": "确认一下，是 30 号周一 7:45 对吗？"
+    },
+    {
+      "en": "Sorry, how much did you say the gap is?",
+      "zh": "不好意思，你说差价是多少？"
+    },
+    {
+      "en": "Could you text me the time and the address, please?",
+      "zh": "能把时间和地址发短信给我吗？"
+    }
+  ],
+  "checklist": [
+    "我能用两三句话说清楚哪里疼、怎么弄伤的、疼了多久",
+    "我听懂了 what are we lookin' at、pins and needles 是在问什么",
+    "我知道看理疗不需要 GP 转诊信，能主动问 Do I need a referral?",
+    "我能说出想要的时间（first thing / before work / Saturday），并复述确认日期和时间",
+    "我听懂了 initial consult $105、put it through HICAPS、pay the gap 的意思",
+    "我知道要穿 trackies 或短裤、提前十分钟到、取消要提前 24 小时"
+  ]
+}
