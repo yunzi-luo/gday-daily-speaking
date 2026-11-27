@@ -1,0 +1,317 @@
+{
+  "id": "2026-11-28",
+  "date": "2026-11-28",
+  "category": "孩子学校/幼儿园",
+  "title": "班主任来电交代圣诞音乐会服装和时间",
+  "titleEn": "A call from the teacher about the Christmas concert",
+  "scene": [
+    "周五放学后，孩子的 Year 1 班主任 Mrs Hartley 打电话来。下周四晚上学校办年终圣诞音乐会（end-of-year Christmas concert），全班要上台唱歌跳舞。她要交代演出服怎么准备、几点送到哪儿、票怎么订，还想问你能不能来帮忙在后台看孩子。老师说话快、一口气信息很多，还夹着不少澳洲口语。",
+    "你的目标：① 听懂并记下时间、地点、演出服要求（颜色、帽子、鞋）；② 礼貌追问没听清的部分，确认关键信息，请老师在 app 上发一条书面通知；③ 说清楚你能帮什么、不能帮什么（比如下班赶不及早到），并问清楚演出后怎么接孩子。"
+  ],
+  "facts": [
+    {
+      "k": "When",
+      "v": "下周四（12 月 3 日）晚上 6 点开演，孩子 5:30 送到教室"
+    },
+    {
+      "k": "Where",
+      "v": "学校礼堂（the hall），先到 Room 7 集合"
+    },
+    {
+      "k": "Costume",
+      "v": "精灵（elf）：红色或绿色上衣、圣诞帽、黑色运动鞋，不用买新的"
+    },
+    {
+      "k": "Tickets",
+      "v": "在学校 app 上免费订，每家最多 4 张；抽奖 gold coin 自愿"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "end-of-year concert",
+      "zh": "年终音乐会（学校学期末演出）",
+      "ex": "The end-of-year concert is on Thursday night in the hall."
+    },
+    {
+      "en": "costume / dress up as …",
+      "zh": "演出服 / 打扮成……",
+      "ex": "The kids are dressing up as elves this year."
+    },
+    {
+      "en": "nothing fancy / doesn't have to be flash",
+      "zh": "不用很讲究 / 不用花钱买好的",
+      "ex": "It doesn't have to be flash — a red T-shirt is fine."
+    },
+    {
+      "en": "Santa hat",
+      "zh": "圣诞帽",
+      "ex": "Have you got a Santa hat at home, or should I grab one from Kmart?"
+    },
+    {
+      "en": "drop them off / pick them up",
+      "zh": "把孩子送到 / 接走",
+      "ex": "Can you drop her off in the classroom by half five?"
+    },
+    {
+      "en": "run through / rehearsal",
+      "zh": "排练一遍 / 彩排",
+      "ex": "We'll do a quick run-through before the parents arrive."
+    },
+    {
+      "en": "book tickets on the app",
+      "zh": "在 app 上订票",
+      "ex": "You'll need to book tickets on the app — they're free."
+    },
+    {
+      "en": "a gold coin donation",
+      "zh": "自愿捐 1 或 2 澳元硬币",
+      "ex": "There's a raffle at the end — just a gold coin donation."
+    },
+    {
+      "en": "backstage / keep an eye on the kids",
+      "zh": "后台 / 帮忙看着孩子",
+      "ex": "We need a couple of parents backstage to keep an eye on the kids."
+    },
+    {
+      "en": "be short on helpers",
+      "zh": "帮手不够",
+      "ex": "We're a bit short on helpers this year."
+    },
+    {
+      "en": "sign them out",
+      "zh": "（演出后）签字把孩子接走",
+      "ex": "After the show, you sign them out with me at the side door."
+    },
+    {
+      "en": "it's a bit of a stretch",
+      "zh": "有点勉强 / 有点难做到",
+      "ex": "Getting here by five is a bit of a stretch after work."
+    }
+  ],
+  "listening": [
+    {
+      "en": "Hiya, is that Amy's mum? It's Kate Hartley, from Room 7 — have you got a sec?",
+      "sound": "Hiya = Hi there 的随意说法；is that 连成“iz-zat”；have you got a sec 读成“av-ya-gotta-sec”，sec = second，一会儿。注意：老师用孩子名字称呼你“某某的妈妈”。",
+      "zh": "你好，是 Amy 的妈妈吗？我是 7 班的 Kate Hartley，你现在方便说几句吗？",
+      "reply": "Hi Mrs Hartley! Yes, it's a good time. Is everything OK?"
+    },
+    {
+      "en": "Oh, nothing to worry about — just a heads-up about the concert next Thursdee.",
+      "sound": "nothing to worry about 读得很快：“nuthin-ta-worry-bout”；heads-up = 提前通知；Thursday 澳洲口音常读成“Thursdee”。",
+      "zh": "哦，没什么要担心的——只是提前跟你说一下下周四音乐会的事。",
+      "reply": "Oh good. Thanks for the heads-up — let me grab a pen."
+    },
+    {
+      "en": "They're doin' elves this year, so just chuck 'em in somethin' red or green, doesn't have to be flash.",
+      "sound": "doin' / somethin' 吞掉 g；chuck 'em in = 给他们穿上（chuck 原意是扔，口语里是“随便弄上”）；'em = them；flash = 讲究、昂贵。",
+      "zh": "今年他们演精灵，你就随便给孩子穿件红的或绿的，不用买好的。",
+      "reply": "Easy. She's got a green T-shirt. Does she need a hat as well?"
+    },
+    {
+      "en": "If you could have her in the classroom by half five, we'll do a quick run-through 'fore it kicks off at six.",
+      "sound": "half five = 5:30（不是 5 点半以外的意思）；'fore = before；kicks off = 开始；run-through 连读成“run-thru”。",
+      "zh": "麻烦你五点半前把她送到教室，六点开演前我们快速排一遍。",
+      "reply": "Just to confirm, that's half past five in Room 7, and the show starts at six?"
+    },
+    {
+      "en": "We're a bit short on helpers, so if you're able to give us a hand backstage, that'd be ace.",
+      "sound": "a bit short on 读成“a-bit-shor-ton”；give us a hand = 帮个忙（us 在这里其实指 me）；ace = 太好了。",
+      "zh": "我们帮手有点不够，如果你能来后台帮忙，那就太好了。",
+      "reply": "I'd love to help, but I might not get there until about quarter to six. Is that still OK?"
+    },
+    {
+      "en": "No dramas — I'll pop it all on the app tonight so you've got it in writing.",
+      "sound": "No dramas = 没问题；pop it on the app = 发到 app 上；in writing 连读成“in-ri-ting”。",
+      "zh": "没问题——我今晚把这些都发到 app 上，你就有书面的了。",
+      "reply": "That'd be great, thank you. I'll keep an eye out for it."
+    }
+  ],
+  "speech": {
+    "topic": "我记忆中一次孩子的学校演出",
+    "paragraphs": [
+      "I want to talk about my daughter's first school concert. It was at the end of last year, in the school hall, just before the Christmas holidays. Her class sang two songs and did a little dance, and all the kids were dressed as elves.",
+      "To be honest, I was more nervous than she was. The teacher called me a week before and gave me a lot of information very quickly — the time, the costume, the tickets. I didn't catch everything, so I asked her to say it again more slowly and to put it on the school app. That really helped, because I could check the details later.",
+      "On the night, I left work early and dropped my daughter off in her classroom at half past five. I stayed backstage for a while to help the teacher keep an eye on the kids. They were so excited — some were jumping around, and one little boy lost his Santa hat. We found it under a chair just in time.",
+      "When the show started, I watched from the side of the stage. My daughter forgot some of the words, but she kept smiling and waving at us. Everyone clapped, and she was so proud of herself.",
+      "What I learned is that it's okay to ask questions, even if your English isn't perfect. Teachers are usually happy to explain things again. And helping out at school is a great way to meet other parents and feel part of the community. Next time, I want to help even more."
+    ],
+    "zh": "我想讲讲女儿第一次参加学校演出。那是去年年底圣诞假期前，在学校礼堂，她们班唱了两首歌、跳了一段舞，孩子们都打扮成精灵。说实话我比她还紧张：老师提前一周打电话，一下子说了很多信息，我没全听懂，就请她慢点再说一遍，并发到学校 app 上，方便我之后核对。演出当晚我提早下班，五点半把孩子送到教室，还在后台帮老师看了一会儿孩子，有个小男孩把圣诞帽弄丢了，最后在椅子底下找到。演出时女儿忘了几句词，但一直笑着朝我们挥手，大家都鼓掌，她特别自豪。我学到的是：英语不完美也没关系，要敢于提问，老师一般都乐意再解释；到学校帮忙也是认识其他家长、融入社区的好办法。",
+    "patterns": [
+      {
+        "en": "To be honest, I was more ___ than she was.",
+        "zh": "说实话，我比她还……（nervous / excited）"
+      },
+      {
+        "en": "I didn't catch everything, so I asked ___.",
+        "zh": "我没全听懂，所以我请对方……"
+      },
+      {
+        "en": "Could you put that on the app / in an email, so I've got it in writing?",
+        "zh": "能不能发到 app 上 / 邮件里，这样我有书面记录？"
+      },
+      {
+        "en": "Helping out at ___ is a great way to ___.",
+        "zh": "在……帮忙是……的好办法"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Mrs Hartley",
+      "role": "Year 1 班主任",
+      "voice": "f"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Hiya, is that Amy's mum? It's Kate Hartley, from Room 7. Have you got a sec?",
+        "zh": "你好，是 Amy 的妈妈吗？我是 7 班的 Kate Hartley。你现在方便吗？"
+      },
+      {
+        "s": "y",
+        "en": "Hi Mrs Hartley! Yes, it's a good time. Is everything OK with Amy?",
+        "zh": "你好 Hartley 老师！方便的。Amy 一切都好吗？"
+      },
+      {
+        "s": "o",
+        "en": "Oh yeah, she's fine, nothing to worry about. She's been an absolute gem this week, actually. I'm just ringing round all the parents with a heads-up about the Christmas concert next Thursdee.",
+        "zh": "嗯，她挺好的，没什么要担心的。其实她这周表现特别棒。我在挨个给家长打电话，提前说一下下周四圣诞音乐会的事。"
+      },
+      {
+        "s": "y",
+        "en": "Oh, lovely. Hang on, let me grab a pen. OK, go ahead.",
+        "zh": "哦，好的。等一下，我拿支笔。好，你说吧。"
+      },
+      {
+        "s": "o",
+        "en": "So it's in the hall, kicks off at six, but if you could have her in the classroom by half five, we'll do a quick run-through before the parents start rolling in.",
+        "zh": "在礼堂，六点开始，不过麻烦你五点半前把她送到教室，在家长陆续进场前我们快速排练一遍。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? Half five in the classroom, and then the show is at six?",
+        "zh": "不好意思，能慢一点再说一遍吗？五点半到教室，然后六点演出？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, spot on. Half five, Room 7, and we'll walk them over to the hall together.",
+        "zh": "对，完全正确。五点半，7 号教室，然后我们一起带他们走去礼堂。"
+      },
+      {
+        "s": "y",
+        "en": "Got it. And what does she need to wear?",
+        "zh": "明白了。那她要穿什么？"
+      },
+      {
+        "s": "o",
+        "en": "So our class is doing elves this year — they're singing 'Jingle Bells' and doing a little dance. Just chuck her in something red or green, a Santa hat if you've got one, and black sneakers. Doesn't have to be flash, honestly. Please don't go out and buy anything.",
+        "zh": "今年我们班演精灵——唱《Jingle Bells》再跳一小段舞。就随便给她穿件红的或绿的，有圣诞帽就戴上，再穿黑色运动鞋。真的不用讲究，千万别专门去买。"
+      },
+      {
+        "s": "y",
+        "en": "That's easy. She's got a green T-shirt. We don't have a Santa hat, but I can pick one up from Kmart.",
+        "zh": "这个简单。她有件绿 T 恤。我们没有圣诞帽，不过我可以去 Kmart 买一顶。"
+      },
+      {
+        "s": "o",
+        "en": "Perfect. Oh, and no glitter, if you can help it. We were finding glitter in the carpet till Easter last year.",
+        "zh": "好极了。哦对了，能不用亮片就别用。去年地毯里的亮片我们一直扫到复活节。"
+      },
+      {
+        "s": "y",
+        "en": "Ha, no glitter, noted. What about tickets? Do we need to pay?",
+        "zh": "哈，不用亮片，记下了。那票呢？需要付钱吗？"
+      },
+      {
+        "s": "o",
+        "en": "Nah, they're free, but you'll need to book them on the app, max four per family, 'cause the hall only fits so many. There's a raffle at the end too, just a gold coin donation, totally optional.",
+        "zh": "不用，免费的，但得在 app 上订，每家最多四张，因为礼堂只装得下那么多人。最后还有个抽奖，自愿捐个硬币就行，完全随意。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, you mean the school app, not the class group chat?",
+        "zh": "我确认一下，你是说学校的 app，不是班级群聊？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, the school app, under 'Events'. Bookings close Tuesdee, so don't leave it too late. Now, the other thing — we're a bit short on helpers this year. Would you be able to give us a hand backstage? Just keeping an eye on the kids while they wait their turn.",
+        "zh": "对，学校 app，在 Events 下面。周二截止，别拖太晚。还有一件事——今年帮手有点不够。你能来后台帮个忙吗？就是孩子们等上场的时候帮忙看着。"
+      },
+      {
+        "s": "y",
+        "en": "I'd love to help, but I work in the city, so getting there by five might be a bit of a stretch. I could probably make it by quarter to six. Would that still be useful?",
+        "zh": "我很想帮忙，但我在市中心上班，五点前赶到可能有点难。大概五点四十五能到。那样还有用吗？"
+      },
+      {
+        "s": "o",
+        "en": "Oh, absolutely. Quarter to six is when it gets a bit hectic anyway, so that'd be ace. You'll need your Working with Children Check, but I think you've already got one on file from the sports day, yeah?",
+        "zh": "当然有用。反正五点四十五正是最忙乱的时候，那太好了。你需要有 Working with Children Check（儿童工作资格审查），不过我记得运动会时你已经交过了，对吧？"
+      },
+      {
+        "s": "y",
+        "en": "Yes, I gave it to the front office last month. Then who will drop Amy off at half five? Oh, my partner can do that.",
+        "zh": "对，上个月交给前台了。那五点半谁送 Amy 呢？哦，我另一半可以送。"
+      },
+      {
+        "s": "o",
+        "en": "Easy. And after the show, the kids come back to the classroom and you sign them out with me — please don't just grab them from the hall, it gets a bit chaotic.",
+        "zh": "好的。演出结束后孩子们回教室，你们在我这儿签字接走——请不要直接从礼堂把孩子带走，那样会很乱。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, so we pick her up from the classroom, not the hall, and we sign her out with you?",
+        "zh": "不好意思，就是说我们去教室接她，不是在礼堂，然后在你这儿签字？"
+      },
+      {
+        "s": "o",
+        "en": "That's the one. Look, I know it's a lot of info. I'll pop it all on the app tonight so you've got it in writing.",
+        "zh": "就是这样。我知道信息挺多的。今晚我把这些都发到 app 上，这样你就有书面的了。"
+      },
+      {
+        "s": "y",
+        "en": "That would be really helpful, thank you. So: half five, Room 7, red or green with a Santa hat, book tickets by Tuesday, and I'll be backstage from quarter to six.",
+        "zh": "那太有帮助了，谢谢。总结一下：五点半到 7 号教室，红色或绿色衣服加圣诞帽，周二前订票，我五点四十五到后台。"
+      },
+      {
+        "s": "o",
+        "en": "You're a legend. Amy's been practising her moves all week, she's gonna be a little superstar. Have a good weekend!",
+        "zh": "你太棒了。Amy 一整周都在练动作，她肯定会是个小明星。周末愉快！"
+      },
+      {
+        "s": "y",
+        "en": "Thanks so much, Mrs Hartley. You too. See you Thursday!",
+        "zh": "非常感谢，Hartley 老师。你也是。周四见！"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能慢一点再说一遍吗？"
+    },
+    {
+      "en": "Just to confirm, you mean ___?",
+      "zh": "我确认一下，你是说……？"
+    },
+    {
+      "en": "Sorry, what time was that — half five or quarter to six?",
+      "zh": "不好意思，是几点来着——五点半还是五点四十五？"
+    },
+    {
+      "en": "Could you put that on the app so I've got it in writing?",
+      "zh": "能发到 app 上吗？这样我有书面记录。"
+    },
+    {
+      "en": "Sorry, I didn't catch that last bit. What was it after '___'?",
+      "zh": "不好意思，最后那部分没听清。在“……”后面说的是什么？"
+    }
+  ],
+  "checklist": [
+    "我能听懂 half five / quarter to six 这类说法，并准确记下时间",
+    "我能听懂 chuck her in something red、doesn't have to be flash 这类服装要求",
+    "我至少礼貌追问了 2 次，并用 Just to confirm… 复述关键信息",
+    "我能说清楚自己下班时间的限制（a bit of a stretch），同时给出能做到的方案",
+    "我知道演出后要去哪里接孩子、要签字接走",
+    "通话结束前我请老师把信息发到 app 上，并完整复述了一遍"
+  ]
+}
