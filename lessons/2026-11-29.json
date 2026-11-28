@@ -1,0 +1,322 @@
+{
+  "id": "2026-11-29",
+  "date": "2026-11-29",
+  "category": "日常",
+  "title": "打电话取消健身房会员被店员挽留",
+  "titleEn": "Cancelling your gym membership over the phone",
+  "scene": [
+    "周日上午，你打电话给家附近的 24 小时健身房 Peak Fitness Prospect。你一年前办了会员，每周 $21.95、每两周从银行卡自动扣一次，可最近几个月上班加接送孩子，根本没时间去，钱却一直在扣。接电话的是店员 Zac，人很热情、语速快，一听你要退会员就开始“挽留”：推荐暂停会员（freeze）、换便宜的非高峰卡（off-peak），还会顺口说出通知期、最后扣款日这些关键信息。",
+    "你的目标：① 礼貌但坚定地说明要取消，不被推销绕进去；② 听懂并确认合同是否到期、有没有违约金、通知期多长、还要扣几次钱、最后哪天能用；③ 问清楚取消手续（填表、还门禁卡），并请对方发邮件书面确认。"
+  ],
+  "facts": [
+    {
+      "k": "Fee",
+      "v": "每周 $21.95，每两周周四扣 $43.90（fortnightly direct debit）"
+    },
+    {
+      "k": "Contract",
+      "v": "12 个月最低期限 8 月已到期，没有违约金（no exit fee）"
+    },
+    {
+      "k": "Notice",
+      "v": "30 天通知期：还要扣 12 月 3 日和 17 日两次，12 月 29 日前都能用"
+    },
+    {
+      "k": "To do",
+      "v": "在 app 上填取消表格；门禁卡（fob）可留着，不用还"
+    }
+  ],
+  "vocab": [
+    {
+      "en": "cancel my membership",
+      "zh": "取消会员",
+      "ex": "Hi, I'm calling because I'd like to cancel my membership."
+    },
+    {
+      "en": "minimum term / lock-in",
+      "zh": "最低合约期 / 绑定期",
+      "ex": "Your twelve-month minimum term finished back in August."
+    },
+    {
+      "en": "exit fee",
+      "zh": "提前解约费、违约金",
+      "ex": "Since you're out of contract, there's no exit fee."
+    },
+    {
+      "en": "notice period",
+      "zh": "（取消前的）通知期",
+      "ex": "There's a thirty-day notice period, so you'll still be charged twice."
+    },
+    {
+      "en": "direct debit / come out (of your account)",
+      "zh": "自动扣款 / （钱）从账户扣走",
+      "ex": "The next debit comes out this Thursday."
+    },
+    {
+      "en": "fortnightly",
+      "zh": "每两周一次",
+      "ex": "We bill you fortnightly, every second Thursday."
+    },
+    {
+      "en": "freeze / put it on hold",
+      "zh": "暂停会员（冻结一段时间）",
+      "ex": "You could freeze it for up to three months instead."
+    },
+    {
+      "en": "off-peak membership",
+      "zh": "非高峰时段会员卡（便宜些）",
+      "ex": "Off-peak is fourteen ninety-five a week, but only before four on weekdays."
+    },
+    {
+      "en": "talk me out of it",
+      "zh": "劝我打消念头",
+      "ex": "Nice try, but you won't talk me out of it!"
+    },
+    {
+      "en": "action it / process it",
+      "zh": "处理、办理（请求）",
+      "ex": "Once the form comes through, I'll action it straight away."
+    },
+    {
+      "en": "access fob / key tag",
+      "zh": "门禁卡、钥匙扣感应牌",
+      "ex": "You can keep the fob — it'll just stop working after the twenty-ninth."
+    },
+    {
+      "en": "in writing / confirmation email",
+      "zh": "书面的 / 确认邮件",
+      "ex": "Could I get that confirmed in writing, please?"
+    }
+  ],
+  "listening": [
+    {
+      "en": "Mornin', you're through to Zac at Peak Fitness Prospect, how're ya goin'?",
+      "sound": "“Mornin'” 吞掉 g；“you're through to” 意思是“你打通的是……”，接电话的开场白；“how're ya goin'” 连成 /haʊjə ˈɡəʊɪn/，就是 how are you。",
+      "zh": "早上好，这里是 Peak Fitness Prospect，我是 Zac，你好吗？",
+      "reply": "Good thanks, Zac. I'm calling about my membership, actually."
+    },
+    {
+      "en": "Ah, sorry to hear that. Mind if I ask what's prompted it?",
+      "sound": "“Mind if I” 连读成 /maɪndɪfaɪ/；“what's prompted it” = 是什么原因让你这么决定，客服挽留前的标准问题。",
+      "zh": "啊，挺遗憾的。介意说说是什么原因吗？",
+      "reply": "Just life, really. Between work and the kids, I haven't been in for months."
+    },
+    {
+      "en": "Before I pop that through, have you thought about freezin' it for a bit instead?",
+      "sound": "“pop that through” = 帮你提交/办理；“freezin'” 吞 g；“for a bit” 连成 /fərəbɪt/ = 一段时间。",
+      "zh": "我帮你办之前，你有没有考虑先暂停一段时间？",
+      "reply": "Thanks, but I'd rather just cancel. A freeze would still cost me something, right?"
+    },
+    {
+      "en": "You're outta your minimum term, so there's no exit fee, but you've got the thirty-day notice period, so you'll cop two more debits.",
+      "sound": "“outta” = out of；“cop” 澳洲口语 = 不得不承受（某个不好的东西）；这一句信息量大：没违约金，但有 30 天通知期，还要扣两次。",
+      "zh": "你已经过了最低合约期，所以没有违约金，但有 30 天通知期，还得再扣两次钱。",
+      "reply": "Sorry, just to confirm — two more debits, so the third and the seventeenth of December?"
+    },
+    {
+      "en": "Easiest way's to whack it through on the app — there's a cancellation form under 'My Membership', and it'll ping straight to us.",
+      "sound": "“whack it through” = 快速提交；“easiest way's” = easiest way is；“ping” = 发通知过来。",
+      "zh": "最简单的办法是在 app 上提交——“My Membership”下面有取消表格，提交后直接通知到我们。",
+      "reply": "Great. Could you send me an email once it's been processed?"
+    },
+    {
+      "en": "No dramas, you're all sorted. If you ever wanna come back, give us a bell — we'll waive the joining fee.",
+      "sound": "“no dramas” = 没问题；“all sorted” = 都办好了；“give us a bell” = 给我们打电话（us 在这里指“我”）；“waive” /weɪv/ = 免除（费用）。",
+      "zh": "没问题，都办好了。以后想回来就打电话给我们，入会费给你免了。",
+      "reply": "Thanks, Zac, I appreciate it. Have a good one!"
+    }
+  ],
+  "speech": {
+    "topic": "我怎样在忙碌的生活里保持运动",
+    "paragraphs": [
+      "I used to think I needed a gym to stay fit. A year ago, I signed up for a membership at a twenty-four-hour gym near my place. For the first two months, I went three times a week, and I felt great. But then work got busier, the kids started more after-school activities, and somehow I stopped going. I was still paying every fortnight, though, and every time I saw the debit, I felt a bit guilty.",
+      "So this year I'm trying a different approach. Instead of planning one big workout, I fit small bits of exercise into my normal day. I walk the kids to school when the weather's nice, which takes about twenty minutes each way. At work, I take the stairs instead of the lift, and I try to go for a short walk at lunchtime instead of eating at my desk.",
+      "On weekends, we do something active as a family. Sometimes we ride our bikes along the Linear Park trail, and sometimes we just kick a ball around at the local oval. The kids love it, and it doesn't feel like exercise at all.",
+      "I've also downloaded a free workout app. On busy nights, I do a fifteen-minute session in the lounge room after the kids go to bed. It's not perfect, but it's realistic.",
+      "What I've learnt is that the best exercise is the one you actually do. For me, that means keeping it simple, cheap and close to home. Maybe I'll go back to the gym one day, but for now, this works much better for my life."
+    ],
+    "zh": "我以前以为必须去健身房才能保持身材。一年前我办了家附近 24 小时健身房的会员，头两个月每周去三次，感觉很好。后来工作忙了，孩子课外活动多了，渐渐就不去了，但钱每两周照扣，每次看到扣款都有点内疚。所以今年我换了思路：不去计划一次大运动，而是把小段运动塞进日常——天气好时走路送孩子上学，上班走楼梯、午饭时出去走走。周末全家一起骑车或在附近球场踢球，孩子很喜欢。忙的晚上用免费 app 在客厅练 15 分钟。我学到的是：最好的运动是你真正会去做的运动，对我来说就是简单、便宜、离家近。",
+    "patterns": [
+      {
+        "en": "I used to think ___, but ___.",
+        "zh": "我以前以为……，但（后来发现）……"
+      },
+      {
+        "en": "Instead of ___, I ___.",
+        "zh": "我不……，而是……"
+      },
+      {
+        "en": "It doesn't feel like ___ at all.",
+        "zh": "一点也不觉得是在……"
+      },
+      {
+        "en": "What I've learnt is that ___.",
+        "zh": "我学到的是……"
+      }
+    ]
+  },
+  "dialogue": {
+    "other": {
+      "name": "Zac",
+      "role": "健身房前台店员",
+      "voice": "m"
+    },
+    "lines": [
+      {
+        "s": "o",
+        "en": "Mornin', you're through to Zac at Peak Fitness Prospect, how're ya goin'?",
+        "zh": "早上好，这里是 Peak Fitness Prospect，我是 Zac，你好吗？"
+      },
+      {
+        "s": "y",
+        "en": "Hi Zac, I'm good, thanks. I'm calling because I'd like to cancel my membership, please.",
+        "zh": "你好 Zac，我挺好的，谢谢。我打电话是想取消我的会员。"
+      },
+      {
+        "s": "o",
+        "en": "Ah, sorry to hear that. No worries, I can help you with that. Can I grab your name and the mobile number on the account?",
+        "zh": "啊，挺遗憾的。没问题，我可以帮你办。能告诉我你的名字和账户上的手机号吗？"
+      },
+      {
+        "s": "y",
+        "en": "Sure, it's Amy Chen, and the number is 0491 570 236.",
+        "zh": "好的，我叫 Amy Chen，号码是 0491 570 236。"
+      },
+      {
+        "s": "o",
+        "en": "Lovely, got you here. So you're on the anytime membership, twenty-one ninety-five a week, comes out fortnightly. Mind if I ask what's prompted it?",
+        "zh": "好，查到了。你办的是全时段会员，每周 21.95，每两周扣一次。介意说说是什么原因吗？"
+      },
+      {
+        "s": "y",
+        "en": "Just life, really. Between work and picking up the kids, I haven't been in for about four months. I'm basically paying for nothing.",
+        "zh": "就是生活太忙吧。上班加接孩子，我差不多四个月没去了，等于白交钱。"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, fair enough, I hear that a lot. Before I pop that through, have you thought about freezin' it for a bit instead? You can put it on hold for up to three months, it's only two-fifty a week while it's frozen, and you keep your current rate.",
+        "zh": "嗯，可以理解，很多人都这样。我帮你办之前，你考虑过先暂停一段时间吗？最多能暂停三个月，暂停期间每周只要 2.50，还能保留你现在的价格。"
+      },
+      {
+        "s": "y",
+        "en": "Sorry, could you say that again a bit slower? How much is the freeze?",
+        "zh": "不好意思，能说慢一点再说一遍吗？暂停要多少钱？"
+      },
+      {
+        "s": "o",
+        "en": "Sure thing. Two dollars fifty a week, for up to three months. Then it goes back to normal automatically.",
+        "zh": "当然。每周 2 块 5，最多三个月。之后会自动恢复正常扣费。"
+      },
+      {
+        "s": "y",
+        "en": "Thanks, but I don't think so. To be honest, I don't see things getting less busy any time soon, so I'd rather just cancel.",
+        "zh": "谢谢，不过还是算了。说实话，我觉得短期内不会变得不忙，所以我还是直接取消吧。"
+      },
+      {
+        "s": "o",
+        "en": "Totally get it. One last thing and then I'll stop, I promise — we've got an off-peak option at fourteen ninety-five. That's before four on weekdays and all day on weekends. Might suit you better?",
+        "zh": "完全理解。最后一件事，说完就不说了，保证——我们有非高峰卡，每周 14.95，工作日下午四点前和周末全天都能用。会不会更适合你？"
+      },
+      {
+        "s": "y",
+        "en": "Ha, nice try, but you won't talk me out of it! Can I just check — am I still in my contract? Is there an exit fee?",
+        "zh": "哈，挺会推销的，不过说不动我啦！我想确认一下——我还在合约期内吗？有违约金吗？"
+      },
+      {
+        "s": "o",
+        "en": "Good news there. You signed up last August on a twelve-month minimum term, so you're outta that now. No exit fee. But you've got the thirty-day notice period, so you'll cop two more debits, and your access runs till the end of that period.",
+        "zh": "这点是好消息。你去年八月签的 12 个月最低合约期，现在已经过了，没有违约金。但有 30 天通知期，所以还要再扣两次钱，你在通知期结束前都能用。"
+      },
+      {
+        "s": "y",
+        "en": "Just to confirm, you mean two more payments of forty-three ninety? Which dates would those be?",
+        "zh": "确认一下，你是说还要再扣两次，每次 43.90？分别是哪两天？"
+      },
+      {
+        "s": "o",
+        "en": "Yep, spot on. Thursday the third of December and Thursday the seventeenth. Then nothing after that. Your fob'll keep working till the twenty-ninth, so you might as well squeeze in a few sessions, eh?",
+        "zh": "对，没错。12 月 3 日周四和 12 月 17 日周四。之后就不扣了。你的门禁卡到 29 号都能用，不如抓紧去练几次，是吧？"
+      },
+      {
+        "s": "y",
+        "en": "Maybe! So the third and the seventeenth, and access until the twenty-ninth. Got it. Is that it, or do I need to do anything else to make it official?",
+        "zh": "也许吧！所以是 3 号和 17 号扣款，29 号前能用。明白了。这样就行了吗，还是我还需要做什么才算正式取消？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, so legally we need it in writing. Easiest way's to whack it through on the app — there's a cancellation form under 'My Membership'. Takes two minutes, and it'll ping straight to us.",
+        "zh": "嗯，按规定我们需要书面申请。最简单是在 app 上提交——“My Membership”下面有取消表格，两分钟搞定，会直接通知到我们。"
+      },
+      {
+        "s": "y",
+        "en": "Okay. So the notice period starts from when I submit the form, not from today's call?",
+        "zh": "好的。那通知期是从我提交表格开始算，不是从今天这通电话开始算？"
+      },
+      {
+        "s": "o",
+        "en": "That's right, it's from the date the form comes in. But if you do it today, the dates I gave you still stand. I'm on till two, so I'll action it as soon as it lands.",
+        "zh": "对，是从收到表格那天算。不过你今天提交的话，我刚才说的日期都不变。我上班到两点，表格一到我马上处理。"
+      },
+      {
+        "s": "y",
+        "en": "Great, I'll do it straight after this call. Could you send me a confirmation email once it's processed? I'd like to have it in writing.",
+        "zh": "好，挂了电话我马上填。处理好之后能给我发封确认邮件吗？我想有个书面记录。"
+      },
+      {
+        "s": "o",
+        "en": "Yep, the system sends one automatically, but I'll keep an eye out and make sure it goes through. Oh, and you can hang on to the fob, no need to drop it back.",
+        "zh": "可以，系统会自动发，不过我会留意确保发出去。哦对了，门禁卡你留着就行，不用还回来。"
+      },
+      {
+        "s": "y",
+        "en": "Perfect. And if I don't get the email by, say, Tuesday, should I just call this number?",
+        "zh": "太好了。那如果到周二还没收到邮件，我就打这个号码吗？"
+      },
+      {
+        "s": "o",
+        "en": "Yeah, give us a bell and ask for me or whoever's on. No dramas, you're all sorted. And if you ever wanna come back, we'll waive the joining fee.",
+        "zh": "对，打电话找我或者当班的人都行。没问题，都办好了。以后想回来的话，入会费给你免了。"
+      },
+      {
+        "s": "y",
+        "en": "That's really kind. Thanks so much for your help, Zac. Have a good one!",
+        "zh": "你真好。非常感谢你的帮忙，Zac。祝你今天愉快！"
+      },
+      {
+        "s": "o",
+        "en": "You too, Amy. Enjoy the rest of your Sunday. See ya!",
+        "zh": "你也是，Amy。周日愉快，拜拜！"
+      }
+    ]
+  },
+  "rescue": [
+    {
+      "en": "Sorry, could you say that again a bit slower?",
+      "zh": "不好意思，能说慢一点再讲一遍吗？"
+    },
+    {
+      "en": "Just to confirm, you mean ___?",
+      "zh": "确认一下，你的意思是……？"
+    },
+    {
+      "en": "Thanks, but I've made up my mind. I'd just like to cancel, please.",
+      "zh": "谢谢，不过我已经决定了，我只想取消。"
+    },
+    {
+      "en": "Could you spell that for me, please?",
+      "zh": "能帮我拼一下吗？"
+    },
+    {
+      "en": "Could you send me an email to confirm that, please?",
+      "zh": "能发封邮件给我确认一下吗？"
+    }
+  ],
+  "checklist": [
+    "我能开门见山说出 \"I'd like to cancel my membership\"，不绕弯子",
+    "对方推荐 freeze 或 off-peak 时，我能礼貌拒绝两次而不被说动",
+    "我听懂了 minimum term、exit fee、notice period 分别是什么，以及自己有没有违约金",
+    "我准确记下还要扣几次钱、哪两天扣、门禁卡用到哪天",
+    "我问清了通知期从哪天开始算、怎么提交书面取消（app 表格）",
+    "我主动要求邮件书面确认，并问了收不到时怎么办"
+  ]
+}
